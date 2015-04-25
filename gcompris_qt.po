@@ -1174,7 +1174,7 @@ msgstr ""
 "или часы:минуты:секунды). Нажимайте на различные стрелки и перемещайте мышь, "
 "чтобы установить время раньше или позднее."
 
-#: activities/clockgame/Clockgame.qml:103
+#: activities/clockgame/Clockgame.qml:105
 msgctxt "Clockgame|"
 msgid "Set the watch to:"
 msgstr "Установите часы на:"
