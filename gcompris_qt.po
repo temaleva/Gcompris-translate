@@ -1223,62 +1223,62 @@ msgctxt "ColorMix|"
 msgid "Match the color"
 msgstr "Получите нужный цвет"
 
-#: activities/color_mix/ColorMix.qml:194
+#: activities/color_mix/ColorMix.qml:195
 msgctxt "ColorMix|"
 msgid "Not enough red"
 msgstr "Мало красного цвета"
 
-#: activities/color_mix/ColorMix.qml:196
+#: activities/color_mix/ColorMix.qml:197
 msgctxt "ColorMix|"
 msgid "Too much red"
 msgstr "Слишком много красного цвета"
 
-#: activities/color_mix/ColorMix.qml:199
+#: activities/color_mix/ColorMix.qml:200
 msgctxt "ColorMix|"
 msgid "Not enough green"
 msgstr "Мало зелёного цвета"
 
-#: activities/color_mix/ColorMix.qml:201
+#: activities/color_mix/ColorMix.qml:202
 msgctxt "ColorMix|"
 msgid "Too much green"
 msgstr "Слишком много зелёного цвета"
 
-#: activities/color_mix/ColorMix.qml:204
+#: activities/color_mix/ColorMix.qml:205
 msgctxt "ColorMix|"
 msgid "Not enough blue"
 msgstr "Мало синего цвета"
 
-#: activities/color_mix/ColorMix.qml:206
+#: activities/color_mix/ColorMix.qml:207
 msgctxt "ColorMix|"
 msgid "Too much blue"
 msgstr "Слишком много синего цвета"
 
-#: activities/color_mix/ColorMix.qml:210
+#: activities/color_mix/ColorMix.qml:211
 msgctxt "ColorMix|"
 msgid "Not enough magenta"
 msgstr "Мало пурпурного цвета"
 
-#: activities/color_mix/ColorMix.qml:212
+#: activities/color_mix/ColorMix.qml:213
 msgctxt "ColorMix|"
 msgid "Too much magenta"
 msgstr "Слишком много пурпурного"
 
-#: activities/color_mix/ColorMix.qml:215
+#: activities/color_mix/ColorMix.qml:216
 msgctxt "ColorMix|"
 msgid "Not enough yellow"
 msgstr "Мало жёлтого цвета"
 
-#: activities/color_mix/ColorMix.qml:217
+#: activities/color_mix/ColorMix.qml:218
 msgctxt "ColorMix|"
 msgid "Too much yellow"
 msgstr "Слишком много жёлтого цвета"
 
-#: activities/color_mix/ColorMix.qml:220
+#: activities/color_mix/ColorMix.qml:221
 msgctxt "ColorMix|"
 msgid "Not enough cyan"
 msgstr "Мало цианового цвета"
 
-#: activities/color_mix/ColorMix.qml:222
+#: activities/color_mix/ColorMix.qml:223
 msgctxt "ColorMix|"
 msgid "Too much cyan"
 msgstr "Слишком много "
