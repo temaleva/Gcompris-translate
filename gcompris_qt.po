@@ -2431,12 +2431,12 @@ msgstr ""
 "кнопку, чтобы указать, что это левая рука, или на зелёную, чтобы указать, "
 "что это правая."
 
-#: activities/leftright/Leftright.qml:145
+#: activities/leftright/Leftright.qml:146
 msgctxt "Leftright|"
 msgid "Left hand"
 msgstr ""
 
-#: activities/leftright/Leftright.qml:158
+#: activities/leftright/Leftright.qml:159
 msgctxt "Leftright|"
 msgid "Right hand"
 msgstr ""
@@ -4592,7 +4592,7 @@ msgctxt "core|"
 msgid "For downloading the needed sound files go to the preferences dialog."
 msgstr ""
 
-#: core/core.js:209
+#: core/core.js:212
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -4600,27 +4600,27 @@ msgctxt "core|"
 msgid "Download in progress"
 msgstr "Найдите треугольник"
 
-#: core/core.js:211
+#: core/core.js:214
 msgctxt "core|"
 msgid "Download in progress.<br/>'Abort' it to quit immediately."
 msgstr ""
 
-#: core/core.js:221
+#: core/core.js:224
 msgctxt "core|"
 msgid "Quit?"
 msgstr ""
 
-#: core/core.js:223
+#: core/core.js:226
 msgctxt "core|"
 msgid "Do you really want to quit GCompris?"
 msgstr ""
 
-#: core/core.js:224
+#: core/core.js:227
 msgctxt "core|"
 msgid "Yes"
 msgstr ""
 
-#: core/core.js:225
+#: core/core.js:228
 msgctxt "core|"
 msgid "No"
 msgstr ""
