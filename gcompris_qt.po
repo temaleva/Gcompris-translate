@@ -3631,49 +3631,69 @@ msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:215
+#: activities/menu/ConfigurationItem.qml:214
+msgctxt "ConfigurationItem|"
+msgid "Font Capitalization"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:226
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:243
+#: activities/menu/ConfigurationItem.qml:254
 msgctxt "ConfigurationItem|"
 msgid "Sounds"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:257
+#: activities/menu/ConfigurationItem.qml:268
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:258
+#: activities/menu/ConfigurationItem.qml:269
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:276
+#: activities/menu/ConfigurationItem.qml:287
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:464
+#: activities/menu/ConfigurationItem.qml:484
 msgctxt "ConfigurationItem|"
 msgid "You selected a new locale"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:465
+#: activities/menu/ConfigurationItem.qml:485
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:466
+#: activities/menu/ConfigurationItem.qml:486
 msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:472
+#: activities/menu/ConfigurationItem.qml:492
 msgctxt "ConfigurationItem|"
 msgid "No"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:548
+msgctxt "ConfigurationItem|"
+msgid "Mixed case (default)"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:549
+msgctxt "ConfigurationItem|"
+msgid "All uppercase"
+msgstr ""
+
+#: activities/menu/ConfigurationItem.qml:550
+msgctxt "ConfigurationItem|"
+msgid "All lowercase"
 msgstr ""
 
 #: activities/menu/Menu.qml:258
