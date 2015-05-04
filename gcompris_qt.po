@@ -1653,7 +1653,7 @@ msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Узнавание букв на экране и клавиатуре"
 
-#: activities/gletters/Gletters.qml:140
+#: activities/gletters/Gletters.qml:147
 msgctxt "Gletters|"
 msgid "Select your locale"
 msgstr ""
