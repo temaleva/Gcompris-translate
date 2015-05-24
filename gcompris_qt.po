@@ -2701,7 +2701,7 @@ msgid ""
 "\t"
 msgstr ""
 
-#: activities/maze/Maze.qml:326
+#: activities/maze/Maze.qml:325
 msgctxt "Maze|"
 msgid ""
 "Look at your position, then switch back to invisible mode to continue your "
@@ -4871,6 +4871,46 @@ msgstr ""
 #: core/LanguageList.qml:43
 msgctxt "LanguageList|"
 msgid "Your system default"
+msgstr ""
+
+#: core/main.cpp:120
+msgctxt "QObject|"
+msgid "run GCompris with the default system cursor."
+msgstr ""
+
+#: core/main.cpp:123
+msgctxt "QObject|"
+msgid "run GCompris without cursor (touch screen mode)."
+msgstr ""
+
+#: core/main.cpp:126
+msgctxt "QObject|"
+msgid "run GCompris in fullscreen mode."
+msgstr ""
+
+#: core/main.cpp:129
+msgctxt "QObject|"
+msgid "run GCompris in window mode."
+msgstr ""
+
+#: core/main.cpp:132
+msgctxt "QObject|"
+msgid "run GCompris with sound enabled."
+msgstr ""
+
+#: core/main.cpp:135
+msgctxt "QObject|"
+msgid "run GCompris without sound."
+msgstr ""
+
+#: core/main.cpp:138
+msgctxt "QObject|"
+msgid "Disable the configuration button."
+msgstr ""
+
+#: core/main.cpp:141
+msgctxt "QObject|"
+msgid "Enable the configuration button (default)."
 msgstr ""
 
 #: core/main.qml:119
