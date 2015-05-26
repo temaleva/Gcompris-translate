@@ -4464,12 +4464,12 @@ msgid ""
 "opposite order."
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:143
+#: activities/superbrain/Superbrain.qml:147
 msgctxt "Superbrain|"
 msgid "This item is well placed"
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:145
+#: activities/superbrain/Superbrain.qml:149
 msgctxt "Superbrain|"
 msgid "This item is misplaced"
 msgstr ""
