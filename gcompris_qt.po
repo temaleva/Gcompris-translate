@@ -757,6 +757,70 @@ msgctxt "AlphabetSequence|"
 msgid "a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z"
 msgstr "а/б/в/г/д/е/ё/ж/з/и/й/к/л/м/н/о/п/р/с/т/у/ф/х/ц/ч/ш/щ/ъ/ы/ь/э/ю/я"
 
+#: activities/babymatch/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Matching Items"
+msgstr ""
+
+#: activities/babymatch/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the items to make them match"
+msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+
+#: activities/babymatch/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Motor coordination: moving and clicking the mouse."
+msgctxt "ActivityInfo|"
+msgid "Motor coordination. Conceptual matching."
+msgstr "Не допустите чтобы рыбки уплыли."
+
+#: activities/babymatch/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Cultural references."
+msgstr ""
+
+#: activities/babymatch/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid ""
+"In the main board area, a set of objects is displayed. In the vertical box "
+"(at the left of the main board) another set of objects is shown, each object "
+"in the group on the left matching exactly one object in the main board area. "
+"This game challenges you to find the logical link between these objects. How "
+"do they fit together? Drag each object to the correct red space in the main "
+"area."
+msgstr ""
+
+#: activities/babyshapes/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Complete the puzzle"
+msgstr ""
+
+#: activities/babyshapes/ActivityInfo.qml:31
+#: activities/details/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the shapes on their respective targets"
+msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+
+#: activities/babyshapes/ActivityInfo.qml:34
+#: activities/details/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid ""
+"Complete the puzzle by dragging each piece from the set of pieces on the "
+"left, to the matching space in the puzzle."
+msgstr ""
+
+#: activities/babyshapes/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid "The dog is provided by Andre Connes and released under the GPL"
+msgstr ""
+
 #: activities/ballcatch/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Make the ball go to Tux"
@@ -1002,6 +1066,43 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "Drawing by Stephane Cabaraux."
 msgstr "Рисунок Стефана Кабаро."
+
+#: activities/chronos/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Chronos"
+msgstr ""
+
+#: activities/chronos/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the items to organize the story"
+msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+
+#: activities/chronos/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Sort the pictures into the order that tells the story"
+msgstr ""
+
+#: activities/chronos/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid "Tell a short story"
+msgstr ""
+
+#: activities/chronos/ActivityInfo.qml:34
+msgctxt "ActivityInfo|"
+msgid "Pick from the pictures on the left and put them on the red dots"
+msgstr ""
+
+#: activities/chronos/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid ""
+"Moon photo is copyright NASA. The space sounds come from Tuxpaint and "
+"Vegastrike which are released under the GPL license. The transportation "
+"images are copyright Franck Doucet. Dates of Transportation are based on "
+"those found in &lt;http://www.wikipedia.org&gt;."
+msgstr ""
 
 #: activities/click_on_letter/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1417,6 +1518,19 @@ msgctxt "colors|"
 msgid "Find the purple duck"
 msgstr "Найдите пурпурную утку"
 
+#: activities/details/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the tuba"
+msgctxt "ActivityInfo|"
+msgid "Find the details"
+msgstr "Найдите тубу"
+
+#: activities/details/ActivityInfo.qml:34
+msgctxt "ActivityInfo|"
+msgid "The images are from Wikimedia Commons."
+msgstr ""
+
 #: activities/drawnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Number sequence"
@@ -1650,6 +1764,32 @@ msgstr "Попадите мячом в чёрный круг справа"
 msgctxt "ActivityInfo|"
 msgid "Drag a line from the ball, to set its speed and direction."
 msgstr ""
+
+#: activities/geo-country/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Locate the region"
+msgstr ""
+
+#: activities/geo-country/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the regions to redraw the whole country"
+msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+
+#: activities/geography/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Locate the countries"
+msgstr ""
+
+#: activities/geography/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the items to redraw the whole map"
+msgstr "Перетаскивайте гири, чтобы уравновесить весы"
 
 #: activities/gletters/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -2115,6 +2255,7 @@ msgid "Practice reading by finding the word matching an image"
 msgstr "Практика чтения слов, соответствующих рисунку"
 
 #: activities/imageid/ActivityInfo.qml:30
+#: activities/imagename/ActivityInfo.qml:32
 #: activities/memory-wordnumber/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Reading"
@@ -2161,6 +2302,34 @@ msgstr "Найдите треугольник"
 #: activities/imageid/Imageid.qml:323
 msgctxt "Imageid|"
 msgid "OK"
+msgstr ""
+
+#: activities/imagename/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Image Name"
+msgstr ""
+
+#: activities/imagename/ActivityInfo.qml:30
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop weights to balance the scales"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop each item above its name"
+msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+
+#: activities/imagename/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Word reading"
+msgctxt "ActivityInfo|"
+msgid "Vocabulary and reading"
+msgstr "Чтение"
+
+#: activities/imagename/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid ""
+"Drag each image from the (vertical) box on the left to its (corresponding) "
+"name on the right. Click the OK button to check your answer."
 msgstr ""
 
 #: activities/instruments/ActivityInfo.qml:26
