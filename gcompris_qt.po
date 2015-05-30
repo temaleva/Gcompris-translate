@@ -1186,7 +1186,7 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "Draw the picture by clicking on each point in sequence. Each time a point is "
-"selected the next green one appears."
+"selected the next blue one appears."
 msgstr "Нарисуйте картинку, последовательно щёлкая по каждой синей точке."
 
 #: activities/clickgame/ActivityInfo.qml:26
@@ -2910,10 +2910,10 @@ msgstr "Найдите выход из невидимого лабиринта"
 #: activities/mazeinvisible/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
-"Use the arrow keys to move Tux up to the door. Use the maze icon or the "
-"spacebar to switch between invisible and visible modes. Visible mode just "
-"gives you an indication of your position, like a map. You cannot move Tux in "
-"visible mode."
+"Use the arrow keys or swipe the touch screen to move Tux up to the door. Use "
+"the maze icon or the spacebar to switch between invisible and visible modes. "
+"Visible mode just gives you an indication of your position, like a map. You "
+"cannot move Tux in visible mode."
 msgstr ""
 
 #: activities/mazerelative/ActivityInfo.qml:26
@@ -3826,57 +3826,57 @@ msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:254
+#: activities/menu/ConfigurationItem.qml:253
 msgctxt "ConfigurationItem|"
-msgid "Sounds"
+msgid "Localized voices"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:268
+#: activities/menu/ConfigurationItem.qml:267
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:269
+#: activities/menu/ConfigurationItem.qml:268
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:287
+#: activities/menu/ConfigurationItem.qml:286
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:484
+#: activities/menu/ConfigurationItem.qml:483
 msgctxt "ConfigurationItem|"
 msgid "You selected a new locale"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:485
+#: activities/menu/ConfigurationItem.qml:484
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download the corresponding sound files now?"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:486
+#: activities/menu/ConfigurationItem.qml:485
 msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:492
+#: activities/menu/ConfigurationItem.qml:491
 msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:548
+#: activities/menu/ConfigurationItem.qml:547
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:549
+#: activities/menu/ConfigurationItem.qml:548
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:550
+#: activities/menu/ConfigurationItem.qml:549
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
@@ -4627,10 +4627,9 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid ""
 "Click on the items until you find what you think is the correct answer. "
-"Then, click on the OK button in the control bar. In the lower levels, Tux "
-"gives you an indication if you found a hiding place by marking the item with "
-"a black box. You can use the right mouse button to flip the colors in the "
-"opposite order."
+"Then, click on the OK button. In the lower levels, Tux gives you an "
+"indication if you found a hiding place by marking the item with a black box. "
+"You can use the right mouse button to flip the colors in the opposite order."
 msgstr ""
 
 #: activities/superbrain/Superbrain.qml:147
@@ -5060,32 +5059,32 @@ msgstr ""
 
 #: core/main.cpp:120
 msgctxt "QObject|"
-msgid "run GCompris with the default system cursor."
+msgid "Run GCompris with the default system cursor."
 msgstr ""
 
 #: core/main.cpp:123
 msgctxt "QObject|"
-msgid "run GCompris without cursor (touch screen mode)."
+msgid "Run GCompris without cursor (touch screen mode)."
 msgstr ""
 
 #: core/main.cpp:126
 msgctxt "QObject|"
-msgid "run GCompris in fullscreen mode."
+msgid "Run GCompris in fullscreen mode."
 msgstr ""
 
 #: core/main.cpp:129
 msgctxt "QObject|"
-msgid "run GCompris in window mode."
+msgid "Run GCompris in window mode."
 msgstr ""
 
 #: core/main.cpp:132
 msgctxt "QObject|"
-msgid "run GCompris with sound enabled."
+msgid "Run GCompris with sound enabled."
 msgstr ""
 
 #: core/main.cpp:135
 msgctxt "QObject|"
-msgid "run GCompris without sound."
+msgid "Run GCompris without sound."
 msgstr ""
 
 #: core/main.cpp:138
