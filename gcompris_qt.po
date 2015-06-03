@@ -969,12 +969,12 @@ msgctxt "braille_alphabets|"
 msgid "This is easy, numbers are the same as letters from A to J."
 msgstr "Это просто: цифры выглядят так же, как буквы от A до J."
 
-#: activities/braille_alphabets/FirstScreen.qml:37
+#: activities/braille_alphabets/FirstScreen.qml:36
 msgctxt "FirstScreen|"
 msgid "Braille : Unlocking the Code"
 msgstr "Брайль: расшифровываем код"
 
-#: activities/braille_alphabets/FirstScreen.qml:65
+#: activities/braille_alphabets/FirstScreen.qml:64
 msgctxt "FirstScreen|"
 msgid ""
 "The Braille system is a method that is used by blind people to read and "
@@ -982,7 +982,7 @@ msgid ""
 msgstr ""
 "Система Брайля — это метод, используемый слепыми людьми для чтения и письма."
 
-#: activities/braille_alphabets/FirstScreen.qml:66
+#: activities/braille_alphabets/FirstScreen.qml:65
 msgctxt "FirstScreen|"
 msgid ""
 "Each Braille character, or cell, is made up of six dot positions, arranged "
@@ -993,7 +993,7 @@ msgstr ""
 "прямоугольника из двух столбцов по три точки в каждом. Как показано слева, "
 "каждая точка имеет номер от 1 до 6."
 
-#: activities/braille_alphabets/FirstScreen.qml:87
+#: activities/braille_alphabets/FirstScreen.qml:86
 msgctxt "FirstScreen|"
 msgid "When you are ready, click on me and try reproducing Braille characters."
 msgstr ""
@@ -4845,7 +4845,7 @@ msgid ""
 "you have motivation you can do incredible things."
 msgstr ""
 
-#: activities/louis-braille/ReorderList.qml:169
+#: activities/louis-braille/ReorderList.qml:167
 msgctxt "ReorderList|"
 msgid ""
 "Arrange the events in the order in which they happened. Select the line to "
