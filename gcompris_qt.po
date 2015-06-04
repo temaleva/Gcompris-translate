@@ -1,3 +1,18 @@
+# Translation of GCompris to Russian
+# Copyright (C) 2001-2002,2003, 2005, 2006, 2010 Free Software Foundation, Inc.
+# Copyright (C) 2015 This_file_is_part_of_KDE
+#
+# Anna Polesskaya and Kirill Polesski <rami@kaires.org>, 2003.
+# Alexey Lubimov <avl@altlinux.ru>, 2004-2004.
+# Valek Filippov <frob@df.ru>, 2001-2002.
+# Dubrovskiy Vyacheslav <dubrsl@altlinux.org>, 2005, 2006, 2010.
+# Andrey Cherepanov <skull@kde.ru>, 2007, 2010.
+# Yuri Kozlov <yuray@komyakino.ru>, 2011.
+# Yuri Myasoedov <omerta13@yandex.ru>, 2012.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2012.
+# Mayya Sharipova <mayya.sharipova@gmail.com>, 2013.
+# Andrey Cherepanov <cas@altlinux.org>, 2015.
+# Stas Solovey <whats_up@tut.by>, 2013, 2015.
 # Alexander Potashev <aspotashev@gmail.com>, 2015.
 msgid ""
 msgstr ""
