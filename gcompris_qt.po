@@ -1,3 +1,4 @@
+# Alexander Potashev <aspotashev@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "MIME-Version: 1.0\n"
@@ -7,6 +8,12 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: ru\n"
 "X-Qt-Contexts: true\n"
+"Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
+"PO-Revision-Date: 2015-06-04 15:57+0300\n"
+"Project-Id-Version: \n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: ru\n"
+"X-Generator: Lokalize 2.0\n"
 
 #: activities/advanced_colors/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -14,12 +21,11 @@ msgid "Advanced colors"
 msgstr "Сложные цвета"
 
 #: activities/advanced_colors/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click on the correct color"
 msgctxt "ActivityInfo|"
 msgid "Select the butterfly of the correct color"
-msgstr "Покажите правильный цвет"
+msgstr "Выберите бабочка правильного цвета"
 
 #: activities/advanced_colors/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -37,12 +43,14 @@ msgid ""
 "You will see dancing butterflies of different colors and a question. You "
 "have to find the correct butterfly and touch it."
 msgstr ""
+"Вы увидите бабочек разных цветов и текст вопроса. Нужно будет найти "
+"правильную бабочку и нажать на неё."
 
 #: activities/advanced_colors/advanced_colors.js:24
 #: activities/advanced_colors/advanced_colors.js:441
 msgctxt "advanced_colors|"
 msgid "Find the coral butterfly"
-msgstr "Найдите бабочку цвета коралла"
+msgstr "Найдите бабочку кораллового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:28
 #: activities/advanced_colors/advanced_colors.js:58
@@ -53,33 +61,33 @@ msgstr "Найдите бабочку цвета коралла"
 #: activities/advanced_colors/advanced_colors.js:699
 msgctxt "advanced_colors|"
 msgid "Find the claret butterfly"
-msgstr "Найдите бабочку цвета красного вина"
+msgstr "Найдите бабочку бордового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:32
 #: activities/advanced_colors/advanced_colors.js:274
 #: activities/advanced_colors/advanced_colors.js:467
 msgctxt "advanced_colors|"
 msgid "Find the navy butterfly"
-msgstr "Найдите бабочку цвета нави"
+msgstr "Найдите бабочку тёмно-синего цвета"
 
 #: activities/advanced_colors/advanced_colors.js:36
 #: activities/advanced_colors/advanced_colors.js:66
 msgctxt "advanced_colors|"
 msgid "Find the corn butterfly"
-msgstr "Найдите бабочку цвета кукурузы"
+msgstr "Найдите бабочку кукурузного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:40
 #: activities/advanced_colors/advanced_colors.js:70
 msgctxt "advanced_colors|"
 msgid "Find the cobalt butterfly"
-msgstr "Найдите бабочку цвета кобальта"
+msgstr "Найдите бабочку цвета кобальта синего"
 
 #: activities/advanced_colors/advanced_colors.js:44
 #: activities/advanced_colors/advanced_colors.js:74
 #: activities/advanced_colors/advanced_colors.js:403
 msgctxt "advanced_colors|"
 msgid "Find the cyan butterfly"
-msgstr "Найдите бабочку цвета морской волны"
+msgstr "Найдите бабочку цианового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:48
 #: activities/advanced_colors/advanced_colors.js:78
@@ -95,13 +103,13 @@ msgstr "Найдите бабочку каштанового цвета"
 #: activities/advanced_colors/advanced_colors.js:82
 msgctxt "advanced_colors|"
 msgid "Find the almond butterfly"
-msgstr "Найдите бабочку цвета миндаля"
+msgstr "Найдите бабочку миндального цвета"
 
 #: activities/advanced_colors/advanced_colors.js:62
 #: activities/advanced_colors/advanced_colors.js:695
 msgctxt "advanced_colors|"
 msgid "Find the sapphire butterfly"
-msgstr "Найдите бабочку цвета сапфира"
+msgstr "Найдите бабочку сапфирового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:86
 #: activities/advanced_colors/advanced_colors.js:184
@@ -113,31 +121,31 @@ msgstr "Найдите бабочку рубинового цвета"
 #: activities/advanced_colors/advanced_colors.js:679
 msgctxt "advanced_colors|"
 msgid "Find the sienna butterfly"
-msgstr "Найдите бабочку цвета охры"
+msgstr "Найдите бабочку цвета сиены"
 
 #: activities/advanced_colors/advanced_colors.js:96
 msgctxt "advanced_colors|"
 msgid "Find the sage butterfly"
-msgstr "Найдите бабочку цвета шалфея"
+msgstr "Найдите бабочку шалфейного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:100
 #: activities/advanced_colors/advanced_colors.js:427
 #: activities/advanced_colors/advanced_colors.js:581
 msgctxt "advanced_colors|"
 msgid "Find the salmon butterfly"
-msgstr "Найдите бабочку цвета сомон"
+msgstr "Найдите бабочку лососёвого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:104
 #: activities/advanced_colors/advanced_colors.js:389
 #: activities/advanced_colors/advanced_colors.js:649
 msgctxt "advanced_colors|"
 msgid "Find the sepia butterfly"
-msgstr "Найдите бабочку цвета сепия"
+msgstr "Найдите бабочку цвета сепии"
 
 #: activities/advanced_colors/advanced_colors.js:108
 msgctxt "advanced_colors|"
 msgid "Find the sulfur butterfly"
-msgstr "Найдите бабочку цвета серы"
+msgstr "Найдите бабочку серного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:112
 #: activities/advanced_colors/advanced_colors.js:671
@@ -153,12 +161,12 @@ msgstr "Найдите бабочку цвета лайма "
 #: activities/advanced_colors/advanced_colors.js:120
 msgctxt "advanced_colors|"
 msgid "Find the turquoise butterfly"
-msgstr "Найдите бабочку цвета бирюзы"
+msgstr "Найдите бабочку бирюзового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:126
 msgctxt "advanced_colors|"
 msgid "Find the absinthe butterfly"
-msgstr "Найдите бабочку цвета абсент"
+msgstr "Найдите бабочку цвета абсента"
 
 #: activities/advanced_colors/advanced_colors.js:130
 msgctxt "advanced_colors|"
@@ -169,13 +177,13 @@ msgstr "Найдите бабочку цвета красного дерева"
 #: activities/advanced_colors/advanced_colors.js:627
 msgctxt "advanced_colors|"
 msgid "Find the aquamarine butterfly"
-msgstr "Найдите бабочку цвета аквамарин"
+msgstr "Найдите бабочку аквамаринового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:138
 #: activities/advanced_colors/advanced_colors.js:433
 msgctxt "advanced_colors|"
 msgid "Find the alabaster butterfly"
-msgstr "Найдите бабочку цвета алебастра"
+msgstr "Найдите бабочку алебастрового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:142
 #: activities/advanced_colors/advanced_colors.js:585
@@ -186,21 +194,21 @@ msgstr "Найдите бабочку янтарного цвета"
 #: activities/advanced_colors/advanced_colors.js:146
 msgctxt "advanced_colors|"
 msgid "Find the amethyst butterfly"
-msgstr "Найдите бабочку цвета аметиста"
+msgstr "Найдите бабочку аметистового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:150
 #: activities/advanced_colors/advanced_colors.js:529
 #: activities/advanced_colors/advanced_colors.js:637
 msgctxt "advanced_colors|"
 msgid "Find the anise butterfly"
-msgstr "Найдите бабочку цвета аниса"
+msgstr "Найдите бабочку анисового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:154
 #: activities/advanced_colors/advanced_colors.js:300
 #: activities/advanced_colors/advanced_colors.js:461
 msgctxt "advanced_colors|"
 msgid "Find the vermilion butterfly"
-msgstr "Найдите бабочку цвета киноваря"
+msgstr "Найдите бабочку цвета киновари"
 
 #: activities/advanced_colors/advanced_colors.js:160
 msgctxt "advanced_colors|"
@@ -213,13 +221,13 @@ msgstr "Найдите бабочку цвета свинцовых белил"
 #: activities/advanced_colors/advanced_colors.js:539
 msgctxt "advanced_colors|"
 msgid "Find the fawn butterfly"
-msgstr "Найдите бабочку цвета лани"
+msgstr "Найдите бабочку желтовато-коричневого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:168
 #: activities/advanced_colors/advanced_colors.js:589
 msgctxt "advanced_colors|"
 msgid "Find the chartreuse butterfly"
-msgstr "Найдите бабочку цвета шартрёз"
+msgstr "Найдите бабочку салатового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:172
 msgctxt "advanced_colors|"
@@ -241,18 +249,18 @@ msgstr "Найдите бабочку баклажанового цвета"
 #: activities/advanced_colors/advanced_colors.js:657
 msgctxt "advanced_colors|"
 msgid "Find the fuchsia butterfly"
-msgstr "Найдите бабочку цвета фуксия"
+msgstr "Найдите бабочку цвета фуксии"
 
 #: activities/advanced_colors/advanced_colors.js:188
 msgctxt "advanced_colors|"
 msgid "Find the glaucous butterfly"
-msgstr "Найдите бабочку матового цвета"
+msgstr "Найдите бабочку сизого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:198
 #: activities/advanced_colors/advanced_colors.js:369
 msgctxt "advanced_colors|"
 msgid "Find the auburn butterfly"
-msgstr "Найдите бабочку золотисто-каштанового цвета"
+msgstr "Найдите бабочку красно-коричневого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:202
 #: activities/advanced_colors/advanced_colors.js:381
@@ -264,7 +272,7 @@ msgstr "Найдите бабочку лазурного цвета"
 #: activities/advanced_colors/advanced_colors.js:563
 msgctxt "advanced_colors|"
 msgid "Find the grayish brown butterfly"
-msgstr "Найдите бабочку серо-коричневого цвета"
+msgstr "Найдите бабочку бурого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:210
 msgctxt "advanced_colors|"
@@ -275,25 +283,25 @@ msgstr "Найдите бабочку цвета бистр"
 #: activities/advanced_colors/advanced_colors.js:555
 msgctxt "advanced_colors|"
 msgid "Find the crimson butterfly"
-msgstr "Найдите бабочку кармазинного цвета"
+msgstr "Найдите бабочку малинового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:218
 msgctxt "advanced_colors|"
 msgid "Find the celadon butterfly"
-msgstr "Найдите бабочку серовато-зелёного цвета"
+msgstr "Найдите бабочку селадонового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:222
 #: activities/advanced_colors/advanced_colors.js:471
 #: activities/advanced_colors/advanced_colors.js:641
 msgctxt "advanced_colors|"
 msgid "Find the cerulean butterfly"
-msgstr "Найдите бабочку небесно-голубого цвета"
+msgstr "Найдите бабочку бледно-лазурного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:228
 #: activities/advanced_colors/advanced_colors.js:551
 msgctxt "advanced_colors|"
 msgid "Find the dove butterfly"
-msgstr "Найдите бабочку сизового цвета"
+msgstr "Найдите бабочку голубиного серого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:232
 msgctxt "advanced_colors|"
@@ -333,7 +341,7 @@ msgstr "Найдите бабочку цвета лишайника"
 #: activities/advanced_colors/advanced_colors.js:517
 msgctxt "advanced_colors|"
 msgid "Find the wine butterfly"
-msgstr "Найдите бабочку цвета вина"
+msgstr "Найдите бабочку винного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:262
 #: activities/advanced_colors/advanced_colors.js:623
@@ -357,7 +365,7 @@ msgstr "Найдите бабочку малахитового цвета"
 #: activities/advanced_colors/advanced_colors.js:278
 msgctxt "advanced_colors|"
 msgid "Find the larch butterfly"
-msgstr "Найдите бабочку цвета лиственницы"
+msgstr "Найдите бабочку цвета дерева лиственницы"
 
 #: activities/advanced_colors/advanced_colors.js:282
 #: activities/advanced_colors/advanced_colors.js:411
@@ -382,27 +390,27 @@ msgstr "Найдите бабочку оливкового цвета"
 #: activities/advanced_colors/advanced_colors.js:513
 msgctxt "advanced_colors|"
 msgid "Find the opaline butterfly"
-msgstr "Найдите бабочку цвета опала"
+msgstr "Найдите бабочку опалового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:304
 #: activities/advanced_colors/advanced_colors.js:611
 msgctxt "advanced_colors|"
 msgid "Find the ultramarine butterfly"
-msgstr "Найдите бабочку цвета ультрамарин"
+msgstr "Найдите бабочку ультрамаринового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:308
 #: activities/advanced_colors/advanced_colors.js:377
 #: activities/advanced_colors/advanced_colors.js:449
 msgctxt "advanced_colors|"
 msgid "Find the mauve butterfly"
-msgstr "Найдите бабочку лилового цвета"
+msgstr "Найдите бабочку розовато-лилового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:312
 #: activities/advanced_colors/advanced_colors.js:573
 #: activities/advanced_colors/advanced_colors.js:615
 msgctxt "advanced_colors|"
 msgid "Find the grayish blue butterfly"
-msgstr "Найдите бабочку голубовато-синего цвета"
+msgstr "Найдите бабочку голубовато-серого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:316
 #: activities/advanced_colors/advanced_colors.js:487
@@ -422,7 +430,7 @@ msgstr "Найдите бабочку платинового цвета"
 #: activities/advanced_colors/advanced_colors.js:665
 msgctxt "advanced_colors|"
 msgid "Find the purple butterfly"
-msgstr "Найдите бабочку пурпурного цвета"
+msgstr "Найдите бабочку фиолетово-красного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:330
 #: activities/advanced_colors/advanced_colors.js:385
@@ -450,7 +458,7 @@ msgstr "Найдите бабочку цвета ржавчины"
 #: activities/advanced_colors/advanced_colors.js:342
 msgctxt "advanced_colors|"
 msgid "Find the saffron butterfly"
-msgstr "Найдите бабочку цвета шафрана"
+msgstr "Найдите бабочку шафранового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:346
 msgctxt "advanced_colors|"
@@ -461,7 +469,7 @@ msgstr "Найдите бабочку ванильного цвета"
 #: activities/advanced_colors/advanced_colors.js:559
 msgctxt "advanced_colors|"
 msgid "Find the veronese butterfly"
-msgstr "Найдите бабочку цвета веронезе"
+msgstr "Найдите бабочку цвета вер-гинье"
 
 #: activities/advanced_colors/advanced_colors.js:354
 #: activities/advanced_colors/advanced_colors.js:653
@@ -476,7 +484,7 @@ msgstr "Найдите бабочку цвета ярь-медянки"
 #: activities/advanced_colors/advanced_colors.js:675
 msgctxt "advanced_colors|"
 msgid "Find the dark purple butterfly"
-msgstr "Найдите бабочку тёмно-пурпурного цвета"
+msgstr "Найдите бабочку тёмно-фиолетового цвета"
 
 #: activities/algebra_by/ActivityInfo.qml:26
 #, fuzzy
