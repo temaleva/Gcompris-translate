@@ -6774,12 +6774,12 @@ msgid ""
 "column."
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:147
+#: activities/superbrain/Superbrain.qml:148
 msgctxt "Superbrain|"
 msgid "This item is well placed"
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:149
+#: activities/superbrain/Superbrain.qml:150
 msgctxt "Superbrain|"
 msgid "This item is misplaced"
 msgstr ""
