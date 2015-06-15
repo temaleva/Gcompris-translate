@@ -1090,9 +1090,12 @@ msgid "Braille Fun"
 msgstr ""
 
 #: activities/braille_fun/ActivityInfo.qml:27
+#, fuzzy
+#| msgctxt "FirstScreen|"
+#| msgid "Braille : Unlocking the Code"
 msgctxt "ActivityInfo|"
-msgid "Braille the falling letters"
-msgstr ""
+msgid "Braille the letters"
+msgstr "Брайль: расшифровываем код"
 
 #: activities/braille_fun/ActivityInfo.qml:30
 #, fuzzy
@@ -1105,8 +1108,9 @@ msgstr "Брайль: расшифровываем код"
 #: activities/braille_fun/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
-"Enter the braille code in the tile for the corresponding falling letters. "
-"Check the braille chart by clicking on the toggle button for help."
+"Enter the braille code in the tile for the letters on the banner pulled by "
+"Tux in his plane across the screen. Check the braille chart by clicking on "
+"the toggle button for help."
 msgstr ""
 
 #: activities/canal_lock/ActivityInfo.qml:26
@@ -5876,15 +5880,16 @@ msgid ""
 "category.\n"
 "At the bottom of the screen is the GCompris control bar. Notice that you can "
 "hide or show the bar by touching its anchor.\n"
-"The following icons are displayed from right to left.\n"
+"The following icons are displayed:\n"
 "(note that each icon is displayed only if available in the current "
 "activity)\n"
 "    Home - Exit an activity, go back to menu (Ctrl+W and escape key)\n"
 "    Arrows - Display the current level. Click to select another level\n"
 "    Lips - Repeat the question\n"
 "    Question Mark - Help\n"
+"    Reload - Start the activity from the beginning again\n"
 "    Tool - The configuration menu\n"
-"    Tux Plane - About GCompris\n"
+"    G - About GCompris\n"
 "    Quit - Quit GCompris (Ctrl+Q)\n"
 "The stars show suitable age groups for each game:\n"
 "    1, 2 or 3 simple stars - from 2 to 6 years old\n"
