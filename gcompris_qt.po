@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-06-21 13:21+0300\n"
+"PO-Revision-Date: 2015-06-21 22:51+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -600,20 +600,18 @@ msgstr ""
 "ответить до того, как приземлится воздушный шар с пингвинами."
 
 #: activities/algebra_plus/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Addition of numbers"
-msgstr "Игра в парочки по вычитанию"
+msgstr "Сложение чисел"
 
 #: activities/algebra_plus/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Practice the addition operation"
 msgctxt "ActivityInfo|"
 msgid "Practice the addition of numbers"
-msgstr "Упражнение на сложение"
+msgstr "Упражнения на сложение"
 
 #: activities/algebra_plus/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -986,7 +984,7 @@ msgstr ""
 msgctxt "FirstScreen|"
 msgid "When you are ready, click on me and try reproducing Braille characters."
 msgstr ""
-"Когда будете готовы, щёлкните на мне и попробуйте воспроизвести символы "
+"Когда будешь готов, щёлкни на мне и попробуй воспроизвести символы "
 "Брайля."
 
 #: activities/braille_alphabets/questions.js:23
@@ -1078,7 +1076,9 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Tux is in trouble, and needs to take his boat through a lock. Help Tux and "
 "find out how a canal lock works."
-msgstr "Помогите Туксу провести корабль через шлюз и узнайте, как он работает."
+msgstr ""
+"Туксу нужно перевести свой корабль через шлюз. Помоги Туксу и узнай, как "
+"работают шлюзы на каналах."
 
 #: activities/canal_lock/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
