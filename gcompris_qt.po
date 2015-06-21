@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-06-21 22:51+0300\n"
+"PO-Revision-Date: 2015-06-22 00:48+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -1086,8 +1086,8 @@ msgid ""
 "You are in charge of the canal lock. Open the gates and the locks in the "
 "right order, so Tux can travel through the gates in both directions."
 msgstr ""
-"Вы командуете шлюзом. Вам нужно открывать и закрывать ворота шлюза в \n"
-"правильном порядке. Пропустите Тукса через шлюз в обоих направлениях."
+"Ты отвечаешь за работу шлюза. Открывай ворота шлюза и перепускные клапаны в "
+"правильном порядке, чтобы Тукс смог пройти через шлюз в обоих направлениях."
 
 #: activities/canal_lock/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -1097,30 +1097,29 @@ msgstr "Рисунок Стефана Кабаро."
 #: activities/chronos/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Chronos"
-msgstr ""
+msgstr "Хронология"
 
 #: activities/chronos/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to organize the story"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетащи картинки, чтобы составить историю"
 
 #: activities/chronos/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Sort the pictures into the order that tells the story"
-msgstr ""
+msgstr "Отсортировать картинки в таком порядке, чтобы они поведали историю"
 
 #: activities/chronos/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid "Tell a short story"
-msgstr ""
+msgstr "Способность рассказать короткую историю"
 
 #: activities/chronos/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid "Pick from the pictures on the left and put them on the red dots"
-msgstr ""
+msgstr "Бери картинки слева и перетаскивай их на красные точки"
 
 #: activities/chronos/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
@@ -1139,97 +1138,97 @@ msgstr ""
 #: activities/chronos/resource/board/board1_0.qml:56
 msgctxt "board1_0|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: activities/chronos/resource/board/board1_0.qml:63
 msgctxt "board1_0|"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: activities/chronos/resource/board/board1_0.qml:70
 msgctxt "board1_0|"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: activities/chronos/resource/board/board1_0.qml:77
 msgctxt "board1_0|"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: activities/chronos/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
 msgid "The 4 Seasons"
-msgstr ""
+msgstr "Четыре времени года"
 
 #: activities/chronos/resource/board/board2_0.qml:56
 msgctxt "board2_0|"
 msgid "Spring"
-msgstr ""
+msgstr "Весна"
 
 #: activities/chronos/resource/board/board2_0.qml:63
 msgctxt "board2_0|"
 msgid "Summer"
-msgstr ""
+msgstr "Лето"
 
 #: activities/chronos/resource/board/board2_0.qml:70
 msgctxt "board2_0|"
 msgid "Autumn"
-msgstr ""
+msgstr "Осень"
 
 #: activities/chronos/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "Winter"
-msgstr ""
+msgstr "Зима"
 
 #: activities/chronos/resource/board/board3_0.qml:25
 msgctxt "board3_0|"
 msgid "Gardening"
-msgstr ""
+msgstr "Садоводство"
 
 #: activities/chronos/resource/board/board3_0.qml:56
 msgctxt "board3_0|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: activities/chronos/resource/board/board3_0.qml:63
 msgctxt "board3_0|"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: activities/chronos/resource/board/board3_0.qml:70
 msgctxt "board3_0|"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: activities/chronos/resource/board/board3_0.qml:77
 msgctxt "board3_0|"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: activities/chronos/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
 msgid "Tux and the apple tree"
-msgstr ""
+msgstr "Пингвин Тукс и яблоня"
 
 #: activities/chronos/resource/board/board4_0.qml:56
 msgctxt "board4_0|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: activities/chronos/resource/board/board4_0.qml:63
 msgctxt "board4_0|"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: activities/chronos/resource/board/board4_0.qml:70
 msgctxt "board4_0|"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: activities/chronos/resource/board/board4_0.qml:77
 msgctxt "board4_0|"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: activities/chronos/resource/board/board5_0.qml:26
 msgctxt "board5_0|"
@@ -1239,27 +1238,27 @@ msgstr ""
 #: activities/chronos/resource/board/board5_0.qml:43
 msgctxt "board5_0|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
-msgstr ""
+msgstr "1829 год: Паровоз Стефенсона «Ракета»"
 
 #: activities/chronos/resource/board/board5_0.qml:50
 msgctxt "board5_0|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 год: Паровая телега Кюньо"
 
 #: activities/chronos/resource/board/board5_0.qml:57
 msgctxt "board5_0|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_1.qml:25
 msgctxt "board5_1|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_1.qml:49
 msgctxt "board5_1|"
 msgid "1783 Montgolfier brothers' hot air balloon"
-msgstr ""
+msgstr "1783 год: Воздушный шар братьев Монгольфье"
 
 #: activities/chronos/resource/board/board5_1.qml:56
 msgctxt "board5_1|"
@@ -1274,7 +1273,7 @@ msgstr ""
 #: activities/chronos/resource/board/board5_2.qml:25
 msgctxt "board5_2|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_2.qml:49
 msgctxt "board5_2|"
@@ -1284,7 +1283,7 @@ msgstr ""
 #: activities/chronos/resource/board/board5_2.qml:56
 msgctxt "board5_2|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 год: Паровая телега Кюньо"
 
 #: activities/chronos/resource/board/board5_2.qml:63
 msgctxt "board5_2|"
@@ -1294,7 +1293,7 @@ msgstr ""
 #: activities/chronos/resource/board/board5_3.qml:25
 msgctxt "board5_3|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_3.qml:49
 msgctxt "board5_3|"
@@ -1304,22 +1303,22 @@ msgstr ""
 #: activities/chronos/resource/board/board5_3.qml:56
 msgctxt "board5_3|"
 msgid "1783 Montgolfier brothers' hot air balloon"
-msgstr ""
+msgstr "1783 год: Воздушный шар братьев Монгольфье"
 
 #: activities/chronos/resource/board/board5_3.qml:63
 msgctxt "board5_3|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
-msgstr ""
+msgstr "1829 год: Паровоз Стефенсона «Ракета»"
 
 #: activities/chronos/resource/board/board5_4.qml:25
 msgctxt "board5_4|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_4.qml:49
 msgctxt "board5_4|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
-msgstr ""
+msgstr "1829 год: Паровоз Стефенсона «Ракета»"
 
 #: activities/chronos/resource/board/board5_4.qml:56
 msgctxt "board5_4|"
@@ -1332,12 +1331,11 @@ msgid "1769 Cugnot's fardier"
 msgstr ""
 
 #: activities/chronos/resource/board/board6_0.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
 msgctxt "board6_0|"
 msgid "Aviation"
-msgstr "Сложение"
+msgstr "Авиация"
 
 #: activities/chronos/resource/board/board6_0.qml:50
 msgctxt "board6_0|"
@@ -1355,12 +1353,11 @@ msgid "1909 Louis Bleriot crosses the English Channel"
 msgstr ""
 
 #: activities/chronos/resource/board/board6_1.qml:25
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition"
 msgctxt "board6_1|"
 msgid "Aviation"
-msgstr "Сложение"
+msgstr "Авиация"
 
 #: activities/chronos/resource/board/board6_1.qml:49
 msgctxt "board6_1|"
@@ -1380,7 +1377,7 @@ msgstr ""
 #: activities/chronos/resource/board/board6_2.qml:25
 msgctxt "board6_2|"
 msgid "Cars"
-msgstr ""
+msgstr "Автомобили"
 
 #: activities/chronos/resource/board/board6_2.qml:49
 msgctxt "board6_2|"
@@ -1400,7 +1397,7 @@ msgstr ""
 #: activities/chronos/resource/board/board6_3.qml:25
 msgctxt "board6_3|"
 msgid "Cars"
-msgstr ""
+msgstr "Автомобили"
 
 #: activities/chronos/resource/board/board6_3.qml:49
 msgctxt "board6_3|"
