@@ -25,7 +25,7 @@ msgstr ""
 "X-Language: ru\n"
 "X-Qt-Contexts: true\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
-"PO-Revision-Date: 2015-06-21 11:37+0300\n"
+"PO-Revision-Date: 2015-06-21 13:21+0300\n"
 "Project-Id-Version: \n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -914,7 +914,6 @@ msgid "Make the ball go to Tux"
 msgstr "Бросьте мяч пингвинёнку Туксу"
 
 #: activities/ballcatch/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "Press the two shift keys at the same time, to make the ball go in a "
@@ -923,10 +922,11 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Press the left and right arrow keys at the same time, to make the ball go in "
 "a straight line."
-msgstr "Нажмите две клавиши Shift одновременно, чтобы кинуть мяч."
+msgstr ""
+"Нажми две клавиши со стрелками вправо и влево одновременно, чтобы бросить мяч "
+"по прямой линии."
 
 #: activities/ballcatch/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "Press the two shift keys at the same time, to make the ball go in a "
@@ -936,13 +936,16 @@ msgid ""
 "Press the left and right arrow at the same time, to make the ball go in a "
 "straight line. On a touch screen you have to hit the two hands at the same "
 "time."
-msgstr "Нажмите две клавиши Shift одновременно, чтобы кинуть мяч."
+msgstr ""
+"Нажми две клавиши со стрелками вправо и влево одновременно, чтобы бросить мяч "
+"по прямой линии. На сенсорном экране вместо этого нужно нажать двумя руками "
+"одновременно."
 
 #: activities/ballcatch/Ballcatch.qml:242
 msgctxt "Ballcatch|"
 msgid ""
 "Tap both hands at the same time, to make the ball go in a straight line."
-msgstr ""
+msgstr "Нажми обеими руками одновременно, чтобы мяч покатился по прямой линии."
 
 #: activities/ballcatch/Ballcatch.qml:244
 msgctxt "Ballcatch|"
@@ -950,6 +953,8 @@ msgid ""
 "Press left and right arrow keys at the same time, to make the ball go in a "
 "straight line."
 msgstr ""
+"Нажми одновременно клавиши со стрелками влево и вправо, чтобы мяч покатился "
+"по прямой линии."
 
 #: activities/braille_alphabets/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -959,15 +964,14 @@ msgstr "Изучение системы Брайля"
 #: activities/braille_alphabets/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Learn and memorize the Braille system"
-msgstr ""
+msgstr "Выучи систему записи Брайля"
 
 #: activities/braille_alphabets/ActivityInfo.qml:29
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Let kids discover the Braille system."
 msgctxt "ActivityInfo|"
 msgid "Let children discover the Braille system."
-msgstr "Обучить детей основам системы Брайля."
+msgstr "Ознакомиться с системой записи Брайля"
 
 #: activities/braille_alphabets/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -980,6 +984,7 @@ msgstr ""
 "сообщающая, какую букву надо воспроизвести, и буквы Брайля наверху в "
 "качестве примера. На каждом уровне мы изучим по 10 букв."
 
+# BUGME: check commas --aspotashev
 #: activities/braille_alphabets/braille_alphabets.js:58
 #: activities/braille_alphabets/braille_alphabets.js:68
 #: activities/braille_alphabets/braille_alphabets.js:78
@@ -987,7 +992,7 @@ msgstr ""
 #: activities/braille_alphabets/braille_alphabets.js:98
 msgctxt "braille_alphabets|"
 msgid "Now it's a little bit harder without the braille map."
-msgstr ""
+msgstr "Теперь, без таблицы Брайля, будет немного сложнее."
 
 #: activities/braille_alphabets/braille_alphabets.js:63
 msgctxt "braille_alphabets|"
@@ -995,8 +1000,8 @@ msgid ""
 "Look at the Braille character map and observe how similar the first and "
 "second line are."
 msgstr ""
-"Взгляните на таблицу символов Брайля и обратите внимание, как похожи первая "
-"и вторая строка."
+"Взгляни на таблицу символов Брайля и обрати внимание на схожесть первой "
+"и второй строки."
 
 #: activities/braille_alphabets/braille_alphabets.js:73
 msgctxt "braille_alphabets|"
@@ -1007,10 +1012,11 @@ msgstr ""
 "И снова есть сходство с первой строкой, но заметьте, что буква «W» была "
 "добавлена позже."
 
+# BUGME: verify in the UI --aspotashev
 #: activities/braille_alphabets/braille_alphabets.js:83
 msgctxt "braille_alphabets|"
 msgid "This is easy, numbers are the same as letters from A to J."
-msgstr "Это просто: цифры выглядят так же, как буквы от A до J."
+msgstr "Это просто: цифры выглядят так же, как буквы от А до И."
 
 #: activities/braille_alphabets/FirstScreen.qml:36
 msgctxt "FirstScreen|"
@@ -1072,7 +1078,7 @@ msgstr ""
 #, qt-format
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the letter %1."
-msgstr "Щёлкайте на точках в ячейке Брайля, чтобы получилась буква %1."
+msgstr "Щёлкни на точках в ячейке Брайля, чтобы получилась буква %1."
 
 #: activities/braille_alphabets/questions.js:133
 #: activities/braille_alphabets/questions.js:137
@@ -1084,24 +1090,24 @@ msgstr "Щёлкайте на точках в ячейке Брайля, что�
 #: activities/braille_alphabets/questions.js:162
 #: activities/braille_alphabets/questions.js:166
 #: activities/braille_alphabets/questions.js:170
-#, fuzzy, qt-format
+#, qt-format
 #| msgctxt "questions|"
 #| msgid "Click on the dots in braille cell area to produce the letter %1."
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the number %1."
-msgstr "Щёлкайте на точках в ячейке Брайля, чтобы получилась буква %1."
+msgstr "Щёлкни на точках в ячейке Брайля, чтобы получилось число %1."
 
 #: activities/braille_alphabets/questions.js:176
 #: activities/braille_alphabets/questions.js:180
 #: activities/braille_alphabets/questions.js:184
 #: activities/braille_alphabets/questions.js:188
 #: activities/braille_alphabets/questions.js:192
-#, fuzzy, qt-format
+#, qt-format
 #| msgctxt "questions|"
 #| msgid "Click on the dots in braille cell area to produce the letter %1."
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the symbol %1."
-msgstr "Щёлкайте на точках в ячейке Брайля, чтобы получилась буква %1."
+msgstr "Щёлкни на точках в ячейке Брайля, чтобы получился символ %1."
 
 #: activities/braille_fun/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
