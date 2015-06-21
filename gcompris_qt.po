@@ -17,6 +17,11 @@
 # Alexandr Smirnov <smirnoff.al@gmail.com>, 2015.
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2015-06-21 13:21+0300\n"
+"Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,11 +29,6 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: ru\n"
 "X-Qt-Contexts: true\n"
-"Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
-"PO-Revision-Date: 2015-06-21 13:21+0300\n"
-"Project-Id-Version: \n"
-"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
-"Language: ru\n"
 "X-Generator: Lokalize 2.0\n"
 
 #: activities/advanced_colors/ActivityInfo.qml:26
@@ -37,8 +37,6 @@ msgid "Advanced colors"
 msgstr "Сложные цвета"
 
 #: activities/advanced_colors/ActivityInfo.qml:27
-#| msgctxt "ActivityInfo|"
-#| msgid "Click on the correct color"
 msgctxt "ActivityInfo|"
 msgid "Select the butterfly of the correct color"
 msgstr "Выберите бабочка правильного цвета"
@@ -503,8 +501,6 @@ msgid "Find the dark purple butterfly"
 msgstr "Найдите бабочку тёмно-фиолетового цвета"
 
 #: activities/algebra_by/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Multiplication table"
 msgctxt "ActivityInfo|"
 msgid "Multiplication of numbers"
 msgstr "Умножение чисел"
@@ -520,8 +516,6 @@ msgid "Learn to multiply numbers within a limited period of time"
 msgstr "Научиться перемножать числа за ограниченный промежуток времени."
 
 #: activities/algebra_by/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid "Multiplication table"
 msgctxt "ActivityInfo|"
 msgid "Multiplication tables from 1 to 10"
 msgstr "Таблица умножения от 1 до 10"
@@ -539,30 +533,22 @@ msgstr ""
 "ответить до того, как приземлится воздушный шар с пингвинами."
 
 #: activities/algebra_div/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Division of numbers"
 msgstr "Деление чисел"
 
 #: activities/algebra_div/ActivityInfo.qml:27
-#| msgctxt "ActivityInfo|"
-#| msgid "Practice the subtraction operation"
 msgctxt "ActivityInfo|"
 msgid "Practice the division operation"
 msgstr "Упражнения на деление"
 
 # goal description --aspotashev
 #: activities/algebra_div/ActivityInfo.qml:29
-#| msgctxt "ActivityInfo|"
-#| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
 msgid "Find the result of the division within a limited period of time"
 msgstr "Найти частное двух чисел за ограниченное время"
 
 #: activities/algebra_div/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Division of small numbers"
 msgstr "Деление маленьких чисел"
@@ -580,8 +566,6 @@ msgstr ""
 "ответить до того, как приземлится воздушный шар с пингвинами."
 
 #: activities/algebra_minus/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Subtraction of numbers"
 msgstr "Вычитание чисел"
@@ -592,8 +576,6 @@ msgid "Practice the subtraction operation"
 msgstr "Упражнения на вычитание"
 
 #: activities/algebra_minus/ActivityInfo.qml:29
-#| msgctxt "ActivityInfo|"
-#| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
 msgid ""
 "Learn to find the difference between two numbers within a limited period of "
@@ -601,8 +583,6 @@ msgid ""
 msgstr "Научиться вычитать числа за ограниченный промежуток времени."
 
 #: activities/algebra_minus/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Subtraction of small numbers"
 msgstr "Вычитание маленьких чисел"
@@ -636,8 +616,6 @@ msgid "Practice the addition of numbers"
 msgstr "Упражнение на сложение"
 
 #: activities/algebra_plus/ActivityInfo.qml:29
-#| msgctxt "ActivityInfo|"
-#| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
 msgid "Learn to find the sum of two numbers within a limited period of time"
 msgstr "Научиться складывать числа за ограниченный промежуток времени."
@@ -682,8 +660,8 @@ msgid ""
 msgstr ""
 "Посмотри на две последовательности. Каждый фрукт в первой последовательности "
 "был заменён другим фруктом из второй последовательности. Изучив "
-"закономерность, "
-"продолжи вторую последовательность, используя правильные фрукты."
+"закономерность, продолжи вторую последовательность, используя правильные "
+"фрукты."
 
 #: activities/align4-2players/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -692,32 +670,20 @@ msgstr ""
 
 #: activities/align4-2players/ActivityInfo.qml:27
 #: activities/align4/ActivityInfo.qml:27
-#| msgctxt "ActivityInfo|"
-#| msgid "Arrange four coins in a row"
 msgctxt "ActivityInfo|"
 msgid "Arrange four tokens in a row"
 msgstr "Расположи четыре шара в линию"
 
 #: activities/align4-2players/ActivityInfo.qml:29
 #: activities/align4/ActivityInfo.qml:29
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Create a line of 4 pieces either horizontally (lying down), vertically "
-#| "(standing up) or diagonally."
 msgctxt "ActivityInfo|"
 msgid ""
 "Create a line of 4 tokens either horizontally (lying down), vertically "
 "(standing up) or diagonally."
 msgstr ""
-"Создай линию из четырёх шариков: горизонтально, вертикально или по "
-"диагонали."
+"Создай линию из четырёх шариков: горизонтально, вертикально или по диагонали."
 
 #: activities/align4-2players/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click the position in the line where you want to drop a piece. You can "
-#| "also use the arrow keys to move the piece left or right, and the down or "
-#| "space key to drop a piece."
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with a friend. Take turns to click the line in which you want to drop a "
@@ -726,10 +692,9 @@ msgid ""
 "tokens wins"
 msgstr ""
 "Игра с друзьями. Во время своего хода нажми на линию, в которую ты хочешь "
-"бросить "
-"шарик. Ты также можешь использовать клавиши со стрелками для перемещения "
-"шарика влево или вправо, и вниз или пробел для того, чтобы бросить шарик. "
-"Побеждает игрок, первый создавший линию из четырёх шариков."
+"бросить шарик. Ты также можешь использовать клавиши со стрелками для "
+"перемещения шарика влево или вправо, и вниз или пробел для того, чтобы "
+"бросить шарик. Побеждает игрок, первый создавший линию из четырёх шариков."
 
 #: activities/align4/ActivityInfo.qml:26
 #, fuzzy
@@ -740,11 +705,6 @@ msgid "Align four (against Tux)"
 msgstr "Игра в парочки по сложению против Тукса"
 
 #: activities/align4/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click the position in the line where you want to drop a piece. You can "
-#| "also use the arrow keys to move the piece left or right, and the down or "
-#| "space key to drop a piece."
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with the computer. Take turns to click the line in which you want to "
@@ -753,10 +713,9 @@ msgid ""
 "line of 4 tokens wins"
 msgstr ""
 "Игра с компьютером. Во время своего хода нажми на линию, в которую ты хочешь "
-"бросить "
-"шарик. Ты также можешь использовать клавиши со стрелками для перемещения "
-"шарика влево или вправо, и вниз или пробел для того, чтобы бросить шарик. "
-"Побеждает игрок, первый создавший линию из четырёх шариков."
+"бросить шарик. Ты также можешь использовать клавиши со стрелками для "
+"перемещения шарика влево или вправо, и вниз или пробел для того, чтобы "
+"бросить шарик. Побеждает игрок, первый создавший линию из четырёх шариков."
 
 #: activities/alphabet-sequence/ActivityInfo.qml:26
 #: activities/alphabet-sequence/ActivityInfo.qml:29
@@ -783,12 +742,11 @@ msgid ""
 "location. To know which letter you have to catch you can either remember it "
 "or check the bottom right corner."
 msgstr ""
-"Лови буквы в алфавитном порядке. Используй клавиши со стрелками на клавиатуре "
-"для того, "
-"чтобы двигать вертолёт. При использовании указывающего устройства просто "
-"щёлкай или "
-"нажимай на нужном облаке. Для того, чтобы знать, какую букву нужно поймать "
-"следующей, запомни её или посмотри в правом нижнем углу."
+"Лови буквы в алфавитном порядке. Используй клавиши со стрелками на "
+"клавиатуре для того, чтобы двигать вертолёт. При использовании указывающего "
+"устройства просто щёлкай или нажимай на нужном облаке. Для того, чтобы "
+"знать, какую букву нужно поймать следующей, запомни её или посмотри в правом "
+"нижнем углу."
 
 #: activities/alphabet-sequence/AlphabetSequence.qml:29
 msgctxt "AlphabetSequence|"
@@ -801,15 +759,11 @@ msgid "Matching Items"
 msgstr "Совпадающие предметы"
 
 #: activities/babymatch/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to make them match"
 msgstr "Перетаскивай предметы, чтобы они совпали"
 
 #: activities/babymatch/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid "Motor coordination: moving and clicking the mouse."
 msgctxt "ActivityInfo|"
 msgid "Motor coordination. Conceptual matching."
 msgstr "Координация движений. Сопоставление понятий."
@@ -830,16 +784,14 @@ msgid ""
 "area."
 msgstr ""
 "В основной части изображён набор предметов. В вертикальной области (слева от "
-"основной части) показан другой набор предметов. Каждый предмет в группе слева "
-"совпадает с ровно одним предметом в основной части экрана. В этой игре нужно "
-"найти логическую связь между этими предметами. Какие из них соответствуют "
-"друг другу? Перемести каждый объект в правильное красное место в основной "
-"части."
+"основной части) показан другой набор предметов. Каждый предмет в группе "
+"слева совпадает с ровно одним предметом в основной части экрана. В этой игре "
+"нужно найти логическую связь между этими предметами. Какие из них "
+"соответствуют друг другу? Перемести каждый объект в правильное красное место "
+"в основной части."
 
 #: activities/babymatch/resource/board/board1_0.qml:25
 #: activities/babyshapes/resource/board/board1_0.qml:25
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "board1_0|"
 msgid "Drag and Drop the items to make them match"
 msgstr "Перетаскивай предметы, чтобы они совпали"
@@ -851,8 +803,6 @@ msgstr "Реши головоломку"
 
 #: activities/babyshapes/ActivityInfo.qml:31
 #: activities/details/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the shapes on their respective targets"
 msgstr "Перетаскивай предметы на соответствующие им места"
@@ -914,32 +864,24 @@ msgid "Make the ball go to Tux"
 msgstr "Бросьте мяч пингвинёнку Туксу"
 
 #: activities/ballcatch/ActivityInfo.qml:27
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Press the two shift keys at the same time, to make the ball go in a "
-#| "straight line."
 msgctxt "ActivityInfo|"
 msgid ""
 "Press the left and right arrow keys at the same time, to make the ball go in "
 "a straight line."
 msgstr ""
-"Нажми две клавиши со стрелками вправо и влево одновременно, чтобы бросить мяч "
-"по прямой линии."
+"Нажми две клавиши со стрелками вправо и влево одновременно, чтобы бросить "
+"мяч по прямой линии."
 
 #: activities/ballcatch/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Press the two shift keys at the same time, to make the ball go in a "
-#| "straight line."
 msgctxt "ActivityInfo|"
 msgid ""
 "Press the left and right arrow at the same time, to make the ball go in a "
 "straight line. On a touch screen you have to hit the two hands at the same "
 "time."
 msgstr ""
-"Нажми две клавиши со стрелками вправо и влево одновременно, чтобы бросить мяч "
-"по прямой линии. На сенсорном экране вместо этого нужно нажать двумя руками "
-"одновременно."
+"Нажми две клавиши со стрелками вправо и влево одновременно, чтобы бросить "
+"мяч по прямой линии. На сенсорном экране вместо этого нужно нажать двумя "
+"руками одновременно."
 
 #: activities/ballcatch/Ballcatch.qml:242
 msgctxt "Ballcatch|"
@@ -967,8 +909,6 @@ msgid "Learn and memorize the Braille system"
 msgstr "Выучи систему записи Брайля"
 
 #: activities/braille_alphabets/ActivityInfo.qml:29
-#| msgctxt "ActivityInfo|"
-#| msgid "Let kids discover the Braille system."
 msgctxt "ActivityInfo|"
 msgid "Let children discover the Braille system."
 msgstr "Ознакомиться с системой записи Брайля"
@@ -1000,8 +940,8 @@ msgid ""
 "Look at the Braille character map and observe how similar the first and "
 "second line are."
 msgstr ""
-"Взгляни на таблицу символов Брайля и обрати внимание на схожесть первой "
-"и второй строки."
+"Взгляни на таблицу символов Брайля и обрати внимание на схожесть первой и "
+"второй строки."
 
 #: activities/braille_alphabets/braille_alphabets.js:73
 msgctxt "braille_alphabets|"
@@ -1091,8 +1031,6 @@ msgstr "Щёлкни на точках в ячейке Брайля, чтобы 
 #: activities/braille_alphabets/questions.js:166
 #: activities/braille_alphabets/questions.js:170
 #, qt-format
-#| msgctxt "questions|"
-#| msgid "Click on the dots in braille cell area to produce the letter %1."
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the number %1."
 msgstr "Щёлкни на точках в ячейке Брайля, чтобы получилось число %1."
@@ -1103,8 +1041,6 @@ msgstr "Щёлкни на точках в ячейке Брайля, чтобы 
 #: activities/braille_alphabets/questions.js:188
 #: activities/braille_alphabets/questions.js:192
 #, qt-format
-#| msgctxt "questions|"
-#| msgid "Click on the dots in braille cell area to produce the letter %1."
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the symbol %1."
 msgstr "Щёлкни на точках в ячейке Брайля, чтобы получился символ %1."
@@ -1115,15 +1051,11 @@ msgid "Braille Fun"
 msgstr "Веселье с Брайлем"
 
 #: activities/braille_fun/ActivityInfo.qml:27
-#| msgctxt "FirstScreen|"
-#| msgid "Braille : Unlocking the Code"
 msgctxt "ActivityInfo|"
 msgid "Braille the letters"
 msgstr "Буквы в азбуке Брайля"
 
 #: activities/braille_fun/ActivityInfo.qml:30
-#| msgctxt "FirstScreen|"
-#| msgid "Braille : Unlocking the Code"
 msgctxt "ActivityInfo|"
 msgid "Braille Alphabet Codes"
 msgstr "Коды Брайля для букв алфавита"
@@ -1504,26 +1436,19 @@ msgstr "Распознать буквы"
 
 #: activities/click_on_letter/ActivityInfo.qml:30
 #: activities/click_on_letter_up/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid "Visual letter-recognition. Can move the mouse."
 msgctxt "ActivityInfo|"
 msgid "Visual letter-recognition."
 msgstr "Визуальное распознавание букв."
 
 # BUGME: where is my mouth icon? --aspotashev
 #: activities/click_on_letter/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "A letter is spoken. Click on the matching letter in the main area. You "
-#| "can listen to the letter again, by clicking on the mouth icon in the "
-#| "bottom box."
 msgctxt "ActivityInfo|"
 msgid ""
 "A letter is spoken. Click on the matching letter in the main area. You can "
 "listen to the letter again, by clicking on the mouth icon."
 msgstr ""
-"Произносится буква. Щёлкни по соответствующей букве в основной части "
-"экрана. Можно ещё раз прослушать букву щелчком по значку со ртом."
+"Произносится буква. Щёлкни по соответствующей букве в основной части экрана. "
+"Можно ещё раз прослушать букву щелчком по значку со ртом."
 
 #: activities/click_on_letter_up/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1536,8 +1461,8 @@ msgid ""
 "A letter is spoken. Click on the matching letter in the main area. You can "
 "listen to the letter again, by clicking on the mouth icon in the bottom box."
 msgstr ""
-"Произносится буква. Щёлкни по соответствующей букве в основной части "
-"экрана. Можно ещё раз прослушать букву щелчком по значку со ртом."
+"Произносится буква. Щёлкни по соответствующей букве в основной части экрана. "
+"Можно ещё раз прослушать букву щелчком по значку со ртом."
 
 #: activities/clickanddraw/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6099,8 +6024,6 @@ msgstr ""
 "золотых самородков."
 
 #: activities/mining/ActivityInfo.qml:29
-#| msgctxt "ActivityInfo|"
-#| msgid "Learn to use the mousewheel to zoom in and out."
 msgctxt "ActivityInfo|"
 msgid ""
 "Learn to use the mousewheel or the zoom / pinch gesture to zoom in and out."
@@ -7112,8 +7035,6 @@ msgstr ""
 
 #: core/DialogAbout.qml:42
 #, qt-format
-#| msgctxt "DialogAbout|"
-#| msgid "About GCompris"
 msgctxt "DialogAbout|"
 msgid "GCompris %1"
 msgstr "GCompris %1"
