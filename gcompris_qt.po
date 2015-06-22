@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-06-23 02:24+0300\n"
+"PO-Revision-Date: 2015-06-23 03:04+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -2201,17 +2201,17 @@ msgstr "Регионы Италии"
 #: activities/geo-country/resource/board/board11_1.qml:25
 msgctxt "board11_1|"
 msgid "Districts of Northern Italy"
-msgstr "Регионы Северной Италии"
+msgstr "Северные регионы Италии"
 
 #: activities/geo-country/resource/board/board11_2.qml:25
 msgctxt "board11_2|"
 msgid "Districts of Central Italy"
-msgstr "Регионы Центральной Италии"
+msgstr "Центральные регионы Италии"
 
 #: activities/geo-country/resource/board/board11_3.qml:25
 msgctxt "board11_3|"
 msgid "Districts of Southern Italy"
-msgstr "Регионы Южной Италии"
+msgstr "Южные регионы Италии"
 
 #: activities/geo-country/resource/board/board12_0.qml:25
 msgctxt "board12_0|"
@@ -2463,7 +2463,7 @@ msgstr "Азербайджан"
 #: activities/geography/resource/board/board10_0.qml:207
 msgctxt "board10_0|"
 msgid "Asia|Georgia"
-msgstr ""
+msgstr "Грузия"
 
 #: activities/geography/resource/board/board10_0.qml:213
 msgctxt "board10_0|"
@@ -2513,17 +2513,17 @@ msgstr "Океания"
 #: activities/geography/resource/board/board11_0.qml:33
 msgctxt "board11_0|"
 msgid "Pitcairn Islands"
-msgstr ""
+msgstr "Острова Питкэрн"
 
 #: activities/geography/resource/board/board11_0.qml:39
 msgctxt "board11_0|"
 msgid "French Polynesia"
-msgstr ""
+msgstr "Французская Полинезия"
 
 #: activities/geography/resource/board/board11_0.qml:45
 msgctxt "board11_0|"
 msgid "Papua New Guinea"
-msgstr "Папуа-Новая Гвинея"
+msgstr "Папуа — Новая Гвинея"
 
 #: activities/geography/resource/board/board11_0.qml:51
 msgctxt "board11_0|"
@@ -2543,12 +2543,12 @@ msgstr "Палау"
 #: activities/geography/resource/board/board11_0.qml:69
 msgctxt "board11_0|"
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Северные Марианские острова"
 
 #: activities/geography/resource/board/board11_0.qml:75
 msgctxt "board11_0|"
 msgid "Micronesia"
-msgstr ""
+msgstr "Микронезия"
 
 #: activities/geography/resource/board/board11_0.qml:81
 #| msgctxt "DialogHelp|"
@@ -2570,7 +2570,7 @@ msgstr "Тонга"
 #: activities/geography/resource/board/board11_0.qml:99
 msgctxt "board11_0|"
 msgid "New Caledonia"
-msgstr ""
+msgstr "Новая Каледония"
 
 #: activities/geography/resource/board/board11_0.qml:105
 msgctxt "board11_0|"
@@ -2600,12 +2600,12 @@ msgstr "Новая Зеландия"
 #: activities/geography/resource/board/board11_0.qml:135
 msgctxt "board11_0|"
 msgid "Cook Islands"
-msgstr ""
+msgstr "Острова Кука"
 
 #: activities/geography/resource/board/board11_0.qml:141
 msgctxt "board11_0|"
 msgid "American Samoa"
-msgstr ""
+msgstr "Американское Самоа"
 
 #: activities/geography/resource/board/board11_0.qml:147
 msgctxt "board11_0|"
@@ -2844,7 +2844,7 @@ msgstr "Белиз"
 #: activities/geography/resource/board/board3_1.qml:125
 msgctxt "board3_1|"
 msgid "Bahamas"
-msgstr "Багамские острова"
+msgstr "Багамские Острова"
 
 #: activities/geography/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
@@ -3042,12 +3042,11 @@ msgid "Slovenia"
 msgstr "Словения"
 
 #: activities/geography/resource/board/board6_0.qml:69
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board6_0|"
 msgid "Slovak Republic"
-msgstr "Чехия"
+msgstr "Словакия"
 
 #: activities/geography/resource/board/board6_0.qml:76
 #| msgctxt "DialogConfig|"
@@ -3136,7 +3135,7 @@ msgstr "Болгария"
 #: activities/geography/resource/board/board6_0.qml:174
 msgctxt "board6_0|"
 msgid "Bosnia Herzegovina"
-msgstr ""
+msgstr "Босния и Герцеговина"
 
 #: activities/geography/resource/board/board6_0.qml:181
 msgctxt "board6_0|"
@@ -3151,7 +3150,7 @@ msgstr "Албания"
 #: activities/geography/resource/board/board7_0.qml:25
 msgctxt "board7_0|"
 msgid "Northern Africa"
-msgstr ""
+msgstr "Северная Африка"
 
 #: activities/geography/resource/board/board7_0.qml:34
 msgctxt "board7_0|"
@@ -3236,7 +3235,7 @@ msgstr "Либерия"
 #: activities/geography/resource/board/board7_0.qml:146
 msgctxt "board7_0|"
 msgid "Ivory Coast"
-msgstr ""
+msgstr "Кот-д’Ивуар"
 
 #: activities/geography/resource/board/board7_0.qml:153
 msgctxt "board7_0|"
@@ -3246,7 +3245,7 @@ msgstr "Гвинея"
 #: activities/geography/resource/board/board7_0.qml:160
 msgctxt "board7_0|"
 msgid "Guinea Bissau"
-msgstr ""
+msgstr "Гвинея-Бисау"
 
 #: activities/geography/resource/board/board7_0.qml:167
 msgctxt "board7_0|"
@@ -3294,12 +3293,11 @@ msgid "Chad"
 msgstr "Чад"
 
 #: activities/geography/resource/board/board7_0.qml:230
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board7_0|"
 msgid "Central African Republic"
-msgstr "Чехия"
+msgstr "Центральноафриканская Республика"
 
 #: activities/geography/resource/board/board7_0.qml:237
 msgctxt "board7_0|"
@@ -3364,7 +3362,7 @@ msgstr "Руанда"
 #: activities/geography/resource/board/board8_0.qml:83
 msgctxt "board8_0|"
 msgid "Republic of Congo"
-msgstr ""
+msgstr "Республика Конго"
 
 #: activities/geography/resource/board/board8_0.qml:90
 msgctxt "board8_0|"
@@ -3409,7 +3407,7 @@ msgstr "Экваториальная Гвинея"
 #: activities/geography/resource/board/board8_0.qml:146
 msgctxt "board8_0|"
 msgid "Democratic Republic of Congo"
-msgstr ""
+msgstr "Демократическая Республика Конго"
 
 #: activities/geography/resource/board/board8_0.qml:153
 msgctxt "board8_0|"
@@ -3479,14 +3477,14 @@ msgstr "Сенегал"
 #: activities/geography/resource/board/board9_0.qml:97
 msgctxt "board9_0|"
 msgid "Democratic Republic of Congo"
-msgstr ""
+msgstr "Демократическая Республика Конго"
 
 #: activities/geography/resource/board/board9_0.qml:104
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board9_0|"
 msgid "Central African Republic"
-msgstr "Центрально-Африканская Республика"
+msgstr "Центральноафриканская Республика"
 
 #: activities/geography/resource/board/board9_0.qml:111
 msgctxt "board9_0|"
@@ -3586,12 +3584,12 @@ msgstr "Египет"
 #: activities/geography/resource/board/board9_0.qml:244
 msgctxt "board9_0|"
 msgid "Ivory Coast"
-msgstr ""
+msgstr "Кот-д’Ивуар"
 
 #: activities/geography/resource/board/board9_0.qml:251
 msgctxt "board9_0|"
 msgid "Republic of Congo"
-msgstr ""
+msgstr "Республика Конго"
 
 #: activities/geography/resource/board/board9_0.qml:258
 msgctxt "board9_0|"
@@ -4055,17 +4053,16 @@ msgid ""
 msgstr ""
 
 #: activities/hexagon/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "hexagon"
 msgctxt "ActivityInfo|"
 msgid "Hexagon"
-msgstr "Шестиугольник"
+msgstr "Шестиугольники"
 
 #: activities/hexagon/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Find the strawberry by clicking on the blue fields"
-msgstr "Найдите клубничку, щёлкая по голубым полям"
+msgstr "Найди клубничку, щёлкая по голубым полям"
 
 #: activities/hexagon/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -5745,7 +5742,6 @@ msgid "Select an activity to run it."
 msgstr "Щёлкните левой кнопкой мыши на упражнении."
 
 #: activities/menu/ActivityInfo.qml:25
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "GCompris is a collection of educational games that provides different "
@@ -5755,7 +5751,8 @@ msgid ""
 "GCompris is a high quality educational software suite comprising of numerous "
 "activities for children aged 2 to 10."
 msgstr ""
-"GCompris — коллекция обучающих игр и упражнений для детей от 2 лет и старше."
+"GCompris — программная коллекция обучающих игр и упражнений для детей от 2 "
+"лет."
 
 #: activities/menu/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -7171,7 +7168,7 @@ msgstr ""
 #: core/main.cpp:120
 msgctxt "QObject|"
 msgid "Run GCompris with the default system cursor."
-msgstr ""
+msgstr "Запустить GCompris со стандартным системным курсором мыши."
 
 #: core/main.cpp:123
 msgctxt "QObject|"
