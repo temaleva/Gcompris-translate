@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-06-22 00:48+0300\n"
+"PO-Revision-Date: 2015-06-23 02:14+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -2312,115 +2312,113 @@ msgid "Asia"
 msgstr ""
 
 #: activities/geography/resource/board/board10_0.qml:33
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Russian"
 msgctxt "board10_0|"
 msgid "Russia"
-msgstr "Русский"
+msgstr "Россия"
 
 #: activities/geography/resource/board/board10_0.qml:39
 msgctxt "board10_0|"
 msgid "Mongolia"
-msgstr ""
+msgstr "Монголия"
 
 #: activities/geography/resource/board/board10_0.qml:45
 msgctxt "board10_0|"
 msgid "Japan"
-msgstr ""
+msgstr "Япония"
 
 #: activities/geography/resource/board/board10_0.qml:51
 msgctxt "board10_0|"
 msgid "North Korea"
-msgstr ""
+msgstr "Корейская Народная Демократическая Республика"
 
 #: activities/geography/resource/board/board10_0.qml:57
 msgctxt "board10_0|"
 msgid "South Korea"
-msgstr ""
+msgstr "Республика Корея"
 
 #: activities/geography/resource/board/board10_0.qml:63
 msgctxt "board10_0|"
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Казахстан"
 
 #: activities/geography/resource/board/board10_0.qml:69
 msgctxt "board10_0|"
 msgid "Uzbekistan"
-msgstr ""
+msgstr "Узбекистан"
 
 #: activities/geography/resource/board/board10_0.qml:75
 msgctxt "board10_0|"
 msgid "Taiwan"
-msgstr ""
+msgstr "Тайвань"
 
 #: activities/geography/resource/board/board10_0.qml:81
 msgctxt "board10_0|"
 msgid "Vietnam"
-msgstr ""
+msgstr "Вьетнам"
 
 #: activities/geography/resource/board/board10_0.qml:87
 msgctxt "board10_0|"
 msgid "Cambodia"
-msgstr ""
+msgstr "Камбоджа"
 
 #: activities/geography/resource/board/board10_0.qml:93
 msgctxt "board10_0|"
 msgid "Laos"
-msgstr ""
+msgstr "Лаос"
 
 #: activities/geography/resource/board/board10_0.qml:99
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Thai"
 msgctxt "board10_0|"
 msgid "Thailand"
-msgstr "Тайский"
+msgstr "Таиланд"
 
 #: activities/geography/resource/board/board10_0.qml:105
 msgctxt "board10_0|"
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Шри-Ланка"
 
 #: activities/geography/resource/board/board10_0.qml:111
 msgctxt "board10_0|"
 msgid "China"
-msgstr ""
+msgstr "Китай"
 
 #: activities/geography/resource/board/board10_0.qml:117
 msgctxt "board10_0|"
 msgid "India"
-msgstr ""
+msgstr "Индия"
 
 #: activities/geography/resource/board/board10_0.qml:123
 msgctxt "board10_0|"
 msgid "Bangladesh"
-msgstr ""
+msgstr "Бангладеш"
 
 #: activities/geography/resource/board/board10_0.qml:129
 msgctxt "board10_0|"
 msgid "Bhutan"
-msgstr ""
+msgstr "Бутан"
 
 #: activities/geography/resource/board/board10_0.qml:135
 msgctxt "board10_0|"
 msgid "Nepal"
-msgstr ""
+msgstr "Непал"
 
 #: activities/geography/resource/board/board10_0.qml:141
 msgctxt "board10_0|"
 msgid "Pakistan"
-msgstr ""
+msgstr "Пакистан"
 
 #: activities/geography/resource/board/board10_0.qml:147
 msgctxt "board10_0|"
 msgid "Myanmar"
-msgstr ""
+msgstr "Мьянма"
 
 #: activities/geography/resource/board/board10_0.qml:153
 msgctxt "board10_0|"
 msgid "Philippines"
-msgstr ""
+msgstr "Филиппины"
 
 #: activities/geography/resource/board/board10_0.qml:159
 msgctxt "board10_0|"
@@ -2430,37 +2428,37 @@ msgstr ""
 #: activities/geography/resource/board/board10_0.qml:165
 msgctxt "board10_0|"
 msgid "Malaysia"
-msgstr ""
+msgstr "Малайзия"
 
 #: activities/geography/resource/board/board10_0.qml:171
 msgctxt "board10_0|"
 msgid "Afghanistan"
-msgstr ""
+msgstr "Афганистан"
 
 #: activities/geography/resource/board/board10_0.qml:177
 msgctxt "board10_0|"
 msgid "Tajikistan"
-msgstr ""
+msgstr "Таджикистан"
 
 #: activities/geography/resource/board/board10_0.qml:183
 msgctxt "board10_0|"
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Киргизия"
 
 #: activities/geography/resource/board/board10_0.qml:189
 msgctxt "board10_0|"
 msgid "Turkmenistan"
-msgstr ""
+msgstr "Туркменистан"
 
 #: activities/geography/resource/board/board10_0.qml:195
 msgctxt "board10_0|"
 msgid "Iran"
-msgstr ""
+msgstr "Иран"
 
 #: activities/geography/resource/board/board10_0.qml:201
 msgctxt "board10_0|"
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Азербайджан"
 
 #: activities/geography/resource/board/board10_0.qml:207
 msgctxt "board10_0|"
@@ -2475,37 +2473,37 @@ msgstr ""
 #: activities/geography/resource/board/board10_0.qml:219
 msgctxt "board10_0|"
 msgid "Syria"
-msgstr ""
+msgstr "Сирия"
 
 #: activities/geography/resource/board/board10_0.qml:225
 msgctxt "board10_0|"
 msgid "Iraq"
-msgstr ""
+msgstr "Ирак"
 
 #: activities/geography/resource/board/board10_0.qml:231
 msgctxt "board10_0|"
 msgid "Jordan"
-msgstr ""
+msgstr "Иордания"
 
 #: activities/geography/resource/board/board10_0.qml:237
 msgctxt "board10_0|"
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "Саудовская Аравия"
 
 #: activities/geography/resource/board/board10_0.qml:243
 msgctxt "board10_0|"
 msgid "Yemen"
-msgstr ""
+msgstr "Йемен"
 
 #: activities/geography/resource/board/board10_0.qml:249
 msgctxt "board10_0|"
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Объединённые Арабские Эмираты"
 
 #: activities/geography/resource/board/board10_0.qml:255
 msgctxt "board10_0|"
 msgid "Oman"
-msgstr ""
+msgstr "Оман"
 
 #: activities/geography/resource/board/board11_0.qml:25
 msgctxt "board11_0|"
@@ -2525,22 +2523,22 @@ msgstr ""
 #: activities/geography/resource/board/board11_0.qml:45
 msgctxt "board11_0|"
 msgid "Papua New Guinea"
-msgstr ""
+msgstr "Папуа-Новая Гвинея"
 
 #: activities/geography/resource/board/board11_0.qml:51
 msgctxt "board11_0|"
 msgid "East Timor"
-msgstr ""
+msgstr "Восточный Тимор"
 
 #: activities/geography/resource/board/board11_0.qml:57
 msgctxt "board11_0|"
 msgid "Indonesia"
-msgstr ""
+msgstr "Индонезия"
 
 #: activities/geography/resource/board/board11_0.qml:63
 msgctxt "board11_0|"
 msgid "Palau"
-msgstr ""
+msgstr "Палау"
 
 #: activities/geography/resource/board/board11_0.qml:69
 msgctxt "board11_0|"
@@ -2553,22 +2551,21 @@ msgid "Micronesia"
 msgstr ""
 
 #: activities/geography/resource/board/board11_0.qml:81
-#, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Manual"
 msgctxt "board11_0|"
 msgid "Vanuatu"
-msgstr "Руководство"
+msgstr "Вануату"
 
 #: activities/geography/resource/board/board11_0.qml:87
 msgctxt "board11_0|"
 msgid "Tuvalu"
-msgstr ""
+msgstr "Тувалу"
 
 #: activities/geography/resource/board/board11_0.qml:93
 msgctxt "board11_0|"
 msgid "Tonga"
-msgstr ""
+msgstr "Тонга"
 
 #: activities/geography/resource/board/board11_0.qml:99
 msgctxt "board11_0|"
@@ -2578,27 +2575,27 @@ msgstr ""
 #: activities/geography/resource/board/board11_0.qml:105
 msgctxt "board11_0|"
 msgid "Marshall Islands"
-msgstr ""
+msgstr "Маршалловы Острова"
 
 #: activities/geography/resource/board/board11_0.qml:111
 msgctxt "board11_0|"
 msgid "Kiribati"
-msgstr ""
+msgstr "Кирибати"
 
 #: activities/geography/resource/board/board11_0.qml:117
 msgctxt "board11_0|"
 msgid "Fiji"
-msgstr ""
+msgstr "Фиджи"
 
 #: activities/geography/resource/board/board11_0.qml:123
 msgctxt "board11_0|"
 msgid "Solomon Islands"
-msgstr ""
+msgstr "Соломоновы Острова"
 
 #: activities/geography/resource/board/board11_0.qml:129
 msgctxt "board11_0|"
 msgid "New Zealand"
-msgstr ""
+msgstr "Новая Зеландия"
 
 #: activities/geography/resource/board/board11_0.qml:135
 msgctxt "board11_0|"
@@ -2613,17 +2610,17 @@ msgstr ""
 #: activities/geography/resource/board/board11_0.qml:147
 msgctxt "board11_0|"
 msgid "Australia"
-msgstr ""
+msgstr "Австралия"
 
 #: activities/geography/resource/board/board11_0.qml:153
 msgctxt "board11_0|"
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "Внешние малые острова США"
 
 #: activities/geography/resource/board/board11_0.qml:159
 msgctxt "board11_0|"
 msgid "Hawaii"
-msgstr ""
+msgstr "Гавайи"
 
 #: activities/geography/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
@@ -2633,22 +2630,22 @@ msgstr ""
 #: activities/geography/resource/board/board1_0.qml:34
 msgctxt "board1_0|"
 msgid "Oceania"
-msgstr ""
+msgstr "Океания"
 
 #: activities/geography/resource/board/board1_0.qml:41
 msgctxt "board1_0|"
 msgid "Europe"
-msgstr ""
+msgstr "Европа"
 
 #: activities/geography/resource/board/board1_0.qml:48
 msgctxt "board1_0|"
 msgid "Asia"
-msgstr ""
+msgstr "Азия"
 
 #: activities/geography/resource/board/board1_0.qml:55
 msgctxt "board1_0|"
 msgid "Antarctica"
-msgstr ""
+msgstr "Антарктида"
 
 #: activities/geography/resource/board/board1_0.qml:62
 msgctxt "board1_0|"
@@ -2663,12 +2660,12 @@ msgstr ""
 #: activities/geography/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
 msgid "North America"
-msgstr ""
+msgstr "Северная Америка"
 
 #: activities/geography/resource/board/board2_0.qml:34
 msgctxt "board2_0|"
 msgid "Alaska"
-msgstr ""
+msgstr "Аляска"
 
 #: activities/geography/resource/board/board2_0.qml:41
 msgctxt "board2_0|"
@@ -2693,7 +2690,7 @@ msgstr ""
 #: activities/geography/resource/board/board2_0.qml:69
 msgctxt "board2_0|"
 msgid "Canada"
-msgstr ""
+msgstr "Канада"
 
 #: activities/geography/resource/board/board3_0.qml:26
 msgctxt "board3_0|"
@@ -2781,7 +2778,7 @@ msgstr ""
 #: activities/geography/resource/board/board3_1.qml:34
 msgctxt "board3_1|"
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Пуэрто-Рико"
 
 #: activities/geography/resource/board/board3_1.qml:41
 msgctxt "board3_1|"
@@ -2791,143 +2788,141 @@ msgstr ""
 #: activities/geography/resource/board/board3_1.qml:48
 msgctxt "board3_1|"
 msgid "Nicaragua"
-msgstr ""
+msgstr "Никарагуа"
 
 #: activities/geography/resource/board/board3_1.qml:55
 msgctxt "board3_1|"
 msgid "Mexico"
-msgstr ""
+msgstr "Мексика"
 
 #: activities/geography/resource/board/board3_1.qml:62
 msgctxt "board3_1|"
 msgid "Jamaica"
-msgstr ""
+msgstr "Ямайка"
 
 #: activities/geography/resource/board/board3_1.qml:69
 msgctxt "board3_1|"
 msgid "Honduras"
-msgstr ""
+msgstr "Гондурас"
 
 #: activities/geography/resource/board/board3_1.qml:76
 msgctxt "board3_1|"
 msgid "Haiti"
-msgstr ""
+msgstr "Гаити"
 
 #: activities/geography/resource/board/board3_1.qml:83
 msgctxt "board3_1|"
 msgid "Guatemala"
-msgstr ""
+msgstr "Гватемала"
 
 #: activities/geography/resource/board/board3_1.qml:90
 msgctxt "board3_1|"
 msgid "El Salvador"
-msgstr ""
+msgstr "Сальвадор"
 
 #: activities/geography/resource/board/board3_1.qml:97
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board3_1|"
 msgid "Dominican Republic"
-msgstr "Чехия"
+msgstr "Доминиканская Республика"
 
 #: activities/geography/resource/board/board3_1.qml:104
 msgctxt "board3_1|"
 msgid "Cuba"
-msgstr ""
+msgstr "Куба"
 
 #: activities/geography/resource/board/board3_1.qml:111
 msgctxt "board3_1|"
 msgid "Costa Rica"
-msgstr ""
+msgstr "Коста-Рика"
 
 #: activities/geography/resource/board/board3_1.qml:118
 msgctxt "board3_1|"
 msgid "Belize"
-msgstr ""
+msgstr "Белиз"
 
 #: activities/geography/resource/board/board3_1.qml:125
 msgctxt "board3_1|"
 msgid "Bahamas"
-msgstr ""
+msgstr "Багамские острова"
 
 #: activities/geography/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
 msgid "South America"
-msgstr ""
+msgstr "Южная Америка"
 
 #: activities/geography/resource/board/board4_0.qml:34
 msgctxt "board4_0|"
 msgid "Venezuela"
-msgstr ""
+msgstr "Венесуэла"
 
 #: activities/geography/resource/board/board4_0.qml:41
 msgctxt "board4_0|"
 msgid "Uruguay"
-msgstr ""
+msgstr "Уругвай"
 
 #: activities/geography/resource/board/board4_0.qml:48
 msgctxt "board4_0|"
 msgid "Suriname"
-msgstr ""
+msgstr "Суринам"
 
 #: activities/geography/resource/board/board4_0.qml:55
 msgctxt "board4_0|"
 msgid "Peru"
-msgstr ""
+msgstr "Перу"
 
 #: activities/geography/resource/board/board4_0.qml:62
 msgctxt "board4_0|"
 msgid "Paraguay"
-msgstr ""
+msgstr "Парагвай"
 
 #: activities/geography/resource/board/board4_0.qml:69
 msgctxt "board4_0|"
 msgid "Panama"
-msgstr ""
+msgstr "Панама"
 
 #: activities/geography/resource/board/board4_0.qml:76
 msgctxt "board4_0|"
 msgid "Guyana"
-msgstr ""
+msgstr "Гайана"
 
 #: activities/geography/resource/board/board4_0.qml:83
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "French"
 msgctxt "board4_0|"
 msgid "French Guiana"
-msgstr "Французский"
+msgstr "Французская Гвиана"
 
 #: activities/geography/resource/board/board4_0.qml:90
 msgctxt "board4_0|"
 msgid "Ecuador"
-msgstr ""
+msgstr "Эквадор"
 
 #: activities/geography/resource/board/board4_0.qml:97
 msgctxt "board4_0|"
 msgid "Colombia"
-msgstr ""
+msgstr "Колумбия"
 
 #: activities/geography/resource/board/board4_0.qml:104
 msgctxt "board4_0|"
 msgid "Chile"
-msgstr ""
+msgstr "Чили"
 
 #: activities/geography/resource/board/board4_0.qml:111
 msgctxt "board4_0|"
 msgid "Brazil"
-msgstr ""
+msgstr "Бразилия"
 
 #: activities/geography/resource/board/board4_0.qml:118
 msgctxt "board4_0|"
 msgid "Bolivia"
-msgstr ""
+msgstr "Боливия"
 
 #: activities/geography/resource/board/board4_0.qml:125
 msgctxt "board4_0|"
 msgid "Argentina"
-msgstr ""
+msgstr "Аргентина"
 
 #: activities/geography/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
@@ -2937,88 +2932,86 @@ msgstr ""
 #: activities/geography/resource/board/board5_0.qml:34
 msgctxt "board5_0|"
 msgid "United Kingdom"
-msgstr ""
+msgstr "Великобритания"
 
 #: activities/geography/resource/board/board5_0.qml:41
 msgctxt "board5_0|"
 msgid "Switzerland"
-msgstr ""
+msgstr "Швейцария"
 
 #: activities/geography/resource/board/board5_0.qml:48
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Swedish"
 msgctxt "board5_0|"
 msgid "Sweden"
-msgstr "Шведский"
+msgstr "Швеция"
 
 #: activities/geography/resource/board/board5_0.qml:55
 msgctxt "board5_0|"
 msgid "Spain"
-msgstr ""
+msgstr "Испания"
 
 #: activities/geography/resource/board/board5_0.qml:62
 msgctxt "board5_0|"
 msgid "Portugal"
-msgstr ""
+msgstr "Португалия"
 
 #: activities/geography/resource/board/board5_0.qml:69
 msgctxt "board5_0|"
 msgid "Norway"
-msgstr ""
+msgstr "Норвегия"
 
 #: activities/geography/resource/board/board5_0.qml:76
 msgctxt "board5_0|"
 msgid "The Netherlands"
-msgstr ""
+msgstr "Нидерланды"
 
 #: activities/geography/resource/board/board5_0.qml:90
 msgctxt "board5_0|"
 msgid "Italy"
-msgstr ""
+msgstr "Италия"
 
 #: activities/geography/resource/board/board5_0.qml:97
 msgctxt "board5_0|"
 msgid "Ireland"
-msgstr ""
+msgstr "Ирландия"
 
 #: activities/geography/resource/board/board5_0.qml:104
 msgctxt "board5_0|"
 msgid "Iceland"
-msgstr ""
+msgstr "Исландия"
 
 #: activities/geography/resource/board/board5_0.qml:111
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "German"
 msgctxt "board5_0|"
 msgid "Germany"
-msgstr "Немецкий"
+msgstr "Германия"
 
 #: activities/geography/resource/board/board5_0.qml:118
 msgctxt "board5_0|"
 msgid "France"
-msgstr ""
+msgstr "Франция"
 
 #: activities/geography/resource/board/board5_0.qml:125
 msgctxt "board5_0|"
 msgid "Finland"
-msgstr ""
+msgstr "Финляндия"
 
 #: activities/geography/resource/board/board5_0.qml:132
 msgctxt "board5_0|"
 msgid "Denmark"
-msgstr ""
+msgstr "Дания"
 
 #: activities/geography/resource/board/board5_0.qml:139
 msgctxt "board5_0|"
 msgid "Belgium"
-msgstr ""
+msgstr "Бельгия"
 
 #: activities/geography/resource/board/board5_0.qml:146
 msgctxt "board5_0|"
 msgid "Austria"
-msgstr ""
+msgstr "Австрия"
 
 #: activities/geography/resource/board/board6_0.qml:25
 msgctxt "board6_0|"
@@ -3026,30 +3019,28 @@ msgid "Eastern Europe"
 msgstr ""
 
 #: activities/geography/resource/board/board6_0.qml:41
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Greek"
 msgctxt "board6_0|"
 msgid "Greece"
-msgstr "Греческий"
+msgstr "Греция"
 
 #: activities/geography/resource/board/board6_0.qml:48
 msgctxt "board6_0|"
 msgid "Ukraine"
-msgstr ""
+msgstr "Украина"
 
 #: activities/geography/resource/board/board6_0.qml:55
 msgctxt "board6_0|"
 msgid "Turkey"
-msgstr ""
+msgstr "Турция"
 
 #: activities/geography/resource/board/board6_0.qml:62
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Slovenian"
 msgctxt "board6_0|"
 msgid "Slovenia"
-msgstr "Словенский"
+msgstr "Словения"
 
 #: activities/geography/resource/board/board6_0.qml:69
 #, fuzzy
@@ -3060,77 +3051,71 @@ msgid "Slovak Republic"
 msgstr "Чехия"
 
 #: activities/geography/resource/board/board6_0.qml:76
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Montenegrin"
 msgctxt "board6_0|"
 msgid "Montenegro"
-msgstr "Черногорский"
+msgstr "Черногория"
 
 #: activities/geography/resource/board/board6_0.qml:83
 msgctxt "board6_0|"
 msgid "Serbia"
-msgstr ""
+msgstr "Сербия"
 
 #: activities/geography/resource/board/board6_0.qml:90
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Russian"
 msgctxt "board6_0|"
 msgid "Russia"
-msgstr "Русский"
+msgstr "Россия"
 
 #: activities/geography/resource/board/board6_0.qml:97
 msgctxt "board6_0|"
 msgid "Romania"
-msgstr ""
+msgstr "Румыния"
 
 #: activities/geography/resource/board/board6_0.qml:104
 msgctxt "board6_0|"
 msgid "Poland"
-msgstr ""
+msgstr "Польша"
 
 #: activities/geography/resource/board/board6_0.qml:111
 msgctxt "board6_0|"
 msgid "Moldova"
-msgstr ""
+msgstr "Молдавия"
 
 #: activities/geography/resource/board/board6_0.qml:118
 msgctxt "board6_0|"
 msgid "Macedonia"
-msgstr ""
+msgstr "Македония"
 
 #: activities/geography/resource/board/board6_0.qml:125
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Lithuanian"
 msgctxt "board6_0|"
 msgid "Lithuania"
-msgstr "Литовский"
+msgstr "Литва"
 
 #: activities/geography/resource/board/board6_0.qml:132
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Latvian"
 msgctxt "board6_0|"
 msgid "Latvia"
-msgstr "Латвийский"
+msgstr "Латвия"
 
 #: activities/geography/resource/board/board6_0.qml:139
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Hungarian"
 msgctxt "board6_0|"
 msgid "Hungary"
-msgstr "Венгерский"
+msgstr "Венгрия"
 
 #: activities/geography/resource/board/board6_0.qml:146
 msgctxt "board6_0|"
 msgid "Estonia"
-msgstr ""
+msgstr "Эстония"
 
 #: activities/geography/resource/board/board6_0.qml:153
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board6_0|"
@@ -3140,15 +3125,14 @@ msgstr "Чехия"
 #: activities/geography/resource/board/board6_0.qml:160
 msgctxt "board6_0|"
 msgid "Croatia"
-msgstr ""
+msgstr "Хорватия"
 
 #: activities/geography/resource/board/board6_0.qml:167
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Bulgarian"
 msgctxt "board6_0|"
 msgid "Bulgaria"
-msgstr "Болгарский"
+msgstr "Болгария"
 
 #: activities/geography/resource/board/board6_0.qml:174
 msgctxt "board6_0|"
@@ -3158,12 +3142,12 @@ msgstr ""
 #: activities/geography/resource/board/board6_0.qml:181
 msgctxt "board6_0|"
 msgid "Belarus"
-msgstr ""
+msgstr "Белоруссия"
 
 #: activities/geography/resource/board/board6_0.qml:188
 msgctxt "board6_0|"
 msgid "Albania"
-msgstr ""
+msgstr "Албания"
 
 #: activities/geography/resource/board/board7_0.qml:25
 msgctxt "board7_0|"
@@ -3173,7 +3157,7 @@ msgstr ""
 #: activities/geography/resource/board/board7_0.qml:34
 msgctxt "board7_0|"
 msgid "Western Sahara"
-msgstr ""
+msgstr "Западная Сахара"
 
 #: activities/geography/resource/board/board7_0.qml:41
 msgctxt "board7_0|"
@@ -3203,7 +3187,7 @@ msgstr ""
 #: activities/geography/resource/board/board7_0.qml:76
 msgctxt "board7_0|"
 msgid "Sierra Leone"
-msgstr ""
+msgstr "Сьерра-Леоне"
 
 #: activities/geography/resource/board/board7_0.qml:83
 msgctxt "board7_0|"
@@ -3273,7 +3257,7 @@ msgstr ""
 #: activities/geography/resource/board/board7_0.qml:174
 msgctxt "board7_0|"
 msgid "Gambia"
-msgstr ""
+msgstr "Гамбия"
 
 #: activities/geography/resource/board/board7_0.qml:181
 msgctxt "board7_0|"
@@ -3303,7 +3287,7 @@ msgstr ""
 #: activities/geography/resource/board/board7_0.qml:216
 msgctxt "board7_0|"
 msgid "Djibouti"
-msgstr ""
+msgstr "Джибути"
 
 #: activities/geography/resource/board/board7_0.qml:223
 msgctxt "board7_0|"
@@ -3366,7 +3350,7 @@ msgstr ""
 #: activities/geography/resource/board/board8_0.qml:62
 msgctxt "board8_0|"
 msgid "Swaziland"
-msgstr ""
+msgstr "Свазиленд"
 
 #: activities/geography/resource/board/board8_0.qml:69
 msgctxt "board8_0|"
@@ -3376,7 +3360,7 @@ msgstr ""
 #: activities/geography/resource/board/board8_0.qml:76
 msgctxt "board8_0|"
 msgid "Rwanda"
-msgstr ""
+msgstr "Руанда"
 
 #: activities/geography/resource/board/board8_0.qml:83
 msgctxt "board8_0|"
@@ -3406,7 +3390,7 @@ msgstr ""
 #: activities/geography/resource/board/board8_0.qml:118
 msgctxt "board8_0|"
 msgid "Lesotho"
-msgstr ""
+msgstr "Лесото"
 
 #: activities/geography/resource/board/board8_0.qml:125
 msgctxt "board8_0|"
@@ -3421,7 +3405,7 @@ msgstr ""
 #: activities/geography/resource/board/board8_0.qml:139
 msgctxt "board8_0|"
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "Экваториальная Гвинея"
 
 #: activities/geography/resource/board/board8_0.qml:146
 msgctxt "board8_0|"
@@ -3431,7 +3415,7 @@ msgstr ""
 #: activities/geography/resource/board/board8_0.qml:153
 msgctxt "board8_0|"
 msgid "Burundi"
-msgstr ""
+msgstr "Бурунди"
 
 #: activities/geography/resource/board/board8_0.qml:160
 msgctxt "board8_0|"
@@ -3446,52 +3430,52 @@ msgstr ""
 #: activities/geography/resource/board/board9_0.qml:25
 msgctxt "board9_0|"
 msgid "Africa"
-msgstr ""
+msgstr "Африка"
 
 #: activities/geography/resource/board/board9_0.qml:34
 msgctxt "board9_0|"
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Зимбабве"
 
 #: activities/geography/resource/board/board9_0.qml:41
 msgctxt "board9_0|"
 msgid "Zambia"
-msgstr ""
+msgstr "Замбия"
 
 #: activities/geography/resource/board/board9_0.qml:48
 msgctxt "board9_0|"
 msgid "Tunisia"
-msgstr ""
+msgstr "Тунис"
 
 #: activities/geography/resource/board/board9_0.qml:55
 msgctxt "board9_0|"
 msgid "Togo"
-msgstr ""
+msgstr "Того"
 
 #: activities/geography/resource/board/board9_0.qml:62
 msgctxt "board9_0|"
 msgid "Chad"
-msgstr ""
+msgstr "Чад"
 
 #: activities/geography/resource/board/board9_0.qml:69
 msgctxt "board9_0|"
 msgid "Tanzania"
-msgstr ""
+msgstr "Танзания"
 
 #: activities/geography/resource/board/board9_0.qml:76
 msgctxt "board9_0|"
 msgid "Sudan"
-msgstr ""
+msgstr "Судан"
 
 #: activities/geography/resource/board/board9_0.qml:83
 msgctxt "board9_0|"
 msgid "Somalia"
-msgstr ""
+msgstr "Сомали"
 
 #: activities/geography/resource/board/board9_0.qml:90
 msgctxt "board9_0|"
 msgid "Senegal"
-msgstr ""
+msgstr "Сенегал"
 
 #: activities/geography/resource/board/board9_0.qml:97
 msgctxt "board9_0|"
@@ -3499,107 +3483,106 @@ msgid "Democratic Republic of Congo"
 msgstr ""
 
 #: activities/geography/resource/board/board9_0.qml:104
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board9_0|"
 msgid "Central African Republic"
-msgstr "Чехия"
+msgstr "Центрально-Африканская Республика"
 
 #: activities/geography/resource/board/board9_0.qml:111
 msgctxt "board9_0|"
 msgid "Uganda"
-msgstr ""
+msgstr "Уганда"
 
 #: activities/geography/resource/board/board9_0.qml:118
 msgctxt "board9_0|"
 msgid "Nigeria"
-msgstr ""
+msgstr "Нигерия"
 
 #: activities/geography/resource/board/board9_0.qml:125
 msgctxt "board9_0|"
 msgid "Niger"
-msgstr ""
+msgstr "Нигер"
 
 #: activities/geography/resource/board/board9_0.qml:132
 msgctxt "board9_0|"
 msgid "Namibia"
-msgstr ""
+msgstr "Намибия"
 
 #: activities/geography/resource/board/board9_0.qml:139
 msgctxt "board9_0|"
 msgid "Mozambique"
-msgstr ""
+msgstr "Мозамбик"
 
 #: activities/geography/resource/board/board9_0.qml:146
 msgctxt "board9_0|"
 msgid "Mauritania"
-msgstr ""
+msgstr "Мавритания"
 
 #: activities/geography/resource/board/board9_0.qml:153
 msgctxt "board9_0|"
 msgid "Morocco"
-msgstr ""
+msgstr "Марокко"
 
 #: activities/geography/resource/board/board9_0.qml:160
 msgctxt "board9_0|"
 msgid "Mali"
-msgstr ""
+msgstr "Мали"
 
 #: activities/geography/resource/board/board9_0.qml:167
 msgctxt "board9_0|"
 msgid "Malawi"
-msgstr ""
+msgstr "Малави"
 
 #: activities/geography/resource/board/board9_0.qml:174
 msgctxt "board9_0|"
 msgid "Madagascar"
-msgstr ""
+msgstr "Мадагаскар"
 
 #: activities/geography/resource/board/board9_0.qml:181
 msgctxt "board9_0|"
 msgid "Libya"
-msgstr ""
+msgstr "Ливия"
 
 #: activities/geography/resource/board/board9_0.qml:188
 msgctxt "board9_0|"
 msgid "Liberia"
-msgstr ""
+msgstr "Либерия"
 
 #: activities/geography/resource/board/board9_0.qml:195
 msgctxt "board9_0|"
 msgid "Kenya"
-msgstr ""
+msgstr "Кения"
 
 #: activities/geography/resource/board/board9_0.qml:202
 msgctxt "board9_0|"
 msgid "Guinea"
-msgstr ""
+msgstr "Гвинея"
 
 #: activities/geography/resource/board/board9_0.qml:209
 msgctxt "board9_0|"
 msgid "Ghana"
-msgstr ""
+msgstr "Гана"
 
 #: activities/geography/resource/board/board9_0.qml:216
 msgctxt "board9_0|"
 msgid "Gabon"
-msgstr ""
+msgstr "Габон"
 
 #: activities/geography/resource/board/board9_0.qml:223
 msgctxt "board9_0|"
 msgid "Ethiopia"
-msgstr ""
+msgstr "Эфиопия"
 
 #: activities/geography/resource/board/board9_0.qml:230
 msgctxt "board9_0|"
 msgid "Eritrea"
-msgstr ""
+msgstr "Эритрея"
 
 #: activities/geography/resource/board/board9_0.qml:237
 msgctxt "board9_0|"
 msgid "Egypt"
-msgstr ""
+msgstr "Египет"
 
 #: activities/geography/resource/board/board9_0.qml:244
 msgctxt "board9_0|"
@@ -3614,37 +3597,37 @@ msgstr ""
 #: activities/geography/resource/board/board9_0.qml:258
 msgctxt "board9_0|"
 msgid "Cameroon"
-msgstr ""
+msgstr "Камерун"
 
 #: activities/geography/resource/board/board9_0.qml:265
 msgctxt "board9_0|"
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Буркина-Фасо"
 
 #: activities/geography/resource/board/board9_0.qml:272
 msgctxt "board9_0|"
 msgid "Botswana"
-msgstr ""
+msgstr "Ботсвана"
 
 #: activities/geography/resource/board/board9_0.qml:279
 msgctxt "board9_0|"
 msgid "Benin"
-msgstr ""
+msgstr "Бенин"
 
 #: activities/geography/resource/board/board9_0.qml:286
 msgctxt "board9_0|"
 msgid "Angola"
-msgstr ""
+msgstr "Ангола"
 
 #: activities/geography/resource/board/board9_0.qml:293
 msgctxt "board9_0|"
 msgid "Algeria"
-msgstr ""
+msgstr "Алжир"
 
 #: activities/geography/resource/board/board9_0.qml:300
 msgctxt "board9_0|"
 msgid "South Africa"
-msgstr ""
+msgstr "Южно-Африканская Республика"
 
 #: activities/gletters/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
