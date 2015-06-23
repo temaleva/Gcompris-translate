@@ -1,5 +1,27 @@
+# Translation of GCompris to Russian
+# Copyright (C) 2001-2002,2003, 2005, 2006, 2010 Free Software Foundation, Inc.
+# Copyright (C) 2015 This_file_is_part_of_KDE
+#
+# Anna Polesskaya and Kirill Polesski <rami@kaires.org>, 2003.
+# Alexey Lubimov <avl@altlinux.ru>, 2004-2004.
+# Valek Filippov <frob@df.ru>, 2001-2002.
+# Dubrovskiy Vyacheslav <dubrsl@altlinux.org>, 2005, 2006, 2010.
+# Andrey Cherepanov <skull@kde.ru>, 2007, 2010.
+# Yuri Kozlov <yuray@komyakino.ru>, 2011.
+# Yuri Myasoedov <omerta13@yandex.ru>, 2012.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2012.
+# Mayya Sharipova <mayya.sharipova@gmail.com>, 2013.
+# Andrey Cherepanov <cas@altlinux.org>, 2015.
+# Stas Solovey <whats_up@tut.by>, 2013, 2015.
+# Alexander Potashev <aspotashev@gmail.com>, 2015.
+# Alexandr Smirnov <smirnoff.al@gmail.com>, 2015.
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2015-06-23 06:39+0300\n"
+"Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -7,6 +29,7 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: ru\n"
 "X-Qt-Contexts: true\n"
+"X-Generator: Lokalize 2.0\n"
 
 #: activities/advanced_colors/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -14,17 +37,14 @@ msgid "Advanced colors"
 msgstr "Сложные цвета"
 
 #: activities/advanced_colors/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Click on the correct color"
 msgctxt "ActivityInfo|"
 msgid "Select the butterfly of the correct color"
-msgstr "Покажите правильный цвет"
+msgstr "Выберите бабочка правильного цвета"
 
 #: activities/advanced_colors/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Learn to recognize unusual colors."
-msgstr "Обучение распознаванию редких цветов."
+msgstr "Научиться распознавать редкие цвета."
 
 #: activities/advanced_colors/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -37,12 +57,14 @@ msgid ""
 "You will see dancing butterflies of different colors and a question. You "
 "have to find the correct butterfly and touch it."
 msgstr ""
+"Вы увидите бабочек разных цветов и текст вопроса. Нужно будет найти "
+"правильную бабочку и нажать на неё."
 
 #: activities/advanced_colors/advanced_colors.js:24
 #: activities/advanced_colors/advanced_colors.js:441
 msgctxt "advanced_colors|"
 msgid "Find the coral butterfly"
-msgstr "Найдите бабочку цвета коралла"
+msgstr "Найдите бабочку кораллового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:28
 #: activities/advanced_colors/advanced_colors.js:58
@@ -53,33 +75,33 @@ msgstr "Найдите бабочку цвета коралла"
 #: activities/advanced_colors/advanced_colors.js:699
 msgctxt "advanced_colors|"
 msgid "Find the claret butterfly"
-msgstr "Найдите бабочку цвета красного вина"
+msgstr "Найдите бабочку бордового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:32
 #: activities/advanced_colors/advanced_colors.js:274
 #: activities/advanced_colors/advanced_colors.js:467
 msgctxt "advanced_colors|"
 msgid "Find the navy butterfly"
-msgstr "Найдите бабочку цвета нави"
+msgstr "Найдите бабочку тёмно-синего цвета"
 
 #: activities/advanced_colors/advanced_colors.js:36
 #: activities/advanced_colors/advanced_colors.js:66
 msgctxt "advanced_colors|"
 msgid "Find the corn butterfly"
-msgstr "Найдите бабочку цвета кукурузы"
+msgstr "Найдите бабочку кукурузного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:40
 #: activities/advanced_colors/advanced_colors.js:70
 msgctxt "advanced_colors|"
 msgid "Find the cobalt butterfly"
-msgstr "Найдите бабочку цвета кобальта"
+msgstr "Найдите бабочку цвета кобальта синего"
 
 #: activities/advanced_colors/advanced_colors.js:44
 #: activities/advanced_colors/advanced_colors.js:74
 #: activities/advanced_colors/advanced_colors.js:403
 msgctxt "advanced_colors|"
 msgid "Find the cyan butterfly"
-msgstr "Найдите бабочку цвета морской волны"
+msgstr "Найдите бабочку цианового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:48
 #: activities/advanced_colors/advanced_colors.js:78
@@ -95,13 +117,13 @@ msgstr "Найдите бабочку каштанового цвета"
 #: activities/advanced_colors/advanced_colors.js:82
 msgctxt "advanced_colors|"
 msgid "Find the almond butterfly"
-msgstr "Найдите бабочку цвета миндаля"
+msgstr "Найдите бабочку миндального цвета"
 
 #: activities/advanced_colors/advanced_colors.js:62
 #: activities/advanced_colors/advanced_colors.js:695
 msgctxt "advanced_colors|"
 msgid "Find the sapphire butterfly"
-msgstr "Найдите бабочку цвета сапфира"
+msgstr "Найдите бабочку сапфирового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:86
 #: activities/advanced_colors/advanced_colors.js:184
@@ -113,31 +135,31 @@ msgstr "Найдите бабочку рубинового цвета"
 #: activities/advanced_colors/advanced_colors.js:679
 msgctxt "advanced_colors|"
 msgid "Find the sienna butterfly"
-msgstr "Найдите бабочку цвета охры"
+msgstr "Найдите бабочку цвета сиены"
 
 #: activities/advanced_colors/advanced_colors.js:96
 msgctxt "advanced_colors|"
 msgid "Find the sage butterfly"
-msgstr "Найдите бабочку цвета шалфея"
+msgstr "Найдите бабочку шалфейного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:100
 #: activities/advanced_colors/advanced_colors.js:427
 #: activities/advanced_colors/advanced_colors.js:581
 msgctxt "advanced_colors|"
 msgid "Find the salmon butterfly"
-msgstr "Найдите бабочку цвета сомон"
+msgstr "Найдите бабочку лососёвого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:104
 #: activities/advanced_colors/advanced_colors.js:389
 #: activities/advanced_colors/advanced_colors.js:649
 msgctxt "advanced_colors|"
 msgid "Find the sepia butterfly"
-msgstr "Найдите бабочку цвета сепия"
+msgstr "Найдите бабочку цвета сепии"
 
 #: activities/advanced_colors/advanced_colors.js:108
 msgctxt "advanced_colors|"
 msgid "Find the sulfur butterfly"
-msgstr "Найдите бабочку цвета серы"
+msgstr "Найдите бабочку серного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:112
 #: activities/advanced_colors/advanced_colors.js:671
@@ -153,12 +175,12 @@ msgstr "Найдите бабочку цвета лайма "
 #: activities/advanced_colors/advanced_colors.js:120
 msgctxt "advanced_colors|"
 msgid "Find the turquoise butterfly"
-msgstr "Найдите бабочку цвета бирюзы"
+msgstr "Найдите бабочку бирюзового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:126
 msgctxt "advanced_colors|"
 msgid "Find the absinthe butterfly"
-msgstr "Найдите бабочку цвета абсент"
+msgstr "Найдите бабочку цвета абсента"
 
 #: activities/advanced_colors/advanced_colors.js:130
 msgctxt "advanced_colors|"
@@ -169,13 +191,13 @@ msgstr "Найдите бабочку цвета красного дерева"
 #: activities/advanced_colors/advanced_colors.js:627
 msgctxt "advanced_colors|"
 msgid "Find the aquamarine butterfly"
-msgstr "Найдите бабочку цвета аквамарин"
+msgstr "Найдите бабочку аквамаринового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:138
 #: activities/advanced_colors/advanced_colors.js:433
 msgctxt "advanced_colors|"
 msgid "Find the alabaster butterfly"
-msgstr "Найдите бабочку цвета алебастра"
+msgstr "Найдите бабочку алебастрового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:142
 #: activities/advanced_colors/advanced_colors.js:585
@@ -186,21 +208,21 @@ msgstr "Найдите бабочку янтарного цвета"
 #: activities/advanced_colors/advanced_colors.js:146
 msgctxt "advanced_colors|"
 msgid "Find the amethyst butterfly"
-msgstr "Найдите бабочку цвета аметиста"
+msgstr "Найдите бабочку аметистового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:150
 #: activities/advanced_colors/advanced_colors.js:529
 #: activities/advanced_colors/advanced_colors.js:637
 msgctxt "advanced_colors|"
 msgid "Find the anise butterfly"
-msgstr "Найдите бабочку цвета аниса"
+msgstr "Найдите бабочку анисового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:154
 #: activities/advanced_colors/advanced_colors.js:300
 #: activities/advanced_colors/advanced_colors.js:461
 msgctxt "advanced_colors|"
 msgid "Find the vermilion butterfly"
-msgstr "Найдите бабочку цвета киноваря"
+msgstr "Найдите бабочку цвета киновари"
 
 #: activities/advanced_colors/advanced_colors.js:160
 msgctxt "advanced_colors|"
@@ -213,13 +235,13 @@ msgstr "Найдите бабочку цвета свинцовых белил"
 #: activities/advanced_colors/advanced_colors.js:539
 msgctxt "advanced_colors|"
 msgid "Find the fawn butterfly"
-msgstr "Найдите бабочку цвета лани"
+msgstr "Найдите бабочку желтовато-коричневого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:168
 #: activities/advanced_colors/advanced_colors.js:589
 msgctxt "advanced_colors|"
 msgid "Find the chartreuse butterfly"
-msgstr "Найдите бабочку цвета шартрёз"
+msgstr "Найдите бабочку салатового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:172
 msgctxt "advanced_colors|"
@@ -241,18 +263,18 @@ msgstr "Найдите бабочку баклажанового цвета"
 #: activities/advanced_colors/advanced_colors.js:657
 msgctxt "advanced_colors|"
 msgid "Find the fuchsia butterfly"
-msgstr "Найдите бабочку цвета фуксия"
+msgstr "Найдите бабочку цвета фуксии"
 
 #: activities/advanced_colors/advanced_colors.js:188
 msgctxt "advanced_colors|"
 msgid "Find the glaucous butterfly"
-msgstr "Найдите бабочку матового цвета"
+msgstr "Найдите бабочку сизого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:198
 #: activities/advanced_colors/advanced_colors.js:369
 msgctxt "advanced_colors|"
 msgid "Find the auburn butterfly"
-msgstr "Найдите бабочку золотисто-каштанового цвета"
+msgstr "Найдите бабочку красно-коричневого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:202
 #: activities/advanced_colors/advanced_colors.js:381
@@ -264,7 +286,7 @@ msgstr "Найдите бабочку лазурного цвета"
 #: activities/advanced_colors/advanced_colors.js:563
 msgctxt "advanced_colors|"
 msgid "Find the grayish brown butterfly"
-msgstr "Найдите бабочку серо-коричневого цвета"
+msgstr "Найдите бабочку бурого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:210
 msgctxt "advanced_colors|"
@@ -275,25 +297,25 @@ msgstr "Найдите бабочку цвета бистр"
 #: activities/advanced_colors/advanced_colors.js:555
 msgctxt "advanced_colors|"
 msgid "Find the crimson butterfly"
-msgstr "Найдите бабочку кармазинного цвета"
+msgstr "Найдите бабочку малинового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:218
 msgctxt "advanced_colors|"
 msgid "Find the celadon butterfly"
-msgstr "Найдите бабочку серовато-зелёного цвета"
+msgstr "Найдите бабочку селадонового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:222
 #: activities/advanced_colors/advanced_colors.js:471
 #: activities/advanced_colors/advanced_colors.js:641
 msgctxt "advanced_colors|"
 msgid "Find the cerulean butterfly"
-msgstr "Найдите бабочку небесно-голубого цвета"
+msgstr "Найдите бабочку бледно-лазурного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:228
 #: activities/advanced_colors/advanced_colors.js:551
 msgctxt "advanced_colors|"
 msgid "Find the dove butterfly"
-msgstr "Найдите бабочку сизового цвета"
+msgstr "Найдите бабочку голубиного серого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:232
 msgctxt "advanced_colors|"
@@ -333,7 +355,7 @@ msgstr "Найдите бабочку цвета лишайника"
 #: activities/advanced_colors/advanced_colors.js:517
 msgctxt "advanced_colors|"
 msgid "Find the wine butterfly"
-msgstr "Найдите бабочку цвета вина"
+msgstr "Найдите бабочку винного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:262
 #: activities/advanced_colors/advanced_colors.js:623
@@ -357,7 +379,7 @@ msgstr "Найдите бабочку малахитового цвета"
 #: activities/advanced_colors/advanced_colors.js:278
 msgctxt "advanced_colors|"
 msgid "Find the larch butterfly"
-msgstr "Найдите бабочку цвета лиственницы"
+msgstr "Найдите бабочку цвета дерева лиственницы"
 
 #: activities/advanced_colors/advanced_colors.js:282
 #: activities/advanced_colors/advanced_colors.js:411
@@ -382,27 +404,27 @@ msgstr "Найдите бабочку оливкового цвета"
 #: activities/advanced_colors/advanced_colors.js:513
 msgctxt "advanced_colors|"
 msgid "Find the opaline butterfly"
-msgstr "Найдите бабочку цвета опала"
+msgstr "Найдите бабочку опалового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:304
 #: activities/advanced_colors/advanced_colors.js:611
 msgctxt "advanced_colors|"
 msgid "Find the ultramarine butterfly"
-msgstr "Найдите бабочку цвета ультрамарин"
+msgstr "Найдите бабочку ультрамаринового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:308
 #: activities/advanced_colors/advanced_colors.js:377
 #: activities/advanced_colors/advanced_colors.js:449
 msgctxt "advanced_colors|"
 msgid "Find the mauve butterfly"
-msgstr "Найдите бабочку лилового цвета"
+msgstr "Найдите бабочку розовато-лилового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:312
 #: activities/advanced_colors/advanced_colors.js:573
 #: activities/advanced_colors/advanced_colors.js:615
 msgctxt "advanced_colors|"
 msgid "Find the grayish blue butterfly"
-msgstr "Найдите бабочку голубовато-синего цвета"
+msgstr "Найдите бабочку голубовато-серого цвета"
 
 #: activities/advanced_colors/advanced_colors.js:316
 #: activities/advanced_colors/advanced_colors.js:487
@@ -422,7 +444,7 @@ msgstr "Найдите бабочку платинового цвета"
 #: activities/advanced_colors/advanced_colors.js:665
 msgctxt "advanced_colors|"
 msgid "Find the purple butterfly"
-msgstr "Найдите бабочку пурпурного цвета"
+msgstr "Найдите бабочку фиолетово-красного цвета"
 
 #: activities/advanced_colors/advanced_colors.js:330
 #: activities/advanced_colors/advanced_colors.js:385
@@ -450,7 +472,7 @@ msgstr "Найдите бабочку цвета ржавчины"
 #: activities/advanced_colors/advanced_colors.js:342
 msgctxt "advanced_colors|"
 msgid "Find the saffron butterfly"
-msgstr "Найдите бабочку цвета шафрана"
+msgstr "Найдите бабочку шафранового цвета"
 
 #: activities/advanced_colors/advanced_colors.js:346
 msgctxt "advanced_colors|"
@@ -461,7 +483,7 @@ msgstr "Найдите бабочку ванильного цвета"
 #: activities/advanced_colors/advanced_colors.js:559
 msgctxt "advanced_colors|"
 msgid "Find the veronese butterfly"
-msgstr "Найдите бабочку цвета веронезе"
+msgstr "Найдите бабочку цвета вер-гинье"
 
 #: activities/advanced_colors/advanced_colors.js:354
 #: activities/advanced_colors/advanced_colors.js:653
@@ -476,15 +498,12 @@ msgstr "Найдите бабочку цвета ярь-медянки"
 #: activities/advanced_colors/advanced_colors.js:675
 msgctxt "advanced_colors|"
 msgid "Find the dark purple butterfly"
-msgstr "Найдите бабочку тёмно-пурпурного цвета"
+msgstr "Найдите бабочку тёмно-фиолетового цвета"
 
 #: activities/algebra_by/ActivityInfo.qml:26
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Multiplication table"
 msgctxt "ActivityInfo|"
 msgid "Multiplication of numbers"
-msgstr "Таблица умножения"
+msgstr "Умножение чисел"
 
 #: activities/algebra_by/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -494,15 +513,12 @@ msgstr "Упражнения на умножение"
 #: activities/algebra_by/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Learn to multiply numbers within a limited period of time"
-msgstr ""
+msgstr "Научиться перемножать числа за ограниченный промежуток времени."
 
 #: activities/algebra_by/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Multiplication table"
 msgctxt "ActivityInfo|"
 msgid "Multiplication tables from 1 to 10"
-msgstr "Таблица умножения"
+msgstr "Таблица умножения от 1 до 10"
 
 #: activities/algebra_by/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -512,38 +528,30 @@ msgid ""
 "numbers. You have to be fast and submit the answer before the penguins in "
 "their balloon land!"
 msgstr ""
+"На экране показаны два числа. Быстро перемножь их и введи результат, "
+"используя клавиатуру твоего компьютера или экранную клавиатуру. Нужно успеть "
+"ответить до того, как приземлится воздушный шар с пингвинами."
 
 #: activities/algebra_div/ActivityInfo.qml:26
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Division of numbers"
-msgstr "Игра в парочки по вычитанию"
+msgstr "Деление чисел"
 
 #: activities/algebra_div/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Practice the subtraction operation"
 msgctxt "ActivityInfo|"
 msgid "Practice the division operation"
-msgstr "Упражнения на вычитание"
+msgstr "Упражнения на деление"
 
+# goal description --aspotashev
 #: activities/algebra_div/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
 msgid "Find the result of the division within a limited period of time"
-msgstr "За ограниченное время найдите разницу между двумя числами"
+msgstr "Найти частное двух чисел за ограниченное время"
 
 #: activities/algebra_div/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Division of small numbers"
-msgstr "Игра в парочки по вычитанию"
+msgstr "Деление маленьких чисел"
 
 #: activities/algebra_div/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -553,14 +561,14 @@ msgid ""
 "it. You have to be fast and submit the answer before the penguins in their "
 "balloon land!"
 msgstr ""
+"На экране показаны два числа. Быстро найди их частное и введи результат, "
+"используя клавиатуру твоего компьютера или экранную клавиатуру. Нужно успеть "
+"ответить до того, как приземлится воздушный шар с пингвинами."
 
 #: activities/algebra_minus/ActivityInfo.qml:26
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Subtraction of numbers"
-msgstr "Игра в парочки по вычитанию"
+msgstr "Вычитание чисел"
 
 #: activities/algebra_minus/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -568,22 +576,16 @@ msgid "Practice the subtraction operation"
 msgstr "Упражнения на вычитание"
 
 #: activities/algebra_minus/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
 msgid ""
 "Learn to find the difference between two numbers within a limited period of "
 "time"
-msgstr "За ограниченное время найдите разницу между двумя числами"
+msgstr "Научиться вычитать числа за ограниченный промежуток времени."
 
 #: activities/algebra_minus/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Subtraction of small numbers"
-msgstr "Игра в парочки по вычитанию"
+msgstr "Вычитание маленьких чисел"
 
 #: activities/algebra_minus/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -593,30 +595,24 @@ msgid ""
 "You have to be fast and submit the answer before the penguins in their "
 "balloon land!"
 msgstr ""
+"На экране показаны два числа. Быстро найди их разность и введи результат, "
+"используя клавиатуру твоего компьютера или экранную клавиатуру. Нужно успеть "
+"ответить до того, как приземлится воздушный шар с пингвинами."
 
 #: activities/algebra_plus/ActivityInfo.qml:26
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Subtraction memory game"
 msgctxt "ActivityInfo|"
 msgid "Addition of numbers"
-msgstr "Игра в парочки по вычитанию"
+msgstr "Сложение чисел"
 
 #: activities/algebra_plus/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Practice the addition operation"
 msgctxt "ActivityInfo|"
 msgid "Practice the addition of numbers"
-msgstr "Упражнение на сложение"
+msgstr "Упражнения на сложение"
 
 #: activities/algebra_plus/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "In a limited time, find the difference between two numbers"
 msgctxt "ActivityInfo|"
 msgid "Learn to find the sum of two numbers within a limited period of time"
-msgstr "За ограниченное время найдите разницу между двумя числами"
+msgstr "Научиться складывать числа за ограниченный промежуток времени."
 
 #: activities/algebra_plus/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -630,21 +626,24 @@ msgid ""
 "use your computer's keyboard or the on-screen keypad to type it. You have to "
 "be fast and submit the answer before the penguins land in their balloon!"
 msgstr ""
+"На экране показаны два числа. Быстро найди их сумму и введи результат, "
+"используя клавиатуру твоего компьютера или экранную клавиатуру. Нужно успеть "
+"ответить до того, как приземлится воздушный шар с пингвинами."
 
 #: activities/algorithm/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Logical associations"
-msgstr ""
+msgstr "Логические ассоциации"
 
 #: activities/algorithm/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Complete the arrangement of fruits"
-msgstr ""
+msgstr "Продолжи последовательность фруктов"
 
 #: activities/algorithm/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Logic training activity"
-msgstr "Упражнение на развитие логики"
+msgstr "Упражнения на развитие логики"
 
 #: activities/algorithm/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -653,43 +652,32 @@ msgid ""
 "replaced by another fruit in the second sequence. Complete the second "
 "sequence by using the correct fruits, after studying this pattern."
 msgstr ""
+"Посмотри на две последовательности. Каждый фрукт в первой последовательности "
+"был заменён другим фруктом из второй последовательности. Изучив "
+"закономерность, продолжи вторую последовательность, используя правильные "
+"фрукты."
 
 #: activities/align4-2players/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
-msgid "Align four (two players)"
-msgstr ""
+msgid "Align four (with a friend)"
+msgstr "Четыре в ряд (с другом)"
 
 #: activities/align4-2players/ActivityInfo.qml:27
 #: activities/align4/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Arrange four coins in a row"
 msgctxt "ActivityInfo|"
 msgid "Arrange four tokens in a row"
-msgstr "Расположите четыре шара в линию"
+msgstr "Расположи четыре шара в линию"
 
 #: activities/align4-2players/ActivityInfo.qml:29
 #: activities/align4/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Create a line of 4 pieces either horizontally (lying down), vertically "
-#| "(standing up) or diagonally."
 msgctxt "ActivityInfo|"
 msgid ""
 "Create a line of 4 tokens either horizontally (lying down), vertically "
 "(standing up) or diagonally."
 msgstr ""
-"Создайте линию из четырёх шариков: горизонтально, вертикально или по "
-"диагонали."
+"Создай линию из четырёх шариков: горизонтально, вертикально или по диагонали."
 
 #: activities/align4-2players/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click the position in the line where you want to drop a piece. You can "
-#| "also use the arrow keys to move the piece left or right, and the down or "
-#| "space key to drop a piece."
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with a friend. Take turns to click the line in which you want to drop a "
@@ -697,23 +685,19 @@ msgid ""
 "the down or space key to drop a token. First player to create a line of 4 "
 "tokens wins"
 msgstr ""
-"Переместите шарик в нужную позицию и щёлкните левой кнопкой мыши для того, "
-"чтобы бросить его. Вы также можете использовать клавиши со стрелками на "
-"клавиатуре для перемещения шарика и клавишу со стрелкой вниз или пробел для "
-"бросания шарика."
+"Игра с друзьями. Во время своего хода нажми на линию, в которую ты хочешь "
+"бросить шарик. Ты также можешь использовать клавиши со стрелками для "
+"перемещения шарика влево или вправо, и вниз или пробел для того, чтобы "
+"бросить шарик. Побеждает игрок, первый создавший линию из четырёх шариков."
 
 #: activities/align4/ActivityInfo.qml:26
+#| msgctxt "ActivityInfo|"
+#| msgid "Addition memory game against Tux"
 msgctxt "ActivityInfo|"
-msgid "Align four"
-msgstr ""
+msgid "Align four (against Tux)"
+msgstr "Четыре в ряд (против Тукса)"
 
 #: activities/align4/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click the position in the line where you want to drop a piece. You can "
-#| "also use the arrow keys to move the piece left or right, and the down or "
-#| "space key to drop a piece."
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with the computer. Take turns to click the line in which you want to "
@@ -721,27 +705,27 @@ msgid ""
 "right, and the down or space key to drop a token. First player to create a "
 "line of 4 tokens wins"
 msgstr ""
-"Переместите шарик в нужную позицию и щёлкните левой кнопкой мыши для того, "
-"чтобы бросить его. Вы также можете использовать клавиши со стрелками на "
-"клавиатуре для перемещения шарика и клавишу со стрелкой вниз или пробел для "
-"бросания шарика."
+"Игра с компьютером. Во время своего хода нажми на линию, в которую ты хочешь "
+"бросить шарик. Ты также можешь использовать клавиши со стрелками для "
+"перемещения шарика влево или вправо, и вниз или пробел для того, чтобы "
+"бросить шарик. Побеждает игрок, первый создавший линию из четырёх шариков."
 
 #: activities/alphabet-sequence/ActivityInfo.qml:26
 #: activities/alphabet-sequence/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Alphabet sequence"
-msgstr ""
+msgstr "Алфавитный порядок"
 
 #: activities/alphabet-sequence/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid ""
 "Move the helicopter to catch the clouds following the order of the alphabet"
-msgstr ""
+msgstr "Двигай вертолёт, чтобы поймать облака в алфавитном порядке"
 
 #: activities/alphabet-sequence/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Can decode letters"
-msgstr ""
+msgstr "Умение распознавать буквы"
 
 #: activities/alphabet-sequence/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -751,6 +735,11 @@ msgid ""
 "location. To know which letter you have to catch you can either remember it "
 "or check the bottom right corner."
 msgstr ""
+"Лови буквы в алфавитном порядке. Используй клавиши со стрелками на "
+"клавиатуре для того, чтобы двигать вертолёт. При использовании указывающего "
+"устройства просто щёлкай или нажимай на нужном облаке. Для того, чтобы "
+"знать, какую букву нужно поймать следующей, запомни её или посмотри в правом "
+"нижнем углу."
 
 #: activities/alphabet-sequence/AlphabetSequence.qml:29
 msgctxt "AlphabetSequence|"
@@ -760,28 +749,22 @@ msgstr "а/б/в/г/д/е/ё/ж/з/и/й/к/л/м/н/о/п/р/с/т/у/ф/х/ц/
 #: activities/babymatch/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Matching Items"
-msgstr ""
+msgstr "Совпадающие предметы"
 
 #: activities/babymatch/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to make them match"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетаскивай предметы, чтобы они совпали"
 
 #: activities/babymatch/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Motor coordination: moving and clicking the mouse."
 msgctxt "ActivityInfo|"
 msgid "Motor coordination. Conceptual matching."
-msgstr "Не допустите чтобы рыбки уплыли."
+msgstr "Координация движений. Сопоставление понятий."
 
 #: activities/babymatch/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Cultural references."
-msgstr ""
+msgstr "Знание предметов современной цивилизации."
 
 #: activities/babymatch/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
@@ -793,29 +776,29 @@ msgid ""
 "do they fit together? Drag each object to the correct red space in the main "
 "area."
 msgstr ""
+"В основной части изображён набор предметов. В вертикальной области (слева от "
+"основной части) показан другой набор предметов. Каждый предмет в группе "
+"слева совпадает с ровно одним предметом в основной части экрана. В этой игре "
+"нужно найти логическую связь между этими предметами. Какие из них "
+"соответствуют друг другу? Перемести каждый объект в правильное красное место "
+"в основной части."
 
 #: activities/babymatch/resource/board/board1_0.qml:25
 #: activities/babyshapes/resource/board/board1_0.qml:25
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "board1_0|"
 msgid "Drag and Drop the items to make them match"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетаскивай предметы, чтобы они совпали"
 
 #: activities/babyshapes/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Complete the puzzle"
-msgstr ""
+msgstr "Реши головоломку"
 
 #: activities/babyshapes/ActivityInfo.qml:31
 #: activities/details/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the shapes on their respective targets"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетаскивай предметы на соответствующие им места"
 
 #: activities/babyshapes/ActivityInfo.qml:34
 #: activities/details/ActivityInfo.qml:33
@@ -824,11 +807,14 @@ msgid ""
 "Complete the puzzle by dragging each piece from the set of pieces on the "
 "left, to the matching space in the puzzle."
 msgstr ""
+"Реши головоломку, перетаскивая каждый элемент из набора элементов слева на "
+"соответствующее место в головоломке."
 
 #: activities/babyshapes/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid "The dog is provided by Andre Connes and released under the GPL"
 msgstr ""
+"Изображение собаки предоставлено Andre Connes и выпущено под лицензией GPL"
 
 #: activities/babyshapes/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
@@ -857,7 +843,7 @@ msgstr ""
 
 #: activities/babyshapes/resource/board/board7_3.qml:25
 msgctxt "board7_3|"
-msgid "Paul Gauguin, Arearea - 1892"
+msgid "Paul Gauguin, Bedroom in Arles - 1888"
 msgstr ""
 
 #: activities/babyshapes/resource/board/board7_4.qml:25
@@ -871,35 +857,30 @@ msgid "Make the ball go to Tux"
 msgstr "Бросьте мяч пингвинёнку Туксу"
 
 #: activities/ballcatch/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Press the two shift keys at the same time, to make the ball go in a "
-#| "straight line."
 msgctxt "ActivityInfo|"
 msgid ""
 "Press the left and right arrow keys at the same time, to make the ball go in "
 "a straight line."
-msgstr "Нажмите две клавиши Shift одновременно, чтобы кинуть мяч."
+msgstr ""
+"Нажми две клавиши со стрелками вправо и влево одновременно, чтобы бросить "
+"мяч по прямой линии."
 
 #: activities/ballcatch/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Press the two shift keys at the same time, to make the ball go in a "
-#| "straight line."
 msgctxt "ActivityInfo|"
 msgid ""
 "Press the left and right arrow at the same time, to make the ball go in a "
 "straight line. On a touch screen you have to hit the two hands at the same "
 "time."
-msgstr "Нажмите две клавиши Shift одновременно, чтобы кинуть мяч."
+msgstr ""
+"Нажми две клавиши со стрелками вправо и влево одновременно, чтобы бросить "
+"мяч по прямой линии. На сенсорном экране вместо этого нужно нажать двумя "
+"руками одновременно."
 
 #: activities/ballcatch/Ballcatch.qml:242
 msgctxt "Ballcatch|"
 msgid ""
 "Tap both hands at the same time, to make the ball go in a straight line."
-msgstr ""
+msgstr "Нажми обеими руками одновременно, чтобы мяч покатился по прямой линии."
 
 #: activities/ballcatch/Ballcatch.qml:244
 msgctxt "Ballcatch|"
@@ -907,6 +888,8 @@ msgid ""
 "Press left and right arrow keys at the same time, to make the ball go in a "
 "straight line."
 msgstr ""
+"Нажми одновременно клавиши со стрелками влево и вправо, чтобы мяч покатился "
+"по прямой линии."
 
 #: activities/braille_alphabets/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -916,15 +899,12 @@ msgstr "Изучение системы Брайля"
 #: activities/braille_alphabets/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Learn and memorize the Braille system"
-msgstr ""
+msgstr "Выучи систему записи Брайля"
 
 #: activities/braille_alphabets/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Let kids discover the Braille system."
 msgctxt "ActivityInfo|"
 msgid "Let children discover the Braille system."
-msgstr "Обучить детей основам системы Брайля."
+msgstr "Ознакомиться с системой записи Брайля"
 
 #: activities/braille_alphabets/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -937,6 +917,7 @@ msgstr ""
 "сообщающая, какую букву надо воспроизвести, и буквы Брайля наверху в "
 "качестве примера. На каждом уровне мы изучим по 10 букв."
 
+# BUGME: check commas --aspotashev
 #: activities/braille_alphabets/braille_alphabets.js:58
 #: activities/braille_alphabets/braille_alphabets.js:68
 #: activities/braille_alphabets/braille_alphabets.js:78
@@ -944,7 +925,7 @@ msgstr ""
 #: activities/braille_alphabets/braille_alphabets.js:98
 msgctxt "braille_alphabets|"
 msgid "Now it's a little bit harder without the braille map."
-msgstr ""
+msgstr "Теперь, без таблицы Брайля, будет немного сложнее."
 
 #: activities/braille_alphabets/braille_alphabets.js:63
 msgctxt "braille_alphabets|"
@@ -952,8 +933,8 @@ msgid ""
 "Look at the Braille character map and observe how similar the first and "
 "second line are."
 msgstr ""
-"Взгляните на таблицу символов Брайля и обратите внимание, как похожи первая "
-"и вторая строка."
+"Взгляни на таблицу символов Брайля и обрати внимание на схожесть первой и "
+"второй строки."
 
 #: activities/braille_alphabets/braille_alphabets.js:73
 msgctxt "braille_alphabets|"
@@ -964,10 +945,11 @@ msgstr ""
 "И снова есть сходство с первой строкой, но заметьте, что буква «W» была "
 "добавлена позже."
 
+# BUGME: verify in the UI --aspotashev
 #: activities/braille_alphabets/braille_alphabets.js:83
 msgctxt "braille_alphabets|"
 msgid "This is easy, numbers are the same as letters from A to J."
-msgstr "Это просто: цифры выглядят так же, как буквы от A до J."
+msgstr "Это просто: цифры выглядят так же, как буквы от А до И."
 
 #: activities/braille_alphabets/FirstScreen.qml:36
 msgctxt "FirstScreen|"
@@ -997,8 +979,7 @@ msgstr ""
 msgctxt "FirstScreen|"
 msgid "When you are ready, click on me and try reproducing Braille characters."
 msgstr ""
-"Когда будете готовы, щёлкните на мне и попробуйте воспроизвести символы "
-"Брайля."
+"Когда будешь готов, щёлкни на мне и попробуй воспроизвести символы Брайля."
 
 #: activities/braille_alphabets/questions.js:23
 #: activities/braille_alphabets/questions.js:27
@@ -1029,7 +1010,7 @@ msgstr ""
 #, qt-format
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the letter %1."
-msgstr "Щёлкайте на точках в ячейке Брайля, чтобы получилась буква %1."
+msgstr "Щёлкни на точках в ячейке Брайля, чтобы получилась буква %1."
 
 #: activities/braille_alphabets/questions.js:133
 #: activities/braille_alphabets/questions.js:137
@@ -1041,48 +1022,42 @@ msgstr "Щёлкайте на точках в ячейке Брайля, что�
 #: activities/braille_alphabets/questions.js:162
 #: activities/braille_alphabets/questions.js:166
 #: activities/braille_alphabets/questions.js:170
-#, fuzzy, qt-format
-#| msgctxt "questions|"
-#| msgid "Click on the dots in braille cell area to produce the letter %1."
+#, qt-format
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the number %1."
-msgstr "Щёлкайте на точках в ячейке Брайля, чтобы получилась буква %1."
+msgstr "Щёлкни на точках в ячейке Брайля, чтобы получилось число %1."
 
 #: activities/braille_alphabets/questions.js:176
 #: activities/braille_alphabets/questions.js:180
 #: activities/braille_alphabets/questions.js:184
 #: activities/braille_alphabets/questions.js:188
 #: activities/braille_alphabets/questions.js:192
-#, fuzzy, qt-format
-#| msgctxt "questions|"
-#| msgid "Click on the dots in braille cell area to produce the letter %1."
+#, qt-format
 msgctxt "questions|"
 msgid "Click on the dots in braille cell area to produce the symbol %1."
-msgstr "Щёлкайте на точках в ячейке Брайля, чтобы получилась буква %1."
+msgstr "Щёлкни на точках в ячейке Брайля, чтобы получился символ %1."
 
 #: activities/braille_fun/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Braille Fun"
-msgstr ""
+msgstr "Веселье с Брайлем"
 
 #: activities/braille_fun/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
-msgid "Braille the falling letters"
-msgstr ""
+msgid "Braille the letters"
+msgstr "Буквы в азбуке Брайля"
 
 #: activities/braille_fun/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "FirstScreen|"
-#| msgid "Braille : Unlocking the Code"
 msgctxt "ActivityInfo|"
 msgid "Braille Alphabet Codes"
-msgstr "Брайль: расшифровываем код"
+msgstr "Коды Брайля для букв алфавита"
 
 #: activities/braille_fun/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
-"Enter the braille code in the tile for the corresponding falling letters. "
-"Check the braille chart by clicking on the toggle button for help."
+"Enter the braille code in the tile for the letters on the banner pulled by "
+"Tux in his plane across the screen. Check the braille chart by clicking on "
+"the toggle button for help."
 msgstr ""
 
 #: activities/canal_lock/ActivityInfo.qml:26
@@ -1095,7 +1070,9 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Tux is in trouble, and needs to take his boat through a lock. Help Tux and "
 "find out how a canal lock works."
-msgstr "Помогите Туксу провести корабль через шлюз и узнайте, как он работает."
+msgstr ""
+"Туксу нужно перевести свой корабль через шлюз. Помоги Туксу и узнай, как "
+"работают шлюзы на каналах."
 
 #: activities/canal_lock/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1103,8 +1080,8 @@ msgid ""
 "You are in charge of the canal lock. Open the gates and the locks in the "
 "right order, so Tux can travel through the gates in both directions."
 msgstr ""
-"Вы командуете шлюзом. Вам нужно открывать и закрывать ворота шлюза в \n"
-"правильном порядке. Пропустите Тукса через шлюз в обоих направлениях."
+"Ты отвечаешь за работу шлюза. Открывай ворота шлюза и перепускные клапаны в "
+"правильном порядке, чтобы Тукс смог пройти через шлюз в обоих направлениях."
 
 #: activities/canal_lock/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -1114,30 +1091,27 @@ msgstr "Рисунок Стефана Кабаро."
 #: activities/chronos/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Chronos"
-msgstr ""
+msgstr "Хронология"
 
 #: activities/chronos/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to organize the story"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетащи картинки, чтобы составить историю"
 
 #: activities/chronos/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Sort the pictures into the order that tells the story"
-msgstr ""
+msgstr "Отсортировать картинки в таком порядке, чтобы они поведали историю"
 
 #: activities/chronos/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid "Tell a short story"
-msgstr ""
+msgstr "Способность рассказать короткую историю"
 
 #: activities/chronos/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid "Pick from the pictures on the left and put them on the red dots"
-msgstr ""
+msgstr "Бери картинки слева и перетаскивай их на красные точки"
 
 #: activities/chronos/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
@@ -1156,97 +1130,97 @@ msgstr ""
 #: activities/chronos/resource/board/board1_0.qml:56
 msgctxt "board1_0|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: activities/chronos/resource/board/board1_0.qml:63
 msgctxt "board1_0|"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: activities/chronos/resource/board/board1_0.qml:70
 msgctxt "board1_0|"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: activities/chronos/resource/board/board1_0.qml:77
 msgctxt "board1_0|"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: activities/chronos/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
 msgid "The 4 Seasons"
-msgstr ""
+msgstr "Четыре времени года"
 
 #: activities/chronos/resource/board/board2_0.qml:56
 msgctxt "board2_0|"
 msgid "Spring"
-msgstr ""
+msgstr "Весна"
 
 #: activities/chronos/resource/board/board2_0.qml:63
 msgctxt "board2_0|"
 msgid "Summer"
-msgstr ""
+msgstr "Лето"
 
 #: activities/chronos/resource/board/board2_0.qml:70
 msgctxt "board2_0|"
 msgid "Autumn"
-msgstr ""
+msgstr "Осень"
 
 #: activities/chronos/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "Winter"
-msgstr ""
+msgstr "Зима"
 
 #: activities/chronos/resource/board/board3_0.qml:25
 msgctxt "board3_0|"
 msgid "Gardening"
-msgstr ""
+msgstr "Садоводство"
 
 #: activities/chronos/resource/board/board3_0.qml:56
 msgctxt "board3_0|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: activities/chronos/resource/board/board3_0.qml:63
 msgctxt "board3_0|"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: activities/chronos/resource/board/board3_0.qml:70
 msgctxt "board3_0|"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: activities/chronos/resource/board/board3_0.qml:77
 msgctxt "board3_0|"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: activities/chronos/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
 msgid "Tux and the apple tree"
-msgstr ""
+msgstr "Пингвин Тукс и яблоня"
 
 #: activities/chronos/resource/board/board4_0.qml:56
 msgctxt "board4_0|"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: activities/chronos/resource/board/board4_0.qml:63
 msgctxt "board4_0|"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: activities/chronos/resource/board/board4_0.qml:70
 msgctxt "board4_0|"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: activities/chronos/resource/board/board4_0.qml:77
 msgctxt "board4_0|"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: activities/chronos/resource/board/board5_0.qml:26
 msgctxt "board5_0|"
@@ -1256,27 +1230,27 @@ msgstr ""
 #: activities/chronos/resource/board/board5_0.qml:43
 msgctxt "board5_0|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
-msgstr ""
+msgstr "1829 год: Паровоз Стефенсона «Ракета»"
 
 #: activities/chronos/resource/board/board5_0.qml:50
 msgctxt "board5_0|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 год: Паровая телега Кюньо"
 
 #: activities/chronos/resource/board/board5_0.qml:57
 msgctxt "board5_0|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_1.qml:25
 msgctxt "board5_1|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_1.qml:49
 msgctxt "board5_1|"
 msgid "1783 Montgolfier brothers' hot air balloon"
-msgstr ""
+msgstr "1783 год: Воздушный шар братьев Монгольфье"
 
 #: activities/chronos/resource/board/board5_1.qml:56
 msgctxt "board5_1|"
@@ -1286,12 +1260,12 @@ msgstr ""
 #: activities/chronos/resource/board/board5_1.qml:63
 msgctxt "board5_1|"
 msgid "1906 Paul Cornu First helicopter flight"
-msgstr ""
+msgstr "1906 год: Поль Корню совершил первый полёт на вертолёте"
 
 #: activities/chronos/resource/board/board5_2.qml:25
 msgctxt "board5_2|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_2.qml:49
 msgctxt "board5_2|"
@@ -1301,17 +1275,17 @@ msgstr ""
 #: activities/chronos/resource/board/board5_2.qml:56
 msgctxt "board5_2|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 год: Паровая телега Кюньо"
 
 #: activities/chronos/resource/board/board5_2.qml:63
 msgctxt "board5_2|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 год: «Эол» Клемана Адера"
 
 #: activities/chronos/resource/board/board5_3.qml:25
 msgctxt "board5_3|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_3.qml:49
 msgctxt "board5_3|"
@@ -1321,45 +1295,42 @@ msgstr ""
 #: activities/chronos/resource/board/board5_3.qml:56
 msgctxt "board5_3|"
 msgid "1783 Montgolfier brothers' hot air balloon"
-msgstr ""
+msgstr "1783 год: Воздушный шар братьев Монгольфье"
 
 #: activities/chronos/resource/board/board5_3.qml:63
 msgctxt "board5_3|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
-msgstr ""
+msgstr "1829 год: Паровоз Стефенсона «Ракета»"
 
 #: activities/chronos/resource/board/board5_4.qml:25
 msgctxt "board5_4|"
 msgid "Transportation"
-msgstr ""
+msgstr "Транспортные средства"
 
 #: activities/chronos/resource/board/board5_4.qml:49
 msgctxt "board5_4|"
 msgid "1829 Stephenson's Rocket Steam locomotive"
-msgstr ""
+msgstr "1829 год: Паровоз Стефенсона «Ракета»"
 
 #: activities/chronos/resource/board/board5_4.qml:56
 msgctxt "board5_4|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 год: «Эол» Клемана Адера"
 
 #: activities/chronos/resource/board/board5_4.qml:63
 msgctxt "board5_4|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 год: Паровая телега Кюньо"
 
 #: activities/chronos/resource/board/board6_0.qml:26
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Addition"
 msgctxt "board6_0|"
 msgid "Aviation"
-msgstr "Сложение"
+msgstr "Авиация"
 
 #: activities/chronos/resource/board/board6_0.qml:50
 msgctxt "board6_0|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 год: «Эол» Клемана Адера"
 
 #: activities/chronos/resource/board/board6_0.qml:57
 msgctxt "board6_0|"
@@ -1372,12 +1343,9 @@ msgid "1909 Louis Bleriot crosses the English Channel"
 msgstr ""
 
 #: activities/chronos/resource/board/board6_1.qml:25
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Addition"
 msgctxt "board6_1|"
 msgid "Aviation"
-msgstr "Сложение"
+msgstr "Авиация"
 
 #: activities/chronos/resource/board/board6_1.qml:49
 msgctxt "board6_1|"
@@ -1397,7 +1365,7 @@ msgstr ""
 #: activities/chronos/resource/board/board6_2.qml:25
 msgctxt "board6_2|"
 msgid "Cars"
-msgstr ""
+msgstr "Автомобили"
 
 #: activities/chronos/resource/board/board6_2.qml:49
 msgctxt "board6_2|"
@@ -1407,32 +1375,32 @@ msgstr ""
 #: activities/chronos/resource/board/board6_2.qml:56
 msgctxt "board6_2|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 год: Паровая телега Кюньо"
 
 #: activities/chronos/resource/board/board6_2.qml:63
 msgctxt "board6_2|"
 msgid "1885 The first petrol car by Benz"
-msgstr ""
+msgstr "1885 год: Первый бензиновый автомобиль Карла Бенца"
 
 #: activities/chronos/resource/board/board6_3.qml:25
 msgctxt "board6_3|"
 msgid "Cars"
-msgstr ""
+msgstr "Автомобили"
 
 #: activities/chronos/resource/board/board6_3.qml:49
 msgctxt "board6_3|"
 msgid "1899 Renault voiturette"
-msgstr ""
+msgstr "1899 год: Автомобиль Renault Voiturette"
 
 #: activities/chronos/resource/board/board6_3.qml:56
 msgctxt "board6_3|"
 msgid "1923 Lancia Lambda"
-msgstr ""
+msgstr "1923 год: Автомобиль Lancia Lambda"
 
 #: activities/chronos/resource/board/board6_3.qml:63
 msgctxt "board6_3|"
 msgid "1955 Citroën DS 19"
-msgstr ""
+msgstr "1955 год: Автомобиль Citroën DS 19"
 
 #: activities/click_on_letter/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1449,37 +1417,28 @@ msgstr "Прослушайте и щёлкните по названной бу�
 #: activities/click_on_letter_up/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Letter-name recognition"
-msgstr "Узнайте букву"
+msgstr "Распознать буквы"
 
 #: activities/click_on_letter/ActivityInfo.qml:30
 #: activities/click_on_letter_up/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Visual letter-recognition. Can move the mouse."
 msgctxt "ActivityInfo|"
 msgid "Visual letter-recognition."
-msgstr "Визуальное распознавание букв. Умение двигать мышь."
+msgstr "Визуальное распознавание букв."
 
+# BUGME: where is my mouth icon? --aspotashev
 #: activities/click_on_letter/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "A letter is spoken. Click on the matching letter in the main area. You "
-#| "can listen to the letter again, by clicking on the mouth icon in the "
-#| "bottom box."
 msgctxt "ActivityInfo|"
 msgid ""
 "A letter is spoken. Click on the matching letter in the main area. You can "
 "listen to the letter again, by clicking on the mouth icon."
 msgstr ""
-"Произносится буква. Щёлкните по соответствующей букве в основной части "
-"экрана. Можно ещё раз прослушать букву щелчком по значку громкоговорителя "
-"внизу экрана."
+"Произносится буква. Щёлкни по соответствующей букве в основной части экрана. "
+"Можно ещё раз прослушать букву щелчком по значку со ртом."
 
 #: activities/click_on_letter_up/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Click on an uppercase letter"
-msgstr "Щёлкните по прописной букве"
+msgstr "Щёлкни по прописной букве"
 
 #: activities/click_on_letter_up/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1487,9 +1446,8 @@ msgid ""
 "A letter is spoken. Click on the matching letter in the main area. You can "
 "listen to the letter again, by clicking on the mouth icon in the bottom box."
 msgstr ""
-"Произносится буква. Щёлкните по соответствующей букве в основной части "
-"экрана. Можно ещё раз прослушать букву щелчком по значку громкоговорителя "
-"внизу экрана."
+"Произносится буква. Щёлкни по соответствующей букве в основной части экрана. "
+"Можно ещё раз прослушать букву щелчком по значку со ртом."
 
 #: activities/clickanddraw/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1662,7 +1620,7 @@ msgstr ""
 #: activities/color_mix/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid "Images from http://openclipart.org"
-msgstr ""
+msgstr "Изображения взяты с http://openclipart.org"
 
 #: activities/color_mix/ColorMix.qml:97
 msgctxt "ColorMix|"
@@ -1677,7 +1635,7 @@ msgstr "Мало красного цвета"
 #: activities/color_mix/ColorMix.qml:208
 msgctxt "ColorMix|"
 msgid "Too much red"
-msgstr "Слишком много красного цвета"
+msgstr "Слишком много красного"
 
 #: activities/color_mix/ColorMix.qml:211
 msgctxt "ColorMix|"
@@ -1687,7 +1645,7 @@ msgstr "Мало зелёного цвета"
 #: activities/color_mix/ColorMix.qml:213
 msgctxt "ColorMix|"
 msgid "Too much green"
-msgstr "Слишком много зелёного цвета"
+msgstr "Слишком много зелёного"
 
 #: activities/color_mix/ColorMix.qml:216
 msgctxt "ColorMix|"
@@ -1697,17 +1655,17 @@ msgstr "Мало синего цвета"
 #: activities/color_mix/ColorMix.qml:218
 msgctxt "ColorMix|"
 msgid "Too much blue"
-msgstr "Слишком много синего цвета"
+msgstr "Слишком много синего"
 
 #: activities/color_mix/ColorMix.qml:222
 msgctxt "ColorMix|"
 msgid "Not enough magenta"
-msgstr "Мало пурпурного цвета"
+msgstr "Мало малинового цвета"
 
 #: activities/color_mix/ColorMix.qml:224
 msgctxt "ColorMix|"
 msgid "Too much magenta"
-msgstr "Слишком много пурпурного"
+msgstr "Слишком много малинового"
 
 #: activities/color_mix/ColorMix.qml:227
 msgctxt "ColorMix|"
@@ -1717,17 +1675,17 @@ msgstr "Мало жёлтого цвета"
 #: activities/color_mix/ColorMix.qml:229
 msgctxt "ColorMix|"
 msgid "Too much yellow"
-msgstr "Слишком много жёлтого цвета"
+msgstr "Слишком много жёлтого"
 
 #: activities/color_mix/ColorMix.qml:232
 msgctxt "ColorMix|"
 msgid "Not enough cyan"
-msgstr "Мало цианового цвета"
+msgstr "Мало бирюзового цвета"
 
 #: activities/color_mix/ColorMix.qml:234
 msgctxt "ColorMix|"
 msgid "Too much cyan"
-msgstr "Слишком много "
+msgstr "Слишком много бирюзового"
 
 #: activities/color_mix_light/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1859,47 +1817,46 @@ msgstr "Найдите тубу"
 #: activities/details/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid "The images are from Wikimedia Commons."
-msgstr ""
+msgstr "Изображения взяты с Викисклада (Wikimedia Commons)."
 
 #: activities/details/resource/board/board10_0.qml:25
 msgctxt "board10_0|"
 msgid "Eilean Donan castle"
-msgstr ""
+msgstr "Замок Эйлен-Донан"
 
 #: activities/details/resource/board/board11_0.qml:25
 msgctxt "board11_0|"
 msgid "Gizah Pyramids, Egypt"
-msgstr ""
+msgstr "Египетские пирамиды в Гизе"
 
 #: activities/details/resource/board/board12_0.qml:25
 msgctxt "board12_0|"
 msgid "Sydney Opera House, Australia"
-msgstr ""
+msgstr "Сиднейский оперный театр, Австралия"
 
 #: activities/details/resource/board/board13_0.qml:25
 msgctxt "board13_0|"
 msgid "Tower Bridge in London"
-msgstr ""
+msgstr "Тауэрский мост в Лондоне"
 
 #: activities/details/resource/board/board14_0.qml:25
 msgctxt "board14_0|"
 msgid "Eiffel Tower, seen from the champ de Mars, Paris, France"
-msgstr ""
+msgstr "Эйфелева башня, вид со стороны Марсова поля, Париж, Франция"
 
 #: activities/details/resource/board/board15_0.qml:25
 msgctxt "board15_0|"
 msgid "Courtyard of the Museum of Louvre, and its pyramid"
-msgstr ""
+msgstr "Двор Лувра и его пирамида"
 
 #: activities/details/resource/board/board16_0.qml:25
 msgctxt "board16_0|"
 msgid "Panorama of Château de Chenonceau, Indre-et-Loire, France."
-msgstr ""
+msgstr "Панорама замка Шенонсо, департамент Эндр и Луара, Франция"
 
 #: activities/details/resource/board/board17_0.qml:25
 msgctxt "board17_0|"
-msgid ""
-"Notre Dame de Paris cathedral on the Île de la Cité island in Paris, France."
+msgid "Windmill in Sønderho, Fanø, Denmark"
 msgstr ""
 
 #: activities/details/resource/board/board18_0.qml:25
@@ -1910,7 +1867,7 @@ msgstr ""
 #: activities/details/resource/board/board19_0.qml:25
 msgctxt "board19_0|"
 msgid "Taj Mahal, Agra, India"
-msgstr ""
+msgstr "Тадж-Махал, Агра, Индия"
 
 #: activities/details/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
@@ -1920,17 +1877,12 @@ msgstr ""
 #: activities/details/resource/board/board20_0.qml:25
 msgctxt "board20_0|"
 msgid "Castle Neuschwanstein at Schwangau, Bavaria, Germany"
-msgstr ""
+msgstr "Замок Нойшванштайн в Швангау, Бавария, Германия"
 
 #: activities/details/resource/board/board21_0.qml:25
 msgctxt "board21_0|"
 msgid "Egeskov Castle, Denmark"
-msgstr ""
-
-#: activities/details/resource/board/board22_0.qml:25
-msgctxt "board22_0|"
-msgid "Windmill in Sønderho, Fanø, Denmark"
-msgstr ""
+msgstr "Замок Эгесков, Дания"
 
 #: activities/details/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
@@ -1942,7 +1894,7 @@ msgstr ""
 #: activities/details/resource/board/board3_0.qml:25
 msgctxt "board3_0|"
 msgid "Vincent van Gogh, The Church at Auvers-sur-Oise - 1890"
-msgstr ""
+msgstr "Винсент Ван Гог, «Церковь в Овере», 1890"
 
 #: activities/details/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
@@ -1952,33 +1904,33 @@ msgstr ""
 #: activities/details/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
 msgid "Vincent van Gogh, The Harvest - 1888"
-msgstr ""
+msgstr "Винсент Ван Гог, «Жатва», 1888"
 
 #: activities/details/resource/board/board6_0.qml:25
 msgctxt "board6_0|"
 msgid "Vincent van Gogh, Cafe Terrace at Night - 1888"
-msgstr ""
+msgstr "Винсент Ван Гог, «Ночная терраса кафе», 1888"
 
 #: activities/details/resource/board/board7_0.qml:25
 msgctxt "board7_0|"
 msgid "Vincent van Gogh, The Night Café - 1888"
-msgstr ""
+msgstr "Винсент Ван Гог, «Ночное кафе», 1888"
 
 #: activities/details/resource/board/board8_0.qml:25
 msgctxt "board8_0|"
 msgid "Vincent van Gogh, Portrait of Pere Tanguy 1887-8"
-msgstr ""
+msgstr "Винсент Ван Гог, «Портрет Папаши Танги», 1887-1888"
 
 #: activities/details/resource/board/board9_0.qml:25
 msgctxt "board9_0|"
 msgid ""
 "Notre Dame de Paris cathedral on the Île de la Cité island in Paris, France."
-msgstr ""
+msgstr "Собор Парижской Богоматери на острове Сите в Париже, Франция"
 
 #: activities/drawnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Number sequence"
-msgstr ""
+msgstr "Числа по порядку"
 
 #: activities/drawnumber/ActivityInfo.qml:27
 #, fuzzy
@@ -1991,7 +1943,7 @@ msgstr "Нарисуйте рисунок, щёлкая по числам в п�
 #: activities/drawnumber/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Can count from 1 to 50."
-msgstr "Навыки счёта от 1 до 50."
+msgstr "Навык счёта от 1 до 50."
 
 #: activities/drawnumber/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -2016,7 +1968,7 @@ msgstr "Выстройте предметы оптимально, чтобы с�
 #: activities/planegame/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Numeration training"
-msgstr "Сосчитать предметы"
+msgstr "Поупражняться в счёте"
 
 #: activities/enumerate/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -2043,7 +1995,7 @@ msgstr ""
 #: activities/erase/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Move the mouse or touch the screen"
-msgstr ""
+msgstr "Двигай мышкой или касайся экрана"
 
 #: activities/erase/ActivityInfo.qml:27
 #, fuzzy
@@ -2082,51 +2034,52 @@ msgstr "Щёлкайте кнопкой мыши на частых, пока в�
 #: activities/erase_2clic/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Double tap or double click"
-msgstr ""
+msgstr "Двойное касание или двойной щелчок"
 
 #: activities/erase_2clic/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Double click the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
 msgid ""
 "Double tap or double click to erase the area and discover the background "
 "image"
-msgstr "Очистите область с помощью двойного щелчка мыши"
+msgstr ""
+"Чтобы увидеть изображение, очисти область с помощью двойного щелчка мышью или "
+"двойного касания экрана"
 
 #: activities/erase_2clic/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Double click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
 msgid ""
 "Double tap or double click the mouse on rectangles until all the blocks "
 "disappear."
-msgstr "Уберите все блоки с помощью двойного щелчка мыши."
+msgstr ""
+"Убери все блоки с помощью двойного щелчка мыши или двойного касания экрана."
 
 #: activities/erase_clic/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click and draw"
 msgctxt "ActivityInfo|"
 msgid "Click or tap"
-msgstr "Щёлкайте и рисуйте"
+msgstr "Щёлкай или нажимай"
 
 #: activities/erase_clic/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
 msgid "Click or tap to erase the area and discover the background"
-msgstr "Щёлкайте кнопкой мышки до полной очистки фона и показа картинки"
+msgstr ""
+"Щёлкайте кнопкой мыши или нажимай на экран до полной очистки области и показа "
+"картинки"
 
 #: activities/erase_clic/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
 msgid "Click or tap on the blocks all of them disappear."
-msgstr "Щёлкайте кнопкой мыши на частых, пока все части не откроются."
+msgstr ""
+"Щёлкай кнопкой мыши или нажимай на экране на блоки, пока они все не исчезнут."
 
 #: activities/fifteen/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -2212,1478 +2165,1464 @@ msgstr ""
 #: activities/geo-country/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Locate the region"
-msgstr ""
+msgstr "Поиск регионов"
 
 #: activities/geo-country/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the regions to redraw the whole country"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетаскивай регионы, чтобы перерисовать всю страну"
+
+#: activities/geo-country/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid ""
+"The map of Germany comes from Wikipedia and is released under the GNU Free "
+"Documentation License. Olaf Ronneberger and his children Lina and Julia "
+"Ronneberger created the German level."
+msgstr ""
 
 #: activities/geo-country/resource/board/board10_0.qml:25
 msgctxt "board10_0|"
 msgid "United States of America"
-msgstr ""
+msgstr "Соединённые Штаты Америки"
 
 #: activities/geo-country/resource/board/board10_1.qml:25
 msgctxt "board10_1|"
 msgid "United States of America"
-msgstr ""
+msgstr "Соединённые Штаты Америки"
 
 #: activities/geo-country/resource/board/board11_0.qml:25
 msgctxt "board11_0|"
 msgid "Districts of Italy"
-msgstr ""
+msgstr "Регионы Италии"
 
 #: activities/geo-country/resource/board/board11_1.qml:25
 msgctxt "board11_1|"
 msgid "Districts of Northern Italy"
-msgstr ""
+msgstr "Северные регионы Италии"
 
 #: activities/geo-country/resource/board/board11_2.qml:25
 msgctxt "board11_2|"
 msgid "Districts of Central Italy"
-msgstr ""
+msgstr "Центральные регионы Италии"
 
 #: activities/geo-country/resource/board/board11_3.qml:25
 msgctxt "board11_3|"
 msgid "Districts of Southern Italy"
-msgstr ""
+msgstr "Южные регионы Италии"
 
 #: activities/geo-country/resource/board/board12_0.qml:25
 msgctxt "board12_0|"
 msgid "Districts of India"
-msgstr ""
+msgstr "Штаты и территории Индии"
 
 #: activities/geo-country/resource/board/board13_0.qml:25
 msgctxt "board13_0|"
 msgid "Districts of Australia"
-msgstr ""
+msgstr "Штаты и территории Австралии"
 
 #: activities/geo-country/resource/board/board14_0.qml:25
 msgctxt "board14_0|"
 msgid "Districts of China"
-msgstr ""
+msgstr "Провинции и районы Китая"
 
 #: activities/geo-country/resource/board/board15_0.qml:25
 msgctxt "board15_0|"
 msgid "Northern Scotland"
-msgstr ""
+msgstr "Северная Шотландия"
 
 #: activities/geo-country/resource/board/board15_1.qml:25
 msgctxt "board15_1|"
 msgid "Southern Scotland"
-msgstr ""
+msgstr "Южная Шотландия"
 
 #: activities/geo-country/resource/board/board15_2.qml:25
 msgctxt "board15_2|"
 msgid "Northern Scotland"
-msgstr ""
+msgstr "Северная Шотландия"
 
 #: activities/geo-country/resource/board/board15_3.qml:25
 msgctxt "board15_3|"
 msgid "Southern Scotland"
-msgstr ""
+msgstr "Южная Шотландия"
 
 #: activities/geo-country/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
 msgid "Districts of France"
-msgstr ""
+msgstr "Регионы Франции"
 
 #: activities/geo-country/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
 msgid "Districts of Germany"
-msgstr ""
+msgstr "Земли Германии"
 
 #: activities/geo-country/resource/board/board3_0.qml:25
 msgctxt "board3_0|"
 msgid "Districts of Argentina"
-msgstr ""
+msgstr "Провинции Аргентины"
 
 #: activities/geo-country/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
 msgid "Districts of Poland"
-msgstr ""
+msgstr "Воеводства Польши"
 
 #: activities/geo-country/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
 msgid "Districts of Turkey"
-msgstr ""
+msgstr "Илы Турции"
 
 #: activities/geo-country/resource/board/board5_1.qml:25
 msgctxt "board5_1|"
 msgid "Eastern Districts of Turkey"
-msgstr ""
+msgstr "Восточные илы Турции"
 
 #: activities/geo-country/resource/board/board5_2.qml:25
 msgctxt "board5_2|"
 msgid "Districts of Turkey"
-msgstr ""
+msgstr "Илы Турции"
 
 #: activities/geo-country/resource/board/board6_0.qml:25
 msgctxt "board6_0|"
 msgid "Counties of Norway"
-msgstr ""
+msgstr "Фюльке Норвегии"
 
 #: activities/geo-country/resource/board/board7_0.qml:25
 msgctxt "board7_0|"
 msgid "Counties of Brazil"
-msgstr ""
+msgstr "Штаты Бразилии"
 
 #: activities/geography/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Locate the countries"
-msgstr ""
+msgstr "Поиск стран"
 
 #: activities/geography/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to redraw the whole map"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетаскивай части, чтобы перерисовать всю карту"
 
 #: activities/geography/resource/board/board10_0.qml:25
 msgctxt "board10_0|"
 msgid "Asia"
-msgstr ""
+msgstr "Азия"
 
 #: activities/geography/resource/board/board10_0.qml:33
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Russian"
 msgctxt "board10_0|"
 msgid "Russia"
-msgstr "Русский"
+msgstr "Россия"
 
 #: activities/geography/resource/board/board10_0.qml:39
 msgctxt "board10_0|"
 msgid "Mongolia"
-msgstr ""
+msgstr "Монголия"
 
 #: activities/geography/resource/board/board10_0.qml:45
 msgctxt "board10_0|"
 msgid "Japan"
-msgstr ""
+msgstr "Япония"
 
 #: activities/geography/resource/board/board10_0.qml:51
 msgctxt "board10_0|"
 msgid "North Korea"
-msgstr ""
+msgstr "Корейская Народная Демократическая Республика"
 
 #: activities/geography/resource/board/board10_0.qml:57
 msgctxt "board10_0|"
 msgid "South Korea"
-msgstr ""
+msgstr "Республика Корея"
 
 #: activities/geography/resource/board/board10_0.qml:63
 msgctxt "board10_0|"
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Казахстан"
 
 #: activities/geography/resource/board/board10_0.qml:69
 msgctxt "board10_0|"
 msgid "Uzbekistan"
-msgstr ""
+msgstr "Узбекистан"
 
 #: activities/geography/resource/board/board10_0.qml:75
 msgctxt "board10_0|"
 msgid "Taiwan"
-msgstr ""
+msgstr "Тайвань"
 
 #: activities/geography/resource/board/board10_0.qml:81
 msgctxt "board10_0|"
 msgid "Vietnam"
-msgstr ""
+msgstr "Вьетнам"
 
 #: activities/geography/resource/board/board10_0.qml:87
 msgctxt "board10_0|"
 msgid "Cambodia"
-msgstr ""
+msgstr "Камбоджа"
 
 #: activities/geography/resource/board/board10_0.qml:93
 msgctxt "board10_0|"
 msgid "Laos"
-msgstr ""
+msgstr "Лаос"
 
 #: activities/geography/resource/board/board10_0.qml:99
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Thai"
 msgctxt "board10_0|"
 msgid "Thailand"
-msgstr "Тайский"
+msgstr "Таиланд"
 
 #: activities/geography/resource/board/board10_0.qml:105
 msgctxt "board10_0|"
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Шри-Ланка"
 
 #: activities/geography/resource/board/board10_0.qml:111
 msgctxt "board10_0|"
 msgid "China"
-msgstr ""
+msgstr "Китай"
 
 #: activities/geography/resource/board/board10_0.qml:117
 msgctxt "board10_0|"
 msgid "India"
-msgstr ""
+msgstr "Индия"
 
 #: activities/geography/resource/board/board10_0.qml:123
 msgctxt "board10_0|"
 msgid "Bangladesh"
-msgstr ""
+msgstr "Бангладеш"
 
 #: activities/geography/resource/board/board10_0.qml:129
 msgctxt "board10_0|"
 msgid "Bhutan"
-msgstr ""
+msgstr "Бутан"
 
 #: activities/geography/resource/board/board10_0.qml:135
 msgctxt "board10_0|"
 msgid "Nepal"
-msgstr ""
+msgstr "Непал"
 
 #: activities/geography/resource/board/board10_0.qml:141
 msgctxt "board10_0|"
 msgid "Pakistan"
-msgstr ""
+msgstr "Пакистан"
 
 #: activities/geography/resource/board/board10_0.qml:147
 msgctxt "board10_0|"
 msgid "Myanmar"
-msgstr ""
+msgstr "Мьянма"
 
 #: activities/geography/resource/board/board10_0.qml:153
 msgctxt "board10_0|"
 msgid "Philippines"
-msgstr ""
+msgstr "Филиппины"
 
 #: activities/geography/resource/board/board10_0.qml:159
 msgctxt "board10_0|"
 msgid "Indonesia"
-msgstr ""
+msgstr "Индонезия"
 
 #: activities/geography/resource/board/board10_0.qml:165
 msgctxt "board10_0|"
 msgid "Malaysia"
-msgstr ""
+msgstr "Малайзия"
 
 #: activities/geography/resource/board/board10_0.qml:171
 msgctxt "board10_0|"
 msgid "Afghanistan"
-msgstr ""
+msgstr "Афганистан"
 
 #: activities/geography/resource/board/board10_0.qml:177
 msgctxt "board10_0|"
 msgid "Tajikistan"
-msgstr ""
+msgstr "Таджикистан"
 
 #: activities/geography/resource/board/board10_0.qml:183
 msgctxt "board10_0|"
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Киргизия"
 
 #: activities/geography/resource/board/board10_0.qml:189
 msgctxt "board10_0|"
 msgid "Turkmenistan"
-msgstr ""
+msgstr "Туркменистан"
 
 #: activities/geography/resource/board/board10_0.qml:195
 msgctxt "board10_0|"
 msgid "Iran"
-msgstr ""
+msgstr "Иран"
 
 #: activities/geography/resource/board/board10_0.qml:201
 msgctxt "board10_0|"
 msgid "Azerbaijan"
-msgstr ""
+msgstr "Азербайджан"
 
 #: activities/geography/resource/board/board10_0.qml:207
 msgctxt "board10_0|"
 msgid "Asia|Georgia"
-msgstr ""
+msgstr "Грузия"
 
 #: activities/geography/resource/board/board10_0.qml:213
 msgctxt "board10_0|"
 msgid "Turkey"
-msgstr ""
+msgstr "Турция"
 
 #: activities/geography/resource/board/board10_0.qml:219
 msgctxt "board10_0|"
 msgid "Syria"
-msgstr ""
+msgstr "Сирия"
 
 #: activities/geography/resource/board/board10_0.qml:225
 msgctxt "board10_0|"
 msgid "Iraq"
-msgstr ""
+msgstr "Ирак"
 
 #: activities/geography/resource/board/board10_0.qml:231
 msgctxt "board10_0|"
 msgid "Jordan"
-msgstr ""
+msgstr "Иордания"
 
 #: activities/geography/resource/board/board10_0.qml:237
 msgctxt "board10_0|"
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "Саудовская Аравия"
 
 #: activities/geography/resource/board/board10_0.qml:243
 msgctxt "board10_0|"
 msgid "Yemen"
-msgstr ""
+msgstr "Йемен"
 
 #: activities/geography/resource/board/board10_0.qml:249
 msgctxt "board10_0|"
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Объединённые Арабские Эмираты"
 
 #: activities/geography/resource/board/board10_0.qml:255
 msgctxt "board10_0|"
 msgid "Oman"
-msgstr ""
+msgstr "Оман"
 
 #: activities/geography/resource/board/board11_0.qml:25
 msgctxt "board11_0|"
 msgid "Oceania"
-msgstr ""
+msgstr "Океания"
 
 #: activities/geography/resource/board/board11_0.qml:33
 msgctxt "board11_0|"
 msgid "Pitcairn Islands"
-msgstr ""
+msgstr "Острова Питкэрн"
 
 #: activities/geography/resource/board/board11_0.qml:39
 msgctxt "board11_0|"
 msgid "French Polynesia"
-msgstr ""
+msgstr "Французская Полинезия"
 
 #: activities/geography/resource/board/board11_0.qml:45
 msgctxt "board11_0|"
 msgid "Papua New Guinea"
-msgstr ""
+msgstr "Папуа — Новая Гвинея"
 
 #: activities/geography/resource/board/board11_0.qml:51
 msgctxt "board11_0|"
 msgid "East Timor"
-msgstr ""
+msgstr "Восточный Тимор"
 
 #: activities/geography/resource/board/board11_0.qml:57
 msgctxt "board11_0|"
 msgid "Indonesia"
-msgstr ""
+msgstr "Индонезия"
 
 #: activities/geography/resource/board/board11_0.qml:63
 msgctxt "board11_0|"
 msgid "Palau"
-msgstr ""
+msgstr "Палау"
 
 #: activities/geography/resource/board/board11_0.qml:69
 msgctxt "board11_0|"
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Северные Марианские острова"
 
 #: activities/geography/resource/board/board11_0.qml:75
 msgctxt "board11_0|"
 msgid "Micronesia"
-msgstr ""
+msgstr "Микронезия"
 
 #: activities/geography/resource/board/board11_0.qml:81
-#, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Manual"
 msgctxt "board11_0|"
 msgid "Vanuatu"
-msgstr "Руководство"
+msgstr "Вануату"
 
 #: activities/geography/resource/board/board11_0.qml:87
 msgctxt "board11_0|"
 msgid "Tuvalu"
-msgstr ""
+msgstr "Тувалу"
 
 #: activities/geography/resource/board/board11_0.qml:93
 msgctxt "board11_0|"
 msgid "Tonga"
-msgstr ""
+msgstr "Тонга"
 
 #: activities/geography/resource/board/board11_0.qml:99
 msgctxt "board11_0|"
 msgid "New Caledonia"
-msgstr ""
+msgstr "Новая Каледония"
 
 #: activities/geography/resource/board/board11_0.qml:105
 msgctxt "board11_0|"
 msgid "Marshall Islands"
-msgstr ""
+msgstr "Маршалловы Острова"
 
 #: activities/geography/resource/board/board11_0.qml:111
 msgctxt "board11_0|"
 msgid "Kiribati"
-msgstr ""
+msgstr "Кирибати"
 
 #: activities/geography/resource/board/board11_0.qml:117
 msgctxt "board11_0|"
 msgid "Fiji"
-msgstr ""
+msgstr "Фиджи"
 
 #: activities/geography/resource/board/board11_0.qml:123
 msgctxt "board11_0|"
 msgid "Solomon Islands"
-msgstr ""
+msgstr "Соломоновы Острова"
 
 #: activities/geography/resource/board/board11_0.qml:129
 msgctxt "board11_0|"
 msgid "New Zealand"
-msgstr ""
+msgstr "Новая Зеландия"
 
 #: activities/geography/resource/board/board11_0.qml:135
 msgctxt "board11_0|"
 msgid "Cook Islands"
-msgstr ""
+msgstr "Острова Кука"
 
 #: activities/geography/resource/board/board11_0.qml:141
 msgctxt "board11_0|"
 msgid "American Samoa"
-msgstr ""
+msgstr "Американское Самоа"
 
 #: activities/geography/resource/board/board11_0.qml:147
 msgctxt "board11_0|"
 msgid "Australia"
-msgstr ""
+msgstr "Австралия"
 
 #: activities/geography/resource/board/board11_0.qml:153
 msgctxt "board11_0|"
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "Внешние малые острова США"
 
 #: activities/geography/resource/board/board11_0.qml:159
 msgctxt "board11_0|"
 msgid "Hawaii"
-msgstr ""
+msgstr "Гавайи"
 
 #: activities/geography/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
 msgid "Continents"
-msgstr ""
+msgstr "Части света"
 
-#: activities/geography/resource/board/board1_0.qml:33
+#: activities/geography/resource/board/board1_0.qml:34
 msgctxt "board1_0|"
 msgid "Oceania"
-msgstr ""
+msgstr "Океания"
 
-#: activities/geography/resource/board/board1_0.qml:39
+#: activities/geography/resource/board/board1_0.qml:41
 msgctxt "board1_0|"
 msgid "Europe"
-msgstr ""
+msgstr "Европа"
 
-#: activities/geography/resource/board/board1_0.qml:45
+#: activities/geography/resource/board/board1_0.qml:48
 msgctxt "board1_0|"
 msgid "Asia"
-msgstr ""
+msgstr "Азия"
 
-#: activities/geography/resource/board/board1_0.qml:51
+#: activities/geography/resource/board/board1_0.qml:55
 msgctxt "board1_0|"
 msgid "Antarctica"
-msgstr ""
+msgstr "Антарктида"
 
-#: activities/geography/resource/board/board1_0.qml:57
+#: activities/geography/resource/board/board1_0.qml:62
 msgctxt "board1_0|"
 msgid "America"
-msgstr ""
+msgstr "Америка"
 
-#: activities/geography/resource/board/board1_0.qml:63
+#: activities/geography/resource/board/board1_0.qml:69
 msgctxt "board1_0|"
 msgid "Africa"
-msgstr ""
+msgstr "Африка"
 
 #: activities/geography/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
 msgid "North America"
-msgstr ""
+msgstr "Северная Америка"
 
-#: activities/geography/resource/board/board2_0.qml:33
+#: activities/geography/resource/board/board2_0.qml:34
 msgctxt "board2_0|"
 msgid "Alaska"
-msgstr ""
+msgstr "Аляска"
 
-#: activities/geography/resource/board/board2_0.qml:39
+#: activities/geography/resource/board/board2_0.qml:41
 msgctxt "board2_0|"
 msgid "United States of America"
-msgstr ""
+msgstr "Соединённые Штаты Америки"
 
-#: activities/geography/resource/board/board2_0.qml:45
+#: activities/geography/resource/board/board2_0.qml:48
 msgctxt "board2_0|"
 msgid "Mexico"
-msgstr ""
+msgstr "Мексика"
 
-#: activities/geography/resource/board/board2_0.qml:51
+#: activities/geography/resource/board/board2_0.qml:55
 msgctxt "board2_0|"
 msgid "Iceland"
-msgstr ""
+msgstr "Исландия"
 
-#: activities/geography/resource/board/board2_0.qml:57
+#: activities/geography/resource/board/board2_0.qml:62
 msgctxt "board2_0|"
 msgid "Greenland"
-msgstr ""
+msgstr "Гренландия"
 
-#: activities/geography/resource/board/board2_0.qml:63
+#: activities/geography/resource/board/board2_0.qml:69
 msgctxt "board2_0|"
 msgid "Canada"
-msgstr ""
+msgstr "Канада"
 
 #: activities/geography/resource/board/board3_0.qml:26
 msgctxt "board3_0|"
 msgid "Central America"
-msgstr ""
+msgstr "Центральная Америка"
 
-#: activities/geography/resource/board/board3_0.qml:34
+#: activities/geography/resource/board/board3_0.qml:35
 msgctxt "board3_0|"
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Пуэрто-Рико"
 
-#: activities/geography/resource/board/board3_0.qml:40
+#: activities/geography/resource/board/board3_0.qml:42
 msgctxt "board3_0|"
 msgid "Panama"
-msgstr ""
+msgstr "Панама"
 
-#: activities/geography/resource/board/board3_0.qml:46
+#: activities/geography/resource/board/board3_0.qml:49
 msgctxt "board3_0|"
 msgid "Nicaragua"
-msgstr ""
+msgstr "Никарагуа"
 
-#: activities/geography/resource/board/board3_0.qml:52
+#: activities/geography/resource/board/board3_0.qml:56
 msgctxt "board3_0|"
 msgid "Mexico"
-msgstr ""
+msgstr "Мексика"
 
-#: activities/geography/resource/board/board3_0.qml:58
+#: activities/geography/resource/board/board3_0.qml:63
 msgctxt "board3_0|"
 msgid "Jamaica"
-msgstr ""
-
-#: activities/geography/resource/board/board3_0.qml:64
-msgctxt "board3_0|"
-msgid "Honduras"
-msgstr ""
+msgstr "Ямайка"
 
 #: activities/geography/resource/board/board3_0.qml:70
 msgctxt "board3_0|"
-msgid "Haiti"
-msgstr ""
+msgid "Honduras"
+msgstr "Гондурас"
 
-#: activities/geography/resource/board/board3_0.qml:76
+#: activities/geography/resource/board/board3_0.qml:77
+msgctxt "board3_0|"
+msgid "Haiti"
+msgstr "Гаити"
+
+#: activities/geography/resource/board/board3_0.qml:84
 msgctxt "board3_0|"
 msgid "Guatemala"
-msgstr ""
+msgstr "Гватемала"
 
-#: activities/geography/resource/board/board3_0.qml:82
+#: activities/geography/resource/board/board3_0.qml:91
 msgctxt "board3_0|"
 msgid "El Salvador"
-msgstr ""
+msgstr "Сальвадор"
 
-#: activities/geography/resource/board/board3_0.qml:88
-#, fuzzy
+#: activities/geography/resource/board/board3_0.qml:98
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board3_0|"
 msgid "Dominican Republic"
-msgstr "Чехия"
+msgstr "Доминиканская Республика"
 
-#: activities/geography/resource/board/board3_0.qml:94
+#: activities/geography/resource/board/board3_0.qml:105
 msgctxt "board3_0|"
 msgid "Cuba"
-msgstr ""
-
-#: activities/geography/resource/board/board3_0.qml:100
-msgctxt "board3_0|"
-msgid "Costa Rica"
-msgstr ""
-
-#: activities/geography/resource/board/board3_0.qml:106
-msgctxt "board3_0|"
-msgid "Belize"
-msgstr ""
+msgstr "Куба"
 
 #: activities/geography/resource/board/board3_0.qml:112
 msgctxt "board3_0|"
+msgid "Costa Rica"
+msgstr "Коста-Рика"
+
+#: activities/geography/resource/board/board3_0.qml:119
+msgctxt "board3_0|"
+msgid "Belize"
+msgstr "Белиз"
+
+#: activities/geography/resource/board/board3_0.qml:126
+msgctxt "board3_0|"
 msgid "Bahamas"
-msgstr ""
+msgstr "Багамские острова"
 
 #: activities/geography/resource/board/board3_1.qml:25
 msgctxt "board3_1|"
 msgid "Central America"
-msgstr ""
+msgstr "Центральная Америка"
 
-#: activities/geography/resource/board/board3_1.qml:33
+#: activities/geography/resource/board/board3_1.qml:34
 msgctxt "board3_1|"
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Пуэрто-Рико"
 
-#: activities/geography/resource/board/board3_1.qml:39
+#: activities/geography/resource/board/board3_1.qml:41
 msgctxt "board3_1|"
 msgid "Panama"
-msgstr ""
+msgstr "Панама"
 
-#: activities/geography/resource/board/board3_1.qml:45
+#: activities/geography/resource/board/board3_1.qml:48
 msgctxt "board3_1|"
 msgid "Nicaragua"
-msgstr ""
+msgstr "Никарагуа"
 
-#: activities/geography/resource/board/board3_1.qml:51
+#: activities/geography/resource/board/board3_1.qml:55
 msgctxt "board3_1|"
 msgid "Mexico"
-msgstr ""
+msgstr "Мексика"
 
-#: activities/geography/resource/board/board3_1.qml:57
+#: activities/geography/resource/board/board3_1.qml:62
 msgctxt "board3_1|"
 msgid "Jamaica"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:63
-msgctxt "board3_1|"
-msgid "Honduras"
-msgstr ""
+msgstr "Ямайка"
 
 #: activities/geography/resource/board/board3_1.qml:69
 msgctxt "board3_1|"
-msgid "Haiti"
-msgstr ""
+msgid "Honduras"
+msgstr "Гондурас"
 
-#: activities/geography/resource/board/board3_1.qml:75
+#: activities/geography/resource/board/board3_1.qml:76
+msgctxt "board3_1|"
+msgid "Haiti"
+msgstr "Гаити"
+
+#: activities/geography/resource/board/board3_1.qml:83
 msgctxt "board3_1|"
 msgid "Guatemala"
-msgstr ""
+msgstr "Гватемала"
 
-#: activities/geography/resource/board/board3_1.qml:81
+#: activities/geography/resource/board/board3_1.qml:90
 msgctxt "board3_1|"
 msgid "El Salvador"
-msgstr ""
+msgstr "Сальвадор"
 
-#: activities/geography/resource/board/board3_1.qml:87
-#, fuzzy
+#: activities/geography/resource/board/board3_1.qml:97
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board3_1|"
 msgid "Dominican Republic"
-msgstr "Чехия"
+msgstr "Доминиканская Республика"
 
-#: activities/geography/resource/board/board3_1.qml:93
+#: activities/geography/resource/board/board3_1.qml:104
 msgctxt "board3_1|"
 msgid "Cuba"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:99
-msgctxt "board3_1|"
-msgid "Costa Rica"
-msgstr ""
-
-#: activities/geography/resource/board/board3_1.qml:105
-msgctxt "board3_1|"
-msgid "Belize"
-msgstr ""
+msgstr "Куба"
 
 #: activities/geography/resource/board/board3_1.qml:111
 msgctxt "board3_1|"
+msgid "Costa Rica"
+msgstr "Коста-Рика"
+
+#: activities/geography/resource/board/board3_1.qml:118
+msgctxt "board3_1|"
+msgid "Belize"
+msgstr "Белиз"
+
+#: activities/geography/resource/board/board3_1.qml:125
+msgctxt "board3_1|"
 msgid "Bahamas"
-msgstr ""
+msgstr "Багамские Острова"
 
 #: activities/geography/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
 msgid "South America"
-msgstr ""
+msgstr "Южная Америка"
 
-#: activities/geography/resource/board/board4_0.qml:33
+#: activities/geography/resource/board/board4_0.qml:34
 msgctxt "board4_0|"
 msgid "Venezuela"
-msgstr ""
+msgstr "Венесуэла"
 
-#: activities/geography/resource/board/board4_0.qml:39
+#: activities/geography/resource/board/board4_0.qml:41
 msgctxt "board4_0|"
 msgid "Uruguay"
-msgstr ""
+msgstr "Уругвай"
 
-#: activities/geography/resource/board/board4_0.qml:45
+#: activities/geography/resource/board/board4_0.qml:48
 msgctxt "board4_0|"
 msgid "Suriname"
-msgstr ""
+msgstr "Суринам"
 
-#: activities/geography/resource/board/board4_0.qml:51
+#: activities/geography/resource/board/board4_0.qml:55
 msgctxt "board4_0|"
 msgid "Peru"
-msgstr ""
+msgstr "Перу"
 
-#: activities/geography/resource/board/board4_0.qml:57
+#: activities/geography/resource/board/board4_0.qml:62
 msgctxt "board4_0|"
 msgid "Paraguay"
-msgstr ""
-
-#: activities/geography/resource/board/board4_0.qml:63
-msgctxt "board4_0|"
-msgid "Panama"
-msgstr ""
+msgstr "Парагвай"
 
 #: activities/geography/resource/board/board4_0.qml:69
 msgctxt "board4_0|"
-msgid "Guyana"
-msgstr ""
+msgid "Panama"
+msgstr "Панама"
 
-#: activities/geography/resource/board/board4_0.qml:75
-#, fuzzy
+#: activities/geography/resource/board/board4_0.qml:76
+msgctxt "board4_0|"
+msgid "Guyana"
+msgstr "Гайана"
+
+#: activities/geography/resource/board/board4_0.qml:83
 #| msgctxt "DialogConfig|"
 #| msgid "French"
 msgctxt "board4_0|"
 msgid "French Guiana"
-msgstr "Французский"
+msgstr "Французская Гвиана"
 
-#: activities/geography/resource/board/board4_0.qml:81
+#: activities/geography/resource/board/board4_0.qml:90
 msgctxt "board4_0|"
 msgid "Ecuador"
-msgstr ""
+msgstr "Эквадор"
 
-#: activities/geography/resource/board/board4_0.qml:87
+#: activities/geography/resource/board/board4_0.qml:97
 msgctxt "board4_0|"
 msgid "Colombia"
-msgstr ""
+msgstr "Колумбия"
 
-#: activities/geography/resource/board/board4_0.qml:93
+#: activities/geography/resource/board/board4_0.qml:104
 msgctxt "board4_0|"
 msgid "Chile"
-msgstr ""
-
-#: activities/geography/resource/board/board4_0.qml:99
-msgctxt "board4_0|"
-msgid "Brazil"
-msgstr ""
-
-#: activities/geography/resource/board/board4_0.qml:105
-msgctxt "board4_0|"
-msgid "Bolivia"
-msgstr ""
+msgstr "Чили"
 
 #: activities/geography/resource/board/board4_0.qml:111
 msgctxt "board4_0|"
+msgid "Brazil"
+msgstr "Бразилия"
+
+#: activities/geography/resource/board/board4_0.qml:118
+msgctxt "board4_0|"
+msgid "Bolivia"
+msgstr "Боливия"
+
+#: activities/geography/resource/board/board4_0.qml:125
+msgctxt "board4_0|"
 msgid "Argentina"
-msgstr ""
+msgstr "Аргентина"
 
 #: activities/geography/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
 msgid "Western Europe"
-msgstr ""
+msgstr "Западная Европа"
 
-#: activities/geography/resource/board/board5_0.qml:33
+#: activities/geography/resource/board/board5_0.qml:34
 msgctxt "board5_0|"
 msgid "United Kingdom"
-msgstr ""
+msgstr "Великобритания"
 
-#: activities/geography/resource/board/board5_0.qml:39
+#: activities/geography/resource/board/board5_0.qml:41
 msgctxt "board5_0|"
 msgid "Switzerland"
-msgstr ""
+msgstr "Швейцария"
 
-#: activities/geography/resource/board/board5_0.qml:45
-#, fuzzy
+#: activities/geography/resource/board/board5_0.qml:48
 #| msgctxt "DialogConfig|"
 #| msgid "Swedish"
 msgctxt "board5_0|"
 msgid "Sweden"
-msgstr "Шведский"
+msgstr "Швеция"
 
-#: activities/geography/resource/board/board5_0.qml:51
+#: activities/geography/resource/board/board5_0.qml:55
 msgctxt "board5_0|"
 msgid "Spain"
-msgstr ""
+msgstr "Испания"
 
-#: activities/geography/resource/board/board5_0.qml:57
+#: activities/geography/resource/board/board5_0.qml:62
 msgctxt "board5_0|"
 msgid "Portugal"
-msgstr ""
-
-#: activities/geography/resource/board/board5_0.qml:63
-msgctxt "board5_0|"
-msgid "Norway"
-msgstr ""
+msgstr "Португалия"
 
 #: activities/geography/resource/board/board5_0.qml:69
 msgctxt "board5_0|"
-msgid "The Netherlands"
-msgstr ""
+msgid "Norway"
+msgstr "Норвегия"
 
-#: activities/geography/resource/board/board5_0.qml:81
+#: activities/geography/resource/board/board5_0.qml:76
+msgctxt "board5_0|"
+msgid "The Netherlands"
+msgstr "Нидерланды"
+
+#: activities/geography/resource/board/board5_0.qml:90
 msgctxt "board5_0|"
 msgid "Italy"
-msgstr ""
+msgstr "Италия"
 
-#: activities/geography/resource/board/board5_0.qml:87
+#: activities/geography/resource/board/board5_0.qml:97
 msgctxt "board5_0|"
 msgid "Ireland"
-msgstr ""
+msgstr "Ирландия"
 
-#: activities/geography/resource/board/board5_0.qml:93
+#: activities/geography/resource/board/board5_0.qml:104
 msgctxt "board5_0|"
 msgid "Iceland"
-msgstr ""
+msgstr "Исландия"
 
-#: activities/geography/resource/board/board5_0.qml:99
-#, fuzzy
+#: activities/geography/resource/board/board5_0.qml:111
 #| msgctxt "DialogConfig|"
 #| msgid "German"
 msgctxt "board5_0|"
 msgid "Germany"
-msgstr "Немецкий"
+msgstr "Германия"
 
-#: activities/geography/resource/board/board5_0.qml:105
+#: activities/geography/resource/board/board5_0.qml:118
 msgctxt "board5_0|"
 msgid "France"
-msgstr ""
+msgstr "Франция"
 
-#: activities/geography/resource/board/board5_0.qml:111
+#: activities/geography/resource/board/board5_0.qml:125
 msgctxt "board5_0|"
 msgid "Finland"
-msgstr ""
+msgstr "Финляндия"
 
-#: activities/geography/resource/board/board5_0.qml:117
+#: activities/geography/resource/board/board5_0.qml:132
 msgctxt "board5_0|"
 msgid "Denmark"
-msgstr ""
+msgstr "Дания"
 
-#: activities/geography/resource/board/board5_0.qml:123
+#: activities/geography/resource/board/board5_0.qml:139
 msgctxt "board5_0|"
 msgid "Belgium"
-msgstr ""
+msgstr "Бельгия"
 
-#: activities/geography/resource/board/board5_0.qml:129
+#: activities/geography/resource/board/board5_0.qml:146
 msgctxt "board5_0|"
 msgid "Austria"
-msgstr ""
+msgstr "Австрия"
 
 #: activities/geography/resource/board/board6_0.qml:25
 msgctxt "board6_0|"
 msgid "Eastern Europe"
-msgstr ""
+msgstr "Восточная Европа"
 
-#: activities/geography/resource/board/board6_0.qml:39
-#, fuzzy
+#: activities/geography/resource/board/board6_0.qml:41
 #| msgctxt "DialogConfig|"
 #| msgid "Greek"
 msgctxt "board6_0|"
 msgid "Greece"
-msgstr "Греческий"
+msgstr "Греция"
 
-#: activities/geography/resource/board/board6_0.qml:45
+#: activities/geography/resource/board/board6_0.qml:48
 msgctxt "board6_0|"
 msgid "Ukraine"
-msgstr ""
+msgstr "Украина"
 
-#: activities/geography/resource/board/board6_0.qml:51
+#: activities/geography/resource/board/board6_0.qml:55
 msgctxt "board6_0|"
 msgid "Turkey"
-msgstr ""
+msgstr "Турция"
 
-#: activities/geography/resource/board/board6_0.qml:57
-#, fuzzy
+#: activities/geography/resource/board/board6_0.qml:62
 #| msgctxt "DialogConfig|"
 #| msgid "Slovenian"
 msgctxt "board6_0|"
 msgid "Slovenia"
-msgstr "Словенский"
+msgstr "Словения"
 
-#: activities/geography/resource/board/board6_0.qml:63
-#, fuzzy
+#: activities/geography/resource/board/board6_0.qml:69
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board6_0|"
 msgid "Slovak Republic"
-msgstr "Чехия"
+msgstr "Словакия"
 
-#: activities/geography/resource/board/board6_0.qml:69
-#, fuzzy
+#: activities/geography/resource/board/board6_0.qml:76
 #| msgctxt "DialogConfig|"
 #| msgid "Montenegrin"
 msgctxt "board6_0|"
 msgid "Montenegro"
-msgstr "Черногорский"
+msgstr "Черногория"
 
-#: activities/geography/resource/board/board6_0.qml:75
+#: activities/geography/resource/board/board6_0.qml:83
 msgctxt "board6_0|"
 msgid "Serbia"
-msgstr ""
+msgstr "Сербия"
 
-#: activities/geography/resource/board/board6_0.qml:81
-#, fuzzy
+#: activities/geography/resource/board/board6_0.qml:90
 #| msgctxt "DialogConfig|"
 #| msgid "Russian"
 msgctxt "board6_0|"
 msgid "Russia"
-msgstr "Русский"
+msgstr "Россия"
 
-#: activities/geography/resource/board/board6_0.qml:87
+#: activities/geography/resource/board/board6_0.qml:97
 msgctxt "board6_0|"
 msgid "Romania"
-msgstr ""
+msgstr "Румыния"
 
-#: activities/geography/resource/board/board6_0.qml:93
+#: activities/geography/resource/board/board6_0.qml:104
 msgctxt "board6_0|"
 msgid "Poland"
-msgstr ""
-
-#: activities/geography/resource/board/board6_0.qml:99
-msgctxt "board6_0|"
-msgid "Moldova"
-msgstr ""
-
-#: activities/geography/resource/board/board6_0.qml:105
-msgctxt "board6_0|"
-msgid "Macedonia"
-msgstr ""
+msgstr "Польша"
 
 #: activities/geography/resource/board/board6_0.qml:111
-#, fuzzy
+msgctxt "board6_0|"
+msgid "Moldova"
+msgstr "Молдавия"
+
+#: activities/geography/resource/board/board6_0.qml:118
+msgctxt "board6_0|"
+msgid "Macedonia"
+msgstr "Македония"
+
+#: activities/geography/resource/board/board6_0.qml:125
 #| msgctxt "DialogConfig|"
 #| msgid "Lithuanian"
 msgctxt "board6_0|"
 msgid "Lithuania"
-msgstr "Литовский"
+msgstr "Литва"
 
-#: activities/geography/resource/board/board6_0.qml:117
-#, fuzzy
+#: activities/geography/resource/board/board6_0.qml:132
 #| msgctxt "DialogConfig|"
 #| msgid "Latvian"
 msgctxt "board6_0|"
 msgid "Latvia"
-msgstr "Латвийский"
+msgstr "Латвия"
 
-#: activities/geography/resource/board/board6_0.qml:123
-#, fuzzy
+#: activities/geography/resource/board/board6_0.qml:139
 #| msgctxt "DialogConfig|"
 #| msgid "Hungarian"
 msgctxt "board6_0|"
 msgid "Hungary"
-msgstr "Венгерский"
+msgstr "Венгрия"
 
-#: activities/geography/resource/board/board6_0.qml:129
+#: activities/geography/resource/board/board6_0.qml:146
 msgctxt "board6_0|"
 msgid "Estonia"
-msgstr ""
+msgstr "Эстония"
 
-#: activities/geography/resource/board/board6_0.qml:135
-#, fuzzy
+#: activities/geography/resource/board/board6_0.qml:153
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board6_0|"
 msgid "Czech Republic"
 msgstr "Чехия"
 
-#: activities/geography/resource/board/board6_0.qml:141
+#: activities/geography/resource/board/board6_0.qml:160
 msgctxt "board6_0|"
 msgid "Croatia"
-msgstr ""
+msgstr "Хорватия"
 
-#: activities/geography/resource/board/board6_0.qml:147
-#, fuzzy
+#: activities/geography/resource/board/board6_0.qml:167
 #| msgctxt "DialogConfig|"
 #| msgid "Bulgarian"
 msgctxt "board6_0|"
 msgid "Bulgaria"
-msgstr "Болгарский"
+msgstr "Болгария"
 
-#: activities/geography/resource/board/board6_0.qml:153
+#: activities/geography/resource/board/board6_0.qml:174
 msgctxt "board6_0|"
 msgid "Bosnia Herzegovina"
-msgstr ""
+msgstr "Босния и Герцеговина"
 
-#: activities/geography/resource/board/board6_0.qml:159
+#: activities/geography/resource/board/board6_0.qml:181
 msgctxt "board6_0|"
 msgid "Belarus"
-msgstr ""
+msgstr "Белоруссия"
 
-#: activities/geography/resource/board/board6_0.qml:165
+#: activities/geography/resource/board/board6_0.qml:188
 msgctxt "board6_0|"
 msgid "Albania"
-msgstr ""
+msgstr "Албания"
 
 #: activities/geography/resource/board/board7_0.qml:25
 msgctxt "board7_0|"
 msgid "Northern Africa"
-msgstr ""
+msgstr "Северная Африка"
 
-#: activities/geography/resource/board/board7_0.qml:33
+#: activities/geography/resource/board/board7_0.qml:34
 msgctxt "board7_0|"
 msgid "Western Sahara"
-msgstr ""
+msgstr "Западная Сахара"
 
-#: activities/geography/resource/board/board7_0.qml:39
+#: activities/geography/resource/board/board7_0.qml:41
 msgctxt "board7_0|"
 msgid "Uganda"
-msgstr ""
+msgstr "Уганда"
 
-#: activities/geography/resource/board/board7_0.qml:45
+#: activities/geography/resource/board/board7_0.qml:48
 msgctxt "board7_0|"
 msgid "Tunisia"
-msgstr ""
+msgstr "Тунис"
 
-#: activities/geography/resource/board/board7_0.qml:51
+#: activities/geography/resource/board/board7_0.qml:55
 msgctxt "board7_0|"
 msgid "Togo"
-msgstr ""
+msgstr "Того"
 
-#: activities/geography/resource/board/board7_0.qml:57
+#: activities/geography/resource/board/board7_0.qml:62
 msgctxt "board7_0|"
 msgid "Sudan"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:63
-msgctxt "board7_0|"
-msgid "Somalia"
-msgstr ""
+msgstr "Судан"
 
 #: activities/geography/resource/board/board7_0.qml:69
 msgctxt "board7_0|"
-msgid "Sierra Leone"
-msgstr ""
+msgid "Somalia"
+msgstr "Сомали"
 
-#: activities/geography/resource/board/board7_0.qml:75
+#: activities/geography/resource/board/board7_0.qml:76
+msgctxt "board7_0|"
+msgid "Sierra Leone"
+msgstr "Сьерра-Леоне"
+
+#: activities/geography/resource/board/board7_0.qml:83
 msgctxt "board7_0|"
 msgid "Senegal"
-msgstr ""
+msgstr "Сенегал"
 
-#: activities/geography/resource/board/board7_0.qml:81
+#: activities/geography/resource/board/board7_0.qml:90
 msgctxt "board7_0|"
 msgid "Rwanda"
-msgstr ""
+msgstr "Руанда"
 
-#: activities/geography/resource/board/board7_0.qml:87
+#: activities/geography/resource/board/board7_0.qml:97
 msgctxt "board7_0|"
 msgid "Niger"
-msgstr ""
+msgstr "Нигер"
 
-#: activities/geography/resource/board/board7_0.qml:93
+#: activities/geography/resource/board/board7_0.qml:104
 msgctxt "board7_0|"
 msgid "Nigeria"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:99
-msgctxt "board7_0|"
-msgid "Morocco"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:105
-msgctxt "board7_0|"
-msgid "Mauritania"
-msgstr ""
+msgstr "Нигерия"
 
 #: activities/geography/resource/board/board7_0.qml:111
 msgctxt "board7_0|"
-msgid "Mali"
-msgstr ""
+msgid "Morocco"
+msgstr "Марокко"
 
-#: activities/geography/resource/board/board7_0.qml:117
+#: activities/geography/resource/board/board7_0.qml:118
+msgctxt "board7_0|"
+msgid "Mauritania"
+msgstr "Мавритания"
+
+#: activities/geography/resource/board/board7_0.qml:125
+msgctxt "board7_0|"
+msgid "Mali"
+msgstr "Мали"
+
+#: activities/geography/resource/board/board7_0.qml:132
 msgctxt "board7_0|"
 msgid "Libya"
-msgstr ""
+msgstr "Ливия"
 
-#: activities/geography/resource/board/board7_0.qml:123
+#: activities/geography/resource/board/board7_0.qml:139
 msgctxt "board7_0|"
 msgid "Liberia"
-msgstr ""
+msgstr "Либерия"
 
-#: activities/geography/resource/board/board7_0.qml:129
+#: activities/geography/resource/board/board7_0.qml:146
 msgctxt "board7_0|"
 msgid "Ivory Coast"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:135
-msgctxt "board7_0|"
-msgid "Guinea"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:141
-msgctxt "board7_0|"
-msgid "Guinea Bissau"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:147
-msgctxt "board7_0|"
-msgid "Ghana"
-msgstr ""
+msgstr "Кот-д’Ивуар"
 
 #: activities/geography/resource/board/board7_0.qml:153
 msgctxt "board7_0|"
-msgid "Gambia"
-msgstr ""
+msgid "Guinea"
+msgstr "Гвинея"
 
-#: activities/geography/resource/board/board7_0.qml:159
+#: activities/geography/resource/board/board7_0.qml:160
+msgctxt "board7_0|"
+msgid "Guinea Bissau"
+msgstr "Гвинея-Бисау"
+
+#: activities/geography/resource/board/board7_0.qml:167
+msgctxt "board7_0|"
+msgid "Ghana"
+msgstr "Гана"
+
+#: activities/geography/resource/board/board7_0.qml:174
+msgctxt "board7_0|"
+msgid "Gambia"
+msgstr "Гамбия"
+
+#: activities/geography/resource/board/board7_0.qml:181
 msgctxt "board7_0|"
 msgid "Gabon"
-msgstr ""
+msgstr "Габон"
 
-#: activities/geography/resource/board/board7_0.qml:165
+#: activities/geography/resource/board/board7_0.qml:188
 msgctxt "board7_0|"
 msgid "Eritrea"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:171
-msgctxt "board7_0|"
-msgid "Ethiopia"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:177
-msgctxt "board7_0|"
-msgid "Equatorial Guinea"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:183
-msgctxt "board7_0|"
-msgid "Egypt"
-msgstr ""
-
-#: activities/geography/resource/board/board7_0.qml:189
-msgctxt "board7_0|"
-msgid "Djibouti"
-msgstr ""
+msgstr "Эритрея"
 
 #: activities/geography/resource/board/board7_0.qml:195
 msgctxt "board7_0|"
-msgid "Chad"
-msgstr ""
+msgid "Ethiopia"
+msgstr "Эфиопия"
 
-#: activities/geography/resource/board/board7_0.qml:201
-#, fuzzy
+#: activities/geography/resource/board/board7_0.qml:202
+msgctxt "board7_0|"
+msgid "Equatorial Guinea"
+msgstr "Экваториальная Гвинея"
+
+#: activities/geography/resource/board/board7_0.qml:209
+msgctxt "board7_0|"
+msgid "Egypt"
+msgstr "Египет"
+
+#: activities/geography/resource/board/board7_0.qml:216
+msgctxt "board7_0|"
+msgid "Djibouti"
+msgstr "Джибути"
+
+#: activities/geography/resource/board/board7_0.qml:223
+msgctxt "board7_0|"
+msgid "Chad"
+msgstr "Чад"
+
+#: activities/geography/resource/board/board7_0.qml:230
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board7_0|"
 msgid "Central African Republic"
-msgstr "Чехия"
+msgstr "Центральноафриканская Республика"
 
-#: activities/geography/resource/board/board7_0.qml:207
+#: activities/geography/resource/board/board7_0.qml:237
 msgctxt "board7_0|"
 msgid "Cameroon"
-msgstr ""
+msgstr "Камерун"
 
-#: activities/geography/resource/board/board7_0.qml:213
+#: activities/geography/resource/board/board7_0.qml:244
 msgctxt "board7_0|"
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Буркина-Фасо"
 
-#: activities/geography/resource/board/board7_0.qml:219
+#: activities/geography/resource/board/board7_0.qml:251
 msgctxt "board7_0|"
 msgid "Benin"
-msgstr ""
+msgstr "Бенин"
 
-#: activities/geography/resource/board/board7_0.qml:225
+#: activities/geography/resource/board/board7_0.qml:258
 msgctxt "board7_0|"
 msgid "Algeria"
-msgstr ""
+msgstr "Алжир"
 
 #: activities/geography/resource/board/board8_0.qml:25
 msgctxt "board8_0|"
 msgid "Southern Africa"
-msgstr ""
+msgstr "Южная Африка"
 
-#: activities/geography/resource/board/board8_0.qml:33
+#: activities/geography/resource/board/board8_0.qml:34
 msgctxt "board8_0|"
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Зимбабве"
 
-#: activities/geography/resource/board/board8_0.qml:39
+#: activities/geography/resource/board/board8_0.qml:41
 msgctxt "board8_0|"
 msgid "Zambia"
-msgstr ""
+msgstr "Замбия"
 
-#: activities/geography/resource/board/board8_0.qml:45
+#: activities/geography/resource/board/board8_0.qml:48
 msgctxt "board8_0|"
 msgid "Uganda"
-msgstr ""
+msgstr "Уганда"
 
-#: activities/geography/resource/board/board8_0.qml:51
+#: activities/geography/resource/board/board8_0.qml:55
 msgctxt "board8_0|"
 msgid "Tanzania"
-msgstr ""
+msgstr "Танзания"
 
-#: activities/geography/resource/board/board8_0.qml:57
+#: activities/geography/resource/board/board8_0.qml:62
 msgctxt "board8_0|"
 msgid "Swaziland"
-msgstr ""
-
-#: activities/geography/resource/board/board8_0.qml:63
-msgctxt "board8_0|"
-msgid "South Africa"
-msgstr ""
+msgstr "Свазиленд"
 
 #: activities/geography/resource/board/board8_0.qml:69
 msgctxt "board8_0|"
-msgid "Rwanda"
-msgstr ""
+msgid "South Africa"
+msgstr "Южно-Африканская Республика"
 
-#: activities/geography/resource/board/board8_0.qml:75
+#: activities/geography/resource/board/board8_0.qml:76
+msgctxt "board8_0|"
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: activities/geography/resource/board/board8_0.qml:83
 msgctxt "board8_0|"
 msgid "Republic of Congo"
-msgstr ""
+msgstr "Республика Конго"
 
-#: activities/geography/resource/board/board8_0.qml:81
+#: activities/geography/resource/board/board8_0.qml:90
 msgctxt "board8_0|"
 msgid "Namibia"
-msgstr ""
+msgstr "Намибия"
 
-#: activities/geography/resource/board/board8_0.qml:87
+#: activities/geography/resource/board/board8_0.qml:97
 msgctxt "board8_0|"
 msgid "Mozambique"
-msgstr ""
+msgstr "Мозамбик"
 
-#: activities/geography/resource/board/board8_0.qml:93
+#: activities/geography/resource/board/board8_0.qml:104
 msgctxt "board8_0|"
 msgid "Malawi"
-msgstr ""
-
-#: activities/geography/resource/board/board8_0.qml:99
-msgctxt "board8_0|"
-msgid "Madagascar"
-msgstr ""
-
-#: activities/geography/resource/board/board8_0.qml:105
-msgctxt "board8_0|"
-msgid "Lesotho"
-msgstr ""
+msgstr "Малави"
 
 #: activities/geography/resource/board/board8_0.qml:111
 msgctxt "board8_0|"
-msgid "Kenya"
-msgstr ""
+msgid "Madagascar"
+msgstr "Мадагаскар"
 
-#: activities/geography/resource/board/board8_0.qml:117
+#: activities/geography/resource/board/board8_0.qml:118
+msgctxt "board8_0|"
+msgid "Lesotho"
+msgstr "Лесото"
+
+#: activities/geography/resource/board/board8_0.qml:125
+msgctxt "board8_0|"
+msgid "Kenya"
+msgstr "Кения"
+
+#: activities/geography/resource/board/board8_0.qml:132
 msgctxt "board8_0|"
 msgid "Gabon"
-msgstr ""
+msgstr "Габон"
 
-#: activities/geography/resource/board/board8_0.qml:123
+#: activities/geography/resource/board/board8_0.qml:139
 msgctxt "board8_0|"
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "Экваториальная Гвинея"
 
-#: activities/geography/resource/board/board8_0.qml:129
+#: activities/geography/resource/board/board8_0.qml:146
 msgctxt "board8_0|"
 msgid "Democratic Republic of Congo"
-msgstr ""
+msgstr "Демократическая Республика Конго"
 
-#: activities/geography/resource/board/board8_0.qml:135
+#: activities/geography/resource/board/board8_0.qml:153
 msgctxt "board8_0|"
 msgid "Burundi"
-msgstr ""
+msgstr "Бурунди"
 
-#: activities/geography/resource/board/board8_0.qml:141
+#: activities/geography/resource/board/board8_0.qml:160
 msgctxt "board8_0|"
 msgid "Botswana"
-msgstr ""
+msgstr "Ботсвана"
 
-#: activities/geography/resource/board/board8_0.qml:147
+#: activities/geography/resource/board/board8_0.qml:167
 msgctxt "board8_0|"
 msgid "Angola"
-msgstr ""
+msgstr "Ангола"
 
 #: activities/geography/resource/board/board9_0.qml:25
 msgctxt "board9_0|"
 msgid "Africa"
-msgstr ""
+msgstr "Африка"
 
-#: activities/geography/resource/board/board9_0.qml:33
+#: activities/geography/resource/board/board9_0.qml:34
 msgctxt "board9_0|"
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Зимбабве"
 
-#: activities/geography/resource/board/board9_0.qml:39
+#: activities/geography/resource/board/board9_0.qml:41
 msgctxt "board9_0|"
 msgid "Zambia"
-msgstr ""
+msgstr "Замбия"
 
-#: activities/geography/resource/board/board9_0.qml:45
+#: activities/geography/resource/board/board9_0.qml:48
 msgctxt "board9_0|"
 msgid "Tunisia"
-msgstr ""
+msgstr "Тунис"
 
-#: activities/geography/resource/board/board9_0.qml:51
+#: activities/geography/resource/board/board9_0.qml:55
 msgctxt "board9_0|"
 msgid "Togo"
-msgstr ""
+msgstr "Того"
 
-#: activities/geography/resource/board/board9_0.qml:57
+#: activities/geography/resource/board/board9_0.qml:62
 msgctxt "board9_0|"
 msgid "Chad"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:63
-msgctxt "board9_0|"
-msgid "Tanzania"
-msgstr ""
+msgstr "Чад"
 
 #: activities/geography/resource/board/board9_0.qml:69
 msgctxt "board9_0|"
-msgid "Sudan"
-msgstr ""
+msgid "Tanzania"
+msgstr "Танзания"
 
-#: activities/geography/resource/board/board9_0.qml:75
+#: activities/geography/resource/board/board9_0.qml:76
+msgctxt "board9_0|"
+msgid "Sudan"
+msgstr "Судан"
+
+#: activities/geography/resource/board/board9_0.qml:83
 msgctxt "board9_0|"
 msgid "Somalia"
-msgstr ""
+msgstr "Сомали"
 
-#: activities/geography/resource/board/board9_0.qml:81
+#: activities/geography/resource/board/board9_0.qml:90
 msgctxt "board9_0|"
 msgid "Senegal"
-msgstr ""
+msgstr "Сенегал"
 
-#: activities/geography/resource/board/board9_0.qml:87
+#: activities/geography/resource/board/board9_0.qml:97
 msgctxt "board9_0|"
 msgid "Democratic Republic of Congo"
-msgstr ""
+msgstr "Демократическая Республика Конго"
 
-#: activities/geography/resource/board/board9_0.qml:93
-#, fuzzy
+#: activities/geography/resource/board/board9_0.qml:104
 #| msgctxt "DialogConfig|"
 #| msgid "Czech Republic"
 msgctxt "board9_0|"
 msgid "Central African Republic"
-msgstr "Чехия"
-
-#: activities/geography/resource/board/board9_0.qml:99
-msgctxt "board9_0|"
-msgid "Uganda"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:105
-msgctxt "board9_0|"
-msgid "Nigeria"
-msgstr ""
+msgstr "Центральноафриканская Республика"
 
 #: activities/geography/resource/board/board9_0.qml:111
 msgctxt "board9_0|"
-msgid "Niger"
-msgstr ""
+msgid "Uganda"
+msgstr "Уганда"
 
-#: activities/geography/resource/board/board9_0.qml:117
+#: activities/geography/resource/board/board9_0.qml:118
+msgctxt "board9_0|"
+msgid "Nigeria"
+msgstr "Нигерия"
+
+#: activities/geography/resource/board/board9_0.qml:125
+msgctxt "board9_0|"
+msgid "Niger"
+msgstr "Нигер"
+
+#: activities/geography/resource/board/board9_0.qml:132
 msgctxt "board9_0|"
 msgid "Namibia"
-msgstr ""
+msgstr "Намибия"
 
-#: activities/geography/resource/board/board9_0.qml:123
+#: activities/geography/resource/board/board9_0.qml:139
 msgctxt "board9_0|"
 msgid "Mozambique"
-msgstr ""
+msgstr "Мозамбик"
 
-#: activities/geography/resource/board/board9_0.qml:129
+#: activities/geography/resource/board/board9_0.qml:146
 msgctxt "board9_0|"
 msgid "Mauritania"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:135
-msgctxt "board9_0|"
-msgid "Morocco"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:141
-msgctxt "board9_0|"
-msgid "Mali"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:147
-msgctxt "board9_0|"
-msgid "Malawi"
-msgstr ""
+msgstr "Мавритания"
 
 #: activities/geography/resource/board/board9_0.qml:153
 msgctxt "board9_0|"
-msgid "Madagascar"
-msgstr ""
+msgid "Morocco"
+msgstr "Марокко"
 
-#: activities/geography/resource/board/board9_0.qml:159
+#: activities/geography/resource/board/board9_0.qml:160
+msgctxt "board9_0|"
+msgid "Mali"
+msgstr "Мали"
+
+#: activities/geography/resource/board/board9_0.qml:167
+msgctxt "board9_0|"
+msgid "Malawi"
+msgstr "Малави"
+
+#: activities/geography/resource/board/board9_0.qml:174
+msgctxt "board9_0|"
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+#: activities/geography/resource/board/board9_0.qml:181
 msgctxt "board9_0|"
 msgid "Libya"
-msgstr ""
+msgstr "Ливия"
 
-#: activities/geography/resource/board/board9_0.qml:165
+#: activities/geography/resource/board/board9_0.qml:188
 msgctxt "board9_0|"
 msgid "Liberia"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:171
-msgctxt "board9_0|"
-msgid "Kenya"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:177
-msgctxt "board9_0|"
-msgid "Guinea"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:183
-msgctxt "board9_0|"
-msgid "Ghana"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:189
-msgctxt "board9_0|"
-msgid "Gabon"
-msgstr ""
+msgstr "Либерия"
 
 #: activities/geography/resource/board/board9_0.qml:195
 msgctxt "board9_0|"
-msgid "Ethiopia"
-msgstr ""
+msgid "Kenya"
+msgstr "Кения"
 
-#: activities/geography/resource/board/board9_0.qml:201
+#: activities/geography/resource/board/board9_0.qml:202
+msgctxt "board9_0|"
+msgid "Guinea"
+msgstr "Гвинея"
+
+#: activities/geography/resource/board/board9_0.qml:209
+msgctxt "board9_0|"
+msgid "Ghana"
+msgstr "Гана"
+
+#: activities/geography/resource/board/board9_0.qml:216
+msgctxt "board9_0|"
+msgid "Gabon"
+msgstr "Габон"
+
+#: activities/geography/resource/board/board9_0.qml:223
+msgctxt "board9_0|"
+msgid "Ethiopia"
+msgstr "Эфиопия"
+
+#: activities/geography/resource/board/board9_0.qml:230
 msgctxt "board9_0|"
 msgid "Eritrea"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:207
-msgctxt "board9_0|"
-msgid "Egypt"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:213
-msgctxt "board9_0|"
-msgid "Ivory Coast"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:219
-msgctxt "board9_0|"
-msgid "Republic of Congo"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:225
-msgctxt "board9_0|"
-msgid "Cameroon"
-msgstr ""
-
-#: activities/geography/resource/board/board9_0.qml:231
-msgctxt "board9_0|"
-msgid "Burkina Faso"
-msgstr ""
+msgstr "Эритрея"
 
 #: activities/geography/resource/board/board9_0.qml:237
 msgctxt "board9_0|"
-msgid "Botswana"
-msgstr ""
+msgid "Egypt"
+msgstr "Египет"
 
-#: activities/geography/resource/board/board9_0.qml:243
+#: activities/geography/resource/board/board9_0.qml:244
+msgctxt "board9_0|"
+msgid "Ivory Coast"
+msgstr "Кот-д’Ивуар"
+
+#: activities/geography/resource/board/board9_0.qml:251
+msgctxt "board9_0|"
+msgid "Republic of Congo"
+msgstr "Республика Конго"
+
+#: activities/geography/resource/board/board9_0.qml:258
+msgctxt "board9_0|"
+msgid "Cameroon"
+msgstr "Камерун"
+
+#: activities/geography/resource/board/board9_0.qml:265
+msgctxt "board9_0|"
+msgid "Burkina Faso"
+msgstr "Буркина-Фасо"
+
+#: activities/geography/resource/board/board9_0.qml:272
+msgctxt "board9_0|"
+msgid "Botswana"
+msgstr "Ботсвана"
+
+#: activities/geography/resource/board/board9_0.qml:279
 msgctxt "board9_0|"
 msgid "Benin"
-msgstr ""
+msgstr "Бенин"
 
-#: activities/geography/resource/board/board9_0.qml:249
+#: activities/geography/resource/board/board9_0.qml:286
 msgctxt "board9_0|"
 msgid "Angola"
-msgstr ""
+msgstr "Ангола"
 
-#: activities/geography/resource/board/board9_0.qml:255
+#: activities/geography/resource/board/board9_0.qml:293
 msgctxt "board9_0|"
 msgid "Algeria"
-msgstr ""
+msgstr "Алжир"
 
-#: activities/geography/resource/board/board9_0.qml:261
+#: activities/geography/resource/board/board9_0.qml:300
 msgctxt "board9_0|"
 msgid "South Africa"
-msgstr ""
+msgstr "Южно-Африканская Республика"
 
 #: activities/gletters/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -3702,15 +3641,15 @@ msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Узнавание букв на экране и клавиатуре"
 
-#: activities/gletters/Gletters.qml:147
+#: activities/gletters/Gletters.qml:146
 msgctxt "Gletters|"
 msgid "Select your locale"
-msgstr ""
+msgstr "Выбери твой язык"
 
 #: activities/gnumch-equality/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Gnumch Equality"
-msgstr ""
+msgstr "Поедатель равенства"
 
 #: activities/gnumch-equality/ActivityInfo.qml:27
 #: activities/gnumch-equality/ActivityInfo.qml:31
@@ -3760,31 +3699,31 @@ msgstr ""
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Equal to %1"
-msgstr ""
+msgstr "Равные %1"
 
 #: activities/gnumch-equality/TopPanel.qml:52
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Not equal to %1"
-msgstr ""
+msgstr "Неравные %1"
 
 #: activities/gnumch-equality/TopPanel.qml:54
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Factor of %1"
-msgstr ""
+msgstr "Множители %1"
 
 #: activities/gnumch-equality/TopPanel.qml:56
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Multiple of %1"
-msgstr ""
+msgstr "Числа, кратные %1"
 
 #: activities/gnumch-equality/TopPanel.qml:58
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Primes less than %1"
-msgstr ""
+msgstr "Простые числа меньше %1"
 
 #: activities/gnumch-equality/Warning.qml:47
 msgctxt "Warning|"
@@ -3794,7 +3733,7 @@ msgstr ""
 #: activities/gnumch-equality/Warning.qml:51
 msgctxt "Warning|"
 msgid "You ate a wrong number."
-msgstr ""
+msgstr "Ты съел не то число."
 
 #: activities/gnumch-equality/Warning.qml:62
 msgctxt "Warning|"
@@ -3805,12 +3744,12 @@ msgstr "1 не является простым числом."
 #, qt-format
 msgctxt "Warning|"
 msgid "%1 is divisible by %2"
-msgstr ""
+msgstr "%1 делится на %2"
 
 #: activities/gnumch-equality/Warning.qml:80
 msgctxt "Warning|"
 msgid "and"
-msgstr ""
+msgstr "и"
 
 #: activities/gnumch-equality/Warning.qml:86
 #, qt-format
@@ -3843,7 +3782,7 @@ msgstr ""
 #: activities/gnumch-factors/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Factors"
-msgstr ""
+msgstr "Поедатель множителей"
 
 #: activities/gnumch-factors/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -3875,7 +3814,7 @@ msgstr ""
 #: activities/gnumch-inequality/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Inequality"
-msgstr ""
+msgstr "Поедатель неравенства"
 
 #: activities/gnumch-inequality/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -3894,7 +3833,7 @@ msgstr "Упражнение на сложение, вычитание, умно
 #: activities/gnumch-multiples/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Multiples"
-msgstr ""
+msgstr "Поедатель кратных чисел"
 
 #: activities/gnumch-multiples/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -3925,7 +3864,7 @@ msgstr ""
 #: activities/gnumch-primes/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Primes"
-msgstr ""
+msgstr "Поедатель простых чисел"
 
 #: activities/gnumch-primes/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -4027,7 +3966,7 @@ msgstr "Число"
 #: activities/hanoi/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Simplified Tower of Hanoi"
-msgstr ""
+msgstr "Упрощённая Ханойская башня"
 
 #: activities/hanoi/ActivityInfo.qml:27
 #, fuzzy
@@ -4060,7 +3999,7 @@ msgstr ""
 #: activities/hanoi_real/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "The Tower of Hanoi"
-msgstr ""
+msgstr "Ханойская башня"
 
 #: activities/hanoi_real/ActivityInfo.qml:27
 #, fuzzy
@@ -4112,17 +4051,16 @@ msgid ""
 msgstr ""
 
 #: activities/hexagon/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "hexagon"
 msgctxt "ActivityInfo|"
 msgid "Hexagon"
-msgstr "Шестиугольник"
+msgstr "Шестиугольники"
 
 #: activities/hexagon/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Find the strawberry by clicking on the blue fields"
-msgstr "Найдите клубничку, щёлкая по голубым полям"
+msgstr "Найди клубничку, щёлкая по голубым полям"
 
 #: activities/hexagon/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -4163,7 +4101,7 @@ msgstr "Щёлкните на слове, соответствующему ри�
 #: activities/imageid/Imageid.qml:306
 msgctxt "Imageid|"
 msgid "We are sorry, we don't have yet a translation for your language."
-msgstr ""
+msgstr "Приносим извинения, но у нас пока нет перевода на твой язык."
 
 #: activities/imageid/Imageid.qml:307
 #, qt-format
@@ -4172,6 +4110,8 @@ msgid ""
 "GCompris is developed by the KDE community, you can translate GCompris by "
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
+"Программа GCompris разработана сообществом KDE. Вы можете присоединиться к "
+"команде переводчиков на <a href=\"%2\">%2</a>."
 
 #: activities/imageid/Imageid.qml:309
 msgctxt "Imageid|"
@@ -4179,19 +4119,20 @@ msgid ""
 "We switched to English for this activity but you can select another language "
 "in the configuration dialog."
 msgstr ""
+"Мы переключились на английский для этого упражнения, но ты можешь выбрать "
+"другой язык в меню настройки."
 
 #: activities/imageid/Imageid.qml:322
 msgctxt "Imageid|"
 msgid "The images for this activity are not yet installed."
-msgstr ""
+msgstr "Изображения для данного упражнения ещё не установлены."
 
 #: activities/imageid/Imageid.qml:323
-#, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
 msgctxt "Imageid|"
 msgid "Download the images"
-msgstr "Найдите треугольник"
+msgstr "Загрузить изображения"
 
 #: activities/imageid/Imageid.qml:323
 msgctxt "Imageid|"
@@ -4201,15 +4142,14 @@ msgstr ""
 #: activities/imagename/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Image Name"
-msgstr ""
+msgstr "Назови картинки"
 
 #: activities/imagename/ActivityInfo.qml:30
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop each item above its name"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетащи каждый предмет и помести его над названием"
 
 #: activities/imagename/ActivityInfo.qml:31
 #, fuzzy
@@ -4227,225 +4167,223 @@ msgid ""
 msgstr ""
 
 #: activities/imagename/resource/board/board1_0.qml:25
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "board1_0|"
 msgid "Drag and Drop each item onto its name"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетаскивай предметы к их названиям"
 
 #: activities/imagename/resource/board/board1_0.qml:71
 msgctxt "board1_0|"
 msgid "mail box"
-msgstr ""
+msgstr "почтовый ящик"
 
 #: activities/imagename/resource/board/board1_0.qml:78
 msgctxt "board1_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "парусник"
 
 #: activities/imagename/resource/board/board1_0.qml:85
 msgctxt "board1_0|"
 msgid "lamp"
-msgstr ""
+msgstr "светильник"
 
 #: activities/imagename/resource/board/board1_0.qml:92
 msgctxt "board1_0|"
 msgid "postcard"
-msgstr ""
+msgstr "открытка"
 
 #: activities/imagename/resource/board/board1_0.qml:99
 msgctxt "board1_0|"
 msgid "fishing boat"
-msgstr ""
+msgstr "рыбацкая лодка"
 
 #: activities/imagename/resource/board/board1_0.qml:106
 msgctxt "board1_0|"
 msgid "bulb"
-msgstr ""
+msgstr "лампочка"
 
 #: activities/imagename/resource/board/board2_0.qml:70
 msgctxt "board2_0|"
 msgid "bottle"
-msgstr ""
+msgstr "бутылка"
 
 #: activities/imagename/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "glass"
-msgstr ""
+msgstr "стакан"
 
 #: activities/imagename/resource/board/board2_0.qml:84
 msgctxt "board2_0|"
 msgid "egg"
-msgstr ""
+msgstr "яйцо"
 
 #: activities/imagename/resource/board/board2_0.qml:91
 msgctxt "board2_0|"
 msgid "eggcup"
-msgstr ""
+msgstr "рюмка для яйца"
 
 #: activities/imagename/resource/board/board2_0.qml:98
 msgctxt "board2_0|"
 msgid "flower"
-msgstr ""
+msgstr "цветок"
 
 #: activities/imagename/resource/board/board2_0.qml:105
 msgctxt "board2_0|"
 msgid "vase"
-msgstr ""
+msgstr "ваза"
 
 #: activities/imagename/resource/board/board3_0.qml:70
 msgctxt "board3_0|"
 msgid "rocket"
-msgstr ""
+msgstr "ракета"
 
 #: activities/imagename/resource/board/board3_0.qml:77
 msgctxt "board3_0|"
 msgid "star"
-msgstr ""
+msgstr "звезда"
 
 #: activities/imagename/resource/board/board3_0.qml:84
 msgctxt "board3_0|"
 msgid "sofa"
-msgstr ""
+msgstr "диван"
 
 #: activities/imagename/resource/board/board3_0.qml:91
 msgctxt "board3_0|"
 msgid "house"
-msgstr ""
+msgstr "дом"
 
 #: activities/imagename/resource/board/board3_0.qml:98
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click the mouse"
 msgctxt "board3_0|"
 msgid "light house"
-msgstr "Щёлканье мышкой"
+msgstr "маяк"
 
 #: activities/imagename/resource/board/board3_0.qml:105
 msgctxt "board3_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "парусник"
 
 #: activities/imagename/resource/board/board4_0.qml:70
 msgctxt "board4_0|"
 msgid "apple"
-msgstr ""
+msgstr "яблоко"
 
 #: activities/imagename/resource/board/board4_0.qml:77
 msgctxt "board4_0|"
 msgid "tree"
-msgstr ""
+msgstr "дерево"
 
 #: activities/imagename/resource/board/board4_0.qml:84
 msgctxt "board4_0|"
 msgid "bicycle"
-msgstr ""
+msgstr "велосипед"
 
 #: activities/imagename/resource/board/board4_0.qml:91
 msgctxt "board4_0|"
 msgid "car"
-msgstr ""
+msgstr "машина"
 
 #: activities/imagename/resource/board/board4_0.qml:98
 msgctxt "board4_0|"
 msgid "carrot"
-msgstr ""
+msgstr "морковка"
 
 #: activities/imagename/resource/board/board4_0.qml:105
 msgctxt "board4_0|"
 msgid "grater"
-msgstr ""
+msgstr "тёрка"
 
 #: activities/imagename/resource/board/board5_0.qml:70
 msgctxt "board5_0|"
 msgid "pencil"
-msgstr ""
+msgstr "карандаш"
 
 #: activities/imagename/resource/board/board5_0.qml:77
 msgctxt "board5_0|"
 msgid "postcard"
-msgstr ""
+msgstr "открытка"
 
 #: activities/imagename/resource/board/board5_0.qml:84
 msgctxt "board5_0|"
 msgid "tree"
-msgstr ""
+msgstr "дерево"
 
 #: activities/imagename/resource/board/board5_0.qml:91
 msgctxt "board5_0|"
 msgid "star"
-msgstr ""
+msgstr "звезда"
 
 #: activities/imagename/resource/board/board5_0.qml:98
 msgctxt "board5_0|"
 msgid "truck"
-msgstr ""
+msgstr "грузовик"
 
 #: activities/imagename/resource/board/board5_0.qml:105
 msgctxt "board5_0|"
 msgid "van"
-msgstr ""
+msgstr "фургон"
 
 #: activities/imagename/resource/board/board6_0.qml:70
 msgctxt "board6_0|"
 msgid "castle"
-msgstr ""
+msgstr "замок"
 
 #: activities/imagename/resource/board/board6_0.qml:77
 msgctxt "board6_0|"
 msgid "crown"
-msgstr ""
+msgstr "корона"
 
 #: activities/imagename/resource/board/board6_0.qml:84
 msgctxt "board6_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "парусник"
 
 #: activities/imagename/resource/board/board6_0.qml:91
 msgctxt "board6_0|"
 msgid "flag"
-msgstr ""
+msgstr "флаг"
 
 #: activities/imagename/resource/board/board6_0.qml:98
 msgctxt "board6_0|"
 msgid "racket"
-msgstr ""
+msgstr "ракетка"
 
 #: activities/imagename/resource/board/board6_0.qml:105
 msgctxt "board6_0|"
 msgid "ball"
-msgstr ""
+msgstr "мяч"
 
 #: activities/imagename/resource/board/board7_0.qml:70
 msgctxt "board7_0|"
 msgid "tree"
-msgstr ""
+msgstr "дерево"
 
 #: activities/imagename/resource/board/board7_0.qml:77
 msgctxt "board7_0|"
 msgid "mail box"
-msgstr ""
+msgstr "почтовый ящик"
 
 #: activities/imagename/resource/board/board7_0.qml:84
 msgctxt "board7_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "парусник"
 
 #: activities/imagename/resource/board/board7_0.qml:91
 msgctxt "board7_0|"
 msgid "bulb"
-msgstr ""
+msgstr "лампочка"
 
 #: activities/imagename/resource/board/board7_0.qml:98
 msgctxt "board7_0|"
 msgid "bottle"
-msgstr ""
+msgstr "бутылка"
 
 #: activities/imagename/resource/board/board7_0.qml:105
 msgctxt "board7_0|"
 msgid "flower"
-msgstr ""
+msgstr "цветок"
 
 #: activities/instruments/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -4460,7 +4398,7 @@ msgstr "Щёлкайте по правильным музыкальным инс
 #: activities/instruments/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Learn to recognize musical instruments."
-msgstr "Обучение распознаванию музыкальных инструментов."
+msgstr "Научиться распознавать музыкальные инструменты."
 
 #: activities/instruments/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -4626,12 +4564,12 @@ msgstr "Найдите тамбурин"
 #: activities/instruments/instruments.js:303
 msgctxt "instruments|"
 msgid "Find the tuba"
-msgstr "Найдите тубу"
+msgstr "Найди тубу"
 
 #: activities/intro_gravity/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Introduction to the concept of gravity"
-msgstr ""
+msgstr "Знакомство с понятием гравитации"
 
 #: activities/intro_gravity/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -4687,7 +4625,7 @@ msgstr ""
 #: activities/intro_gravity/Message.qml:108
 msgctxt "Message|"
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 #: activities/intro_gravity/Message.qml:108
 msgctxt "Message|"
@@ -4695,12 +4633,11 @@ msgid "Let's Go"
 msgstr ""
 
 #: activities/intro_gravity/Message.qml:141
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple subtraction"
 msgctxt "Message|"
 msgid "Skip Instruction"
-msgstr "Простое вычитание"
+msgstr "Пропустить инструкцию"
 
 #: activities/leftright/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -4710,7 +4647,7 @@ msgstr "Найди свою левую и правую руки"
 #: activities/leftright/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Determine if a hand is a right or a left hand"
-msgstr "Определите рука правая или левая"
+msgstr "Определи, какая рука изображена: правая или левая"
 
 #: activities/leftright/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -4733,23 +4670,23 @@ msgstr ""
 #: activities/leftright/Leftright.qml:146
 msgctxt "Leftright|"
 msgid "Left hand"
-msgstr ""
+msgstr "Левая рука"
 
 #: activities/leftright/Leftright.qml:159
 msgctxt "Leftright|"
 msgid "Right hand"
-msgstr ""
+msgstr "Правая рука"
 
 #: activities/lightsoff/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Lights Off"
-msgstr "Погасите огоньки"
+msgstr "Погаси свет"
 
 #: activities/lightsoff/ActivityInfo.qml:27
 #: activities/lightsoff/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "The aim is to switch off all the lights."
-msgstr "Задача — погасить все огоньки."
+msgstr "Задача — погасить свет во всех окнах."
 
 #: activities/lightsoff/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -4773,10 +4710,41 @@ msgstr ""
 "Алгоритм представлен на Wikipedia.  Следующая ссылка позволит больше узнать "
 "об игре: &lt;http://ru.wikipedia.org/wiki/Lights_Out_(игра)&gt;"
 
+#: activities/louis-braille/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "The History of Louis Braille"
+msgstr "История жизни Луи Брайля"
+
+#: activities/louis-braille/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Review the major dates of the inventor of the Braille System"
+msgstr "Вспомни основные даты из жизни изобретателя системы Брайля"
+
+#: activities/louis-braille/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Read the history of Louis Braille, his biography and discovery of the "
+"Braille system.\n"
+"Click on the previous and next buttons to move to the respective story page. "
+"At the end, arrange the sequence in the chronological order."
+msgstr ""
+"Прочитай биографию Луи Брайля и историю создания его системы записи.\n"
+"Нажимай кнопки вправо в влево, чтобы перемещаться по истории. После прочтения "
+"расположи события в хронологическом порядке."
+
+#: activities/louis-braille/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid ""
+"Louis Braille Video: <a href='http://www.youtube.com/watch?"
+"v=9bdfC2j_4x4'>http://www.youtube.com/watch?v=9bdfC2j_4x4</a>"
+msgstr ""
+"Видео о Луи Брайле: <a href='http://www.youtube.com/watch?"
+"v=9bdfC2j_4x4'>http://www.youtube.com/watch?v=9bdfC2j_4x4</a>"
+
 #: activities/louis-braille/louis_braille_data.js:23
 msgctxt "louis_braille_data|"
 msgid "Born on January 4th 1809 in Coupvary near Paris in France."
-msgstr ""
+msgstr "Родился 4 января 1809 года в Кувре под Парижем во Франции."
 
 #: activities/louis-braille/louis_braille_data.js:28
 msgctxt "louis_braille_data|"
@@ -4784,6 +4752,7 @@ msgid ""
 "Louis Braille injured his right eye with a stitching awl from his father's "
 "workshop."
 msgstr ""
+"Луи Брайль повредил свой правый глаз портняжным шилом из мастерской его отца."
 
 #: activities/louis-braille/louis_braille_data.js:33
 msgctxt "louis_braille_data|"
@@ -4791,6 +4760,8 @@ msgid ""
 "At the age of three, Louis became blind due to a severe infection that "
 "spread to his left eye."
 msgstr ""
+"В возрасте трёх лет Луи ослеп из-за тяжёлой инфекции, которая "
+"распространилась в его левый глаз."
 
 #: activities/louis-braille/louis_braille_data.js:38
 msgctxt "louis_braille_data|"
@@ -4798,6 +4769,8 @@ msgid ""
 "At the age of 10, he was sent to Paris to study at the Royal Institute for "
 "Blind Youth."
 msgstr ""
+"В 10 лет отправился в Париж для обучения в королевском институте для слепых "
+"юношей."
 
 #: activities/louis-braille/louis_braille_data.js:43
 msgctxt "louis_braille_data|"
@@ -4811,11 +4784,14 @@ msgid ""
 "invention of night writing, a code of 12 raised dots to share information on "
 "battlefields."
 msgstr ""
+"Шарль Барбье, французский солдат, посетил его школу и поделился своим "
+"изобретением слепого письма — кодом из 12 рельефных точек для "
+"передачи информации на полях сражений."
 
 #: activities/louis-braille/louis_braille_data.js:53
 msgctxt "louis_braille_data|"
 msgid "Louis trimmed Barbier's 12 dots into 6 and invented the Braille system."
-msgstr ""
+msgstr "Луи уменьшил число точке с 12 до 6 и изобрёл систему Брайля."
 
 #: activities/louis-braille/louis_braille_data.js:58
 msgctxt "louis_braille_data|"
@@ -4823,6 +4799,8 @@ msgid ""
 "He became a teacher after graduating and promoted his method while secretly "
 "teaching it at the Institute."
 msgstr ""
+"После окончания института он стал учителем и продвигал свой метод, в тайне "
+"преподавая его в институте."
 
 #: activities/louis-braille/louis_braille_data.js:63
 msgctxt "louis_braille_data|"
@@ -4830,6 +4808,8 @@ msgid ""
 "He revised and extended braille to include mathematics, symbols, "
 "punctuations and music notations."
 msgstr ""
+"Он исправил и расширил таблицу Брайля, включив туда математические и другие "
+"знаки, знаки препинания и ноты."
 
 #: activities/louis-braille/louis_braille_data.js:68
 msgctxt "louis_braille_data|"
@@ -4837,6 +4817,8 @@ msgid ""
 "He died of tuberculosis. He is buried in the Pantheon in Paris. A monument "
 "is erected to honor him."
 msgstr ""
+"Он умер от туберкулёза и похоронен в Пантеоне в Париже. Ему поставлен "
+"памятник."
 
 #: activities/louis-braille/louis_braille_data.js:73
 msgctxt "louis_braille_data|"
@@ -4844,12 +4826,14 @@ msgid ""
 "Braille got accepted as a world wide standard. Louis Braille proved that if "
 "you have motivation you can do incredible things."
 msgstr ""
+"Таблица Брайля принята в качестве международного стандарта. Луи Брайль "
+"доказал, что если иметь желание, можно совершать невероятные вещи."
 
 #: activities/louis-braille/ReorderList.qml:167
 msgctxt "ReorderList|"
 msgid ""
 "Arrange the events in the order in which they happened. Select the line to "
-"move then touch it's target position."
+"move, then touch its target position."
 msgstr ""
 
 #: activities/magic-hat-minus/ActivityInfo.qml:26
@@ -4898,12 +4882,12 @@ msgstr ""
 #: activities/magic-hat-minus/MagicHat.qml:84
 msgctxt "MagicHat|"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: activities/magic-hat-minus/MagicHat.qml:84
 msgctxt "MagicHat|"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: activities/magic-hat-plus/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -4945,12 +4929,11 @@ msgid "Maze"
 msgstr "Лабиринт"
 
 #: activities/maze/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Help Tux get out of this maze."
 msgctxt "ActivityInfo|"
 msgid "Help Tux get out of this maze"
-msgstr "Помогите пингвинёнку Туксу выйти из лабиринта."
+msgstr "Помоги пингвинёнку Туксу выйти из лабиринта"
 
 #: activities/maze/ActivityInfo.qml:31
 #: activities/mazerelative/ActivityInfo.qml:31
@@ -5012,7 +4995,7 @@ msgstr ""
 #: activities/mazeinvisible/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Invisible Maze"
-msgstr ""
+msgstr "Невидимый лабиринт"
 
 #: activities/mazeinvisible/ActivityInfo.qml:27
 #, fuzzy
@@ -5034,7 +5017,7 @@ msgstr ""
 #: activities/mazerelative/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Relative Maze"
-msgstr ""
+msgstr "Относительный лабиринт"
 
 #: activities/mazerelative/ActivityInfo.qml:27
 #, fuzzy
@@ -5050,11 +5033,13 @@ msgid ""
 "In this maze, the move is relative (first person). Left and right are used "
 "to turn and up to go forward."
 msgstr ""
+"В этом лабиринте движения относительны, от первого лица. Стрелки влево и "
+"вправо используются для поворотов, стрелка вверх двигает персонажа вперёд."
 
 #: activities/memory-enumerate/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Enumeration memory game"
-msgstr "Игра в парочки с перечислениями"
+msgstr "Игра в пары с перечислениями"
 
 #: activities/memory-enumerate/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5081,7 +5066,7 @@ msgstr ""
 #: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "All operations memory game against Tux"
-msgstr "Игра в парочки со всеми операциями против Тукса"
+msgstr "Игра в пары со всеми операциями против Тукса"
 
 #: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:27
 #: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:27
@@ -5138,7 +5123,7 @@ msgstr ""
 #: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "All operations memory game"
-msgstr "Игра в парочки со всеми операциями"
+msgstr "Игра в пары со всеми операциями"
 
 #: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:31
 #: activities/memory-math-add-minus/ActivityInfo.qml:31
@@ -5165,7 +5150,7 @@ msgstr ""
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Addition and subtraction memory game against Tux"
-msgstr "Игра в парочки по сложению и вычитанию против Тукса"
+msgstr "Игра в пары по сложению и вычитанию против Тукса"
 
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:27
 #: activities/memory-math-add-minus/ActivityInfo.qml:27
@@ -5214,12 +5199,12 @@ msgstr ""
 #: activities/memory-math-add-minus/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Addition and subtraction memory game"
-msgstr "Игра в парочки по сложению и вычитанию"
+msgstr "Игра в пары по сложению и вычитанию"
 
 #: activities/memory-math-add-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Addition memory game against Tux"
-msgstr "Игра в парочки по сложению против Тукса"
+msgstr "Игра в пары по сложению против Тукса"
 
 #: activities/memory-math-add-tux/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5267,7 +5252,7 @@ msgstr ""
 #: activities/memory-math-add/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Addition memory game"
-msgstr "Игра в парочки по сложению"
+msgstr "Игра в пары по сложению"
 
 #: activities/memory-math-add/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5308,7 +5293,7 @@ msgstr ""
 #: activities/memory-math-div-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Division memory game against Tux"
-msgstr "Игра в парочки по делению против Тукса"
+msgstr "Игра в пары по делению против Тукса"
 
 #: activities/memory-math-div-tux/ActivityInfo.qml:29
 #: activities/memory-math-div/ActivityInfo.qml:29
@@ -5347,15 +5332,14 @@ msgstr ""
 #: activities/memory-math-div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Division memory game"
-msgstr "Игра в парочки по делению"
+msgstr "Игра в пары по делению"
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Multiplication memory game against Tux"
 msgctxt "ActivityInfo|"
 msgid "Subtraction memory game against Tux"
-msgstr "Игра в парочки по умножению против Тукса"
+msgstr "Игра в пары по вычитанию против Тукса"
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:27
 #: activities/memory-math-minus/ActivityInfo.qml:27
@@ -5403,7 +5387,7 @@ msgstr ""
 #: activities/memory-math-minus/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Subtraction memory game"
-msgstr "Игра в парочки по вычитанию"
+msgstr "Игра в пары по вычитанию"
 
 #: activities/memory-math-minus/ActivityInfo.qml:29
 #, fuzzy
@@ -5418,7 +5402,7 @@ msgstr ""
 #: activities/memory-math-mult-div-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Multiplication and division memory game against Tux"
-msgstr "Игра в парочки по умножению и делению против Тукса"
+msgstr "Игра в пары по умножению и делению против Тукса"
 
 #: activities/memory-math-mult-div-tux/ActivityInfo.qml:29
 #: activities/memory-math-mult-div/ActivityInfo.qml:29
@@ -5440,12 +5424,12 @@ msgstr "Умножение, деление"
 #: activities/memory-math-mult-div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Multiplication and division memory game"
-msgstr "Игра в парочки по умножению и делению"
+msgstr "Игра в пары по умножению и делению"
 
 #: activities/memory-math-mult-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Multiplication memory game against Tux"
-msgstr "Игра в парочки по умножению против Тукса"
+msgstr "Игра в пары по умножению против Тукса"
 
 #: activities/memory-math-mult-tux/ActivityInfo.qml:27
 #: activities/memory-math-mult/ActivityInfo.qml:27
@@ -5475,12 +5459,12 @@ msgstr "Умножение"
 #: activities/memory-math-mult/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Multiplication memory game"
-msgstr "Игра в парочки по умножению"
+msgstr "Игра в пары по умножению"
 
 #: activities/memory-sound-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Audio memory game against Tux"
-msgstr "Игра «запоминание мелодий» против Тукса"
+msgstr "«Запоминание мелодий» против Тукса"
 
 #: activities/memory-sound-tux/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5537,7 +5521,7 @@ msgstr ""
 #: activities/memory-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Memory Game with images against Tux"
-msgstr ""
+msgstr "Игра «Память» против Тукса"
 
 #: activities/memory-tux/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5564,7 +5548,7 @@ msgstr ""
 #: activities/memory-wordnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Wordnumber memory game"
-msgstr "Игра в парочки с числами"
+msgstr "Игра в пары с числами"
 
 #: activities/memory-wordnumber/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5646,85 +5630,79 @@ msgstr "девять"
 #: activities/memory-wordnumber/dataset.js:32
 msgctxt "dataset|"
 msgid "ten"
-msgstr ""
+msgstr "десять"
 
 #: activities/memory-wordnumber/dataset.js:33
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "seven"
 msgctxt "dataset|"
 msgid "eleven"
-msgstr "семь"
+msgstr "одиннадцать"
 
 #: activities/memory-wordnumber/dataset.js:34
 msgctxt "dataset|"
 msgid "twelve"
-msgstr ""
+msgstr "двенадцать"
 
 #: activities/memory-wordnumber/dataset.js:35
 msgctxt "dataset|"
 msgid "thirteen"
-msgstr ""
+msgstr "тринадцать"
 
 #: activities/memory-wordnumber/dataset.js:36
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "four"
 msgctxt "dataset|"
 msgid "fourteen"
-msgstr "четыре"
+msgstr "четырнадцать"
 
 #: activities/memory-wordnumber/dataset.js:37
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "The fifteen game"
 msgctxt "dataset|"
 msgid "fifteen"
-msgstr "Пятнашки"
+msgstr "пятнадцать"
 
 #: activities/memory-wordnumber/dataset.js:38
 msgctxt "dataset|"
 msgid "sixteen"
-msgstr ""
+msgstr "шестнадцать"
 
 #: activities/memory-wordnumber/dataset.js:39
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "seven"
 msgctxt "dataset|"
 msgid "seventeen"
-msgstr "семь"
+msgstr "семнадцать"
 
 #: activities/memory-wordnumber/dataset.js:40
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "eight"
 msgctxt "dataset|"
 msgid "eighteen"
-msgstr "восемь"
+msgstr "восемнадцать"
 
 #: activities/memory-wordnumber/dataset.js:41
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "nine"
 msgctxt "dataset|"
 msgid "nineteen"
-msgstr "девять"
+msgstr "девятнадцать"
 
 #: activities/memory-wordnumber/dataset.js:42
 msgctxt "dataset|"
 msgid "twenty"
-msgstr ""
+msgstr "двадцать"
 
 #: activities/memory/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Memory Game with images"
-msgstr "Парочки с картинками"
+msgstr "Игра «Память» с картинками"
 
 #: activities/memory/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Flip the cards to find the matching pairs"
-msgstr "Переворачивайте карты и находите совпадающие пары"
+msgstr "Переворачивай карточки и находи совпадающие пары"
 
 #: activities/memory/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -5735,32 +5713,31 @@ msgid ""
 "cards at once, so you need to remember where a picture is, while you look "
 "for its twin. When you turn over the twins, they both disappear."
 msgstr ""
-"Показан набор карт. Каждая карта имеет пару с таким же рисунком на обратной "
-"стороне. \n"
-"При щелчке по карте, она переворачивается и показывает обратную сторону. \n"
-"Но вы можете видеть только две перевёрнутые карты одновременно.\n"
-"Вы должны запоминать позиции скрытых рисунков.\n"
-"Если вы откроете две карты с одинаковым рисунком, они удаляются с поля."
+"Показан набор карточек. Каждая карточка имеет пару с таким же рисунком на "
+"обратной стороне. При щелчке по карточке она переворачивается, и видна "
+"обратная сторона. Но ты можешь видеть только две перевёрнутые карточки "
+"одновременно, поэтому нужно запоминать, где находятся остальные картинки. "
+"Если ты откроешь две карты с одинаковым рисунком, то они удалятся с поля."
 
 #: activities/memory/math_util.js:26 activities/memory/math_util.js:29
 msgctxt "math_util|"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: activities/memory/math_util.js:39
 msgctxt "math_util|"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: activities/memory/math_util.js:50 activities/memory/math_util.js:53
 msgctxt "math_util|"
 msgid "×"
-msgstr ""
+msgstr "×"
 
 #: activities/memory/math_util.js:63
 msgctxt "math_util|"
 msgid "÷"
-msgstr ""
+msgstr "÷"
 
 #: activities/menu/ActivityInfo.qml:23
 msgctxt "ActivityInfo|"
@@ -5776,7 +5753,6 @@ msgid "Select an activity to run it."
 msgstr "Щёлкните левой кнопкой мыши на упражнении."
 
 #: activities/menu/ActivityInfo.qml:25
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
 #| "GCompris is a collection of educational games that provides different "
@@ -5786,7 +5762,8 @@ msgid ""
 "GCompris is a high quality educational software suite comprising of numerous "
 "activities for children aged 2 to 10."
 msgstr ""
-"GCompris — коллекция обучающих игр и упражнений для детей от 2 лет и старше."
+"GCompris — программная коллекция обучающих игр и упражнений для детей от 2 "
+"лет."
 
 #: activities/menu/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5826,15 +5803,16 @@ msgid ""
 "category.\n"
 "At the bottom of the screen is the GCompris control bar. Notice that you can "
 "hide or show the bar by touching its anchor.\n"
-"The following icons are displayed from right to left.\n"
+"The following icons are displayed:\n"
 "(note that each icon is displayed only if available in the current "
 "activity)\n"
 "    Home - Exit an activity, go back to menu (Ctrl+W and escape key)\n"
 "    Arrows - Display the current level. Click to select another level\n"
 "    Lips - Repeat the question\n"
 "    Question Mark - Help\n"
+"    Reload - Start the activity from the beginning again\n"
 "    Tool - The configuration menu\n"
-"    Tux Plane - About GCompris\n"
+"    G - About GCompris\n"
 "    Quit - Quit GCompris (Ctrl+Q)\n"
 "The stars show suitable age groups for each game:\n"
 "    1, 2 or 3 simple stars - from 2 to 6 years old\n"
@@ -5871,12 +5849,12 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:72
 msgctxt "ConfigurationItem|"
 msgid "You have the full version"
-msgstr ""
+msgstr "У вас полная версия"
 
 #: activities/menu/ConfigurationItem.qml:73
 msgctxt "ConfigurationItem|"
 msgid "Buy the full version"
-msgstr ""
+msgstr "Купить полную версию"
 
 #: activities/menu/ConfigurationItem.qml:105
 msgctxt "ConfigurationItem|"
@@ -5886,15 +5864,14 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:115
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
-msgstr ""
+msgstr "Включить воспроизведение голоса"
 
 #: activities/menu/ConfigurationItem.qml:124
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
-msgstr ""
+msgstr "Включить звуковые эффекты"
 
 #: activities/menu/ConfigurationItem.qml:133
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Fullscreen"
 msgctxt "ConfigurationItem|"
@@ -5904,52 +5881,52 @@ msgstr "Во весь экран"
 #: activities/menu/ConfigurationItem.qml:142
 msgctxt "ConfigurationItem|"
 msgid "Virtual Keyboard"
-msgstr ""
+msgstr "Виртуальная клавиатура"
 
 #: activities/menu/ConfigurationItem.qml:152
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
-msgstr ""
+msgstr "Автоматически загружать и обновлять звуковые файлы"
 
 #: activities/menu/ConfigurationItem.qml:161
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
-msgstr ""
+msgstr "Показывать меню разделов"
 
 #: activities/menu/ConfigurationItem.qml:175
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
-msgstr ""
+msgstr "Выбор шрифта"
 
 #: activities/menu/ConfigurationItem.qml:195
 msgctxt "ConfigurationItem|"
 msgid "Font size"
-msgstr ""
+msgstr "Размер шрифта"
 
 #: activities/menu/ConfigurationItem.qml:201
 msgctxt "ConfigurationItem|"
 msgid "Default"
-msgstr ""
+msgstr "Рекомендуемый"
 
 #: activities/menu/ConfigurationItem.qml:214
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
-msgstr ""
+msgstr "Прописные буквы в тексте"
 
 #: activities/menu/ConfigurationItem.qml:226
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
-msgstr ""
+msgstr "Выбор языка"
 
 #: activities/menu/ConfigurationItem.qml:253
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
-msgstr ""
+msgstr "Озвучивание на выбранном языке"
 
 #: activities/menu/ConfigurationItem.qml:267
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
-msgstr ""
+msgstr "Проверить обновления"
 
 #: activities/menu/ConfigurationItem.qml:268
 msgctxt "ConfigurationItem|"
@@ -5959,42 +5936,42 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:286
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
-msgstr ""
+msgstr "Фильтр сложности:"
 
 #: activities/menu/ConfigurationItem.qml:483
 msgctxt "ConfigurationItem|"
-msgid "You selected a new locale"
+msgid "You selected a new locale."
 msgstr ""
 
 #: activities/menu/ConfigurationItem.qml:484
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download the corresponding sound files now?"
-msgstr ""
+msgstr "Загрузить соответствующие звуковые файлы сейчас?"
 
 #: activities/menu/ConfigurationItem.qml:485
 msgctxt "ConfigurationItem|"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: activities/menu/ConfigurationItem.qml:491
 msgctxt "ConfigurationItem|"
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: activities/menu/ConfigurationItem.qml:547
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
-msgstr ""
+msgstr "Как в обычном тексте"
 
 #: activities/menu/ConfigurationItem.qml:548
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
-msgstr ""
+msgstr "Все прописные"
 
 #: activities/menu/ConfigurationItem.qml:549
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
-msgstr ""
+msgstr "Все строчные"
 
 #: activities/menu/Menu.qml:256
 msgctxt "Menu|"
@@ -6002,6 +5979,8 @@ msgid ""
 "Put your favorite activities here by selecting the sun on each activity top "
 "right."
 msgstr ""
+"Помести сюда твои любимые упражнения, нажимая на солнышко в правом верхнем "
+"углу упражнения."
 
 #: activities/mining/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6016,15 +5995,12 @@ msgstr ""
 "золотых самородков."
 
 #: activities/mining/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Learn to use the mousewheel to zoom in and out."
 msgctxt "ActivityInfo|"
 msgid ""
 "Learn to use the mousewheel or the zoom / pinch gesture to zoom in and out."
 msgstr ""
-"Научиться использовать колесико мыши для увеличения и уменьшения масштаба "
-"изображения. "
+"Научиться использовать колесико мыши или жесты для увеличения и уменьшения "
+"масштаба."
 
 #: activities/mining/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -6237,17 +6213,16 @@ msgstr ""
 "верхней части экрана."
 
 #: activities/money_back_cents/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Give tux his change, including cents"
 msgctxt "ActivityInfo|"
 msgid "Give Tux his change, including cents"
-msgstr "Отсчитайте Туксу его сдачу, включая копейки"
+msgstr "Отсчитай Туксу его сдачу, включая копейки"
 
 #: activities/money_cents/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Money with cents"
-msgstr ""
+msgstr "Деньги с копейками"
 
 #: activities/money_cents/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6268,7 +6243,7 @@ msgstr ""
 #: activities/numbers-odd-even/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Even and Odd Numbers"
-msgstr ""
+msgstr "Чётные и нечётные числа"
 
 #: activities/numbers-odd-even/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6335,9 +6310,7 @@ msgstr "Порядок чисел"
 #: activities/planegame/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Move the helicopter to catch the clouds in the correct order"
-msgstr ""
-"Перемещайте вертолёт так, чтобы поймать облака\n"
-"в правильном порядке"
+msgstr "Перемещай вертолёт так, чтобы поймать облака в правильном порядке"
 
 #: activities/planegame/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -6351,7 +6324,7 @@ msgstr ""
 #: activities/redraw/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Redraw the given image"
-msgstr ""
+msgstr "Перерисуй картинку"
 
 #: activities/redraw/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6373,12 +6346,12 @@ msgstr ""
 #: activities/redraw_symmetrical/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Mirror the given image"
-msgstr ""
+msgstr "Отрази рисунок"
 
 #: activities/redraw_symmetrical/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Draw the image on the empty grid as if you see it in a mirror."
-msgstr ""
+msgstr "Нарисуй картинку на пустой сетке, как будто ты видишь его в зеркале."
 
 #: activities/redraw_symmetrical/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -6501,13 +6474,13 @@ msgstr ""
 #, qt-format
 msgctxt "ScalesboardWeight|"
 msgid "%1 g"
-msgstr ""
+msgstr "%1 г"
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:33
 #, qt-format
 msgctxt "ScalesboardWeight|"
 msgid "%1 kg"
-msgstr ""
+msgstr "%1 кг"
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:42
 msgctxt "ScalesboardWeight|"
@@ -6635,6 +6608,33 @@ msgctxt "ScalesboardWeight|"
 msgid "Enter the weight of the gift in ounce: %1"
 msgstr ""
 
+#: activities/simplepaint/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Logic training activity"
+msgctxt "ActivityInfo|"
+msgid "A simple drawing activity"
+msgstr "Упражнение на развитие логики"
+
+#: activities/simplepaint/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Create your own drawing"
+msgstr ""
+
+#: activities/simplepaint/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Training reading skills"
+msgctxt "ActivityInfo|"
+msgid "Enhance creative skills"
+msgstr "Базовые навыки чтения"
+
+#: activities/simplepaint/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Select a color and paint the rectangles as you like to create a drawing."
+msgstr ""
+
 #: activities/smallnumbers/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Numbers With Dice"
@@ -6730,7 +6730,7 @@ msgstr ""
 #: activities/superbrain/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Super Brain"
-msgstr ""
+msgstr "Супермозг"
 
 #: activities/superbrain/ActivityInfo.qml:27
 #: activities/superbrain/ActivityInfo.qml:29
@@ -6750,12 +6750,12 @@ msgid ""
 "column."
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:147
+#: activities/superbrain/Superbrain.qml:148
 msgctxt "Superbrain|"
 msgid "This item is well placed"
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:149
+#: activities/superbrain/Superbrain.qml:150
 msgctxt "Superbrain|"
 msgid "This item is misplaced"
 msgstr ""
@@ -6763,7 +6763,7 @@ msgstr ""
 #: activities/target/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Practice addition with a target game"
-msgstr "Упражнение на сложение за игрой в дартс"
+msgstr "Подсчёт очков при игре в дартс"
 
 #: activities/target/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6804,8 +6804,8 @@ msgstr ""
 
 #: activities/tic_tac_toe/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
-msgid "Tic Tac Toe"
-msgstr ""
+msgid "Tic Tac Toe (against Tux)"
+msgstr "Крестики-нолики против Тукса"
 
 #: activities/tic_tac_toe/ActivityInfo.qml:30
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:30
@@ -6840,8 +6840,8 @@ msgstr ""
 
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
-msgid "Tic Tac Toe (2 players)"
-msgstr ""
+msgid "Tic Tac Toe (with a friend)"
+msgstr "Крестики-нолики с другом"
 
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:34
 #, fuzzy
@@ -6863,7 +6863,7 @@ msgstr ""
 #: activities/traffic/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "A sliding-block puzzle game"
-msgstr "Головоломка с передвижными блоками"
+msgstr "Головоломка с подвижными блоками"
 
 #: activities/traffic/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6879,23 +6879,22 @@ msgstr ""
 "Каждый автомобиль может двигаться только горизонтально или вертикально. Вы "
 "должны освободить достаточно места, чтобы красный автомобиль уехал направо."
 
-#: activities/traffic/Traffic.qml:119
-#, fuzzy
+#: activities/traffic/Traffic.qml:118
 #| msgctxt "ActivityInfo|"
 #| msgid "Colors"
 msgctxt "Traffic|"
 msgid "Colors"
-msgstr "Цвета"
+msgstr "Сплошной цвет"
 
-#: activities/traffic/Traffic.qml:120
+#: activities/traffic/Traffic.qml:119
 msgctxt "Traffic|"
 msgid "Images"
-msgstr ""
+msgstr "Картинки"
 
-#: activities/traffic/Traffic.qml:132
+#: activities/traffic/Traffic.qml:131
 msgctxt "Traffic|"
 msgid "Select your mode"
-msgstr ""
+msgstr "Выбери вид блоков"
 
 #: activities/wordsgame/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6965,22 +6964,22 @@ msgstr ""
 #: core/core.js:224
 msgctxt "core|"
 msgid "Quit?"
-msgstr ""
+msgstr "Выйти?"
 
 #: core/core.js:226
 msgctxt "core|"
 msgid "Do you really want to quit GCompris?"
-msgstr ""
+msgstr "Выйти из программы GCompris?"
 
 #: core/core.js:227
 msgctxt "core|"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: core/core.js:228
 msgctxt "core|"
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: core/DialogAbout.qml:32
 msgctxt "DialogAbout|"
@@ -6989,24 +6988,24 @@ msgstr "О программе GCompris"
 
 #. Replace this string with your names, one name per line.
 #: core/DialogAbout.qml:35 core/DialogAbout.qml:36
-#, fuzzy
 msgctxt "DialogAbout|"
 msgid "translator-credits"
 msgstr ""
-"  Анна и Кирилл Полесские\n"
-"  AVL\n"
-"  Валек Филиппов\n"
-"  Вячеслав Дубровский\n"
-"  Андрей Черепанов\n"
-"  Алексей Свистунов"
+"Анна и Кирилл Полесские\n"
+"Алексей Любимов\n"
+"Валек Филиппов\n"
+"Вячеслав Дубровский\n"
+"Андрей Черепанов\n"
+"Алексей Свистунов\n"
+"Стас Соловей\n"
+"Александр Смирнов\n"
+"Александр Поташев"
 
 #: core/DialogAbout.qml:42
-#, fuzzy, qt-format
-#| msgctxt "DialogAbout|"
-#| msgid "About GCompris"
+#, qt-format
 msgctxt "DialogAbout|"
 msgid "GCompris %1"
-msgstr "О программе GCompris"
+msgstr "GCompris %1"
 
 #: core/DialogAbout.qml:43
 #, qt-format
@@ -7097,17 +7096,17 @@ msgstr ""
 #, qt-format
 msgctxt "DialogActivityConfig|"
 msgid "%1 configuration"
-msgstr ""
+msgstr "%1: настройка"
 
 #: core/DialogActivityConfig.qml:93
 msgctxt "DialogActivityConfig|"
 msgid "Configuration"
-msgstr ""
+msgstr "Настройка GCompris"
 
 #: core/DialogHelp.qml:63
 msgctxt "DialogHelp|"
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: core/DialogHelp.qml:67
 msgctxt "DialogHelp|"
@@ -7132,28 +7131,28 @@ msgstr "Информация"
 #: core/DialogHelp.qml:85
 msgctxt "DialogHelp|"
 msgid "Section: "
-msgstr ""
+msgstr "Раздел:"
 
 #: core/DownloadDialog.qml:166
 msgctxt "DownloadDialog|"
 msgid "Downloading ..."
-msgstr ""
+msgstr "Загрузка..."
 
 #. Run this task in background
 #: core/DownloadDialog.qml:210
 msgctxt "DownloadDialog|"
 msgid "Background"
-msgstr ""
+msgstr "Продолжить в фоне"
 
 #: core/DownloadDialog.qml:227
 msgctxt "DownloadDialog|"
 msgid "Abort"
-msgstr ""
+msgstr "Прервать"
 
 #: core/DownloadDialog.qml:252
 msgctxt "DownloadDialog|"
 msgid "Download error"
-msgstr ""
+msgstr "Ошибка загрузки"
 
 #: core/DownloadDialog.qml:280
 msgctxt "DownloadDialog|"
@@ -7173,37 +7172,37 @@ msgstr ""
 #: core/LanguageList.qml:43
 msgctxt "LanguageList|"
 msgid "Your system default"
-msgstr ""
+msgstr "Стандартный в системе"
 
 #: core/main.cpp:120
 msgctxt "QObject|"
 msgid "Run GCompris with the default system cursor."
-msgstr ""
+msgstr "Запустить GCompris со стандартным системным курсором мыши."
 
 #: core/main.cpp:123
 msgctxt "QObject|"
 msgid "Run GCompris without cursor (touch screen mode)."
-msgstr ""
+msgstr "Запустить GCompris без указателя мыши (режим сенсорного экрана)"
 
 #: core/main.cpp:126
 msgctxt "QObject|"
 msgid "Run GCompris in fullscreen mode."
-msgstr ""
+msgstr "Запустить GCompris в полноэкранном режиме."
 
 #: core/main.cpp:129
 msgctxt "QObject|"
 msgid "Run GCompris in window mode."
-msgstr ""
+msgstr "Запустить GCompris в оконном режиме."
 
 #: core/main.cpp:132
 msgctxt "QObject|"
 msgid "Run GCompris with sound enabled."
-msgstr ""
+msgstr "Запустить GCompris со включённым звуком."
 
 #: core/main.cpp:135
 msgctxt "QObject|"
 msgid "Run GCompris without sound."
-msgstr ""
+msgstr "Запустить GCompris без звука."
 
 #: core/main.cpp:138
 msgctxt "QObject|"
@@ -7218,7 +7217,7 @@ msgstr ""
 #: core/main.qml:119
 msgctxt "main|"
 msgid "Welcome to GCompris!"
-msgstr ""
+msgstr "Добро пожаловать в GCompris!"
 
 #: core/main.qml:120
 msgctxt "main|"
@@ -7236,28 +7235,28 @@ msgstr ""
 #: core/main.qml:123
 msgctxt "main|"
 msgid "Have Fun!"
-msgstr ""
+msgstr "Удачи!"
 
 #: core/main.qml:125
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
-msgstr ""
+msgstr "Ваш текущий язык %1 (%2)."
 
 #: core/main.qml:129
 msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
-msgstr ""
+msgstr "Загрузить соответствующие звуковые файлы сейчас?"
 
 #: core/main.qml:130
 msgctxt "main|"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: core/main.qml:136
 msgctxt "main|"
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: core/ReadyButton.qml:46
 msgctxt "ReadyButton|"
