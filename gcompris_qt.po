@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-06-23 03:04+0300\n"
+"PO-Revision-Date: 2015-06-23 04:22+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -1261,7 +1261,7 @@ msgstr ""
 #: activities/chronos/resource/board/board5_1.qml:63
 msgctxt "board5_1|"
 msgid "1906 Paul Cornu First helicopter flight"
-msgstr ""
+msgstr "1906 год: Поль Корню совершил первый полёт на вертолёте"
 
 #: activities/chronos/resource/board/board5_2.qml:25
 msgctxt "board5_2|"
@@ -1281,7 +1281,7 @@ msgstr "1769 год: Паровая телега Кюньо"
 #: activities/chronos/resource/board/board5_2.qml:63
 msgctxt "board5_2|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 год: «Эол» Клемана Адера"
 
 #: activities/chronos/resource/board/board5_3.qml:25
 msgctxt "board5_3|"
@@ -1316,12 +1316,12 @@ msgstr "1829 год: Паровоз Стефенсона «Ракета»"
 #: activities/chronos/resource/board/board5_4.qml:56
 msgctxt "board5_4|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 год: «Эол» Клемана Адера"
 
 #: activities/chronos/resource/board/board5_4.qml:63
 msgctxt "board5_4|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 год: Паровая телега Кюньо"
 
 #: activities/chronos/resource/board/board6_0.qml:26
 msgctxt "board6_0|"
@@ -1331,7 +1331,7 @@ msgstr "Авиация"
 #: activities/chronos/resource/board/board6_0.qml:50
 msgctxt "board6_0|"
 msgid "1880 Clement Ader's Eole"
-msgstr ""
+msgstr "1880 год: «Эол» Клемана Адера"
 
 #: activities/chronos/resource/board/board6_0.qml:57
 msgctxt "board6_0|"
@@ -1376,12 +1376,12 @@ msgstr ""
 #: activities/chronos/resource/board/board6_2.qml:56
 msgctxt "board6_2|"
 msgid "1769 Cugnot's fardier"
-msgstr ""
+msgstr "1769 год: Паровая телега Кюньо"
 
 #: activities/chronos/resource/board/board6_2.qml:63
 msgctxt "board6_2|"
 msgid "1885 The first petrol car by Benz"
-msgstr ""
+msgstr "1885 год: Первый бензиновый автомобиль Карла Бенца"
 
 #: activities/chronos/resource/board/board6_3.qml:25
 msgctxt "board6_3|"
@@ -1391,17 +1391,17 @@ msgstr "Автомобили"
 #: activities/chronos/resource/board/board6_3.qml:49
 msgctxt "board6_3|"
 msgid "1899 Renault voiturette"
-msgstr ""
+msgstr "1899 год: Автомобиль Renault Voiturette"
 
 #: activities/chronos/resource/board/board6_3.qml:56
 msgctxt "board6_3|"
 msgid "1923 Lancia Lambda"
-msgstr ""
+msgstr "1923 год: Автомобиль Lancia Lambda"
 
 #: activities/chronos/resource/board/board6_3.qml:63
 msgctxt "board6_3|"
 msgid "1955 Citroën DS 19"
-msgstr ""
+msgstr "1955 год: Автомобиль Citroën DS 19"
 
 #: activities/click_on_letter/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1818,42 +1818,42 @@ msgstr "Найдите тубу"
 #: activities/details/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid "The images are from Wikimedia Commons."
-msgstr ""
+msgstr "Изображения взяты с Викисклада (Wikimedia Commons)."
 
 #: activities/details/resource/board/board10_0.qml:25
 msgctxt "board10_0|"
 msgid "Eilean Donan castle"
-msgstr ""
+msgstr "Замок Эйлен-Донан"
 
 #: activities/details/resource/board/board11_0.qml:25
 msgctxt "board11_0|"
 msgid "Gizah Pyramids, Egypt"
-msgstr ""
+msgstr "Египетские пирамиды в Гизе"
 
 #: activities/details/resource/board/board12_0.qml:25
 msgctxt "board12_0|"
 msgid "Sydney Opera House, Australia"
-msgstr ""
+msgstr "Сиднейский оперный театр, Австралия"
 
 #: activities/details/resource/board/board13_0.qml:25
 msgctxt "board13_0|"
 msgid "Tower Bridge in London"
-msgstr ""
+msgstr "Тауэрский мост в Лондоне"
 
 #: activities/details/resource/board/board14_0.qml:25
 msgctxt "board14_0|"
 msgid "Eiffel Tower, seen from the champ de Mars, Paris, France"
-msgstr ""
+msgstr "Эйфелева башня, вид со стороны Марсова поля, Париж, Франция"
 
 #: activities/details/resource/board/board15_0.qml:25
 msgctxt "board15_0|"
 msgid "Courtyard of the Museum of Louvre, and its pyramid"
-msgstr ""
+msgstr "Двор Лувра и его пирамида"
 
 #: activities/details/resource/board/board16_0.qml:25
 msgctxt "board16_0|"
 msgid "Panorama of Château de Chenonceau, Indre-et-Loire, France."
-msgstr ""
+msgstr "Панорама замка Шенонсо, департамент Эндр и Луара, Франция"
 
 #: activities/details/resource/board/board17_0.qml:25
 msgctxt "board17_0|"
@@ -1868,7 +1868,7 @@ msgstr ""
 #: activities/details/resource/board/board19_0.qml:25
 msgctxt "board19_0|"
 msgid "Taj Mahal, Agra, India"
-msgstr ""
+msgstr "Тадж-Махал, Агра, Индия"
 
 #: activities/details/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
@@ -1878,12 +1878,12 @@ msgstr ""
 #: activities/details/resource/board/board20_0.qml:25
 msgctxt "board20_0|"
 msgid "Castle Neuschwanstein at Schwangau, Bavaria, Germany"
-msgstr ""
+msgstr "Замок Нойшванштайн в Швангау, Бавария, Германия"
 
 #: activities/details/resource/board/board21_0.qml:25
 msgctxt "board21_0|"
 msgid "Egeskov Castle, Denmark"
-msgstr ""
+msgstr "Замок Эгесков, Дания"
 
 #: activities/details/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
@@ -1895,7 +1895,7 @@ msgstr ""
 #: activities/details/resource/board/board3_0.qml:25
 msgctxt "board3_0|"
 msgid "Vincent van Gogh, The Church at Auvers-sur-Oise - 1890"
-msgstr ""
+msgstr "Винсент Ван Гог, «Церковь в Овере», 1890"
 
 #: activities/details/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
@@ -1905,28 +1905,28 @@ msgstr ""
 #: activities/details/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
 msgid "Vincent van Gogh, The Harvest - 1888"
-msgstr ""
+msgstr "Винсент Ван Гог, «Жатва», 1888"
 
 #: activities/details/resource/board/board6_0.qml:25
 msgctxt "board6_0|"
 msgid "Vincent van Gogh, Cafe Terrace at Night - 1888"
-msgstr ""
+msgstr "Винсент Ван Гог, «Ночная терраса кафе», 1888"
 
 #: activities/details/resource/board/board7_0.qml:25
 msgctxt "board7_0|"
 msgid "Vincent van Gogh, The Night Café - 1888"
-msgstr ""
+msgstr "Винсент Ван Гог, «Ночное кафе», 1888"
 
 #: activities/details/resource/board/board8_0.qml:25
 msgctxt "board8_0|"
 msgid "Vincent van Gogh, Portrait of Pere Tanguy 1887-8"
-msgstr ""
+msgstr "Винсент Ван Гог, «Портрет Папаши Танги», 1887-1888"
 
 #: activities/details/resource/board/board9_0.qml:25
 msgctxt "board9_0|"
 msgid ""
 "Notre Dame de Paris cathedral on the Île de la Cité island in Paris, France."
-msgstr ""
+msgstr "Собор Парижской Богоматери на острове Сите в Париже, Франция"
 
 #: activities/drawnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1944,7 +1944,7 @@ msgstr "Нарисуйте рисунок, щёлкая по числам в п�
 #: activities/drawnumber/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Can count from 1 to 50."
-msgstr "Навыки счёта от 1 до 50."
+msgstr "Навык счёта от 1 до 50."
 
 #: activities/drawnumber/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -4103,7 +4103,7 @@ msgstr "Щёлкните на слове, соответствующему ри�
 #: activities/imageid/Imageid.qml:306
 msgctxt "Imageid|"
 msgid "We are sorry, we don't have yet a translation for your language."
-msgstr ""
+msgstr "Приносим извинения, но у нас пока нет перевода на твой язык."
 
 #: activities/imageid/Imageid.qml:307
 #, qt-format
@@ -4112,6 +4112,8 @@ msgid ""
 "GCompris is developed by the KDE community, you can translate GCompris by "
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
+"Программа GCompris разработана сообществом KDE. Вы можете присоединиться к "
+"команде переводчиков на <a href=\"%2\">%2</a>."
 
 #: activities/imageid/Imageid.qml:309
 msgctxt "Imageid|"
@@ -4119,19 +4121,20 @@ msgid ""
 "We switched to English for this activity but you can select another language "
 "in the configuration dialog."
 msgstr ""
+"Мы переключились на английский для этого упражнения, но ты можешь выбрать "
+"другой язык в меню настройки."
 
 #: activities/imageid/Imageid.qml:322
 msgctxt "Imageid|"
 msgid "The images for this activity are not yet installed."
-msgstr ""
+msgstr "Изображения для данного упражнения ещё не установлены."
 
 #: activities/imageid/Imageid.qml:323
-#, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
 msgctxt "Imageid|"
 msgid "Download the images"
-msgstr "Найдите треугольник"
+msgstr "Загрузить изображения"
 
 #: activities/imageid/Imageid.qml:323
 msgctxt "Imageid|"
@@ -5503,7 +5506,7 @@ msgstr ""
 #: activities/memory-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Memory Game with images against Tux"
-msgstr ""
+msgstr "Игра «Память» с картинками против Тукса"
 
 #: activities/memory-tux/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5612,85 +5615,79 @@ msgstr "девять"
 #: activities/memory-wordnumber/dataset.js:32
 msgctxt "dataset|"
 msgid "ten"
-msgstr ""
+msgstr "десять"
 
 #: activities/memory-wordnumber/dataset.js:33
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "seven"
 msgctxt "dataset|"
 msgid "eleven"
-msgstr "семь"
+msgstr "одиннадцать"
 
 #: activities/memory-wordnumber/dataset.js:34
 msgctxt "dataset|"
 msgid "twelve"
-msgstr ""
+msgstr "двенадцать"
 
 #: activities/memory-wordnumber/dataset.js:35
 msgctxt "dataset|"
 msgid "thirteen"
-msgstr ""
+msgstr "тринадцать"
 
 #: activities/memory-wordnumber/dataset.js:36
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "four"
 msgctxt "dataset|"
 msgid "fourteen"
-msgstr "четыре"
+msgstr "четырнадцать"
 
 #: activities/memory-wordnumber/dataset.js:37
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "The fifteen game"
 msgctxt "dataset|"
 msgid "fifteen"
-msgstr "Пятнашки"
+msgstr "пятнадцать"
 
 #: activities/memory-wordnumber/dataset.js:38
 msgctxt "dataset|"
 msgid "sixteen"
-msgstr ""
+msgstr "шестнадцать"
 
 #: activities/memory-wordnumber/dataset.js:39
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "seven"
 msgctxt "dataset|"
 msgid "seventeen"
-msgstr "семь"
+msgstr "семнадцать"
 
 #: activities/memory-wordnumber/dataset.js:40
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "eight"
 msgctxt "dataset|"
 msgid "eighteen"
-msgstr "восемь"
+msgstr "восемнадцать"
 
 #: activities/memory-wordnumber/dataset.js:41
-#, fuzzy
 #| msgctxt "dataset|"
 #| msgid "nine"
 msgctxt "dataset|"
 msgid "nineteen"
-msgstr "девять"
+msgstr "девятнадцать"
 
 #: activities/memory-wordnumber/dataset.js:42
 msgctxt "dataset|"
 msgid "twenty"
-msgstr ""
+msgstr "двадцать"
 
 #: activities/memory/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Memory Game with images"
-msgstr "Парочки с картинками"
+msgstr "Игра «Память» с картинками"
 
 #: activities/memory/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Flip the cards to find the matching pairs"
-msgstr "Переворачивайте карты и находите совпадающие пары"
+msgstr "Переворачивай карточки и находи совпадающие пары"
 
 #: activities/memory/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -5701,32 +5698,31 @@ msgid ""
 "cards at once, so you need to remember where a picture is, while you look "
 "for its twin. When you turn over the twins, they both disappear."
 msgstr ""
-"Показан набор карт. Каждая карта имеет пару с таким же рисунком на обратной "
-"стороне. \n"
-"При щелчке по карте, она переворачивается и показывает обратную сторону. \n"
-"Но вы можете видеть только две перевёрнутые карты одновременно.\n"
-"Вы должны запоминать позиции скрытых рисунков.\n"
-"Если вы откроете две карты с одинаковым рисунком, они удаляются с поля."
+"Показан набор карточек. Каждая карточка имеет пару с таким же рисунком на "
+"обратной стороне. При щелчке по карточке она переворачивается, и видна "
+"обратная сторона. Но ты можешь видеть только две перевёрнутые карточки "
+"одновременно, поэтому нужно запоминать, где находятся остальные картинки. "
+"Если ты откроешь две карты с одинаковым рисунком, то они удалятся с поля."
 
 #: activities/memory/math_util.js:26 activities/memory/math_util.js:29
 msgctxt "math_util|"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: activities/memory/math_util.js:39
 msgctxt "math_util|"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: activities/memory/math_util.js:50 activities/memory/math_util.js:53
 msgctxt "math_util|"
 msgid "×"
-msgstr ""
+msgstr "×"
 
 #: activities/memory/math_util.js:63
 msgctxt "math_util|"
 msgid "÷"
-msgstr ""
+msgstr "÷"
 
 #: activities/menu/ActivityInfo.qml:23
 msgctxt "ActivityInfo|"
@@ -5838,12 +5834,12 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:72
 msgctxt "ConfigurationItem|"
 msgid "You have the full version"
-msgstr ""
+msgstr "У вас полная версия"
 
 #: activities/menu/ConfigurationItem.qml:73
 msgctxt "ConfigurationItem|"
 msgid "Buy the full version"
-msgstr ""
+msgstr "Купить полную версию"
 
 #: activities/menu/ConfigurationItem.qml:105
 msgctxt "ConfigurationItem|"
@@ -5861,7 +5857,6 @@ msgid "Enable audio effects"
 msgstr ""
 
 #: activities/menu/ConfigurationItem.qml:133
-#, fuzzy
 #| msgctxt "DialogConfig|"
 #| msgid "Fullscreen"
 msgctxt "ConfigurationItem|"
@@ -5871,52 +5866,52 @@ msgstr "Во весь экран"
 #: activities/menu/ConfigurationItem.qml:142
 msgctxt "ConfigurationItem|"
 msgid "Virtual Keyboard"
-msgstr ""
+msgstr "Виртуальная клавиатура"
 
 #: activities/menu/ConfigurationItem.qml:152
 msgctxt "ConfigurationItem|"
 msgid "Enable automatic downloads/updates of sound files"
-msgstr ""
+msgstr "Автоматически загружать и обновлять звуковые файлы"
 
 #: activities/menu/ConfigurationItem.qml:161
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
-msgstr ""
+msgstr "Показывать меню категорий"
 
 #: activities/menu/ConfigurationItem.qml:175
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
-msgstr ""
+msgstr "Выбор шрифта"
 
 #: activities/menu/ConfigurationItem.qml:195
 msgctxt "ConfigurationItem|"
 msgid "Font size"
-msgstr ""
+msgstr "Размер шрифта"
 
 #: activities/menu/ConfigurationItem.qml:201
 msgctxt "ConfigurationItem|"
 msgid "Default"
-msgstr ""
+msgstr "Рекомендуемый"
 
 #: activities/menu/ConfigurationItem.qml:214
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
-msgstr ""
+msgstr "Прописные буквы в тексте"
 
 #: activities/menu/ConfigurationItem.qml:226
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
-msgstr ""
+msgstr "Выбор языка"
 
 #: activities/menu/ConfigurationItem.qml:253
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
-msgstr ""
+msgstr "Озвучивание на выбранном языке"
 
 #: activities/menu/ConfigurationItem.qml:267
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
-msgstr ""
+msgstr "Проверить обновления"
 
 #: activities/menu/ConfigurationItem.qml:268
 msgctxt "ConfigurationItem|"
@@ -5926,7 +5921,7 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:286
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
-msgstr ""
+msgstr "Фильтр сложности:"
 
 #: activities/menu/ConfigurationItem.qml:483
 msgctxt "ConfigurationItem|"
@@ -5936,32 +5931,32 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:484
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download the corresponding sound files now?"
-msgstr ""
+msgstr "Загрузить соответствующие звуковые файлы сейчас?"
 
 #: activities/menu/ConfigurationItem.qml:485
 msgctxt "ConfigurationItem|"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: activities/menu/ConfigurationItem.qml:491
 msgctxt "ConfigurationItem|"
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: activities/menu/ConfigurationItem.qml:547
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
-msgstr ""
+msgstr "Как в обычном тексте"
 
 #: activities/menu/ConfigurationItem.qml:548
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
-msgstr ""
+msgstr "Все прописные"
 
 #: activities/menu/ConfigurationItem.qml:549
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
-msgstr ""
+msgstr "Все строчные"
 
 #: activities/menu/Menu.qml:256
 msgctxt "Menu|"
@@ -7092,7 +7087,7 @@ msgstr ""
 #: core/DialogActivityConfig.qml:93
 msgctxt "DialogActivityConfig|"
 msgid "Configuration"
-msgstr ""
+msgstr "Настройка GCompris"
 
 #: core/DialogHelp.qml:63
 msgctxt "DialogHelp|"
@@ -7127,18 +7122,18 @@ msgstr ""
 #: core/DownloadDialog.qml:166
 msgctxt "DownloadDialog|"
 msgid "Downloading ..."
-msgstr ""
+msgstr "Загрузка..."
 
 #. Run this task in background
 #: core/DownloadDialog.qml:210
 msgctxt "DownloadDialog|"
 msgid "Background"
-msgstr ""
+msgstr "Продолжить в фоне"
 
 #: core/DownloadDialog.qml:227
 msgctxt "DownloadDialog|"
 msgid "Abort"
-msgstr ""
+msgstr "Прервать"
 
 #: core/DownloadDialog.qml:252
 msgctxt "DownloadDialog|"
@@ -7237,7 +7232,7 @@ msgstr "Ваш текущий язык %1 (%2)."
 #: core/main.qml:129
 msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
-msgstr "Загрузить соответствующие звуковые файлы?"
+msgstr "Загрузить соответствующие звуковые файлы сейчас?"
 
 #: core/main.qml:130
 msgctxt "main|"
