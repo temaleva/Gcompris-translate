@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-06-23 06:00+0300\n"
+"PO-Revision-Date: 2015-06-23 06:19+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -4719,7 +4719,7 @@ msgstr "История жизни Луи Брайля"
 #: activities/louis-braille/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Review the major dates of the inventor of the Braille System"
-msgstr ""
+msgstr "Вспомни основные даты из жизни изобретателя системы Брайля"
 
 #: activities/louis-braille/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -4729,6 +4729,9 @@ msgid ""
 "Click on the previous and next buttons to move to the respective story page. "
 "At the end, arrange the sequence in the chronological order."
 msgstr ""
+"Прочитай биографию Луи Брайля и историю создания его системы записи.\n"
+"Нажимай кнопки вправо в влево, чтобы перемещаться по истории. После прочтения "
+"расположи события в хронологическом порядке."
 
 #: activities/louis-braille/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
@@ -4736,11 +4739,13 @@ msgid ""
 "Louis Braille Video: <a href='http://www.youtube.com/watch?"
 "v=9bdfC2j_4x4'>http://www.youtube.com/watch?v=9bdfC2j_4x4</a>"
 msgstr ""
+"Видео о Луи Брайле: <a href='http://www.youtube.com/watch?"
+"v=9bdfC2j_4x4'>http://www.youtube.com/watch?v=9bdfC2j_4x4</a>"
 
 #: activities/louis-braille/louis_braille_data.js:23
 msgctxt "louis_braille_data|"
 msgid "Born on January 4th 1809 in Coupvary near Paris in France."
-msgstr ""
+msgstr "Родился 4 января 1809 года в Кувре под Парижем во Франции."
 
 #: activities/louis-braille/louis_braille_data.js:28
 msgctxt "louis_braille_data|"
@@ -4748,6 +4753,7 @@ msgid ""
 "Louis Braille injured his right eye with a stitching awl from his father's "
 "workshop."
 msgstr ""
+"Луи Брайль повредил свой правый глаз портняжным шилом из мастерской его отца."
 
 #: activities/louis-braille/louis_braille_data.js:33
 msgctxt "louis_braille_data|"
@@ -4755,6 +4761,8 @@ msgid ""
 "At the age of three, Louis became blind due to a severe infection that "
 "spread to his left eye."
 msgstr ""
+"В возрасте трёх лет Луи ослеп из-за тяжёлой инфекции, которая "
+"распространилась в его левый глаз."
 
 #: activities/louis-braille/louis_braille_data.js:38
 msgctxt "louis_braille_data|"
@@ -4762,6 +4770,8 @@ msgid ""
 "At the age of 10, he was sent to Paris to study at the Royal Institute for "
 "Blind Youth."
 msgstr ""
+"В 10 лет отправился в Париж для обучения в королевском институте для слепых "
+"юношей."
 
 #: activities/louis-braille/louis_braille_data.js:43
 msgctxt "louis_braille_data|"
@@ -4775,11 +4785,14 @@ msgid ""
 "invention of night writing, a code of 12 raised dots to share information on "
 "battlefields."
 msgstr ""
+"Шарль Барбье, французский солдат, посетил его школу и поделился своим "
+"изобретением слепого письма — кодом из 12 рельефных точек для "
+"передачи информации на полях сражений."
 
 #: activities/louis-braille/louis_braille_data.js:53
 msgctxt "louis_braille_data|"
 msgid "Louis trimmed Barbier's 12 dots into 6 and invented the Braille system."
-msgstr ""
+msgstr "Луи уменьшил число точке с 12 до 6 и изобрёл систему Брайля."
 
 #: activities/louis-braille/louis_braille_data.js:58
 msgctxt "louis_braille_data|"
@@ -4787,6 +4800,8 @@ msgid ""
 "He became a teacher after graduating and promoted his method while secretly "
 "teaching it at the Institute."
 msgstr ""
+"После окончания института он стал учителем и продвигал свой метод, в тайне "
+"преподавая его в институте."
 
 #: activities/louis-braille/louis_braille_data.js:63
 msgctxt "louis_braille_data|"
@@ -4794,6 +4809,8 @@ msgid ""
 "He revised and extended braille to include mathematics, symbols, "
 "punctuations and music notations."
 msgstr ""
+"Он исправил и расширил таблицу Брайля, включив туда математические и другие "
+"знаки, знаки препинания и ноты."
 
 #: activities/louis-braille/louis_braille_data.js:68
 msgctxt "louis_braille_data|"
@@ -4801,6 +4818,8 @@ msgid ""
 "He died of tuberculosis. He is buried in the Pantheon in Paris. A monument "
 "is erected to honor him."
 msgstr ""
+"Он умер от туберкулёза и похоронен в Пантеоне в Париже. Ему поставлен "
+"памятник."
 
 #: activities/louis-braille/louis_braille_data.js:73
 msgctxt "louis_braille_data|"
@@ -4808,6 +4827,8 @@ msgid ""
 "Braille got accepted as a world wide standard. Louis Braille proved that if "
 "you have motivation you can do incredible things."
 msgstr ""
+"Таблица Брайля принята в качестве международного стандарта. Луи Брайль "
+"доказал, что если иметь желание, можно совершать невероятные вещи."
 
 #: activities/louis-braille/ReorderList.qml:167
 msgctxt "ReorderList|"
@@ -6193,12 +6214,11 @@ msgstr ""
 "верхней части экрана."
 
 #: activities/money_back_cents/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Give tux his change, including cents"
 msgctxt "ActivityInfo|"
 msgid "Give Tux his change, including cents"
-msgstr "Отсчитайте Туксу его сдачу, включая копейки"
+msgstr "Отсчитай Туксу его сдачу, включая копейки"
 
 #: activities/money_cents/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6291,9 +6311,7 @@ msgstr "Порядок чисел"
 #: activities/planegame/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Move the helicopter to catch the clouds in the correct order"
-msgstr ""
-"Перемещайте вертолёт так, чтобы поймать облака\n"
-"в правильном порядке"
+msgstr "Перемещай вертолёт так, чтобы поймать облака в правильном порядке"
 
 #: activities/planegame/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -6981,7 +6999,8 @@ msgstr ""
 "Андрей Черепанов\n"
 "Алексей Свистунов\n"
 "Стас Соловей\n"
-"Александр Смирнов"
+"Александр Смирнов\n"
+"Александр Поташев"
 
 #: core/DialogAbout.qml:42
 #, qt-format
