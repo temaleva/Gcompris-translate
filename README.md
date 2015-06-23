@@ -1,0 +1,2 @@
+# Gcompris-translate
+Gcompris-translate
