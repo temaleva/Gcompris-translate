@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-06-23 04:22+0300\n"
+"PO-Revision-Date: 2015-06-23 04:24+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -3322,7 +3322,7 @@ msgstr "Алжир"
 #: activities/geography/resource/board/board8_0.qml:25
 msgctxt "board8_0|"
 msgid "Southern Africa"
-msgstr ""
+msgstr "Южная Африка"
 
 #: activities/geography/resource/board/board8_0.qml:34
 msgctxt "board8_0|"
