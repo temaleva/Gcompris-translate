@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-06-23 04:24+0300\n"
+"PO-Revision-Date: 2015-06-23 06:00+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -1931,7 +1931,7 @@ msgstr "Собор Парижской Богоматери на острове �
 #: activities/drawnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Number sequence"
-msgstr ""
+msgstr "Числа по порядку"
 
 #: activities/drawnumber/ActivityInfo.qml:27
 #, fuzzy
@@ -1969,7 +1969,7 @@ msgstr "Выстройте предметы оптимально, чтобы с�
 #: activities/planegame/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Numeration training"
-msgstr "Сосчитать предметы"
+msgstr "Поупражняться в счёте"
 
 #: activities/enumerate/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -1996,7 +1996,7 @@ msgstr ""
 #: activities/erase/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Move the mouse or touch the screen"
-msgstr ""
+msgstr "Двигай мышкой или касайся экрана"
 
 #: activities/erase/ActivityInfo.qml:27
 #, fuzzy
@@ -2035,27 +2035,28 @@ msgstr "Щёлкайте кнопкой мыши на частых, пока в�
 #: activities/erase_2clic/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Double tap or double click"
-msgstr ""
+msgstr "Двойное касание или двойной щелчок"
 
 #: activities/erase_2clic/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Double click the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
 msgid ""
 "Double tap or double click to erase the area and discover the background "
 "image"
-msgstr "Очистите область с помощью двойного щелчка мыши"
+msgstr ""
+"Чтобы увидеть изображение, очисти область с помощью двойного щелчка мышью или "
+"двойного касания экрана"
 
 #: activities/erase_2clic/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Double click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
 msgid ""
 "Double tap or double click the mouse on rectangles until all the blocks "
 "disappear."
-msgstr "Уберите все блоки с помощью двойного щелчка мыши."
+msgstr ""
+"Убери все блоки с помощью двойного щелчка мыши или двойного касания экрана."
 
 #: activities/erase_clic/ActivityInfo.qml:26
 #, fuzzy
@@ -2165,15 +2166,14 @@ msgstr ""
 #: activities/geo-country/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Locate the region"
-msgstr ""
+msgstr "Поиск регионов"
 
 #: activities/geo-country/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the regions to redraw the whole country"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетаскивай регионы, чтобы перерисовать всю страну"
 
 #: activities/geo-country/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
@@ -2296,15 +2296,14 @@ msgstr ""
 #: activities/geography/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Locate the countries"
-msgstr ""
+msgstr "Поиск стран"
 
 #: activities/geography/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to redraw the whole map"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетаскивай части, чтобы перерисовать всю карту"
 
 #: activities/geography/resource/board/board10_0.qml:25
 msgctxt "board10_0|"
@@ -2625,7 +2624,7 @@ msgstr "Гавайи"
 #: activities/geography/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
 msgid "Continents"
-msgstr ""
+msgstr "Части света"
 
 #: activities/geography/resource/board/board1_0.qml:34
 msgctxt "board1_0|"
@@ -3646,12 +3645,12 @@ msgstr "Узнавание букв на экране и клавиатуре"
 #: activities/gletters/Gletters.qml:146
 msgctxt "Gletters|"
 msgid "Select your locale"
-msgstr ""
+msgstr "Выбери твой язык"
 
 #: activities/gnumch-equality/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Gnumch Equality"
-msgstr ""
+msgstr "Поедатель равенства"
 
 #: activities/gnumch-equality/ActivityInfo.qml:27
 #: activities/gnumch-equality/ActivityInfo.qml:31
@@ -3701,31 +3700,31 @@ msgstr ""
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Equal to %1"
-msgstr ""
+msgstr "Равные %1"
 
 #: activities/gnumch-equality/TopPanel.qml:52
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Not equal to %1"
-msgstr ""
+msgstr "Неравные %1"
 
 #: activities/gnumch-equality/TopPanel.qml:54
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Factor of %1"
-msgstr ""
+msgstr "Множители %1"
 
 #: activities/gnumch-equality/TopPanel.qml:56
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Multiple of %1"
-msgstr ""
+msgstr "Числа, кратные %1"
 
 #: activities/gnumch-equality/TopPanel.qml:58
 #, qt-format
 msgctxt "TopPanel|"
 msgid "Primes less than %1"
-msgstr ""
+msgstr "Простые числа меньше %1"
 
 #: activities/gnumch-equality/Warning.qml:47
 msgctxt "Warning|"
@@ -3735,7 +3734,7 @@ msgstr ""
 #: activities/gnumch-equality/Warning.qml:51
 msgctxt "Warning|"
 msgid "You ate a wrong number."
-msgstr ""
+msgstr "Ты съел не то число."
 
 #: activities/gnumch-equality/Warning.qml:62
 msgctxt "Warning|"
@@ -3746,12 +3745,12 @@ msgstr "1 не является простым числом."
 #, qt-format
 msgctxt "Warning|"
 msgid "%1 is divisible by %2"
-msgstr ""
+msgstr "%1 делится на %2"
 
 #: activities/gnumch-equality/Warning.qml:80
 msgctxt "Warning|"
 msgid "and"
-msgstr ""
+msgstr "и"
 
 #: activities/gnumch-equality/Warning.qml:86
 #, qt-format
@@ -3784,7 +3783,7 @@ msgstr ""
 #: activities/gnumch-factors/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Factors"
-msgstr ""
+msgstr "Поедатель множителей"
 
 #: activities/gnumch-factors/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -3816,7 +3815,7 @@ msgstr ""
 #: activities/gnumch-inequality/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Inequality"
-msgstr ""
+msgstr "Поедатель неравенства"
 
 #: activities/gnumch-inequality/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -3835,7 +3834,7 @@ msgstr "Упражнение на сложение, вычитание, умно
 #: activities/gnumch-multiples/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Multiples"
-msgstr ""
+msgstr "Поедатель кратных чисел"
 
 #: activities/gnumch-multiples/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -3866,7 +3865,7 @@ msgstr ""
 #: activities/gnumch-primes/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Gnumch Primes"
-msgstr ""
+msgstr "Поедатель простых чисел"
 
 #: activities/gnumch-primes/ActivityInfo.qml:28
 msgctxt "ActivityInfo|"
@@ -3968,7 +3967,7 @@ msgstr "Число"
 #: activities/hanoi/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Simplified Tower of Hanoi"
-msgstr ""
+msgstr "Упрощённая Ханойская башня"
 
 #: activities/hanoi/ActivityInfo.qml:27
 #, fuzzy
@@ -4001,7 +4000,7 @@ msgstr ""
 #: activities/hanoi_real/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "The Tower of Hanoi"
-msgstr ""
+msgstr "Ханойская башня"
 
 #: activities/hanoi_real/ActivityInfo.qml:27
 #, fuzzy
@@ -4144,15 +4143,14 @@ msgstr ""
 #: activities/imagename/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Image Name"
-msgstr ""
+msgstr "Назови картинки"
 
 #: activities/imagename/ActivityInfo.qml:30
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop each item above its name"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетащи каждый предмет и помести его над названием"
 
 #: activities/imagename/ActivityInfo.qml:31
 #, fuzzy
@@ -4170,225 +4168,223 @@ msgid ""
 msgstr ""
 
 #: activities/imagename/resource/board/board1_0.qml:25
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Drag and Drop weights to balance the scales"
 msgctxt "board1_0|"
 msgid "Drag and Drop each item onto its name"
-msgstr "Перетаскивайте гири, чтобы уравновесить весы"
+msgstr "Перетаскивай предметы к их названиям"
 
 #: activities/imagename/resource/board/board1_0.qml:71
 msgctxt "board1_0|"
 msgid "mail box"
-msgstr ""
+msgstr "почтовый ящик"
 
 #: activities/imagename/resource/board/board1_0.qml:78
 msgctxt "board1_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "парусник"
 
 #: activities/imagename/resource/board/board1_0.qml:85
 msgctxt "board1_0|"
 msgid "lamp"
-msgstr ""
+msgstr "светильник"
 
 #: activities/imagename/resource/board/board1_0.qml:92
 msgctxt "board1_0|"
 msgid "postcard"
-msgstr ""
+msgstr "открытка"
 
 #: activities/imagename/resource/board/board1_0.qml:99
 msgctxt "board1_0|"
 msgid "fishing boat"
-msgstr ""
+msgstr "рыбацкая лодка"
 
 #: activities/imagename/resource/board/board1_0.qml:106
 msgctxt "board1_0|"
 msgid "bulb"
-msgstr ""
+msgstr "лампочка"
 
 #: activities/imagename/resource/board/board2_0.qml:70
 msgctxt "board2_0|"
 msgid "bottle"
-msgstr ""
+msgstr "бутылка"
 
 #: activities/imagename/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "glass"
-msgstr ""
+msgstr "стакан"
 
 #: activities/imagename/resource/board/board2_0.qml:84
 msgctxt "board2_0|"
 msgid "egg"
-msgstr ""
+msgstr "яйцо"
 
 #: activities/imagename/resource/board/board2_0.qml:91
 msgctxt "board2_0|"
 msgid "eggcup"
-msgstr ""
+msgstr "рюмка для яйца"
 
 #: activities/imagename/resource/board/board2_0.qml:98
 msgctxt "board2_0|"
 msgid "flower"
-msgstr ""
+msgstr "цветок"
 
 #: activities/imagename/resource/board/board2_0.qml:105
 msgctxt "board2_0|"
 msgid "vase"
-msgstr ""
+msgstr "ваза"
 
 #: activities/imagename/resource/board/board3_0.qml:70
 msgctxt "board3_0|"
 msgid "rocket"
-msgstr ""
+msgstr "ракета"
 
 #: activities/imagename/resource/board/board3_0.qml:77
 msgctxt "board3_0|"
 msgid "star"
-msgstr ""
+msgstr "звезда"
 
 #: activities/imagename/resource/board/board3_0.qml:84
 msgctxt "board3_0|"
 msgid "sofa"
-msgstr ""
+msgstr "диван"
 
 #: activities/imagename/resource/board/board3_0.qml:91
 msgctxt "board3_0|"
 msgid "house"
-msgstr ""
+msgstr "дом"
 
 #: activities/imagename/resource/board/board3_0.qml:98
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click the mouse"
 msgctxt "board3_0|"
 msgid "light house"
-msgstr "Щёлканье мышкой"
+msgstr "маяк"
 
 #: activities/imagename/resource/board/board3_0.qml:105
 msgctxt "board3_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "парусник"
 
 #: activities/imagename/resource/board/board4_0.qml:70
 msgctxt "board4_0|"
 msgid "apple"
-msgstr ""
+msgstr "яблоко"
 
 #: activities/imagename/resource/board/board4_0.qml:77
 msgctxt "board4_0|"
 msgid "tree"
-msgstr ""
+msgstr "дерево"
 
 #: activities/imagename/resource/board/board4_0.qml:84
 msgctxt "board4_0|"
 msgid "bicycle"
-msgstr ""
+msgstr "велосипед"
 
 #: activities/imagename/resource/board/board4_0.qml:91
 msgctxt "board4_0|"
 msgid "car"
-msgstr ""
+msgstr "машина"
 
 #: activities/imagename/resource/board/board4_0.qml:98
 msgctxt "board4_0|"
 msgid "carrot"
-msgstr ""
+msgstr "морковка"
 
 #: activities/imagename/resource/board/board4_0.qml:105
 msgctxt "board4_0|"
 msgid "grater"
-msgstr ""
+msgstr "тёрка"
 
 #: activities/imagename/resource/board/board5_0.qml:70
 msgctxt "board5_0|"
 msgid "pencil"
-msgstr ""
+msgstr "карандаш"
 
 #: activities/imagename/resource/board/board5_0.qml:77
 msgctxt "board5_0|"
 msgid "postcard"
-msgstr ""
+msgstr "открытка"
 
 #: activities/imagename/resource/board/board5_0.qml:84
 msgctxt "board5_0|"
 msgid "tree"
-msgstr ""
+msgstr "дерево"
 
 #: activities/imagename/resource/board/board5_0.qml:91
 msgctxt "board5_0|"
 msgid "star"
-msgstr ""
+msgstr "звезда"
 
 #: activities/imagename/resource/board/board5_0.qml:98
 msgctxt "board5_0|"
 msgid "truck"
-msgstr ""
+msgstr "грузовик"
 
 #: activities/imagename/resource/board/board5_0.qml:105
 msgctxt "board5_0|"
 msgid "van"
-msgstr ""
+msgstr "фургон"
 
 #: activities/imagename/resource/board/board6_0.qml:70
 msgctxt "board6_0|"
 msgid "castle"
-msgstr ""
+msgstr "замок"
 
 #: activities/imagename/resource/board/board6_0.qml:77
 msgctxt "board6_0|"
 msgid "crown"
-msgstr ""
+msgstr "корона"
 
 #: activities/imagename/resource/board/board6_0.qml:84
 msgctxt "board6_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "парусник"
 
 #: activities/imagename/resource/board/board6_0.qml:91
 msgctxt "board6_0|"
 msgid "flag"
-msgstr ""
+msgstr "флаг"
 
 #: activities/imagename/resource/board/board6_0.qml:98
 msgctxt "board6_0|"
 msgid "racket"
-msgstr ""
+msgstr "ракетка"
 
 #: activities/imagename/resource/board/board6_0.qml:105
 msgctxt "board6_0|"
 msgid "ball"
-msgstr ""
+msgstr "мяч"
 
 #: activities/imagename/resource/board/board7_0.qml:70
 msgctxt "board7_0|"
 msgid "tree"
-msgstr ""
+msgstr "дерево"
 
 #: activities/imagename/resource/board/board7_0.qml:77
 msgctxt "board7_0|"
 msgid "mail box"
-msgstr ""
+msgstr "почтовый ящик"
 
 #: activities/imagename/resource/board/board7_0.qml:84
 msgctxt "board7_0|"
 msgid "sailing boat"
-msgstr ""
+msgstr "парусник"
 
 #: activities/imagename/resource/board/board7_0.qml:91
 msgctxt "board7_0|"
 msgid "bulb"
-msgstr ""
+msgstr "лампочка"
 
 #: activities/imagename/resource/board/board7_0.qml:98
 msgctxt "board7_0|"
 msgid "bottle"
-msgstr ""
+msgstr "бутылка"
 
 #: activities/imagename/resource/board/board7_0.qml:105
 msgctxt "board7_0|"
 msgid "flower"
-msgstr ""
+msgstr "цветок"
 
 #: activities/instruments/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -4569,12 +4565,12 @@ msgstr "Найдите тамбурин"
 #: activities/instruments/instruments.js:303
 msgctxt "instruments|"
 msgid "Find the tuba"
-msgstr "Найдите тубу"
+msgstr "Найди тубу"
 
 #: activities/intro_gravity/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Introduction to the concept of gravity"
-msgstr ""
+msgstr "Знакомство с понятием гравитации"
 
 #: activities/intro_gravity/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -4630,7 +4626,7 @@ msgstr ""
 #: activities/intro_gravity/Message.qml:108
 msgctxt "Message|"
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 #: activities/intro_gravity/Message.qml:108
 msgctxt "Message|"
@@ -4638,12 +4634,11 @@ msgid "Let's Go"
 msgstr ""
 
 #: activities/intro_gravity/Message.qml:141
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Simple subtraction"
 msgctxt "Message|"
 msgid "Skip Instruction"
-msgstr "Простое вычитание"
+msgstr "Пропустить инструкцию"
 
 #: activities/leftright/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -4653,7 +4648,7 @@ msgstr "Найди свою левую и правую руки"
 #: activities/leftright/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Determine if a hand is a right or a left hand"
-msgstr "Определите рука правая или левая"
+msgstr "Определи, какая рука изображена: правая или левая"
 
 #: activities/leftright/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -4676,12 +4671,12 @@ msgstr ""
 #: activities/leftright/Leftright.qml:146
 msgctxt "Leftright|"
 msgid "Left hand"
-msgstr ""
+msgstr "Левая рука"
 
 #: activities/leftright/Leftright.qml:159
 msgctxt "Leftright|"
 msgid "Right hand"
-msgstr ""
+msgstr "Правая рука"
 
 #: activities/lightsoff/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -4719,7 +4714,7 @@ msgstr ""
 #: activities/louis-braille/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "The History of Louis Braille"
-msgstr ""
+msgstr "История жизни Луи Брайля"
 
 #: activities/louis-braille/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -4867,12 +4862,12 @@ msgstr ""
 #: activities/magic-hat-minus/MagicHat.qml:84
 msgctxt "MagicHat|"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: activities/magic-hat-minus/MagicHat.qml:84
 msgctxt "MagicHat|"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: activities/magic-hat-plus/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -4914,12 +4909,11 @@ msgid "Maze"
 msgstr "Лабиринт"
 
 #: activities/maze/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Help Tux get out of this maze."
 msgctxt "ActivityInfo|"
 msgid "Help Tux get out of this maze"
-msgstr "Помогите пингвинёнку Туксу выйти из лабиринта."
+msgstr "Помоги пингвинёнку Туксу выйти из лабиринта"
 
 #: activities/maze/ActivityInfo.qml:31
 #: activities/mazerelative/ActivityInfo.qml:31
@@ -4981,7 +4975,7 @@ msgstr ""
 #: activities/mazeinvisible/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Invisible Maze"
-msgstr ""
+msgstr "Невидимый лабиринт"
 
 #: activities/mazeinvisible/ActivityInfo.qml:27
 #, fuzzy
@@ -5003,7 +4997,7 @@ msgstr ""
 #: activities/mazerelative/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Relative Maze"
-msgstr ""
+msgstr "Относительный лабиринт"
 
 #: activities/mazerelative/ActivityInfo.qml:27
 #, fuzzy
@@ -5019,11 +5013,13 @@ msgid ""
 "In this maze, the move is relative (first person). Left and right are used "
 "to turn and up to go forward."
 msgstr ""
+"В этом лабиринте движения относительны, от первого лица. Стрелки влево и "
+"вправо используются для поворотов, стрелка вверх двигает персонажа вперёд."
 
 #: activities/memory-enumerate/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Enumeration memory game"
-msgstr "Игра в парочки с перечислениями"
+msgstr "Игра в пары с перечислениями"
 
 #: activities/memory-enumerate/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5050,7 +5046,7 @@ msgstr ""
 #: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "All operations memory game against Tux"
-msgstr "Игра в парочки со всеми операциями против Тукса"
+msgstr "Игра в пары со всеми операциями против Тукса"
 
 #: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:27
 #: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:27
@@ -5107,7 +5103,7 @@ msgstr ""
 #: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "All operations memory game"
-msgstr "Игра в парочки со всеми операциями"
+msgstr "Игра в пары со всеми операциями"
 
 #: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:31
 #: activities/memory-math-add-minus/ActivityInfo.qml:31
@@ -5134,7 +5130,7 @@ msgstr ""
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Addition and subtraction memory game against Tux"
-msgstr "Игра в парочки по сложению и вычитанию против Тукса"
+msgstr "Игра в пары по сложению и вычитанию против Тукса"
 
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:27
 #: activities/memory-math-add-minus/ActivityInfo.qml:27
@@ -5183,12 +5179,12 @@ msgstr ""
 #: activities/memory-math-add-minus/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Addition and subtraction memory game"
-msgstr "Игра в парочки по сложению и вычитанию"
+msgstr "Игра в пары по сложению и вычитанию"
 
 #: activities/memory-math-add-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Addition memory game against Tux"
-msgstr "Игра в парочки по сложению против Тукса"
+msgstr "Игра в пары по сложению против Тукса"
 
 #: activities/memory-math-add-tux/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5236,7 +5232,7 @@ msgstr ""
 #: activities/memory-math-add/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Addition memory game"
-msgstr "Игра в парочки по сложению"
+msgstr "Игра в пары по сложению"
 
 #: activities/memory-math-add/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5277,7 +5273,7 @@ msgstr ""
 #: activities/memory-math-div-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Division memory game against Tux"
-msgstr "Игра в парочки по делению против Тукса"
+msgstr "Игра в пары по делению против Тукса"
 
 #: activities/memory-math-div-tux/ActivityInfo.qml:29
 #: activities/memory-math-div/ActivityInfo.qml:29
@@ -5316,15 +5312,14 @@ msgstr ""
 #: activities/memory-math-div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Division memory game"
-msgstr "Игра в парочки по делению"
+msgstr "Игра в пары по делению"
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Multiplication memory game against Tux"
 msgctxt "ActivityInfo|"
 msgid "Subtraction memory game against Tux"
-msgstr "Игра в парочки по умножению против Тукса"
+msgstr "Игра в пары по вычитанию против Тукса"
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:27
 #: activities/memory-math-minus/ActivityInfo.qml:27
@@ -5372,7 +5367,7 @@ msgstr ""
 #: activities/memory-math-minus/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Subtraction memory game"
-msgstr "Игра в парочки по вычитанию"
+msgstr "Игра в пары по вычитанию"
 
 #: activities/memory-math-minus/ActivityInfo.qml:29
 #, fuzzy
@@ -5387,7 +5382,7 @@ msgstr ""
 #: activities/memory-math-mult-div-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Multiplication and division memory game against Tux"
-msgstr "Игра в парочки по умножению и делению против Тукса"
+msgstr "Игра в пары по умножению и делению против Тукса"
 
 #: activities/memory-math-mult-div-tux/ActivityInfo.qml:29
 #: activities/memory-math-mult-div/ActivityInfo.qml:29
@@ -5409,12 +5404,12 @@ msgstr "Умножение, деление"
 #: activities/memory-math-mult-div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Multiplication and division memory game"
-msgstr "Игра в парочки по умножению и делению"
+msgstr "Игра в пары по умножению и делению"
 
 #: activities/memory-math-mult-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Multiplication memory game against Tux"
-msgstr "Игра в парочки по умножению против Тукса"
+msgstr "Игра в пары по умножению против Тукса"
 
 #: activities/memory-math-mult-tux/ActivityInfo.qml:27
 #: activities/memory-math-mult/ActivityInfo.qml:27
@@ -5444,12 +5439,12 @@ msgstr "Умножение"
 #: activities/memory-math-mult/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Multiplication memory game"
-msgstr "Игра в парочки по умножению"
+msgstr "Игра в пары по умножению"
 
 #: activities/memory-sound-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Audio memory game against Tux"
-msgstr "Игра «запоминание мелодий» против Тукса"
+msgstr "«Запоминание мелодий» против Тукса"
 
 #: activities/memory-sound-tux/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5506,7 +5501,7 @@ msgstr ""
 #: activities/memory-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Memory Game with images against Tux"
-msgstr "Игра «Память» с картинками против Тукса"
+msgstr "Игра «Память» против Тукса"
 
 #: activities/memory-tux/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5533,7 +5528,7 @@ msgstr ""
 #: activities/memory-wordnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Wordnumber memory game"
-msgstr "Игра в парочки с числами"
+msgstr "Игра в пары с числами"
 
 #: activities/memory-wordnumber/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -5849,12 +5844,12 @@ msgstr ""
 #: activities/menu/ConfigurationItem.qml:115
 msgctxt "ConfigurationItem|"
 msgid "Enable audio voices"
-msgstr ""
+msgstr "Включить воспроизведение голоса"
 
 #: activities/menu/ConfigurationItem.qml:124
 msgctxt "ConfigurationItem|"
 msgid "Enable audio effects"
-msgstr ""
+msgstr "Включить звуковые эффекты"
 
 #: activities/menu/ConfigurationItem.qml:133
 #| msgctxt "DialogConfig|"
@@ -5876,7 +5871,7 @@ msgstr "Автоматически загружать и обновлять зв
 #: activities/menu/ConfigurationItem.qml:161
 msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
-msgstr "Показывать меню категорий"
+msgstr "Показывать меню разделов"
 
 #: activities/menu/ConfigurationItem.qml:175
 msgctxt "ConfigurationItem|"
@@ -5964,6 +5959,8 @@ msgid ""
 "Put your favorite activities here by selecting the sun on each activity top "
 "right."
 msgstr ""
+"Помести сюда твои любимые упражнения, нажимая на солнышко в правом верхнем "
+"углу упражнения."
 
 #: activities/mining/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6206,7 +6203,7 @@ msgstr "Отсчитайте Туксу его сдачу, включая коп
 #: activities/money_cents/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Money with cents"
-msgstr ""
+msgstr "Деньги с копейками"
 
 #: activities/money_cents/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6227,7 +6224,7 @@ msgstr ""
 #: activities/numbers-odd-even/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Even and Odd Numbers"
-msgstr ""
+msgstr "Чётные и нечётные числа"
 
 #: activities/numbers-odd-even/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6310,7 +6307,7 @@ msgstr ""
 #: activities/redraw/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Redraw the given image"
-msgstr ""
+msgstr "Перерисуй картинку"
 
 #: activities/redraw/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6332,12 +6329,12 @@ msgstr ""
 #: activities/redraw_symmetrical/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Mirror the given image"
-msgstr ""
+msgstr "Отрази рисунок"
 
 #: activities/redraw_symmetrical/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Draw the image on the empty grid as if you see it in a mirror."
-msgstr ""
+msgstr "Нарисуй картинку на пустой сетке, как будто ты видишь его в зеркале."
 
 #: activities/redraw_symmetrical/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -6460,13 +6457,13 @@ msgstr ""
 #, qt-format
 msgctxt "ScalesboardWeight|"
 msgid "%1 g"
-msgstr ""
+msgstr "%1 г"
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:33
 #, qt-format
 msgctxt "ScalesboardWeight|"
 msgid "%1 kg"
-msgstr ""
+msgstr "%1 кг"
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:42
 msgctxt "ScalesboardWeight|"
@@ -6716,7 +6713,7 @@ msgstr ""
 #: activities/superbrain/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Super Brain"
-msgstr ""
+msgstr "Супермозг"
 
 #: activities/superbrain/ActivityInfo.qml:27
 #: activities/superbrain/ActivityInfo.qml:29
@@ -6749,7 +6746,7 @@ msgstr ""
 #: activities/target/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Practice addition with a target game"
-msgstr "Упражнение на сложение за игрой в дартс"
+msgstr "Подсчёт очков при игре в дартс"
 
 #: activities/target/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6791,7 +6788,7 @@ msgstr ""
 #: activities/tic_tac_toe/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Tic Tac Toe (against Tux)"
-msgstr ""
+msgstr "Крестики-нолики против Тукса"
 
 #: activities/tic_tac_toe/ActivityInfo.qml:30
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:30
@@ -6827,7 +6824,7 @@ msgstr ""
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Tic Tac Toe (with a friend)"
-msgstr ""
+msgstr "Крестики-нолики с другом"
 
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:34
 #, fuzzy
@@ -6849,7 +6846,7 @@ msgstr ""
 #: activities/traffic/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "A sliding-block puzzle game"
-msgstr "Головоломка с передвижными блоками"
+msgstr "Головоломка с подвижными блоками"
 
 #: activities/traffic/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6866,22 +6863,21 @@ msgstr ""
 "должны освободить достаточно места, чтобы красный автомобиль уехал направо."
 
 #: activities/traffic/Traffic.qml:118
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Colors"
 msgctxt "Traffic|"
 msgid "Colors"
-msgstr "Цвета"
+msgstr "Сплошной цвет"
 
 #: activities/traffic/Traffic.qml:119
 msgctxt "Traffic|"
 msgid "Images"
-msgstr ""
+msgstr "Картинки"
 
 #: activities/traffic/Traffic.qml:131
 msgctxt "Traffic|"
 msgid "Select your mode"
-msgstr ""
+msgstr "Выбери вид блоков"
 
 #: activities/wordsgame/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -7082,7 +7078,7 @@ msgstr ""
 #, qt-format
 msgctxt "DialogActivityConfig|"
 msgid "%1 configuration"
-msgstr ""
+msgstr "%1: настройка"
 
 #: core/DialogActivityConfig.qml:93
 msgctxt "DialogActivityConfig|"
@@ -7092,7 +7088,7 @@ msgstr "Настройка GCompris"
 #: core/DialogHelp.qml:63
 msgctxt "DialogHelp|"
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: core/DialogHelp.qml:67
 msgctxt "DialogHelp|"
@@ -7117,7 +7113,7 @@ msgstr "Информация"
 #: core/DialogHelp.qml:85
 msgctxt "DialogHelp|"
 msgid "Section: "
-msgstr ""
+msgstr "Раздел:"
 
 #: core/DownloadDialog.qml:166
 msgctxt "DownloadDialog|"
@@ -7158,7 +7154,7 @@ msgstr ""
 #: core/LanguageList.qml:43
 msgctxt "LanguageList|"
 msgid "Your system default"
-msgstr ""
+msgstr "Стандартный в системе"
 
 #: core/main.cpp:120
 msgctxt "QObject|"
