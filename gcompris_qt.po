@@ -691,8 +691,6 @@ msgstr ""
 "бросить шарик. Побеждает игрок, первый создавший линию из четырёх шариков."
 
 #: activities/align4/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Addition memory game against Tux"
 msgctxt "ActivityInfo|"
 msgid "Align four (against Tux)"
 msgstr "Четыре в ряд (против Тукса)"
@@ -842,9 +840,12 @@ msgid "The Lady and the Unicorn - XVe century"
 msgstr ""
 
 #: activities/babyshapes/resource/board/board7_3.qml:25
+#, fuzzy
+#| msgctxt "board5_0|"
+#| msgid "Vincent van Gogh, The Harvest - 1888"
 msgctxt "board7_3|"
-msgid "Paul Gauguin, Bedroom in Arles - 1888"
-msgstr ""
+msgid "Vincent van Gogh, Bedroom in Arles - 1888"
+msgstr "Винсент Ван Гог, «Жатва», 1888"
 
 #: activities/babyshapes/resource/board/board7_4.qml:25
 msgctxt "board7_4|"
@@ -2037,19 +2038,15 @@ msgid "Double tap or double click"
 msgstr "Двойное касание или двойной щелчок"
 
 #: activities/erase_2clic/ActivityInfo.qml:27
-#| msgctxt "ActivityInfo|"
-#| msgid "Double click the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
 msgid ""
 "Double tap or double click to erase the area and discover the background "
 "image"
 msgstr ""
-"Чтобы увидеть изображение, очисти область с помощью двойного щелчка мышью или "
-"двойного касания экрана"
+"Чтобы увидеть изображение, очисти область с помощью двойного щелчка мышью "
+"или двойного касания экрана"
 
 #: activities/erase_2clic/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid "Double click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
 msgid ""
 "Double tap or double click the mouse on rectangles until all the blocks "
@@ -2058,24 +2055,18 @@ msgstr ""
 "Убери все блоки с помощью двойного щелчка мыши или двойного касания экрана."
 
 #: activities/erase_clic/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Click and draw"
 msgctxt "ActivityInfo|"
 msgid "Click or tap"
 msgstr "Щёлкай или нажимай"
 
 #: activities/erase_clic/ActivityInfo.qml:27
-#| msgctxt "ActivityInfo|"
-#| msgid "Click the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
 msgid "Click or tap to erase the area and discover the background"
 msgstr ""
-"Щёлкайте кнопкой мыши или нажимай на экран до полной очистки области и показа "
-"картинки"
+"Щёлкайте кнопкой мыши или нажимай на экран до полной очистки области и "
+"показа картинки"
 
 #: activities/erase_clic/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid "Click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
 msgid "Click or tap on the blocks all of them disappear."
 msgstr ""
@@ -2168,8 +2159,6 @@ msgid "Locate the region"
 msgstr "Поиск регионов"
 
 #: activities/geo-country/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the regions to redraw the whole country"
 msgstr "Перетаскивай регионы, чтобы перерисовать всю страну"
@@ -2298,8 +2287,6 @@ msgid "Locate the countries"
 msgstr "Поиск стран"
 
 #: activities/geography/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to redraw the whole map"
 msgstr "Перетаскивай части, чтобы перерисовать всю карту"
@@ -2310,8 +2297,6 @@ msgid "Asia"
 msgstr "Азия"
 
 #: activities/geography/resource/board/board10_0.qml:33
-#| msgctxt "DialogConfig|"
-#| msgid "Russian"
 msgctxt "board10_0|"
 msgid "Russia"
 msgstr "Россия"
@@ -2367,8 +2352,6 @@ msgid "Laos"
 msgstr "Лаос"
 
 #: activities/geography/resource/board/board10_0.qml:99
-#| msgctxt "DialogConfig|"
-#| msgid "Thai"
 msgctxt "board10_0|"
 msgid "Thailand"
 msgstr "Таиланд"
@@ -2458,47 +2441,48 @@ msgctxt "board10_0|"
 msgid "Azerbaijan"
 msgstr "Азербайджан"
 
-#: activities/geography/resource/board/board10_0.qml:207
+#. Translators: Strip Asia| and translate only Georgia
+#: activities/geography/resource/board/board10_0.qml:208
 msgctxt "board10_0|"
 msgid "Asia|Georgia"
 msgstr "Грузия"
 
-#: activities/geography/resource/board/board10_0.qml:213
+#: activities/geography/resource/board/board10_0.qml:214
 msgctxt "board10_0|"
 msgid "Turkey"
 msgstr "Турция"
 
-#: activities/geography/resource/board/board10_0.qml:219
+#: activities/geography/resource/board/board10_0.qml:220
 msgctxt "board10_0|"
 msgid "Syria"
 msgstr "Сирия"
 
-#: activities/geography/resource/board/board10_0.qml:225
+#: activities/geography/resource/board/board10_0.qml:226
 msgctxt "board10_0|"
 msgid "Iraq"
 msgstr "Ирак"
 
-#: activities/geography/resource/board/board10_0.qml:231
+#: activities/geography/resource/board/board10_0.qml:232
 msgctxt "board10_0|"
 msgid "Jordan"
 msgstr "Иордания"
 
-#: activities/geography/resource/board/board10_0.qml:237
+#: activities/geography/resource/board/board10_0.qml:238
 msgctxt "board10_0|"
 msgid "Saudi Arabia"
 msgstr "Саудовская Аравия"
 
-#: activities/geography/resource/board/board10_0.qml:243
+#: activities/geography/resource/board/board10_0.qml:244
 msgctxt "board10_0|"
 msgid "Yemen"
 msgstr "Йемен"
 
-#: activities/geography/resource/board/board10_0.qml:249
+#: activities/geography/resource/board/board10_0.qml:250
 msgctxt "board10_0|"
 msgid "United Arab Emirates"
 msgstr "Объединённые Арабские Эмираты"
 
-#: activities/geography/resource/board/board10_0.qml:255
+#: activities/geography/resource/board/board10_0.qml:256
 msgctxt "board10_0|"
 msgid "Oman"
 msgstr "Оман"
@@ -2549,8 +2533,6 @@ msgid "Micronesia"
 msgstr "Микронезия"
 
 #: activities/geography/resource/board/board11_0.qml:81
-#| msgctxt "DialogHelp|"
-#| msgid "Manual"
 msgctxt "board11_0|"
 msgid "Vanuatu"
 msgstr "Вануату"
@@ -2741,8 +2723,6 @@ msgid "El Salvador"
 msgstr "Сальвадор"
 
 #: activities/geography/resource/board/board3_0.qml:98
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board3_0|"
 msgid "Dominican Republic"
 msgstr "Доминиканская Республика"
@@ -2818,8 +2798,6 @@ msgid "El Salvador"
 msgstr "Сальвадор"
 
 #: activities/geography/resource/board/board3_1.qml:97
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board3_1|"
 msgid "Dominican Republic"
 msgstr "Доминиканская Республика"
@@ -2885,8 +2863,6 @@ msgid "Guyana"
 msgstr "Гайана"
 
 #: activities/geography/resource/board/board4_0.qml:83
-#| msgctxt "DialogConfig|"
-#| msgid "French"
 msgctxt "board4_0|"
 msgid "French Guiana"
 msgstr "Французская Гвиана"
@@ -2937,8 +2913,6 @@ msgid "Switzerland"
 msgstr "Швейцария"
 
 #: activities/geography/resource/board/board5_0.qml:48
-#| msgctxt "DialogConfig|"
-#| msgid "Swedish"
 msgctxt "board5_0|"
 msgid "Sweden"
 msgstr "Швеция"
@@ -2979,8 +2953,6 @@ msgid "Iceland"
 msgstr "Исландия"
 
 #: activities/geography/resource/board/board5_0.qml:111
-#| msgctxt "DialogConfig|"
-#| msgid "German"
 msgctxt "board5_0|"
 msgid "Germany"
 msgstr "Германия"
@@ -3016,8 +2988,6 @@ msgid "Eastern Europe"
 msgstr "Восточная Европа"
 
 #: activities/geography/resource/board/board6_0.qml:41
-#| msgctxt "DialogConfig|"
-#| msgid "Greek"
 msgctxt "board6_0|"
 msgid "Greece"
 msgstr "Греция"
@@ -3033,22 +3003,16 @@ msgid "Turkey"
 msgstr "Турция"
 
 #: activities/geography/resource/board/board6_0.qml:62
-#| msgctxt "DialogConfig|"
-#| msgid "Slovenian"
 msgctxt "board6_0|"
 msgid "Slovenia"
 msgstr "Словения"
 
 #: activities/geography/resource/board/board6_0.qml:69
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board6_0|"
 msgid "Slovak Republic"
 msgstr "Словакия"
 
 #: activities/geography/resource/board/board6_0.qml:76
-#| msgctxt "DialogConfig|"
-#| msgid "Montenegrin"
 msgctxt "board6_0|"
 msgid "Montenegro"
 msgstr "Черногория"
@@ -3059,8 +3023,6 @@ msgid "Serbia"
 msgstr "Сербия"
 
 #: activities/geography/resource/board/board6_0.qml:90
-#| msgctxt "DialogConfig|"
-#| msgid "Russian"
 msgctxt "board6_0|"
 msgid "Russia"
 msgstr "Россия"
@@ -3086,22 +3048,16 @@ msgid "Macedonia"
 msgstr "Македония"
 
 #: activities/geography/resource/board/board6_0.qml:125
-#| msgctxt "DialogConfig|"
-#| msgid "Lithuanian"
 msgctxt "board6_0|"
 msgid "Lithuania"
 msgstr "Литва"
 
 #: activities/geography/resource/board/board6_0.qml:132
-#| msgctxt "DialogConfig|"
-#| msgid "Latvian"
 msgctxt "board6_0|"
 msgid "Latvia"
 msgstr "Латвия"
 
 #: activities/geography/resource/board/board6_0.qml:139
-#| msgctxt "DialogConfig|"
-#| msgid "Hungarian"
 msgctxt "board6_0|"
 msgid "Hungary"
 msgstr "Венгрия"
@@ -3112,8 +3068,6 @@ msgid "Estonia"
 msgstr "Эстония"
 
 #: activities/geography/resource/board/board6_0.qml:153
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board6_0|"
 msgid "Czech Republic"
 msgstr "Чехия"
@@ -3124,8 +3078,6 @@ msgid "Croatia"
 msgstr "Хорватия"
 
 #: activities/geography/resource/board/board6_0.qml:167
-#| msgctxt "DialogConfig|"
-#| msgid "Bulgarian"
 msgctxt "board6_0|"
 msgid "Bulgaria"
 msgstr "Болгария"
@@ -3291,8 +3243,6 @@ msgid "Chad"
 msgstr "Чад"
 
 #: activities/geography/resource/board/board7_0.qml:230
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board7_0|"
 msgid "Central African Republic"
 msgstr "Центральноафриканская Республика"
@@ -3478,8 +3428,6 @@ msgid "Democratic Republic of Congo"
 msgstr "Демократическая Республика Конго"
 
 #: activities/geography/resource/board/board9_0.qml:104
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board9_0|"
 msgid "Central African Republic"
 msgstr "Центральноафриканская Республика"
@@ -4051,8 +3999,6 @@ msgid ""
 msgstr ""
 
 #: activities/hexagon/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "hexagon"
 msgctxt "ActivityInfo|"
 msgid "Hexagon"
 msgstr "Шестиугольники"
@@ -4128,8 +4074,6 @@ msgid "The images for this activity are not yet installed."
 msgstr "Изображения для данного упражнения ещё не установлены."
 
 #: activities/imageid/Imageid.qml:323
-#| msgctxt "instruments|"
-#| msgid "Find the triangle"
 msgctxt "Imageid|"
 msgid "Download the images"
 msgstr "Загрузить изображения"
@@ -4145,8 +4089,6 @@ msgid "Image Name"
 msgstr "Назови картинки"
 
 #: activities/imagename/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop each item above its name"
 msgstr "Перетащи каждый предмет и помести его над названием"
@@ -4167,8 +4109,6 @@ msgid ""
 msgstr ""
 
 #: activities/imagename/resource/board/board1_0.qml:25
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "board1_0|"
 msgid "Drag and Drop each item onto its name"
 msgstr "Перетаскивай предметы к их названиям"
@@ -4254,8 +4194,6 @@ msgid "house"
 msgstr "дом"
 
 #: activities/imagename/resource/board/board3_0.qml:98
-#| msgctxt "ActivityInfo|"
-#| msgid "Click the mouse"
 msgctxt "board3_0|"
 msgid "light house"
 msgstr "маяк"
@@ -4633,8 +4571,6 @@ msgid "Let's Go"
 msgstr ""
 
 #: activities/intro_gravity/Message.qml:141
-#| msgctxt "ActivityInfo|"
-#| msgid "Simple subtraction"
 msgctxt "Message|"
 msgid "Skip Instruction"
 msgstr "Пропустить инструкцию"
@@ -4729,8 +4665,8 @@ msgid ""
 "At the end, arrange the sequence in the chronological order."
 msgstr ""
 "Прочитай биографию Луи Брайля и историю создания его системы записи.\n"
-"Нажимай кнопки вправо в влево, чтобы перемещаться по истории. После прочтения "
-"расположи события в хронологическом порядке."
+"Нажимай кнопки вправо в влево, чтобы перемещаться по истории. После "
+"прочтения расположи события в хронологическом порядке."
 
 #: activities/louis-braille/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
@@ -4785,8 +4721,8 @@ msgid ""
 "battlefields."
 msgstr ""
 "Шарль Барбье, французский солдат, посетил его школу и поделился своим "
-"изобретением слепого письма — кодом из 12 рельефных точек для "
-"передачи информации на полях сражений."
+"изобретением слепого письма — кодом из 12 рельефных точек для передачи "
+"информации на полях сражений."
 
 #: activities/louis-braille/louis_braille_data.js:53
 msgctxt "louis_braille_data|"
@@ -4929,8 +4865,6 @@ msgid "Maze"
 msgstr "Лабиринт"
 
 #: activities/maze/ActivityInfo.qml:27
-#| msgctxt "ActivityInfo|"
-#| msgid "Help Tux get out of this maze."
 msgctxt "ActivityInfo|"
 msgid "Help Tux get out of this maze"
 msgstr "Помоги пингвинёнку Туксу выйти из лабиринта"
@@ -5335,8 +5269,6 @@ msgid "Division memory game"
 msgstr "Игра в пары по делению"
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Multiplication memory game against Tux"
 msgctxt "ActivityInfo|"
 msgid "Subtraction memory game against Tux"
 msgstr "Игра в пары по вычитанию против Тукса"
@@ -5633,8 +5565,6 @@ msgid "ten"
 msgstr "десять"
 
 #: activities/memory-wordnumber/dataset.js:33
-#| msgctxt "dataset|"
-#| msgid "seven"
 msgctxt "dataset|"
 msgid "eleven"
 msgstr "одиннадцать"
@@ -5650,15 +5580,11 @@ msgid "thirteen"
 msgstr "тринадцать"
 
 #: activities/memory-wordnumber/dataset.js:36
-#| msgctxt "dataset|"
-#| msgid "four"
 msgctxt "dataset|"
 msgid "fourteen"
 msgstr "четырнадцать"
 
 #: activities/memory-wordnumber/dataset.js:37
-#| msgctxt "ActivityInfo|"
-#| msgid "The fifteen game"
 msgctxt "dataset|"
 msgid "fifteen"
 msgstr "пятнадцать"
@@ -5669,22 +5595,16 @@ msgid "sixteen"
 msgstr "шестнадцать"
 
 #: activities/memory-wordnumber/dataset.js:39
-#| msgctxt "dataset|"
-#| msgid "seven"
 msgctxt "dataset|"
 msgid "seventeen"
 msgstr "семнадцать"
 
 #: activities/memory-wordnumber/dataset.js:40
-#| msgctxt "dataset|"
-#| msgid "eight"
 msgctxt "dataset|"
 msgid "eighteen"
 msgstr "восемнадцать"
 
 #: activities/memory-wordnumber/dataset.js:41
-#| msgctxt "dataset|"
-#| msgid "nine"
 msgctxt "dataset|"
 msgid "nineteen"
 msgstr "девятнадцать"
@@ -5753,10 +5673,6 @@ msgid "Select an activity to run it."
 msgstr "Щёлкните левой кнопкой мыши на упражнении."
 
 #: activities/menu/ActivityInfo.qml:25
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "GCompris is a collection of educational games that provides different "
-#| "activities for children aged 2 and up."
 msgctxt "ActivityInfo|"
 msgid ""
 "GCompris is a high quality educational software suite comprising of numerous "
@@ -5872,8 +5788,6 @@ msgid "Enable audio effects"
 msgstr "Включить звуковые эффекты"
 
 #: activities/menu/ConfigurationItem.qml:133
-#| msgctxt "DialogConfig|"
-#| msgid "Fullscreen"
 msgctxt "ConfigurationItem|"
 msgid "Fullscreen"
 msgstr "Во весь экран"
@@ -6213,8 +6127,6 @@ msgstr ""
 "верхней части экрана."
 
 #: activities/money_back_cents/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Give tux his change, including cents"
 msgctxt "ActivityInfo|"
 msgid "Give Tux his change, including cents"
 msgstr "Отсчитай Туксу его сдачу, включая копейки"
@@ -6880,8 +6792,6 @@ msgstr ""
 "должны освободить достаточно места, чтобы красный автомобиль уехал направо."
 
 #: activities/traffic/Traffic.qml:118
-#| msgctxt "ActivityInfo|"
-#| msgid "Colors"
 msgctxt "Traffic|"
 msgid "Colors"
 msgstr "Сплошной цвет"
