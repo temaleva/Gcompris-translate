@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-06-23 06:19+0300\n"
+"PO-Revision-Date: 2015-06-23 06:39+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -660,7 +660,7 @@ msgstr ""
 #: activities/align4-2players/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Align four (with a friend)"
-msgstr ""
+msgstr "Четыре в ряд (с другом)"
 
 #: activities/align4-2players/ActivityInfo.qml:27
 #: activities/align4/ActivityInfo.qml:27
@@ -691,12 +691,11 @@ msgstr ""
 "бросить шарик. Побеждает игрок, первый создавший линию из четырёх шариков."
 
 #: activities/align4/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Addition memory game against Tux"
 msgctxt "ActivityInfo|"
 msgid "Align four (against Tux)"
-msgstr "Игра в парочки по сложению против Тукса"
+msgstr "Четыре в ряд (против Тукса)"
 
 #: activities/align4/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -2059,28 +2058,28 @@ msgstr ""
 "Убери все блоки с помощью двойного щелчка мыши или двойного касания экрана."
 
 #: activities/erase_clic/ActivityInfo.qml:26
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click and draw"
 msgctxt "ActivityInfo|"
 msgid "Click or tap"
-msgstr "Щёлкайте и рисуйте"
+msgstr "Щёлкай или нажимай"
 
 #: activities/erase_clic/ActivityInfo.qml:27
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
 msgid "Click or tap to erase the area and discover the background"
-msgstr "Щёлкайте кнопкой мышки до полной очистки фона и показа картинки"
+msgstr ""
+"Щёлкайте кнопкой мыши или нажимай на экран до полной очистки области и показа "
+"картинки"
 
 #: activities/erase_clic/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
 msgid "Click or tap on the blocks all of them disappear."
-msgstr "Щёлкайте кнопкой мыши на частых, пока все части не откроются."
+msgstr ""
+"Щёлкай кнопкой мыши или нажимай на экране на блоки, пока они все не исчезнут."
 
 #: activities/fifteen/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -2216,82 +2215,82 @@ msgstr "Южные регионы Италии"
 #: activities/geo-country/resource/board/board12_0.qml:25
 msgctxt "board12_0|"
 msgid "Districts of India"
-msgstr ""
+msgstr "Штаты и территории Индии"
 
 #: activities/geo-country/resource/board/board13_0.qml:25
 msgctxt "board13_0|"
 msgid "Districts of Australia"
-msgstr ""
+msgstr "Штаты и территории Австралии"
 
 #: activities/geo-country/resource/board/board14_0.qml:25
 msgctxt "board14_0|"
 msgid "Districts of China"
-msgstr ""
+msgstr "Провинции и районы Китая"
 
 #: activities/geo-country/resource/board/board15_0.qml:25
 msgctxt "board15_0|"
 msgid "Northern Scotland"
-msgstr ""
+msgstr "Северная Шотландия"
 
 #: activities/geo-country/resource/board/board15_1.qml:25
 msgctxt "board15_1|"
 msgid "Southern Scotland"
-msgstr ""
+msgstr "Южная Шотландия"
 
 #: activities/geo-country/resource/board/board15_2.qml:25
 msgctxt "board15_2|"
 msgid "Northern Scotland"
-msgstr ""
+msgstr "Северная Шотландия"
 
 #: activities/geo-country/resource/board/board15_3.qml:25
 msgctxt "board15_3|"
 msgid "Southern Scotland"
-msgstr ""
+msgstr "Южная Шотландия"
 
 #: activities/geo-country/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
 msgid "Districts of France"
-msgstr ""
+msgstr "Регионы Франции"
 
 #: activities/geo-country/resource/board/board2_0.qml:25
 msgctxt "board2_0|"
 msgid "Districts of Germany"
-msgstr ""
+msgstr "Земли Германии"
 
 #: activities/geo-country/resource/board/board3_0.qml:25
 msgctxt "board3_0|"
 msgid "Districts of Argentina"
-msgstr ""
+msgstr "Провинции Аргентины"
 
 #: activities/geo-country/resource/board/board4_0.qml:25
 msgctxt "board4_0|"
 msgid "Districts of Poland"
-msgstr ""
+msgstr "Воеводства Польши"
 
 #: activities/geo-country/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
 msgid "Districts of Turkey"
-msgstr ""
+msgstr "Илы Турции"
 
 #: activities/geo-country/resource/board/board5_1.qml:25
 msgctxt "board5_1|"
 msgid "Eastern Districts of Turkey"
-msgstr ""
+msgstr "Восточные илы Турции"
 
 #: activities/geo-country/resource/board/board5_2.qml:25
 msgctxt "board5_2|"
 msgid "Districts of Turkey"
-msgstr ""
+msgstr "Илы Турции"
 
 #: activities/geo-country/resource/board/board6_0.qml:25
 msgctxt "board6_0|"
 msgid "Counties of Norway"
-msgstr ""
+msgstr "Фюльке Норвегии"
 
 #: activities/geo-country/resource/board/board7_0.qml:25
 msgctxt "board7_0|"
 msgid "Counties of Brazil"
-msgstr ""
+msgstr "Штаты Бразилии"
 
 #: activities/geography/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -4681,13 +4680,13 @@ msgstr "Правая рука"
 #: activities/lightsoff/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Lights Off"
-msgstr "Погасите огоньки"
+msgstr "Погаси свет"
 
 #: activities/lightsoff/ActivityInfo.qml:27
 #: activities/lightsoff/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "The aim is to switch off all the lights."
-msgstr "Задача — погасить все огоньки."
+msgstr "Задача — погасить свет во всех окнах."
 
 #: activities/lightsoff/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
