@@ -3589,7 +3589,7 @@ msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Узнавание букв на экране и клавиатуре"
 
-#: activities/gletters/Gletters.qml:146
+#: activities/gletters/Gletters.qml:145
 msgctxt "Gletters|"
 msgid "Select your locale"
 msgstr "Выбери твой язык"
@@ -4350,6 +4350,8 @@ msgid "Find the clarinet"
 msgstr "Найдите кларнет"
 
 #: activities/instruments/instruments.js:29
+#: activities/instruments/instruments.js:78
+#: activities/instruments/instruments.js:120
 msgctxt "instruments|"
 msgid "Find the transverse flute"
 msgstr "Найдите поперечную флейта"
@@ -4401,12 +4403,6 @@ msgstr "Найдите трубу"
 msgctxt "instruments|"
 msgid "Find the violin"
 msgstr "Найдите скрипку"
-
-#: activities/instruments/instruments.js:78
-#: activities/instruments/instruments.js:120
-msgctxt "instruments|"
-msgid "Find the flute traversiere"
-msgstr "Найдите поперечная флейта"
 
 #: activities/instruments/instruments.js:157
 #: activities/instruments/instruments.js:189
@@ -5807,82 +5803,82 @@ msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr "Показывать меню разделов"
 
-#: activities/menu/ConfigurationItem.qml:175
+#: activities/menu/ConfigurationItem.qml:174
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr "Выбор шрифта"
 
-#: activities/menu/ConfigurationItem.qml:195
+#: activities/menu/ConfigurationItem.qml:194
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr "Размер шрифта"
 
-#: activities/menu/ConfigurationItem.qml:201
+#: activities/menu/ConfigurationItem.qml:200
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr "Рекомендуемый"
 
-#: activities/menu/ConfigurationItem.qml:214
+#: activities/menu/ConfigurationItem.qml:212
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr "Прописные буквы в тексте"
 
-#: activities/menu/ConfigurationItem.qml:226
+#: activities/menu/ConfigurationItem.qml:223
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr "Выбор языка"
 
-#: activities/menu/ConfigurationItem.qml:253
+#: activities/menu/ConfigurationItem.qml:250
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr "Озвучивание на выбранном языке"
 
-#: activities/menu/ConfigurationItem.qml:267
+#: activities/menu/ConfigurationItem.qml:264
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr "Проверить обновления"
 
-#: activities/menu/ConfigurationItem.qml:268
+#: activities/menu/ConfigurationItem.qml:265
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:286
+#: activities/menu/ConfigurationItem.qml:283
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr "Фильтр сложности:"
 
-#: activities/menu/ConfigurationItem.qml:483
+#: activities/menu/ConfigurationItem.qml:480
 msgctxt "ConfigurationItem|"
 msgid "You selected a new locale."
 msgstr ""
 
-#: activities/menu/ConfigurationItem.qml:484
+#: activities/menu/ConfigurationItem.qml:481
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download the corresponding sound files now?"
 msgstr "Загрузить соответствующие звуковые файлы сейчас?"
 
-#: activities/menu/ConfigurationItem.qml:485
+#: activities/menu/ConfigurationItem.qml:482
 msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr "Да"
 
-#: activities/menu/ConfigurationItem.qml:491
+#: activities/menu/ConfigurationItem.qml:488
 msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr "Нет"
 
-#: activities/menu/ConfigurationItem.qml:547
+#: activities/menu/ConfigurationItem.qml:544
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr "Как в обычном тексте"
 
-#: activities/menu/ConfigurationItem.qml:548
+#: activities/menu/ConfigurationItem.qml:545
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr "Все прописные"
 
-#: activities/menu/ConfigurationItem.qml:549
+#: activities/menu/ConfigurationItem.qml:546
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr "Все строчные"
@@ -6801,7 +6797,7 @@ msgctxt "Traffic|"
 msgid "Images"
 msgstr "Картинки"
 
-#: activities/traffic/Traffic.qml:131
+#: activities/traffic/Traffic.qml:130
 msgctxt "Traffic|"
 msgid "Select your mode"
 msgstr "Выбери вид блоков"
@@ -7172,6 +7168,10 @@ msgstr "Нет"
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Я готов"
+
+#~ msgctxt "instruments|"
+#~ msgid "Find the flute traversiere"
+#~ msgstr "Найдите поперечная флейта"
 
 #, fuzzy
 #~| msgctxt "ActivityInfo|"
