@@ -4500,6 +4500,11 @@ msgctxt "instruments|"
 msgid "Find the tuba"
 msgstr "Найди тубу"
 
+#: activities/intro_gravity/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Intro gravity"
+msgstr ""
+
 #: activities/intro_gravity/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Introduction to the concept of gravity"
@@ -6658,12 +6663,12 @@ msgid ""
 "column."
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:148
+#: activities/superbrain/Superbrain.qml:147
 msgctxt "Superbrain|"
 msgid "This item is well placed"
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:150
+#: activities/superbrain/Superbrain.qml:149
 msgctxt "Superbrain|"
 msgid "This item is misplaced"
 msgstr ""
