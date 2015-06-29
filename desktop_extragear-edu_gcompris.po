@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-06-25 09:21+0000\n"
+"POT-Creation-Date: 2015-06-29 09:16+0000\n"
 "PO-Revision-Date: 2015-06-21 09:23+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
@@ -21,14 +21,14 @@ msgctxt "Name"
 msgid "GCompris Educational Game"
 msgstr "Набор обучающих игр GCompris"
 
-#: org.kde.gcompris.desktop:28
-#: platforms/sailfishOS/harbour-gcompris-qt.desktop:28
+#: org.kde.gcompris.desktop:29
+#: platforms/sailfishOS/harbour-gcompris-qt.desktop:29
 msgctxt "GenericName"
 msgid "Educational game"
 msgstr "Обучающие игры"
 
-#: org.kde.gcompris.desktop:53
-#: platforms/sailfishOS/harbour-gcompris-qt.desktop:53
+#: org.kde.gcompris.desktop:55
+#: platforms/sailfishOS/harbour-gcompris-qt.desktop:55
 msgctxt "Comment"
 msgid "Multi-Activity Educational game for children 2 to 10"
 msgstr "Обучающие игры для детей от 2 до 10 лет"
