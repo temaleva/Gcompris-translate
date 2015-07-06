@@ -5859,35 +5859,32 @@ msgstr "Фильтр сложности:"
 
 #: activities/menu/ConfigurationItem.qml:480
 msgctxt "ConfigurationItem|"
-msgid "You selected a new locale."
+msgid ""
+"You selected a new locale. You need to restart GCompris to play in your new "
+"locale.<br/>Do you want to download the corresponding sound files now?"
 msgstr ""
 
 #: activities/menu/ConfigurationItem.qml:481
 msgctxt "ConfigurationItem|"
-msgid "Do you want to download the corresponding sound files now?"
-msgstr "Загрузить соответствующие звуковые файлы сейчас?"
-
-#: activities/menu/ConfigurationItem.qml:482
-msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr "Да"
 
-#: activities/menu/ConfigurationItem.qml:488
+#: activities/menu/ConfigurationItem.qml:487
 msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr "Нет"
 
-#: activities/menu/ConfigurationItem.qml:544
+#: activities/menu/ConfigurationItem.qml:543
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr "Как в обычном тексте"
 
-#: activities/menu/ConfigurationItem.qml:545
+#: activities/menu/ConfigurationItem.qml:544
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr "Все прописные"
 
-#: activities/menu/ConfigurationItem.qml:546
+#: activities/menu/ConfigurationItem.qml:545
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr "Все строчные"
@@ -7198,6 +7195,10 @@ msgstr "Нет"
 msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Я готов"
+
+#~ msgctxt "ConfigurationItem|"
+#~ msgid "Do you want to download the corresponding sound files now?"
+#~ msgstr "Загрузить соответствующие звуковые файлы сейчас?"
 
 #~ msgctxt "instruments|"
 #~ msgid "Find the flute traversiere"
