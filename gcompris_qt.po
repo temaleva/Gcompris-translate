@@ -3608,7 +3608,7 @@ msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Узнавание букв на экране и клавиатуре"
 
-#: activities/gletters/Gletters.qml:145
+#: activities/gletters/Gletters.qml:146
 msgctxt "Gletters|"
 msgid "Select your locale"
 msgstr "Выбери твой язык"
@@ -6143,10 +6143,15 @@ msgctxt "ActivityInfo|"
 msgid "Practice money usage including cents"
 msgstr "Практика использования денег, включая копейки"
 
-#: activities/mosaic/ActivityInfo.qml:26 activities/mosaic/ActivityInfo.qml:27
+#: activities/mosaic/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Rebuild the mosaic"
 msgstr "Мозаика"
+
+#: activities/mosaic/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Put each item at the same place as in the given example."
+msgstr ""
 
 #: activities/mosaic/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
