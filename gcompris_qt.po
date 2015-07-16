@@ -6798,17 +6798,17 @@ msgstr ""
 "Каждый автомобиль может двигаться только горизонтально или вертикально. Вы "
 "должны освободить достаточно места, чтобы красный автомобиль уехал направо."
 
-#: activities/traffic/Traffic.qml:118
+#: activities/traffic/Traffic.qml:117
 msgctxt "Traffic|"
 msgid "Colors"
 msgstr "Сплошной цвет"
 
-#: activities/traffic/Traffic.qml:119
+#: activities/traffic/Traffic.qml:118
 msgctxt "Traffic|"
 msgid "Images"
 msgstr "Картинки"
 
-#: activities/traffic/Traffic.qml:130
+#: activities/traffic/Traffic.qml:129
 msgctxt "Traffic|"
 msgid "Select your mode"
 msgstr "Выбери вид блоков"
