@@ -6924,24 +6924,24 @@ msgctxt "BuyMeOverlay|"
 msgid "Buy the full version"
 msgstr ""
 
-#: core/core.js:182
+#: core/core.js:189
 msgctxt "core|"
 msgid "Missing sound files!"
 msgstr ""
 
-#: core/core.js:183
+#: core/core.js:190
 msgctxt "core|"
 msgid ""
 "This activity uses language sound files, that are not yet installed on your "
 "system."
 msgstr ""
 
-#: core/core.js:185
+#: core/core.js:192
 msgctxt "core|"
 msgid "For downloading the needed sound files go to the preferences dialog."
 msgstr ""
 
-#: core/core.js:212
+#: core/core.js:219
 #, fuzzy
 #| msgctxt "instruments|"
 #| msgid "Find the triangle"
@@ -6949,27 +6949,27 @@ msgctxt "core|"
 msgid "Download in progress"
 msgstr "Найдите треугольник"
 
-#: core/core.js:214
+#: core/core.js:221
 msgctxt "core|"
 msgid "Download in progress.<br/>'Abort' it to quit immediately."
 msgstr ""
 
-#: core/core.js:224
+#: core/core.js:231
 msgctxt "core|"
 msgid "Quit?"
 msgstr "Выйти?"
 
-#: core/core.js:226
+#: core/core.js:233
 msgctxt "core|"
 msgid "Do you really want to quit GCompris?"
 msgstr "Выйти из программы GCompris?"
 
-#: core/core.js:227
+#: core/core.js:234
 msgctxt "core|"
 msgid "Yes"
 msgstr "Да"
 
-#: core/core.js:228
+#: core/core.js:235
 msgctxt "core|"
 msgid "No"
 msgstr "Нет"
