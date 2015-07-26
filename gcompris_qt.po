@@ -754,17 +754,17 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to make them match"
 msgstr "Перетаскивай предметы, чтобы они совпали"
 
-#: activities/babymatch/ActivityInfo.qml:31
+#: activities/babymatch/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Motor coordination. Conceptual matching."
 msgstr "Координация движений. Сопоставление понятий."
 
-#: activities/babymatch/ActivityInfo.qml:32
+#: activities/babymatch/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid "Cultural references."
 msgstr "Знание предметов современной цивилизации."
 
-#: activities/babymatch/ActivityInfo.qml:33
+#: activities/babymatch/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
 "In the main board area, a set of objects is displayed. In the vertical box "
@@ -798,8 +798,8 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the shapes on their respective targets"
 msgstr "Перетаскивай предметы на соответствующие им места"
 
-#: activities/babyshapes/ActivityInfo.qml:34
-#: activities/details/ActivityInfo.qml:33
+#: activities/babyshapes/ActivityInfo.qml:35
+#: activities/details/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
 "Complete the puzzle by dragging each piece from the set of pieces on the "
@@ -808,7 +808,7 @@ msgstr ""
 "Реши головоломку, перетаскивая каждый элемент из набора элементов слева на "
 "соответствующее место в головоломке."
 
-#: activities/babyshapes/ActivityInfo.qml:35
+#: activities/babyshapes/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid "The dog is provided by Andre Connes and released under the GPL"
 msgstr ""
@@ -1099,22 +1099,22 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to organize the story"
 msgstr "Перетащи картинки, чтобы составить историю"
 
-#: activities/chronos/ActivityInfo.qml:32
+#: activities/chronos/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid "Sort the pictures into the order that tells the story"
 msgstr "Отсортировать картинки в таком порядке, чтобы они поведали историю"
 
-#: activities/chronos/ActivityInfo.qml:33
+#: activities/chronos/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid "Tell a short story"
 msgstr "Способность рассказать короткую историю"
 
-#: activities/chronos/ActivityInfo.qml:34
+#: activities/chronos/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid "Pick from the pictures on the left and put them on the red dots"
 msgstr "Бери картинки слева и перетаскивай их на красные точки"
 
-#: activities/chronos/ActivityInfo.qml:35
+#: activities/chronos/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
 "Moon photo is copyright NASA. The space sounds come from Tuxpaint and "
@@ -1772,7 +1772,7 @@ msgctxt "colors|"
 msgid "Find the green duck"
 msgstr "Найдите зелёную утку"
 
-#: activities/colors/colors.js:39 activities/colors/colors.js:128
+#: activities/colors/colors.js:39
 msgctxt "colors|"
 msgid "Find the red duck"
 msgstr "Найдите красную утку"
@@ -1807,6 +1807,14 @@ msgctxt "colors|"
 msgid "Find the purple duck"
 msgstr "Найдите пурпурную утку"
 
+#: activities/colors/colors.js:128
+#, fuzzy
+#| msgctxt "colors|"
+#| msgid "Find the black duck"
+msgctxt "colors|"
+msgid "Find the pink duck"
+msgstr "Найдите чёрную утку"
+
 #: activities/details/ActivityInfo.qml:29
 #, fuzzy
 #| msgctxt "instruments|"
@@ -1815,7 +1823,7 @@ msgctxt "ActivityInfo|"
 msgid "Find the details"
 msgstr "Найдите тубу"
 
-#: activities/details/ActivityInfo.qml:34
+#: activities/details/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid "The images are from Wikimedia Commons."
 msgstr "Изображения взяты с Викисклада (Wikimedia Commons)."
@@ -2163,7 +2171,7 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the regions to redraw the whole country"
 msgstr "Перетаскивай регионы, чтобы перерисовать всю страну"
 
-#: activities/geo-country/ActivityInfo.qml:35
+#: activities/geo-country/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
 "The map of Germany comes from Wikipedia and is released under the GNU Free "
@@ -4052,10 +4060,10 @@ msgid "Practice reading by finding the word matching an image"
 msgstr "Практика чтения слов, соответствующих рисунку"
 
 #: activities/imageid/ActivityInfo.qml:30
-#: activities/imagename/ActivityInfo.qml:32
+#: activities/imagename/ActivityInfo.qml:33
 #: activities/memory-wordnumber/ActivityInfo.qml:30
-#: activities/readingh/ActivityInfo.qml:29
-#: activities/readingv/ActivityInfo.qml:29
+#: activities/readingh/ActivityInfo.qml:30
+#: activities/readingv/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Reading"
 msgstr "Чтение"
@@ -4114,7 +4122,7 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop each item above its name"
 msgstr "Перетащи каждый предмет и помести его над названием"
 
-#: activities/imagename/ActivityInfo.qml:31
+#: activities/imagename/ActivityInfo.qml:32
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Word reading"
@@ -4122,7 +4130,7 @@ msgctxt "ActivityInfo|"
 msgid "Vocabulary and reading"
 msgstr "Чтение"
 
-#: activities/imagename/ActivityInfo.qml:33
+#: activities/imagename/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
 "Drag each image from the (vertical) box on the left to its (corresponding) "
@@ -6255,13 +6263,13 @@ msgctxt "ActivityInfo|"
 msgid "Read a list of words and work out if a given word is in it."
 msgstr ""
 
-#: activities/readingh/ActivityInfo.qml:28
+#: activities/readingh/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Reading training in a limited time"
 msgstr ""
 
-#: activities/readingh/ActivityInfo.qml:30
-#: activities/readingv/ActivityInfo.qml:30
+#: activities/readingh/ActivityInfo.qml:31
+#: activities/readingv/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
 "A word is shown at the top right of the board. A list of words will appear "
@@ -6311,7 +6319,7 @@ msgctxt "ActivityInfo|"
 msgid "Read a vertical list of words and work out if a given word is in it."
 msgstr ""
 
-#: activities/readingv/ActivityInfo.qml:28
+#: activities/readingv/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Read training in a limited time"
 msgstr ""
