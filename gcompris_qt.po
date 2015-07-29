@@ -6750,7 +6750,10 @@ msgid ""
 "You can use the right mouse button to flip the colors in the opposite order "
 "or the color chooser to directly pick a color. Press and hold a mouse button "
 "or on the touch screen to automatically choose the last color selected on a "
-"column."
+"column. Double click or tap on a previously selected color in your guess "
+"history to mark it as 'correct'. Such marked colors are automatically "
+"selected in your current and future guesses until you un-mark them, again by "
+"double clicking or tapping."
 msgstr ""
 
 #: activities/superbrain/Superbrain.qml:145
