@@ -17,7 +17,6 @@
 # Alexandr Smirnov <smirnoff.al@gmail.com>, 2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
 "PO-Revision-Date: 2015-06-23 06:39+0300\n"
 "Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
@@ -37,9 +36,12 @@ msgid "Advanced colors"
 msgstr "Сложные цвета"
 
 #: activities/advanced_colors/ActivityInfo.qml:27
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Click on the correct color"
 msgctxt "ActivityInfo|"
 msgid "Select the butterfly of the correct color"
-msgstr "Выберите бабочка правильного цвета"
+msgstr "Выберите бабочку правильного цвета"
 
 #: activities/advanced_colors/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -57,9 +59,8 @@ msgid ""
 "You will see dancing butterflies of different colors and a question. You "
 "have to find the correct butterfly and touch it."
 msgstr ""
-"Вы увидите бабочек разных цветов и текст вопроса. Нужно будет найти "
+Вы увидите бабочек разных цветов и текст вопроса. Нужно будет найти "
 "правильную бабочку и нажать на неё."
-
 #: activities/advanced_colors/advanced_colors.js:24
 #: activities/advanced_colors/advanced_colors.js:441
 msgctxt "advanced_colors|"
@@ -89,7 +90,6 @@ msgstr "Найдите бабочку тёмно-синего цвета"
 msgctxt "advanced_colors|"
 msgid "Find the corn butterfly"
 msgstr "Найдите бабочку кукурузного цвета"
-
 #: activities/advanced_colors/advanced_colors.js:40
 #: activities/advanced_colors/advanced_colors.js:70
 msgctxt "advanced_colors|"
@@ -513,7 +513,7 @@ msgstr "Упражнения на умножение"
 #: activities/algebra_by/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Learn to multiply numbers within a limited period of time"
-msgstr "Научиться перемножать числа за ограниченный промежуток времени."
+msgstr "Изучение перемножения чисел за ограниченный промежуток времени"
 
 #: activities/algebra_by/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -531,7 +531,6 @@ msgstr ""
 "На экране показаны два числа. Быстро перемножь их и введи результат, "
 "используя клавиатуру твоего компьютера или экранную клавиатуру. Нужно успеть "
 "ответить до того, как приземлится воздушный шар с пингвинами."
-
 #: activities/algebra_div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Division of numbers"
@@ -785,6 +784,7 @@ msgstr ""
 
 #: activities/babymatch/resource/board/board1_0.qml:25
 #: activities/babyshapes/resource/board/board1_0.qml:25
+
 msgctxt "board1_0|"
 msgid "Drag and Drop the items to make them match"
 msgstr "Перетаскивай предметы, чтобы они совпали"
@@ -899,12 +899,12 @@ msgstr "Изучение системы Брайля"
 #: activities/braille_alphabets/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Learn and memorize the Braille system"
-msgstr "Выучи систему записи Брайля"
+msgstr "Учить и запоминать систему Брайля"
 
 #: activities/braille_alphabets/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Let children discover the Braille system."
-msgstr "Ознакомиться с системой записи Брайля"
+msgstr "Обучить детей основам системы Брайля."
 
 #: activities/braille_alphabets/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -944,6 +944,7 @@ msgid ""
 msgstr ""
 "И снова есть сходство с первой строкой, но заметьте, что буква «W» была "
 "добавлена позже."
+
 
 # BUGME: verify in the UI --aspotashev
 #: activities/braille_alphabets/braille_alphabets.js:83
@@ -1059,6 +1060,8 @@ msgid ""
 "Tux in his plane across the screen. Check the braille chart by clicking on "
 "the toggle button for help."
 msgstr ""
+"Введи код брайля в квадрат падающей буквы. Проверь диаграмму брайля, нажимая "
+"кнопку переключения для помощи."
 
 #: activities/canal_lock/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1165,8 +1168,6 @@ msgstr "Лето"
 #: activities/chronos/resource/board/board2_0.qml:70
 msgctxt "board2_0|"
 msgid "Autumn"
-msgstr "Осень"
-
 #: activities/chronos/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "Winter"
@@ -1402,22 +1403,23 @@ msgctxt "board6_3|"
 msgid "1955 Citroën DS 19"
 msgstr "1955 год: Автомобиль Citroën DS 19"
 
+
 #: activities/click_on_letter/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Click on a lowercase letter"
-msgstr "Щёлкните по строчной букве"
+msgstr "Щёлкни по строчной букве"
 
 #: activities/click_on_letter/ActivityInfo.qml:27
 #: activities/click_on_letter_up/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Listen to a letter and click on the right one"
-msgstr "Прослушайте и щёлкните по названной букве"
+msgstr "Прослушай и щёлкните по названной букве"
 
 #: activities/click_on_letter/ActivityInfo.qml:29
 #: activities/click_on_letter_up/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Letter-name recognition"
-msgstr "Распознать буквы"
+msgstr "Узнай букву"
 
 #: activities/click_on_letter/ActivityInfo.qml:30
 #: activities/click_on_letter_up/ActivityInfo.qml:30
@@ -1452,30 +1454,26 @@ msgstr ""
 #: activities/clickanddraw/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Click and draw"
-msgstr "Щёлкайте и рисуйте"
+msgstr "Щёлкай и рисуй"
 
 #: activities/clickanddraw/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Draw the picture by clicking on the blue points."
 msgctxt "ActivityInfo|"
 msgid "Draw the picture by clicking on the selected points."
-msgstr "Нарисуйте картинку, щёлкая по синим точкам."
+msgstr "Нарисуй картинку, щёлкая по синим точкам."
 
 #: activities/clickanddraw/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Can move the mouse and click accurately on points."
-msgstr ""
+msgstr "Способность передвигать мышь и точно щёлкать на точках"
 
 #: activities/clickanddraw/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Draw the picture by clicking on each blue point in sequence."
 msgctxt "ActivityInfo|"
 msgid ""
 "Draw the picture by clicking on each point in sequence. Each time a point is "
 "selected the next blue one appears."
-msgstr "Нарисуйте картинку, последовательно щёлкая по каждой синей точке."
+msgstr ""
+"Нарисуй картинку, последовательно щёлкая по каждой синей точке. Каждый раз, "
+"когда выбирается точка, появляется следующая."
 
 #: activities/clickgame/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1483,39 +1481,26 @@ msgid "Click On Me"
 msgstr "Щёлкните по мне"
 
 #: activities/clickgame/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Left-Click with the mouse on all the swimming fish before they leave the "
-#| "fishtank"
 msgctxt "ActivityInfo|"
 msgid "Catch all the swimming fish before they leave the fish tank"
-msgstr ""
-"Щёлкайте левой кнопкой мыши по всем плавающим рыбкам пока они не уплыли из "
-"аквариума"
+msgstr "Лови плавающих рыбок пока они не уплыли из аквариума"
 
 #: activities/clickgame/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Motor coordination: moving and clicking the mouse."
 msgctxt "ActivityInfo|"
 msgid "Motor coordination: moving the hand precisely."
-msgstr "Не допустите чтобы рыбки уплыли."
+msgstr "Моторная координация: точность движения руки."
 
 #: activities/clickgame/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Listen to a letter and click on the right one"
 msgctxt "ActivityInfo|"
 msgid "Can move mouse and click on the correct place"
-msgstr "Прослушайте и щёлкните по названной букве"
+msgstr "Умение двигать мышкой и щёлкать в правильном месте"
 
 #: activities/clickgame/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
 "Catch all the moving fish by simple clicking or touching them with your "
 "finger."
-msgstr ""
+msgstr "Поймай всех двигающихся рыбок, просто нажимая на них пальцами."
 
 #: activities/clickgame/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -1532,51 +1517,34 @@ msgid "Learning Clock"
 msgstr "Изучение часов"
 
 #: activities/clockgame/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Learn how to tell the time"
 msgctxt "ActivityInfo|"
 msgid "Learn how to tell the time on an analog clock"
-msgstr "Понимание времени на часах"
+msgstr "Понимание времени на стрелочных часах"
 
 #: activities/clockgame/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Distinguish between time-units (hour, minute and second). Set and display "
-#| "time on a clock."
 msgctxt "ActivityInfo|"
 msgid ""
 "Distinguish between time-units (hour, minute and second). Set and display "
 "time on an analog clock."
 msgstr ""
-"Отметить различия между часами, минутами и секундами. Набирать время на "
-"часах."
+"Отмечать различия между часами, минутами и секундами. Набирать время на "
+"стрелочных часах."
 
 #: activities/clockgame/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "The concept of time. Reading the time."
 msgctxt "ActivityInfo|"
 msgid "The concept of time."
 msgstr "Понимание времени."
 
 #: activities/clockgame/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Set the clock to the time given, in the time-units shown (hours:minutes "
-#| "or hours:minutes:seconds). Click on the different arrows, and move the "
-#| "mouse, to make the numbers go up or down."
 msgctxt "ActivityInfo|"
 msgid ""
 "Set the clock to the given time, in the time-units shown (hours:minutes or "
 "hours:minutes:seconds). Drag the different arrows, to make the respective "
 "time unit go up or down."
 msgstr ""
-"Установите часы в данное время, в показанных единицах времени (часы:минуты "
-"или часы:минуты:секунды). Нажимайте на различные стрелки и перемещайте мышь, "
-"чтобы установить время раньше или позднее."
+"Установи часы в заданное время, в показанное единицах времени (часы:минуты "
+"или часы:минуты:секунды). Перемещай различные стрелки, чтобы установить "
+"время раньше или позднее."
 
 #: activities/clockgame/Clockgame.qml:105
 msgctxt "Clockgame|"
@@ -1589,9 +1557,6 @@ msgid "Mixing color of paint"
 msgstr "Смешивание красок"
 
 #: activities/color_mix/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "To understand color mixing."
 msgctxt "ActivityInfo|"
 msgid "Discover paint color mixing."
 msgstr "Изучение смешивания красок."
@@ -1599,7 +1564,7 @@ msgstr "Изучение смешивания красок."
 #: activities/color_mix/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Mix the primary colors to match to the given color"
-msgstr "Смешайте основные цвета, чтобы получить данный цвет"
+msgstr "Смешай основные цвета, чтобы получить данный цвет"
 
 #: activities/color_mix/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -1616,6 +1581,15 @@ msgid ""
 "yellow.\n"
 "        "
 msgstr ""
+"В этом упражнении ты работаешь со смешением основных цветов красок "
+"(субстрактивное смешивание). \n"
+"\n"
+"В случае красок, краски поглощают различные  цвета света, падающего на них, "
+"отнимая их от того, что ты видишь. Чем больше краски ты добавишь, тем больше "
+"света будет поглощено и тем темнее будет скомбинированный цвет. Нам "
+"достаточно смешать всего три основных цвета, чтобы получить много новых "
+"цветов. Основные цвета для красок - это бирюзовый (специальный оттенок "
+"синего), пурпурный (специальный оттенок розового) и жёлтый. \n"
 
 #: activities/color_mix/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
@@ -1693,12 +1667,9 @@ msgid "Mixing colors of light"
 msgstr "Смешивание цветов света"
 
 #: activities/color_mix_light/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "To understand color mixing."
 msgctxt "ActivityInfo|"
 msgid "Discover light color mixing."
-msgstr "Изучение смешивания красок."
+msgstr "Изучение смешивания цветов света."
 
 #: activities/color_mix_light/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -1716,6 +1687,12 @@ msgid ""
 "of light are red, green and blue.\n"
 "        "
 msgstr ""
+"\n"
+"В этом упражнении ты занимаешься смешением основных цветов, составляющих "
+"свет (сложение основных цветов). \n"
+"В отличие от красок, светящиеся цвета, когда смешиваются, складываются. Чем "
+"больше света ты добавишь, тем светлее будет результирующий цвет.Основные "
+"цвета света красный, зелёный и голубой."
 
 #: activities/colors/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1728,91 +1705,80 @@ msgid "Click on the right color"
 msgstr "Щёлкните на правильном цвете"
 
 #: activities/colors/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "This board teaches you to recognize different colors. When you hear the "
-#| "name of the color, click on the duck wearing it."
 msgctxt "ActivityInfo|"
 msgid ""
 "This activity teaches you to recognize different colors. When you hear the "
 "name of the color, touch the duck wearing it."
 msgstr ""
-"Эта игра обучает узнавать различные цвета. Когда вы услышите имя цвета, "
-"выберите его из набора раскрашенных игрушек."
+"Это упражнение обучает узнавать различные цвета. Когда ты услышишь имя "
+"цвета, выбери его из набора раскрашенных игрушек."
 
 #: activities/colors/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Identifying colours"
-msgstr ""
+msgstr "Распознование цветов"
 
 #: activities/colors/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Listen to the color and click on the matching duck."
 msgctxt "ActivityInfo|"
 msgid "Listen to the color and touch the matching duck."
-msgstr "Прослушайте название цвета и щёлкните на нужном рисунке."
+msgstr "Прослушай название цвета и коснись правильной утки."
 
 #: activities/colors/colors.js:24 activities/colors/colors.js:56
 #: activities/colors/colors.js:98
 msgctxt "colors|"
 msgid "Find the yellow duck"
-msgstr "Найдите жёлтую утку"
+msgstr "Найди жёлтую утку"
 
 #: activities/colors/colors.js:29 activities/colors/colors.js:61
 msgctxt "colors|"
 msgid "Find the black duck"
-msgstr "Найдите чёрную утку"
+msgstr "Найди чёрную утку"
 
 #: activities/colors/colors.js:34 activities/colors/colors.js:71
 #: activities/colors/colors.js:108
 msgctxt "colors|"
 msgid "Find the green duck"
-msgstr "Найдите зелёную утку"
+msgstr "Найди зелёную утку"
 
 #: activities/colors/colors.js:39 activities/colors/colors.js:128
 msgctxt "colors|"
 msgid "Find the red duck"
-msgstr "Найдите красную утку"
+msgstr "Найди красную утку"
 
 #: activities/colors/colors.js:44 activities/colors/colors.js:91
 msgctxt "colors|"
 msgid "Find the white duck"
-msgstr "Найдите белую утку"
+msgstr "Найди белую утку"
 
 #: activities/colors/colors.js:49 activities/colors/colors.js:133
 msgctxt "colors|"
 msgid "Find the blue duck"
-msgstr "Найдите синюю утку"
+msgstr "Найди синюю утку"
 
 #: activities/colors/colors.js:66 activities/colors/colors.js:103
 msgctxt "colors|"
 msgid "Find the brown duck"
-msgstr "Найдите коричневую утку"
+msgstr "Найди коричневую утку"
 
 #: activities/colors/colors.js:76 activities/colors/colors.js:113
 msgctxt "colors|"
 msgid "Find the grey duck"
-msgstr "Найдите серую утку"
+msgstr "Найди серую утку"
 
 #: activities/colors/colors.js:81 activities/colors/colors.js:118
 msgctxt "colors|"
 msgid "Find the orange duck"
-msgstr "Найдите оранжевую утку"
+msgstr "Найди оранжевую утку"
 
 #: activities/colors/colors.js:86 activities/colors/colors.js:123
 msgctxt "colors|"
 msgid "Find the purple duck"
-msgstr "Найдите пурпурную утку"
+msgstr "Найди пурпурную утку"
 
 #: activities/details/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "instruments|"
-#| msgid "Find the tuba"
 msgctxt "ActivityInfo|"
 msgid "Find the details"
-msgstr "Найдите тубу"
+msgstr "Поиск деталей"
 
 #: activities/details/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
@@ -1933,12 +1899,9 @@ msgid "Number sequence"
 msgstr "Числа по порядку"
 
 #: activities/drawnumber/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "ActivityInfo|"
 msgid "Touch the numbers in the right sequence."
-msgstr "Нарисуйте рисунок, щёлкая по числам в правильном порядке."
+msgstr "Касайся чисел в правильном порядке."
 
 #: activities/drawnumber/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -1952,6 +1915,8 @@ msgid ""
 "your finger or dragging the mouse through the numbers in the correct "
 "sequence."
 msgstr ""
+"Нарисуй рисунок, касаясь каждого числа по порядку, или проведи пальцем или "
+"указателем мышки через числа по порядку."
 
 #: activities/enumerate/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1976,36 +1941,28 @@ msgid "Basic enumeration"
 msgstr "Простой счёт"
 
 #: activities/enumerate/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "First, properly organize the items so that you can count them. Then, "
-#| "select the item you want to answer in the bottom right area. Enter the "
-#| "answer with the keyboard and press the OK button or the 'Enter' key."
 msgctxt "ActivityInfo|"
 msgid ""
 "First, properly organize the items so that you can count them. Then, select "
 "the item you want to answer in the bottom right area. Enter the answer with "
 "the keyboard."
 msgstr ""
-"Сначала правильно организуйте элементы, чтобы их можно было посчитать. Затем "
-"выберите внизу справа ячейку для ответа. Введите ответ с клавиатуры и "
-"щёлкните кнопку ОК или клавишу Enter."
+"Сначала правильно организуй элементы, чтобы их можно было посчитать. Затем "
+"выбери внизу справа ячейку для ответа. Введи ответ с клавиатуры."
 
 #: activities/erase/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Move the mouse or touch the screen"
-msgstr "Двигай мышкой или касайся экрана"
+msgstr "Двигай мышкой или коснись экрана"
 
 #: activities/erase/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Move the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
 msgid ""
 "Move the mouse or touch the screen to erase the area and discover the "
 "background"
-msgstr "Двигайте мышкой для того, чтобы очистить фон и увидеть картинку"
+msgstr ""
+"Двигайте мышкой или качайтесь экрана для того, чтобы очистить область и "
+"увидеть фоновую картинку"
 
 #: activities/erase/ActivityInfo.qml:29
 #: activities/erase_2clic/ActivityInfo.qml:29
@@ -2024,12 +1981,9 @@ msgid "Mouse-manipulation"
 msgstr "Работа с мышью"
 
 #: activities/erase/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
 msgid "Move the mouse or touch the screen until all the blocks disappear."
-msgstr "Щёлкайте кнопкой мыши на частых, пока все части не откроются."
+msgstr "Щёлкай кнопкой мыши или касайся экрана, пока все блоки не исчезнут."
 
 #: activities/erase_2clic/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -2037,8 +1991,6 @@ msgid "Double tap or double click"
 msgstr "Двойное касание или двойной щелчок"
 
 #: activities/erase_2clic/ActivityInfo.qml:27
-#| msgctxt "ActivityInfo|"
-#| msgid "Double click the mouse to erase the area and discover the background"
 msgctxt "ActivityInfo|"
 msgid ""
 "Double tap or double click to erase the area and discover the background "
@@ -2070,7 +2022,7 @@ msgstr "Щёлкай или нажимай"
 msgctxt "ActivityInfo|"
 msgid "Click or tap to erase the area and discover the background"
 msgstr ""
-"Щёлкайте кнопкой мыши или нажимай на экран до полной очистки области и показа "
+"Щёлкай кнопкой мыши или нажимай на экран до полной очистки области и показа "
 "картинки"
 
 #: activities/erase_clic/ActivityInfo.qml:31
@@ -2089,34 +2041,26 @@ msgstr "Пятнашки"
 #: activities/fifteen/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Move each item to recreate the image."
-msgstr ""
+msgstr "Передвинь каждую деталь, чтобы воссоздать изображение."
 
 #: activities/fifteen/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click on any item that has a free block beside it, and it will be swapped "
-#| "with the empty block."
 msgctxt "ActivityInfo|"
 msgid ""
 "Click or drag on any pieces that has a free block beside it, and it will be "
 "swapped with the empty one."
 msgstr ""
-"Щёлкните по любому квадрату, который стоит рядом с пустым местом.\n"
+"Щёлкни или перемести любой квадрат, который стоит рядом с пустым местом.\n"
 "Этот квадрат займёт пустое место, освободив своё."
 
 #: activities/followline/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Control the hose-pipe"
-msgstr "Управление шлангом"
+msgstr "Управление пожарным рукавом"
 
 #: activities/followline/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Tux needs to water the flowers, but the hose is blocked."
 msgctxt "ActivityInfo|"
 msgid "The fireman needs to stop the fire, but the hose is blocked."
-msgstr "Пингвинёнок Тукс должен полить цветы, но трубопровод не работает."
+msgstr "Пожарный должен остановить огонь, но рукав заблокирован."
 
 #: activities/followline/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -2124,20 +2068,15 @@ msgid "Fine motor coordination"
 msgstr "Улучшение координации"
 
 #: activities/followline/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Move the mouse over the red part of the hose-pipe. This will move it, "
-#| "bringing it, part by part, up to the flowers. Be careful, if you move off "
-#| "the hose, the red part will go back down."
 msgctxt "ActivityInfo|"
 msgid ""
 "Move the mouse or your finger over the lock which is represented as a red "
 "part in the hose-pipe. This will move it, bringing it, part by part, up to "
 "the fire. Be careful, if you move off the hose, the lock will go backward."
 msgstr ""
-"Перемещайте мышь вдоль трубы по красной черте, чтобы довести воду до цветов. "
-"Будьте осторожны, выход указателя мыши за пределы трубы вернёт воду назад."
+"Перемещай мышь или пальцы вдоль рукава по красной черте, чтобы довести воду "
+"до огня. Будь осторожен, выход указателя мыши за пределы рукава вернёт воду "
+"назад."
 
 #: activities/football/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -2147,20 +2086,17 @@ msgstr "Футбол"
 #: activities/football/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Kick the ball into the goal"
-msgstr "Попадите мячом в ворота"
+msgstr "Попади мячом в ворота"
 
 #: activities/football/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Kick the ball into the black hole on the right"
 msgctxt "ActivityInfo|"
 msgid "Kick the ball behind the goal keeper on the right"
-msgstr "Попадите мячом в чёрный круг справа"
+msgstr "Попади мячом за голкипером справа"
 
 #: activities/football/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Drag a line from the ball, to set its speed and direction."
-msgstr ""
+msgstr "Протяни линию от мяча, чтобы установить скорость и направление."
 
 #: activities/geo-country/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -2168,8 +2104,6 @@ msgid "Locate the region"
 msgstr "Поиск регионов"
 
 #: activities/geo-country/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the regions to redraw the whole country"
 msgstr "Перетаскивай регионы, чтобы перерисовать всю страну"
@@ -3653,17 +3587,12 @@ msgstr "Поедатель равенства"
 
 #: activities/gnumch-equality/ActivityInfo.qml:27
 #: activities/gnumch-equality/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Guide the Number Muncher to the expressions that equal the number at the "
-#| "top of the screen."
 msgctxt "ActivityInfo|"
 msgid ""
 "Guide the Number Muncher to the expressions that equal the number at the "
 "bottom of the screen."
 msgstr ""
-"Проведите Цифроеда к выражениям, которые равны числу, указанному наверху "
+"Проведи Цифроеда к выражениям, которые равны числу, указанному наверху "
 "экрана."
 
 #: activities/gnumch-equality/ActivityInfo.qml:29
@@ -3685,6 +3614,11 @@ msgid ""
 "you can do like with a mouse or swipe anywhere in the direction you want to "
 "move and tap to swallow the number."
 msgstr ""
+"При наличии клавиатуры используй клавиши со стрелками для передвижения и "
+"пробел, чтобы проглотить число. при помощи мыши можно щёлкнуть на блок рядом "
+"с твоей позицией, чтобы передвинуться и щелкнуть опять, чтобы проглотить "
+"число. С сенсорным экраном можно делать по аналогии с мышью или смахивать в "
+"направлении, куда ты хочешь двинуться и нажимать, чтобы проглотить число."
 
 #: activities/gnumch-equality/ActivityInfo.qml:35
 #: activities/gnumch-factors/ActivityInfo.qml:36
@@ -3693,7 +3627,7 @@ msgstr ""
 #: activities/gnumch-primes/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid "Take care to avoid the Troggles."
-msgstr ""
+msgstr "Будь осторожен, чтобы не попасться Трогглам. "
 
 #: activities/gnumch-equality/TopPanel.qml:50
 #, qt-format
@@ -3728,12 +3662,12 @@ msgstr "Простые числа меньше %1"
 #: activities/gnumch-equality/Warning.qml:47
 msgctxt "Warning|"
 msgid "You were eaten by a Troggle."
-msgstr ""
+msgstr "Тебя съел монстр Троггл."
 
 #: activities/gnumch-equality/Warning.qml:51
 msgctxt "Warning|"
 msgid "You ate a wrong number."
-msgstr "Ты съел не то число."
+msgstr "Ты съел не то число"
 
 #: activities/gnumch-equality/Warning.qml:62
 msgctxt "Warning|"
@@ -3755,29 +3689,29 @@ msgstr "и"
 #, qt-format
 msgctxt "Warning|"
 msgid "Multiples of %1 include %2, "
-msgstr ""
+msgstr "Кратные %1 включают %2"
 
 #: activities/gnumch-equality/Warning.qml:87
 #, qt-format
 msgctxt "Warning|"
 msgid "but %1 is not a multiple of %2."
-msgstr ""
+msgstr "но %1 не является кратным %2"
 
 #: activities/gnumch-equality/Warning.qml:104
 #, qt-format
 msgctxt "Warning|"
 msgid "and %1 are the divisors of %2."
-msgstr ""
+msgstr "и %1 делители %2"
 
 #: activities/gnumch-equality/Warning.qml:133
 msgctxt "Warning|"
 msgid "Press \"Return\" or click on me to continue."
-msgstr ""
+msgstr "Нажми \"Ввод\" или щёлкни на мне, чтобы продолжить."
 
 #: activities/gnumch-equality/WarnMonster.qml:41
 msgctxt "WarnMonster|"
 msgid "Be careful, a troggle !"
-msgstr ""
+msgstr "Будь осторожен, монстр Троггл!"
 
 #: activities/gnumch-factors/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -3790,7 +3724,7 @@ msgid ""
 "Guide the Number Muncher to all the factors of the number at the top of the "
 "screen."
 msgstr ""
-"Проведите Цифроеда ко всем числам, которые являются множителем числа "
+"Проведи Цифроеда ко всем числам, которые являются множителем числа "
 "указанного наверху экрана."
 
 #: activities/gnumch-factors/ActivityInfo.qml:30
@@ -3810,6 +3744,13 @@ msgid ""
 "families. So 1, 2, 3 and 6 all fit into the 6 family, but 4 belongs to "
 "another family."
 msgstr ""
+"Множителями числа являются все числа, которые делят это число на равные "
+"части. Например, множителями числа 6 являются 1,2,3 и 6. 4 не является "
+"множителем 6, потому что 6 не может быть разделено на 4 равных частей. Если "
+"одно число является кратным другому числу, второе число является множителем "
+"первого. Ты можешь представлять себе кратные семьями, а множители людьми из "
+"этих семей. Таким образом 1,2,3 и 6 все принадлежат семье 6, но 4 "
+"принадлежит другой семье."
 
 #: activities/gnumch-inequality/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -3822,7 +3763,7 @@ msgid ""
 "Guide the Number Muncher to the all the expressions that do not equal the "
 "number at the top of the screen."
 msgstr ""
-"Проведите Цифроеда ко всем выражениям, которые не равны числу указанному "
+"Проведи Цифроеда ко всем выражениям, которые не равны числу указанному "
 "наверху экрана."
 
 #: activities/gnumch-inequality/ActivityInfo.qml:30
@@ -3841,7 +3782,7 @@ msgid ""
 "Guide the Number Muncher to all the multiples of the number at the top of "
 "the screen."
 msgstr ""
-"Проведите Цифроеда ко всем числам, которые кратны числу указанному наверху "
+"Проведи Цифроеда ко всем числам, которые кратны числу указанному наверху "
 "экрана."
 
 #: activities/gnumch-multiples/ActivityInfo.qml:32
@@ -3860,6 +3801,18 @@ msgid ""
 "over. So 8 isn't a multiple of 5, nor is 23. Only 5, 10, 15, 20, 25 ... are "
 "multiples (or families or steps) of 5."
 msgstr ""
+"Кратными какого-либо числа являются все числа, которые равны оригинальному "
+"числу помноженному на другое число. Например, 24, 36, 48 и 60 все кратны 12. "
+"25 не кратно 12, потому что не существует числа, числа на которое можно "
+"помножить 12, чтобы получить 25. Если одно число является множителем второго "
+"числа, то второе число является кратным первого числа. Опять же, можно "
+"представить кратные как семьи, а множители как людей, которые принадлежат к "
+"этим семьям. У множителя 5 родители 10, бабушки дедушки 15, прабабушки "
+"прадедушки 20, прапрабабушки прапрадедушки 25, и каждый следующий шаг на 5 "
+"это далее пра- в начале! Но, число 5 не принадлежит к семьям 8 или 23. У "
+"тебя не получится вместить 5-ку в 8 или 23, чтобы ничего не осталось в "
+"остатке. Таким образом 8 не кратно ни 5 ни 23. Только 5,10,15,20,25 ... "
+"кратны (или семьи или шаги) 5."
 
 #: activities/gnumch-primes/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -3872,12 +3825,9 @@ msgid "Guide the Number Muncher to all the prime numbers."
 msgstr "Проведите Цифроеда ко всем числам, которые являются простыми числами."
 
 #: activities/gnumch-primes/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "Warning|"
-#| msgid "1 is not a prime number."
 msgctxt "ActivityInfo|"
 msgid "Learn about prime numbers."
-msgstr "1 не является простым числом."
+msgstr "Изучение простых чисел."
 
 #: activities/gnumch-primes/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -3890,6 +3840,13 @@ msgid ""
 "5), but you can see that 6 has 2 and 3 in its family as well (6 × 1 = 6, 2 "
 "×3 = 6). So 6 is not a prime number."
 msgstr ""
+"Простые числа - это числа, которые делятся только на себя самих и на 1. "
+"Например, 3 является простым числом, но 4 нет (потому что 4 также делится на "
+"2). Ты можешь представить себе простые числа, как очень маленькие семьи: они "
+"включают  в себя всего 2 человека! Только себя самого и 1. Никакое другое "
+"число не подойдёт к ним, чтобы не оставить остатка. 5 одно из таких одиноких "
+"числе (только 5 × 1 = 5), но вы можете заметить, что 6 также включает в свою "
+"семью 2 и 3 (6× 1 = 6, 2× 3 =6). Так что 6 не является простым числом."
 
 #: activities/guessnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -3900,8 +3857,7 @@ msgstr "Задачи на догадливость"
 msgctxt "ActivityInfo|"
 msgid "Help Tux escape the cave. Tux hides a number for you to find."
 msgstr ""
-"Помогите Туксу убежать из пещеры. Тукс прячет число, которое вы должны "
-"узнать."
+"Помоги Туксу убежать из пещеры. Тукс прячет число, которое ты должен узнать."
 
 #: activities/guessnumber/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -3909,15 +3865,6 @@ msgid "Numbers from 1 to 1000 for the last level."
 msgstr "Числа от 1 до 1000 для прохождения на следующий уровень."
 
 #: activities/guessnumber/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Read the instructions that give you the range of the number to find. "
-#| "Enter a number in the top right blue entry box. Tux will tell you if your "
-#| "number is higher or lower. Then enter another number. The distance "
-#| "between Tux and the escape area on the right represents how far you are "
-#| "from the correct number. If Tux is over or under the escape area, it "
-#| "means your number is over or under the correct number."
 msgctxt "ActivityInfo|"
 msgid ""
 "Read the instructions that give you the range of the number to find. Enter a "
@@ -3927,41 +3874,33 @@ msgid ""
 "is over or under the escape area, it means your number is over or under the "
 "correct number."
 msgstr ""
-"Введите число в верхнее правое синее поле ввода. Тукс скажет вам, если ваше "
-"число больше или меньше. Тогда введите другое число. Расстояние между Туксом "
-"и областью спасения справа покажет, как далеко вы от загаданного числа. Если "
-"Тукс выше или под областью спасения, это означает, что ваше число больше или "
+"Введи число в верхнее правое синее поле ввода. Тукс скажет тебе, если твоё "
+"число больше или меньше. Тогда введи другое число. Расстояние между Туксом и "
+"областью спасения справа покажет, как далеко ты от загаданного числа. Если "
+"Тукс выше или под областью спасения, это означает, что твоё число больше или "
 "меньше загаданного числа."
 
 #: activities/guessnumber/guessnumber.js:65
-#, fuzzy, qt-format
-#| msgctxt "ActivityInfo|"
-#| msgid "Guess a number"
+#, qt-format
 msgctxt "guessnumber|"
 msgid "Guess a number between 1 and %1"
-msgstr "Задачи на догадливость"
+msgstr "Угадай число между 1 и %1"
 
 #: activities/guessnumber/guessnumber.js:90
 #: activities/guessnumber/guessnumber.js:94
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Numbers With Dice"
 msgctxt "guessnumber|"
 msgid "Number too high"
-msgstr "Числа на кубиках"
+msgstr "Число слишком велико"
 
 #: activities/guessnumber/guessnumber.js:97
 msgctxt "guessnumber|"
 msgid "Number too low"
-msgstr ""
+msgstr "Число слишком мало"
 
 #: activities/guessnumber/guessnumber.js:101
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Number"
 msgctxt "guessnumber|"
 msgid "Number found!"
-msgstr "Число"
+msgstr "Найдено число!"
 
 #: activities/hanoi/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -3969,20 +3908,14 @@ msgid "Simplified Tower of Hanoi"
 msgstr "Упрощённая Ханойская башня"
 
 #: activities/hanoi/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "ActivityInfo|"
 msgid "Reproduce the given tower"
-msgstr "Нарисуйте рисунок, щёлкая по числам в правильном порядке."
+msgstr "Воспроизведи данную башню"
 
 #: activities/hanoi/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "ActivityInfo|"
 msgid "Reproduce the tower on the right in the empty space on the left"
-msgstr "Нарисуйте рисунок, щёлкая по числам в правильном порядке."
+msgstr "Воспроизведи башню справа на свободном месте слева"
 
 #: activities/hanoi/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -3990,11 +3923,13 @@ msgid ""
 "Drag and Drop one top piece at a time, from one peg to another, to reproduce "
 "the tower on the right in the empty space on the left."
 msgstr ""
+"Перемещай по одной детали с одного штыря на другой, для того чтобы "
+"воспроизвести башню с правой стороны на пустом месте слева."
 
 #: activities/hanoi/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Concept taken from EPI games."
-msgstr ""
+msgstr "Концепт взять из игр EPI."
 
 #: activities/hanoi_real/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -4002,9 +3937,6 @@ msgid "The Tower of Hanoi"
 msgstr "Ханойская башня"
 
 #: activities/hanoi_real/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "ActivityInfo|"
 msgid "Reproduce the tower on the right side"
 msgstr "Воспроизведи башню с правой стороны"
@@ -4017,6 +3949,10 @@ msgid ""
 "    only one disc may be moved at a time\n"
 "    no disc may be placed atop a smaller disc\n"
 msgstr ""
+"Целью игры является перемещение всей стопки на другой штырь, придерживаясь "
+"следующих правил:\n"
+"   диски должны перемещаться по одному\n"
+"   на диск меньшего размера нельзя складывать диск большего размера.\n"
 
 #: activities/hanoi_real/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
@@ -4024,6 +3960,8 @@ msgid ""
 "Drag and drop the top pieces only from one peg to another, to reproduce the "
 "initial left side tower on the right peg."
 msgstr ""
+"Перетаскивай верхнюю деталь с одного штыря на другой, чтобы воспроизвести "
+"первоначальную левую башню на правом штыре."
 
 #: activities/hanoi_real/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
@@ -4037,11 +3975,19 @@ msgid ""
 "inspired by it. (source Wikipedia <http://en.wikipedia.org/wiki/"
 "Tower_of_hanoi>)"
 msgstr ""
+"Головоломка была придумана французским математиком Эдуардом Люкасом в 1883 "
+"году. Существует легенда о Индуистском храме, жрецы которого постоянно "
+"занимались перемещением наборов в 64 диска, в соответствии с правилами "
+"головоломки Ханойская башня. В соответствии с легендой, наступит конец мира, "
+"когда жрецы закончат их работу. Поэтому головоломка также известна под "
+"именем башня Брахмы. Не совсем понятно, был ли Люкас изобретателем этой "
+"легенды или был вдохновлён ей (источник Wikipedia <https://ru.wikipedia.org/"
+"wiki/Ханойская_башня>)"
 
 #: activities/hanoi_real/HanoiReal.qml:83
 msgctxt "HanoiReal|"
 msgid "Move the entire stack to the right peg, one disc at a time."
-msgstr ""
+msgstr "Перемещай по одному диску, всю стопку полностью на правый стержень."
 
 #: activities/hanoi_real/HanoiReal.qml:84
 msgctxt "HanoiReal|"
@@ -4049,10 +3995,9 @@ msgid ""
 "Build the same tower in the empty area as the one you see on the right-hand "
 "side"
 msgstr ""
+"Построй такую же башню в свободной области, какую ты видишь с правой стороны."
 
 #: activities/hexagon/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "hexagon"
 msgctxt "ActivityInfo|"
 msgid "Hexagon"
 msgstr "Шестиугольники"
@@ -4096,7 +4041,7 @@ msgstr "Чтение"
 #: activities/imageid/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Click on the word corresponding to the printed image."
-msgstr "Щёлкните на слове, соответствующему рисунку."
+msgstr "Щёлкни на слове, которое соответствует рисунку."
 
 #: activities/imageid/Imageid.qml:306
 msgctxt "Imageid|"
@@ -4152,12 +4097,9 @@ msgid "Drag and Drop each item above its name"
 msgstr "Перетащи каждый предмет и помести его над названием"
 
 #: activities/imagename/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Word reading"
 msgctxt "ActivityInfo|"
 msgid "Vocabulary and reading"
-msgstr "Чтение"
+msgstr "Словарь и чтение"
 
 #: activities/imagename/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
@@ -4165,13 +4107,16 @@ msgid ""
 "Drag each image from the (vertical) box on the left to its (corresponding) "
 "name on the right. Click the OK button to check your answer."
 msgstr ""
+"Перетаскивай каждое изображение из (вертикальной) прямоугольной области "
+"слева к его имени справа. Щёлкни кнопку ОК, чтобы проверить свой ответ."
 
 #: activities/imagename/resource/board/board1_0.qml:25
+#, fuzzy
 #| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
+#| msgid "Drag and Drop each item above its name"
 msgctxt "board1_0|"
 msgid "Drag and Drop each item onto its name"
-msgstr "Перетаскивай предметы к их названиям"
+msgstr "Перетаскивайте предметы и складывайте на их название."
 
 #: activities/imagename/resource/board/board1_0.qml:71
 msgctxt "board1_0|"
@@ -4393,76 +4338,76 @@ msgstr "Музыкальные инструменты"
 #: activities/instruments/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Click on the correct musical instruments"
-msgstr "Щёлкайте по правильным музыкальным инструментам"
+msgstr "Щёлкай по правильным музыкальным инструментам"
 
 #: activities/instruments/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Learn to recognize musical instruments."
-msgstr "Научиться распознавать музыкальные инструменты."
+msgstr "Обучение распознаванию музыкальных инструментов."
 
 #: activities/instruments/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Click on the correct instrument."
-msgstr "Щёлкните по правильному инструменту."
+msgstr "Щёлкни по правильному инструменту."
 
 #: activities/instruments/instruments.js:24
 #: activities/instruments/instruments.js:73
 msgctxt "instruments|"
 msgid "Find the clarinet"
-msgstr "Найдите кларнет"
+msgstr "Найди кларнет"
 
 #: activities/instruments/instruments.js:29
 msgctxt "instruments|"
 msgid "Find the transverse flute"
-msgstr "Найдите поперечную флейта"
+msgstr "Найди поперечную флейта"
 
 #: activities/instruments/instruments.js:34
 #: activities/instruments/instruments.js:83
 #: activities/instruments/instruments.js:125
 msgctxt "instruments|"
 msgid "Find the guitar"
-msgstr "Найдите гитару"
+msgstr "Найди гитару"
 
 #: activities/instruments/instruments.js:39
 #: activities/instruments/instruments.js:88
 #: activities/instruments/instruments.js:130
 msgctxt "instruments|"
 msgid "Find the harp"
-msgstr "Найдите арфу"
+msgstr "Найди арфу"
 
 #: activities/instruments/instruments.js:46
 #: activities/instruments/instruments.js:93
 #: activities/instruments/instruments.js:135
 msgctxt "instruments|"
 msgid "Find the piano"
-msgstr "Найдите фортепиано"
+msgstr "Найди фортепиано"
 
 #: activities/instruments/instruments.js:51
 #: activities/instruments/instruments.js:98
 #: activities/instruments/instruments.js:140
 msgctxt "instruments|"
 msgid "Find the saxophone"
-msgstr "Найдите саксофон"
+msgstr "Найди саксофон"
 
 #: activities/instruments/instruments.js:56
 #: activities/instruments/instruments.js:103
 #: activities/instruments/instruments.js:145
 msgctxt "instruments|"
 msgid "Find the trombone"
-msgstr "Найдите тромбон"
+msgstr "Найди тромбон"
 
 #: activities/instruments/instruments.js:61
 #: activities/instruments/instruments.js:108
 #: activities/instruments/instruments.js:150
 msgctxt "instruments|"
 msgid "Find the trumpet"
-msgstr "Найдите трубу"
+msgstr "Найди трубу"
 
 #: activities/instruments/instruments.js:66
 #: activities/instruments/instruments.js:115
 msgctxt "instruments|"
 msgid "Find the violin"
-msgstr "Найдите скрипку"
+msgstr "Найди скрипку"
 
 #: activities/instruments/instruments.js:78
 #: activities/instruments/instruments.js:120
@@ -4474,92 +4419,92 @@ msgstr "Найдите поперечная флейта"
 #: activities/instruments/instruments.js:189
 msgctxt "instruments|"
 msgid "Find the drum kit"
-msgstr "Найдите набор ударных инструментов"
+msgstr "Найди набор ударных инструментов"
 
 #: activities/instruments/instruments.js:162
 #: activities/instruments/instruments.js:194
 msgctxt "instruments|"
 msgid "Find the accordion"
-msgstr "Найдите аккордеон"
+msgstr "Найди аккордеон"
 
 #: activities/instruments/instruments.js:167
 #: activities/instruments/instruments.js:199
 msgctxt "instruments|"
 msgid "Find the banjo"
-msgstr "Найдите банджо"
+msgstr "Найди банджо"
 
 #: activities/instruments/instruments.js:172
 #: activities/instruments/instruments.js:217
 msgctxt "instruments|"
 msgid "Find the bongo"
-msgstr "Найдите бонго"
+msgstr "Найди бонго"
 
 #: activities/instruments/instruments.js:177
 #: activities/instruments/instruments.js:222
 msgctxt "instruments|"
 msgid "Find the electric guitar"
-msgstr "Найдите электрогитару"
+msgstr "Найди электрогитару"
 
 #: activities/instruments/instruments.js:182
 msgctxt "instruments|"
 msgid "Find the castanets"
-msgstr "Найдите кастаньеты"
+msgstr "Найди кастаньеты"
 
 #: activities/instruments/instruments.js:204
 msgctxt "instruments|"
 msgid "Find the cymbal"
-msgstr "Найдите тарелки"
+msgstr "Найди тарелки"
 
 #: activities/instruments/instruments.js:209
 msgctxt "instruments|"
 msgid "Find the cello"
-msgstr "Найдите виолончель"
+msgstr "Найди виолончель"
 
 #: activities/instruments/instruments.js:227
 msgctxt "instruments|"
 msgid "Find the harmonica"
-msgstr "Найдите губную гармошку"
+msgstr "Найди губную гармошку"
 
 #: activities/instruments/instruments.js:232
 #: activities/instruments/instruments.js:265
 msgctxt "instruments|"
 msgid "Find the horn"
-msgstr "Найдите валторну"
+msgstr "Найди валторну"
 
 #: activities/instruments/instruments.js:237
 #: activities/instruments/instruments.js:270
 msgctxt "instruments|"
 msgid "Find the maracas"
-msgstr "Найдите маракас"
+msgstr "Найди маракас"
 
 #: activities/instruments/instruments.js:242
 #: activities/instruments/instruments.js:275
 msgctxt "instruments|"
 msgid "Find the organ"
-msgstr "Найдите орган"
+msgstr "Найди орган"
 
 #: activities/instruments/instruments.js:250
 #: activities/instruments/instruments.js:283
 msgctxt "instruments|"
 msgid "Find the snare drum"
-msgstr "Найдите малый барабан"
+msgstr "Найди малый барабан"
 
 #: activities/instruments/instruments.js:255
 #: activities/instruments/instruments.js:288
 msgctxt "instruments|"
 msgid "Find the timpani"
-msgstr "Найдите литавры"
+msgstr "Найди литавры"
 
 #: activities/instruments/instruments.js:260
 #: activities/instruments/instruments.js:293
 msgctxt "instruments|"
 msgid "Find the triangle"
-msgstr "Найдите треугольник"
+msgstr "Найди треугольник"
 
 #: activities/instruments/instruments.js:298
 msgctxt "instruments|"
 msgid "Find the tambourine"
-msgstr "Найдите тамбурин"
+msgstr "Найди тамбурин"
 
 #: activities/instruments/instruments.js:303
 msgctxt "instruments|"
@@ -4577,11 +4522,13 @@ msgid ""
 "Maintain the spaceship in the middle without crashing into the planets or "
 "the asteroids"
 msgstr ""
+"Управляй космическим кораблём в середине стараясь не  врезаться в планету "
+"или астероид."
 
 #: activities/intro_gravity/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Follow the instructions when you run the activity."
-msgstr ""
+msgstr "Следуй инструкциям, когда запускаешь упражнение."
 
 #: activities/intro_gravity/Message.qml:39
 msgctxt "Message|"
@@ -4591,6 +4538,10 @@ msgid ""
 "dependent upon the masses of both objects and inversely proportional to the "
 "square of the distance that separates their centers."
 msgstr ""
+"Гравитация универсальна и закон Ньютона об универсальной гравитации "
+"распространяет гравитацию за пределы земли. Сила гравитационного "
+"взаимодействия напрямую зависит от масс обоих объектов и универсально "
+"пропорциональна квадрату расстояния, которое разделяет их центры. "
 
 #: activities/intro_gravity/Message.qml:43
 msgctxt "Message|"
@@ -4600,6 +4551,10 @@ msgid ""
 "greater gravitational force. So as the mass of either object increases, the "
 "force of gravitational attraction between them also increases"
 msgstr ""
+"Так как гравитационная сила прямо пропорциональна массе обоих "
+"взаимодействующих объектов, более массивные объекты будут воздействовать "
+"друг на друга с большей гравитационной силой. И, так как масса обоих "
+"объектов возрастает, сила гравитации действующей между ними также растёт."
 
 #: activities/intro_gravity/Message.qml:47
 msgctxt "Message|"
@@ -4608,6 +4563,9 @@ msgid ""
 "distance between the two interacting objects, more separation distance will "
 "result in weaker gravitational forces."
 msgstr ""
+"Но эта сила обратно пропорциональна квадрату расстояния между двумя "
+"взаимодействующими объектами, более дальняя дистанция будет приводить к "
+"уменьшению гравитационной силы."
 
 #: activities/intro_gravity/Message.qml:50
 msgctxt "Message|"
@@ -4616,11 +4574,15 @@ msgid ""
 "surrounding planets. Don't get too close to the planets or you will crash on "
 "them. The arrow indicates the direction of the force on your ship."
 msgstr ""
+"Твоя цель - позволить космическому кораблю Тукса двигаться, изменяя массу "
+"окружающих его планет. Не приближайся слишком близко к планетам или ты "
+"врежешься в них. Стрелка показывает направление действия силы на твой "
+"корабль."
 
 #: activities/intro_gravity/Message.qml:54
 msgctxt "Message|"
 msgid "Avoid the asteroid and join the space shuttle to win."
-msgstr ""
+msgstr "Избегай астероиды и присоедини челнок, чтобы выиграть."
 
 #: activities/intro_gravity/Message.qml:108
 msgctxt "Message|"
@@ -4630,11 +4592,9 @@ msgstr "Далее"
 #: activities/intro_gravity/Message.qml:108
 msgctxt "Message|"
 msgid "Let's Go"
-msgstr ""
+msgstr "Вперёд"
 
 #: activities/intro_gravity/Message.qml:141
-#| msgctxt "ActivityInfo|"
-#| msgid "Simple subtraction"
 msgctxt "Message|"
 msgid "Skip Instruction"
 msgstr "Пропустить инструкцию"
@@ -4663,7 +4623,7 @@ msgid ""
 "You can see a hand: is it a left hand or a right hand? Click on the left "
 "button, or the right button depending on the displayed hand."
 msgstr ""
-"Показана рука: определите какая она — правая или левая. Нажмите на красную "
+"Показана рука: определи какая она — правая или левая. Нажми на красную "
 "кнопку, чтобы указать, что это левая рука, или на зелёную, чтобы указать, "
 "что это правая."
 
@@ -4698,8 +4658,8 @@ msgid ""
 msgstr ""
 "Нажатие кнопки переключает состояния этой кнопки и две соседние кнопки по "
 "вертикали и горизонтали. Солнце и цвет неба зависят от количества щелчков, "
-"которые необходимо совершить для решения головоломки. Если вы щёлкните по "
-"Туксу, вы увидите решение."
+"которые необходимо совершить для решения головоломки. Если ты щёлкнешь по "
+"Туксу, ты увидишь решение."
 
 #: activities/lightsoff/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -4775,7 +4735,7 @@ msgstr ""
 #: activities/louis-braille/louis_braille_data.js:43
 msgctxt "louis_braille_data|"
 msgid "He impressed his classmates and began to play the piano and the organ."
-msgstr ""
+msgstr "Он впечатлил своих одноклассников и начал играть на пианино и органе."
 
 #: activities/louis-braille/louis_braille_data.js:48
 msgctxt "louis_braille_data|"
@@ -4830,11 +4790,18 @@ msgstr ""
 "доказал, что если иметь желание, можно совершать невероятные вещи."
 
 #: activities/louis-braille/ReorderList.qml:167
+#, fuzzy
+#| msgctxt "ReorderList|"
+#| msgid ""
+#| "Arrange the events in the order in which they happened. Select the line "
+#| "to move then touch it's target position."
 msgctxt "ReorderList|"
 msgid ""
 "Arrange the events in the order in which they happened. Select the line to "
 "move, then touch its target position."
 msgstr ""
+"Распредели события в той последовательности в которой они происходят. Выбери "
+"линию, которую надо передвинуть и затем коснись целевой позиции."
 
 #: activities/magic-hat-minus/ActivityInfo.qml:26
 #: activities/magic-hat-plus/ActivityInfo.qml:26
@@ -4845,7 +4812,7 @@ msgstr "Волшебная шляпа"
 #: activities/magic-hat-minus/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Count how many items are under the magic hat after some have got away"
-msgstr "Сосчитайте, сколько звёздочек осталось под волшебной шляпой"
+msgstr "Сосчитай, сколько звёздочек осталось под волшебной шляпой"
 
 #: activities/magic-hat-minus/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -4859,13 +4826,6 @@ msgid "Subtraction"
 msgstr "Вычитание"
 
 #: activities/magic-hat-minus/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Look at the magician, he tells the number of stars that are under his "
-#| "magic hat. Then, click on the hat to open it. A few stars escape. Click "
-#| "again on the hat to close it. You have to count how many are still under "
-#| "the hat. Click on the bottom right area to answer."
 msgctxt "ActivityInfo|"
 msgid ""
 "Look at the magician, he tells the number of stars that are under his magic "
@@ -4873,10 +4833,11 @@ msgid ""
 "the hat to close it. You have to count how many are still under the hat. "
 "Click on the bottom area to answer."
 msgstr ""
-"Щёлкните на шляпе, чтобы поднять её. Несколько звёздочек убегут. Щёлкните на "
-"шляпе ещё раз чтобы опустить её. Вы должны сосчитать, сколько звёздочек "
-"осталось под шляпой. Щёлкайте на звёздочках в нижнем ряду, чтобы указать "
-"нужное количество."
+"Посмотри на фокусника, он говорит сколько звёздочек под его магической "
+"шляпой.Затем щёлкни на шляпе, чтобы поднять её. Несколько звёздочек убегут. "
+"Щёлкни на шляпе ещё раз чтобы опустить её.  Ты должен сосчитать, сколько "
+"звёздочек осталось под шляпой. Щёлкай на звёздочках в нижнем ряду, чтобы "
+"указать нужное количество."
 
 #. The math operation
 #: activities/magic-hat-minus/MagicHat.qml:84
@@ -4907,21 +4868,15 @@ msgid "Addition"
 msgstr "Сложение"
 
 #: activities/magic-hat-plus/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click on the hat to open or close it. Under the hat, how many stars can "
-#| "you see moving around? Count carefully. :) Click in the bottom-right area "
-#| "to input your answer."
 msgctxt "ActivityInfo|"
 msgid ""
 "Click on the hat to open or close it. Under the hat, how many stars can you "
 "see moving around? Count carefully. Click in the bottom-right area to input "
 "your answer."
 msgstr ""
-"Щёлкните на шляпе чтобы поднять или опустить её. Сколько звёздочек под "
-"шляпой? Считайте внимательнее. Щёлкайте на звёздочках в нижнем ряду, чтобы "
-"указать нужное количество."
+"Щёлкни на шляпе чтобы поднять или опустить её. Сколько звёздочек под шляпой? "
+"Считай внимательнее. Щёлкай на звёздочках в нижнем ряду, чтобы указать "
+"нужное количество."
 
 #: activities/maze/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -4929,11 +4884,9 @@ msgid "Maze"
 msgstr "Лабиринт"
 
 #: activities/maze/ActivityInfo.qml:27
-#| msgctxt "ActivityInfo|"
-#| msgid "Help Tux get out of this maze."
 msgctxt "ActivityInfo|"
 msgid "Help Tux get out of this maze"
-msgstr "Помоги пингвинёнку Туксу выйти из лабиринта"
+msgstr "Помоги пингвинёнку Туксу выйти из лабиринта."
 
 #: activities/maze/ActivityInfo.qml:31
 #: activities/mazerelative/ActivityInfo.qml:31
@@ -4941,6 +4894,8 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Use the arrow keys or swipe the touch screen to move Tux up to the door."
 msgstr ""
+"Используй клавиши со стрелками или смахивания по сенсорному экрану для того, "
+"чтобы довести Тукса до двери."
 
 #: activities/maze/ActivityInfo.qml:32
 #: activities/mazeinvisible/ActivityInfo.qml:32
@@ -4950,6 +4905,8 @@ msgid ""
 "At the first levels, Tux walks comfortably, one step on each move request, "
 "through the maze."
 msgstr ""
+"На первом этапе Тукс идёт через лабиринт расслаблено, один шаг на каждый "
+"запрос передвижения."
 
 #: activities/maze/ActivityInfo.qml:33
 #: activities/mazeinvisible/ActivityInfo.qml:33
@@ -4960,6 +4917,10 @@ msgid ""
 "If this run-fast-mode is enabled, Tux will run all the way automatically "
 "until he reaches a fork and you have to decide which way to go further."
 msgstr ""
+"Для больших лабиринтов существует специальный режим, называемый \"режим "
+"быстрого передвижения\". Если этот режим активизирован, Тукс будет бежать "
+"автоматически, пока не достигнет развилки и тогда тебе надо будет решить "
+"куда идти дальше  "
 
 #: activities/maze/ActivityInfo.qml:34
 #: activities/mazeinvisible/ActivityInfo.qml:34
@@ -4970,6 +4931,9 @@ msgid ""
 "If Tux is barefooted, \"run-fast-mode\" is disabled. And if he wears red "
 "sport shoes, \"run-fast-mode\" is enabled."
 msgstr ""
+"Ты можешь увидеть активизирован режим или нет, взглянув на ноги Тукса: Если "
+"Тукс босиком, значит режим быстрого передвижения отключён. А если он обут в "
+"красную спортивную обувь, значит режим активизирован. "
 
 #: activities/maze/ActivityInfo.qml:35
 #: activities/mazeinvisible/ActivityInfo.qml:35
@@ -4982,6 +4946,10 @@ msgid ""
 "of the screen to toggle the run-fast-mode.\n"
 "\t"
 msgstr ""
+"На сложном уровне режим быстрого передвижения активизируется автоматически. "
+"Если ты хочешь использовать эту возможность на более простых уровнях или "
+"хочешь отключить его на сложном, щёлкни на значок \"босиком/спортивная обувь"
+"\" в левом верхнем углу экрана."
 
 #: activities/maze/Maze.qml:325
 msgctxt "Maze|"
@@ -4998,12 +4966,9 @@ msgid "Invisible Maze"
 msgstr "Невидимый лабиринт"
 
 #: activities/mazeinvisible/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Find your way out of the invisible maze"
 msgctxt "ActivityInfo|"
 msgid "Guide Tux out of the invisible maze"
-msgstr "Найдите выход из невидимого лабиринта"
+msgstr "Проведите Тукса до выхода из невидимого лабиринта"
 
 #: activities/mazeinvisible/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -5013,6 +4978,11 @@ msgid ""
 "Visible mode just gives you an indication of your position, like a map. You "
 "cannot move Tux in visible mode."
 msgstr ""
+"Используй клавиши со стрелками или смахни по сенсорному экрану, чтобы "
+"переместить Тукса в сторону двери. Используй значок лабиринта или пробел для "
+"переключения между видимым и невидимым режимом. Видимый режим даёт только "
+"индикацию твоей позиции, как на карте, но ты не можешь двигать Тукса в "
+"видимом режиме."
 
 #: activities/mazerelative/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5020,12 +4990,9 @@ msgid "Relative Maze"
 msgstr "Относительный лабиринт"
 
 #: activities/mazerelative/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Find your way out of the maze (Move is relative)"
 msgctxt "ActivityInfo|"
 msgid "Help Tux get out of this maze (Move is relative)"
-msgstr "Найдите выход из лабиринта"
+msgstr "Помоги Туксу Найти выход из лабиринта (движения относительны)"
 
 #: activities/mazerelative/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -5045,8 +5012,8 @@ msgstr "Игра в пары с перечислениями"
 msgctxt "ActivityInfo|"
 msgid "Turn the cards over to match the number with the drawn picture."
 msgstr ""
-"Переворачивайте карточки чтобы найти парочку с числом и соответствующей "
-"этому числу картинкой."
+"Переворачивай карточки чтобы найти парочку с числом и соответствующей этому "
+"числу картинкой."
 
 #: activities/memory-enumerate/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -5059,8 +5026,8 @@ msgid ""
 "You can see some cards, but you can't see what's on the other side of them. "
 "Each card is hiding a number of pictures, or the written number."
 msgstr ""
-"Карточки расположены рубашкой вверх. Вы можете одновременно перевернуть не "
-"более двух карточек. Подберите две карты с числом и соответствующим этому "
+"Карточки расположены рубашкой вверх. Ты можешь одновременно перевернуть не "
+"более двух карточек. Подбери две карты с числом и соответствующим этому "
 "числу количеством картинок."
 
 #: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:26
@@ -5079,23 +5046,18 @@ msgid ""
 "Turn the cards over to find a matching operation, until all the cards are "
 "gone."
 msgstr ""
-"Переворачивайте карточки чтобы найти операцию и её результат до тех пор, "
-"пока все карточки не будут удалены."
+"Переворачивай карточки чтобы найти операцию и её результат до тех пор, пока "
+"все карточки не исчезнут."
 
 #: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:29
 #: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Practise addition, subtraction, multiplication, division, until all the "
-#| "cards are gone."
 msgctxt "ActivityInfo|"
 msgid ""
 "Practice addition, subtraction, multiplication, division, until all the "
 "cards are gone."
 msgstr ""
-"Практикуйтесь в сложении, вычитании, умножении и делении до тех пор, пока "
-"карточки не будут удалены."
+"Практикуйся в сложении, вычитании, умножении и делении до тех пор, пока все "
+"карточки не исчезнут."
 
 #: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:30
 #: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:30
@@ -5119,6 +5081,17 @@ msgid ""
 "proper equality. When you do that, both those cards disappear! When you've "
 "made them all disappear, found more than Tux, you've won the game!"
 msgstr ""
+"Карточки лежат рубашкой вверх. Каждая карточка скрывает операцию или ответ "
+"на неё. \n"
+"В этой игре карточки скрывают две части операции. Тебе надо найти обе части "
+"операции и свести их вместе. Щёлкни на карточке, чтобы узнать какое число "
+"она скрывает, затем попробуй найти парную карточку, чтобы собрать полную "
+"операцию. Ты можешь переворачивать одновременно только две карточки, так что "
+"тебе надо запомнить, где спрятано число. Затем ты можешь совместить их, если "
+"нашёл вторую половинку. Ты решаешь задачу на равенство, так что надо "
+"сопоставить числа так, чтобы было правильное равенство. После того, как "
+"карточки правильно совмещены, они исчезают. Если ты сделаешь так, чтобы "
+"исчезли все карточки и найдёшь больше операций чем Тукс, ты выиграл игру!"
 
 #: activities/memory-math-add-minus-mult-div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5146,6 +5119,17 @@ msgid ""
 "proper equality. When you do that, both those cards disappear! When you've "
 "made them all disappear, found all the operations, you've won the game!"
 msgstr ""
+"Карточки лежат рубашкой вверх. Каждая карточка скрывает операцию или ответ "
+"на неё. \n"
+"В этой игре карточки скрывают две части операции. Тебе надо найти обе части "
+"операции и свести их вместе. Щёлкни на карточке, чтобы узнать какое число "
+"она скрывает, затем попробуй найти парную карточку, чтобы собрать полную "
+"операцию. Ты можешь переворачивать одновременно только две карточки, так что "
+"тебе надо запомнить, где спрятано число. Затем ты можешь совместить их, если "
+"нашёл вторую половинку. Ты решаешь задачу на равенство, так что надо "
+"сопоставить числа так, чтобы было правильное равенство. После того, как "
+"карточки правильно совмещены, они исчезают. Если ты сделаешь так, чтобы "
+"исчезли все карточки и найдёшь больше операций чем Тукс, ты выиграл игру!"
 
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5159,25 +5143,21 @@ msgid ""
 "Turn the cards over to find two numbers which subtract the same, until all "
 "the cards are gone."
 msgstr ""
-"Переворачивайте карточки чтобы найти операцию на вычитание и её результат до "
-"тех пор, пока все карточки не будут удалены."
+"Переворачивай карточки чтобы найти операцию на вычитание и её результат до "
+"тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:29
 #: activities/memory-math-add-minus/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Practise addition, subtraction, until all the cards are gone."
 msgctxt "ActivityInfo|"
 msgid "Practice addition, subtraction, until all the cards are gone."
 msgstr ""
-"Практикуйтесь в сложении и вычитании до тех пор, пока карточки не будут "
-"удалены."
+"Практикуйся в сложении и вычитании до тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:30
 #: activities/memory-math-add-minus/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Addition and subtraction"
-msgstr "Cложение и вычитание"
+msgstr "Сложение и вычитание"
 
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -5195,6 +5175,17 @@ msgid ""
 "proper equality. When you do that, both those cards disappear! When you've "
 "made them all disappear, found more than Tux, and you've won the game!"
 msgstr ""
+"Карточки лежат рубашкой вверх. Каждая карточка скрывает операцию или ответ "
+"на неё. \n"
+"В этой игре карточки скрывают две части операции. Тебе надо найти обе части "
+"операции и свести их вместе. Щёлкни на карточке, чтобы узнать какое число "
+"она скрывает, затем попробуй найти парную карточку, чтобы собрать полную "
+"операцию. Ты можешь переворачивать одновременно только две карточки, так что "
+"тебе надо запомнить, где спрятано число. Затем ты можешь совместить их, если "
+"нашёл вторую половинку. Ты решаешь задачу на равенство, так что надо "
+"сопоставить числа так, чтобы было правильное равенство. После того, как "
+"карточки правильно совмещены, они исчезают. Если ты сделаешь так, чтобы "
+"исчезли все карточки и найдёшь больше операций чем Тукс, ты выиграл игру!"
 
 #: activities/memory-math-add-minus/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5212,15 +5203,15 @@ msgid ""
 "Turn the cards over to find two numbers which add up the same, until all the "
 "cards are gone. Tux do the same. You have to beat it !"
 msgstr ""
+"Переверни карточки, чтобы найти числа, которые складываются одинаково, до "
+"тех пор пока все карточки не исчезнут. Тукс делает то же самое. Ты должен "
+"его победить! "
 
 #: activities/memory-math-add-tux/ActivityInfo.qml:29
 #: activities/memory-math-add/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Practise adding up, until all the cards are gone."
 msgctxt "ActivityInfo|"
 msgid "Practice adding up, until all the cards are gone."
-msgstr "Практикуйтесь в сложении до тех пор, пока карточки не будут удалены."
+msgstr "Практикуйся в сложении до тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-add-tux/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -5248,6 +5239,26 @@ msgid ""
 "disappear! When you've made them all disappear, found more sums than Tux and "
 "you've won the game!"
 msgstr ""
+"Карточки лежат рубашкой вверх. Каждая карточка скрывает операцию сложения "
+"или ответ на неё. \n"
+"Операция сложения выглядит следующим образом: 2 + 2 = 4\n"
+"Числа с одной из сторон от знака равно (=) должно быть таким же как на "
+"другой стороне. Таким образом 2 (1,2) и ещё 2 (3,4) равно 4. Считай в слух, "
+"когда выполняешь упражнение и загибай пальцы.  Потому как, чем больше "
+"способов ты используешь, чтобы выполнить что-то, тем лучше ты запоминаешь. "
+"Ты можешь также использовать палочки или пуговицы, что угодно, что можно "
+"сосчитать. Если у тебя куча братьев и сестёр, можешь считать их! Или "
+"учеников в классе. Пой песню считалку. Считай вещи для практики и ты будешь "
+"уметь хорошо складывать.\n"
+"\n"
+" Тебе надо найти обе части операции сложения и свести их вместе. Щёлкни на "
+"карточке, чтобы узнать какое число она скрывает, затем попробуй найти парную "
+"карточку, чтобы собрать полную сумму. Ты можешь переворачивать одновременно "
+"только две карточки, так что тебе надо запомнить, где спрятано число. Затем "
+"ты можешь совместить их, если нашёл вторую половинку. Ты решаешь задачу на "
+"равенство, так что надо сопоставить числа так, чтобы было правильная сумма. "
+"После того, как карточки правильно совмещены, они исчезают. Если ты сделаешь "
+"так, чтобы исчезли все карточки и найдёшь все суммы, ты выиграл игру!"
 
 #: activities/memory-math-add/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5260,8 +5271,8 @@ msgid ""
 "Turn the cards over to find two numbers which add up the same, until all the "
 "cards are gone."
 msgstr ""
-"Переворачивайте карточки чтобы найти операцию на сложение и её результат до "
-"тех пор, пока все карточки не будут удалены."
+"Переворачивай карточки чтобы найти операцию на сложение и её результат до "
+"тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-add/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -5289,6 +5300,26 @@ msgid ""
 "disappear! When you've made them all disappear, found all the sums, you've "
 "won the game!"
 msgstr ""
+"Карточки лежат рубашкой вверх. Каждая карточка скрывает операцию сложения "
+"или ответ на неё. \n"
+"Операция сложения выглядит следующим образом: 2 + 2 = 4\n"
+"Числа с одной из сторон от знака равно (=) должно быть таким же как на "
+"другой стороне. Таким образом 2 (1,2) и ещё 2 (3,4) равно 4. Считай в слух, "
+"когда выполняешь упражнение и загибай пальцы.  Потому как, чем больше "
+"способов ты используешь, чтобы выполнить что-то, тем лучше ты запоминаешь. "
+"Ты можешь также использовать палочки или пуговицы, что угодно, что можно "
+"сосчитать. Если у тебя куча братьев и сестёр, можешь считать их! Или "
+"учеников в классе. Пой песню считалку. Считай вещи для практики и ты будешь "
+"уметь хорошо складывать.\n"
+"\n"
+" Тебе надо найти обе части операции сложения и свести их вместе. Щёлкни на "
+"карточке, чтобы узнать какое число она скрывает, затем попробуй найти парную "
+"карточку, чтобы собрать полную сумму. Ты можешь переворачивать одновременно "
+"только две карточки, так что тебе надо запомнить, где спрятано число. Затем "
+"ты можешь совместить их, если нашёл вторую половинку. Ты решаешь задачу на "
+"равенство, так что надо сопоставить числа так, чтобы было правильная сумма. "
+"После того, как карточки правильно совмещены, они исчезают. Если ты сделаешь "
+"так, чтобы исчезли все карточки и найдёшь все суммы, ты выиграл игру!"
 
 #: activities/memory-math-div-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5297,12 +5328,9 @@ msgstr "Игра в пары по делению против Тукса"
 
 #: activities/memory-math-div-tux/ActivityInfo.qml:29
 #: activities/memory-math-div/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Practise division, until all the cards are gone."
 msgctxt "ActivityInfo|"
 msgid "Practice division, until all the cards are gone."
-msgstr "Практикуйтесь в делении до тех пор, пока карточки не будут удалены."
+msgstr "Практикуйся в делении до тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-div-tux/ActivityInfo.qml:30
 #: activities/memory-math-div/ActivityInfo.qml:30
@@ -5328,6 +5356,17 @@ msgid ""
 "proper equality. When you do that, both those cards disappear! When you've "
 "made them all disappear, found more than Tux and you've won the game!"
 msgstr ""
+"Карточки лежат рубашкой вверх. Каждая карточка скрывает операцию или ответ "
+"на неё. \n"
+"В этой игре карточки скрывают две части операции. Тебе надо найти обе части "
+"операции и свести их вместе. Щёлкни на карточке, чтобы узнать какое число "
+"она скрывает, затем попробуй найти парную карточку, чтобы собрать полную "
+"операцию. Ты можешь переворачивать одновременно только две карточки, так что "
+"тебе надо запомнить, где спрятано число. Затем ты можешь совместить их, если "
+"нашёл вторую половинку. Ты решаешь задачу на равенство, так что надо "
+"сопоставить числа так, чтобы было правильное равенство. После того, как "
+"карточки правильно совмещены, они исчезают. Если ты сделаешь так, чтобы "
+"исчезли все карточки и найдёшь больше операций чем Тукс, ты выиграл игру!"
 
 #: activities/memory-math-div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5335,8 +5374,6 @@ msgid "Division memory game"
 msgstr "Игра в пары по делению"
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Multiplication memory game against Tux"
 msgctxt "ActivityInfo|"
 msgid "Subtraction memory game against Tux"
 msgstr "Игра в пары по вычитанию против Тукса"
@@ -5348,23 +5385,20 @@ msgid ""
 "Turn the cards over to find two numbers which add or subtract the same, "
 "until all the cards are gone."
 msgstr ""
-"Переворачивайте карточки чтобы найти операцию на сложение или вычитание и её "
-"результат до тех пор, пока все карточки не будут удалены."
+"Переворачивай карточки чтобы найти операцию на сложение или вычитание и её "
+"результат до тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Practise addition, subtraction, until all the cards are gone."
 msgctxt "ActivityInfo|"
 msgid "Practice subtraction, until all the cards are gone. Tux do the same"
 msgstr ""
-"Практикуйтесь в сложении и вычитании до тех пор, пока карточки не будут "
-"удалены."
+"Практикуйся в вычитании до тех пор, пока карточки не исчезнут. Тукс делает "
+"то же самое"
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "subtraction"
-msgstr ""
+msgstr "вычитание"
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -5383,6 +5417,17 @@ msgid ""
 "made them all disappear, found more operations than Tux and you've won the "
 "game!"
 msgstr ""
+"Карточки лежат рубашкой вверх. Каждая карточка скрывает операцию или ответ "
+"на неё. \n"
+"В этой игре карточки скрывают две части операции. Тебе надо найти обе части "
+"операции и свести их вместе. Щёлкни на карточке, чтобы узнать какое число "
+"она скрывает, затем попробуй найти парную карточку, чтобы собрать полную "
+"операцию. Ты можешь переворачивать одновременно только две карточки, так что "
+"тебе надо запомнить, где спрятано число. Затем ты можешь совместить их, если "
+"нашёл вторую половинку. Ты решаешь задачу на равенство, так что надо "
+"сопоставить числа так, чтобы было правильное равенство. После того, как "
+"карточки правильно совмещены, они исчезают. Если ты сделаешь так, чтобы "
+"исчезли все карточки и найдёшь больше операций чем Тукс, ты выиграл игру!"
 
 #: activities/memory-math-minus/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5390,14 +5435,9 @@ msgid "Subtraction memory game"
 msgstr "Игра в пары по вычитанию"
 
 #: activities/memory-math-minus/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Practise addition, subtraction, until all the cards are gone."
 msgctxt "ActivityInfo|"
 msgid "Practice subtraction, until all the cards are gone."
-msgstr ""
-"Практикуйтесь в сложении и вычитании до тех пор, пока карточки не будут "
-"удалены."
+msgstr "Практикуйся в вычитании до тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-mult-div-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5406,14 +5446,10 @@ msgstr "Игра в пары по умножению и делению прот�
 
 #: activities/memory-math-mult-div-tux/ActivityInfo.qml:29
 #: activities/memory-math-mult-div/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Practise multiplication, division, until all the cards are gone."
 msgctxt "ActivityInfo|"
 msgid "Practice multiplication, division, until all the cards are gone."
 msgstr ""
-"Практикуйтесь в умножении и делении до тех пор, пока карточки не будут "
-"удалены."
+"Практикуйся в умножении и делении до тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-mult-div-tux/ActivityInfo.qml:30
 #: activities/memory-math-mult-div/ActivityInfo.qml:30
@@ -5438,17 +5474,14 @@ msgid ""
 "Turn the cards over to find two numbers which multiply the same, until all "
 "the cards are gone."
 msgstr ""
-"Переворачивайте карточки чтобы найти операцию на умножение и её результат до "
-"тех пор, пока все карточки не будут удалены."
+"Переворачивай карточки чтобы найти операцию на умножение и её результат до "
+"тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-mult-tux/ActivityInfo.qml:29
 #: activities/memory-math-mult/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Practise multiplication, until all the cards are gone."
 msgctxt "ActivityInfo|"
 msgid "Practice multiplication, until all the cards are gone."
-msgstr "Практикуйтесь в умножении до тех пор, пока карточки не будут удалены."
+msgstr "Практикуйся в умножении до тех пор, пока все карточки не исчезнут ."
 
 #: activities/memory-math-mult-tux/ActivityInfo.qml:30
 #: activities/memory-math-mult/ActivityInfo.qml:30
@@ -5473,23 +5506,12 @@ msgstr "Играйте в «запоминание мелодий» против
 
 #: activities/memory-sound-tux/ActivityInfo.qml:29
 #: activities/memory-sound/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Train your memory and remove all the cards"
 msgctxt "ActivityInfo|"
 msgid "Train your audio memory and remove all the cards."
-msgstr "Тренируем память и удаляем все карты"
+msgstr "Тренируем звуковую память и удаляем все карты"
 
 #: activities/memory-sound-tux/ActivityInfo.qml:31
 #: activities/memory-sound/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "A set of violinist Tux is shown. Each Tux has an associated sound, and "
-#| "each sound has a twin exactly the same. Click on a Tux to see its hidden "
-#| "sound, and try to match the twins. You can only activate two Tux at once, "
-#| "so you need to remember where a sound is, while you listen to its twin. "
-#| "When you turn over the twins, they both disappear."
 msgctxt "ActivityInfo|"
 msgid ""
 "A set of cards is shown. Each card has an associated sound, and each sound "
@@ -5498,11 +5520,10 @@ msgid ""
 "to remember where a sound is, while you listen to its twin. When you turn "
 "over the twins, they both disappear."
 msgstr ""
-"Показан набор карт. Каждая карта имеет пару с таким же рисунком на обратной "
-"стороне. При щелчке по карте, она переворачивается и показывается обратная "
-"сторона. Но вы можете видеть только две перевёрнутые карты одновременно. Вы "
-"должны запоминать позиции скрытых рисунков. Если вы откроете две карты с "
-"одинаковым рисунком, они удаляются с поля."
+"Показан набор звуковых карт. Каждая карта имеет пару с таким же звуком. При "
+"щелчке по карте, она проигрывает звук. Попробуй найти парный звук. Ты можешь "
+"активировать только две  карты одновременно. Ты должен запоминать звуки. "
+"Если ты откроешь две карты с одинаковым звуком, они удаляются с поля."
 
 #: activities/memory-sound/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5510,13 +5531,9 @@ msgid "Audio memory game"
 msgstr "Игра на запоминание звуков"
 
 #: activities/memory-sound/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Click on Tux the violinist and listen to find the matching sounds"
 msgctxt "ActivityInfo|"
 msgid "Click on cards and listen to find the matching sounds"
-msgstr ""
-"Щёлкните по скрипачу Туксу, прослушай мелодию и подбери подходящие звуки"
+msgstr "Щёлкни по карте, прослушай мелодию и подбери подходящие звуки"
 
 #: activities/memory-tux/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5526,7 +5543,7 @@ msgstr "Игра «Память» против Тукса"
 #: activities/memory-tux/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Flip the cards to find the matching pairs against Tux"
-msgstr ""
+msgstr "Переворачивай карты, чтобы найти совпадающие карты с Туксом"
 
 #: activities/memory-tux/ActivityInfo.qml:29
 #: activities/memory/ActivityInfo.qml:29
@@ -5544,6 +5561,12 @@ msgid ""
 "for its twin. When you turn over the twins, they both disappear. Tux teacher "
 "do the same."
 msgstr ""
+"Показан набор пустых карт. На обратной стороне каждой карты картинка и "
+"каждая карта имеет точно такую же пару. Щелкни на карте, чтобы увидеть "
+"скрытую картинку и постарайся найти пару. Ты можешь перевернуть только две "
+"карты одновременно, так что тебе надо запомнить где находится картинка, "
+"прежде чем искать пару. Когда ты переворачиваешь обе карты, образующие "
+"парой, они исчезают."
 
 #: activities/memory-wordnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5554,8 +5577,8 @@ msgstr "Игра в пары с числами"
 msgctxt "ActivityInfo|"
 msgid "Turn the cards over to match the number with the word matching it."
 msgstr ""
-"Переворачивайте карточки чтобы найти парочку с числом и обозначающим это "
-"число словом"
+"Переворачивай карточки чтобы найти парочку с числом и обозначающим это число "
+"словом"
 
 #: activities/memory-wordnumber/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -5563,18 +5586,13 @@ msgid "Reading numbers, memory."
 msgstr "Чтение чисел, память."
 
 #: activities/memory-wordnumber/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "You can see some cards, but you can't see what's on the other side of "
-#| "them. Each card is hiding a number of number, or the word of the number."
 msgctxt "ActivityInfo|"
 msgid ""
 "You can see some cards, but you can't see what's on the other side of them. "
 "Each card is hiding the numeral form of a number, or the word to write it."
 msgstr ""
-"Карточки расположены рубашкой вверх. Вы можете одновременно перевернуть не "
-"более двух карточек. Подберите две карты с числом и словом, обозначающим это "
+"Карточки расположены рубашкой вверх. Ты можешь одновременно перевернуть не "
+"более двух карточек. Подбери две карты с числом и словом, обозначающим это "
 "число."
 
 #: activities/memory-wordnumber/dataset.js:22
@@ -5633,8 +5651,6 @@ msgid "ten"
 msgstr "десять"
 
 #: activities/memory-wordnumber/dataset.js:33
-#| msgctxt "dataset|"
-#| msgid "seven"
 msgctxt "dataset|"
 msgid "eleven"
 msgstr "одиннадцать"
@@ -5650,15 +5666,11 @@ msgid "thirteen"
 msgstr "тринадцать"
 
 #: activities/memory-wordnumber/dataset.js:36
-#| msgctxt "dataset|"
-#| msgid "four"
 msgctxt "dataset|"
 msgid "fourteen"
 msgstr "четырнадцать"
 
 #: activities/memory-wordnumber/dataset.js:37
-#| msgctxt "ActivityInfo|"
-#| msgid "The fifteen game"
 msgctxt "dataset|"
 msgid "fifteen"
 msgstr "пятнадцать"
@@ -5669,22 +5681,16 @@ msgid "sixteen"
 msgstr "шестнадцать"
 
 #: activities/memory-wordnumber/dataset.js:39
-#| msgctxt "dataset|"
-#| msgid "seven"
 msgctxt "dataset|"
 msgid "seventeen"
 msgstr "семнадцать"
 
 #: activities/memory-wordnumber/dataset.js:40
-#| msgctxt "dataset|"
-#| msgid "eight"
 msgctxt "dataset|"
 msgid "eighteen"
 msgstr "восемнадцать"
 
 #: activities/memory-wordnumber/dataset.js:41
-#| msgctxt "dataset|"
-#| msgid "nine"
 msgctxt "dataset|"
 msgid "nineteen"
 msgstr "девятнадцать"
@@ -5702,9 +5708,8 @@ msgstr "Игра «Память» с картинками"
 #: activities/memory/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Flip the cards to find the matching pairs"
-msgstr "Переворачивай карточки и находи совпадающие пары"
-
-#: activities/memory/ActivityInfo.qml:31
+msgstrmsgstr "Переворачивай карточки и находи совпадающие пары"
+tivities/memory/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
 "A set of blank cards is shown. Each card has a picture on the other side, "
@@ -5745,58 +5750,52 @@ msgid "GCompris Main Menu"
 msgstr "Главное меню GCompris"
 
 #: activities/menu/ActivityInfo.qml:24
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Left-click the mouse on an activity to select it."
 msgctxt "ActivityInfo|"
 msgid "Select an activity to run it."
-msgstr "Щёлкните левой кнопкой мыши на упражнении."
+msgstr "Выберите упражнение, чтобы запустить его."
 
 #: activities/menu/ActivityInfo.qml:25
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "GCompris is a collection of educational games that provides different "
-#| "activities for children aged 2 and up."
 msgctxt "ActivityInfo|"
 msgid ""
 "GCompris is a high quality educational software suite comprising of numerous "
 "activities for children aged 2 to 10."
 msgstr ""
 "GCompris — программная коллекция обучающих игр и упражнений для детей от 2 "
-"лет."
+"лет и старше."
 
 #: activities/menu/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid ""
 "Some of the activities are game orientated, but nonetheless still "
 "educational."
-msgstr ""
+msgstr "Некоторые из упражнений игровые, но тем не менее образовательные."
 
 #: activities/menu/ActivityInfo.qml:27
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
-#| "A simple click on an icon brings you to an activity or a menu of "
-#| "activities.\n"
-#| "At the bottom of the screen is the GCompris control bar.\n"
+#| "Select an icon to enter an activity or to display a list of activities in "
+#| "a category.\n"
+#| "At the bottom of the screen is the GCompris control bar. Notice that you "
+#| "can hide or show the bar by touching its anchor.\n"
 #| "The following icons are displayed from right to left.\n"
 #| "(note that each icon is displayed only if available in the current "
 #| "activity)\n"
-#| "    Home - Exit an activity, go back to menu (ctrl-w and escape key)\n"
-#| "    Thumb - OK. Confirm your answer\n"
+#| "    Home - Exit an activity, go back to menu (Ctrl+W and escape key)\n"
 #| "    Arrows - Display the current level. Click to select another level\n"
 #| "    Lips - Repeat the question\n"
 #| "    Question Mark - Help\n"
 #| "    Tool - The configuration menu\n"
 #| "    Tux Plane - About GCompris\n"
-#| "    Quit - Quit GCompris (ctrl-q)\n"
+#| "    Quit - Quit GCompris (Ctrl+Q)\n"
 #| "The stars show suitable age groups for each game:\n"
-#| "    1, 2 or 3 simple stars  - from 2 to 6 years old\n"
+#| "    1, 2 or 3 simple stars - from 2 to 6 years old\n"
 #| "    1, 2 or 3 complex stars - 7 years and up\n"
 #| "Shortcuts:\n"
-#| "    ctrl-b Show or Hide the control bar\n"
-#| "    ctrl-f Toggle full screen\n"
-#| "    ctrl-m Toggle mute for the background music"
+#| "    Ctrl+B Show or Hide the control bar\n"
+#| "    Ctrl+F Toggle full screen\n"
+#| "    Ctrl+M Toggle mute for the background music\n"
+#| "    Ctrl+S Toggle the activity section bar"
 msgctxt "ActivityInfo|"
 msgid ""
 "Select an icon to enter an activity or to display a list of activities in a "
@@ -5823,15 +5822,17 @@ msgid ""
 "    Ctrl+M Toggle mute for the background music\n"
 "    Ctrl+S Toggle the activity section bar"
 msgstr ""
-"Нажимайте значки для управления упражнениями или выхода в меню.\n"
-"Внизу экрана расположена панель управления GCompris.\n"
+"Нажимай значки для входа в упражнение или выхода отображения списка "
+"упражнений в категории.\n"
+"Внизу экрана расположена панель управления GCompris. Обрати внимание, что ты "
+"можешь показать или скрыть панель нажав на якорь.\n"
 "Справа налево на ней представлены следующие значки:\n"
 "(замечание: значки показываются только если они актуальны в текущем "
 "упражнении)\n"
 "    Домик — возврат в предыдущее меню или выход из упражнения (ctrl-w и "
 "клавиша escape)\n"
 "    Рука — подтверждение вашего ответа \n"
-"    Кубик — показывает текущий уровень сложности. Щелчок по нему меняет "
+"    Стрелки — показывают текущий уровень сложности. Щелчок по ним меняет "
 "уровень\n"
 "    Губы — повтор вопроса\n"
 "    Вопрос — справка\n"
@@ -5844,7 +5845,7 @@ msgstr ""
 "Комбинации клавиш:\n"
 "    ctrl-b показать или скрыть панель управления\n"
 "    ctrl-f полноэкранный режим\n"
-"    ctrl-m вкл/выкл фоновой музыки"
+"    ctrl-m вкл/выкл фоновой музыки     ctrl-s вкл/выкл панели упражнений"
 
 #: activities/menu/ConfigurationItem.qml:72
 msgctxt "ConfigurationItem|"
@@ -5859,7 +5860,7 @@ msgstr "Купить полную версию"
 #: activities/menu/ConfigurationItem.qml:105
 msgctxt "ConfigurationItem|"
 msgid "Show locked activities"
-msgstr ""
+msgstr "Показать заблокированные упражнения"
 
 #: activities/menu/ConfigurationItem.qml:115
 msgctxt "ConfigurationItem|"
@@ -5872,8 +5873,6 @@ msgid "Enable audio effects"
 msgstr "Включить звуковые эффекты"
 
 #: activities/menu/ConfigurationItem.qml:133
-#| msgctxt "DialogConfig|"
-#| msgid "Fullscreen"
 msgctxt "ConfigurationItem|"
 msgid "Fullscreen"
 msgstr "Во весь экран"
@@ -5931,7 +5930,7 @@ msgstr "Проверить обновления"
 #: activities/menu/ConfigurationItem.qml:268
 msgctxt "ConfigurationItem|"
 msgid "Download"
-msgstr ""
+msgstr "Скачать"
 
 #: activities/menu/ConfigurationItem.qml:286
 msgctxt "ConfigurationItem|"
@@ -5939,9 +5938,12 @@ msgid "Difficulty filter:"
 msgstr "Фильтр сложности:"
 
 #: activities/menu/ConfigurationItem.qml:483
+#, fuzzy
+#| msgctxt "ConfigurationItem|"
+#| msgid "You selected a new locale"
 msgctxt "ConfigurationItem|"
 msgid "You selected a new locale."
-msgstr ""
+msgstr "Ты выбрал новую локаль."
 
 #: activities/menu/ConfigurationItem.qml:484
 msgctxt "ConfigurationItem|"
@@ -5979,7 +5981,7 @@ msgid ""
 "Put your favorite activities here by selecting the sun on each activity top "
 "right."
 msgstr ""
-"Помести сюда твои любимые упражнения, нажимая на солнышко в правом верхнем "
+"Помести твои любимые упражнения здесь, выбирая солнышко в правом верхнем "
 "углу упражнения."
 
 #: activities/mining/ActivityInfo.qml:26
@@ -5991,8 +5993,8 @@ msgstr "Добыча золота"
 msgctxt "ActivityInfo|"
 msgid "Use the mousewheel to approach the rockwall and look for gold nuggets."
 msgstr ""
-"Используй колесо мыши чтобы приблизиться к каменной стене для поисков "
-"золотых самородков."
+"Используй колесо мыши чтобы приблизиться к каменной стене для поиска золотых "
+"самородков."
 
 #: activities/mining/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -6000,7 +6002,7 @@ msgid ""
 "Learn to use the mousewheel or the zoom / pinch gesture to zoom in and out."
 msgstr ""
 "Научиться использовать колесико мыши или жесты для увеличения и уменьшения "
-"масштаба."
+"масштаба изображения. "
 
 #: activities/mining/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -6026,6 +6028,17 @@ msgid ""
 "of already collected nuggets and the total number of nuggets to collect in "
 "this level."
 msgstr ""
+"Когда ты смотришь на скальную стену, ты можешь где-то видеть искорку. "
+"Подвинься поближе к этой искорке и используй колёсико мышки или жесты, чтобы "
+"приблизить её. Если ты приблизил до максимума, золотой слиток появится на "
+"месте искорки. Щёлкни на золотой самородок, чтобы собрать его. \n"
+"После того, как ты его собрал, используй колёсико мышки или жесты, чтобы "
+"отдалиться и появится другая искорка, которая показывает где находится "
+"следующий золотой слиток, который можно собрать. Собери достаточное "
+"количество слитков, чтобы закончить уровень. \n"
+"\n"
+"Тележка в правом нижнем углу экрана показывает тебе количество собранных "
+"слитков и сколько всего слитков надо собрать на этом уровне. "
 
 #: activities/mining/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
@@ -6048,21 +6061,26 @@ msgid ""
 "two fingers on the center. On a touch area, drag two fingers away from the "
 "sparkle, one in each direction."
 msgstr ""
+"Найди искорку и приближай, удаляй её. Если у тебя есть мышь, наведи курсор "
+"на искорку и крути колёсико прокрутки. Если у тебя есть сенсорная панель, "
+"наведи курсор на искорку и затем веди один палец в правой области или два "
+"пальца в середине. На сенсорной поверхности разводи два пальца в разные "
+"стороны от искорки. "
 
 #: activities/mining/Mining.qml:424
 msgctxt "Mining|"
 msgid "Perfect you are zooming. Continue until you see the nugget."
-msgstr ""
+msgstr "Ты приближаешь отлично. Продолжай пока ты можешь видеть самородок."
 
 #: activities/mining/Mining.qml:430
 msgctxt "Mining|"
 msgid "Hum, take care, you are zooming too far from the sparkle."
-msgstr ""
+msgstr "Бжж, осторожно, ты удалился слишком далеко от искорки."
 
 #: activities/mining/Mining.qml:436
 msgctxt "Mining|"
 msgid "Now you see the nugget, click on it to catch it."
-msgstr ""
+msgstr "Теперь ты можешь видеть самородок, щёлкни на нём, чтобы поймать его."
 
 #: activities/mining/Mining.qml:442
 msgctxt "Mining|"
@@ -6070,21 +6088,23 @@ msgid ""
 "Hum, you are too far from the nugget to see it. Unzoom then zoom again as "
 "close as you can from the sparkle."
 msgstr ""
+"Бжж, ты слишком далёк от самородка, чтобы увидеть его. Уменьши, а затем "
+"опять приблизь так близко как ты можешь к искорке."
 
 #: activities/mining/Mining.qml:448
 msgctxt "Mining|"
 msgid "Now unzoom and try to find another sparkle."
-msgstr ""
+msgstr "Теперь уменьши и попробуй найти другую искорку."
 
 #: activities/mining/Mining.qml:454
 msgctxt "Mining|"
 msgid "Continue to unzoom until you see the sparkle."
-msgstr ""
+msgstr "Продолжай уменьшать, пока ты видишь искорку."
 
 #: activities/mining/Mining.qml:460
 msgctxt "Mining|"
 msgid "Now you see the sparkle, go ahead, you can zoom on it."
-msgstr ""
+msgstr "Теперь ты видишь искорку, давай, ты можешь её приблизить."
 
 #: activities/missing-letter/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6099,7 +6119,7 @@ msgstr "Базовые навыки чтения"
 #: activities/missing-letter/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "Word reading"
-msgstr "Чтение"
+msgstr "Чтение слов"
 
 #: activities/missing-letter/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -6109,7 +6129,7 @@ msgid ""
 msgstr ""
 "В основной части экрана показывается объект.\n"
 "Над ним напечатано незавершённое слово. \n"
-"Укажите пропущенную букву для завершения слова."
+"Укажи пропущенную букву для завершения слова."
 
 #: activities/money/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6128,9 +6148,9 @@ msgid ""
 "You must buy the different items and give the exact price. At higher levels, "
 "several items are displayed, and you must first calculate the total price."
 msgstr ""
-"Вы должны покупать различные предметы в соответствии с их ценой.\n"
+"Ты должен покупать различные предметы в соответствии с их ценой.\n"
 "На сложных уровнях показывается сразу несколько предметов \n"
-"и вы должны посчитать общую сумму."
+"и ты должен сначала посчитать общую сумму. "
 
 #: activities/money/ActivityInfo.qml:30
 #: activities/money_back/ActivityInfo.qml:30
@@ -6141,20 +6161,15 @@ msgid "Can count"
 msgstr "Умение считать"
 
 #: activities/money/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click on the coins or paper money at the bottom of the screen to pay. If "
-#| "you want to remove a coin or note, click on it on the upper screen area."
 msgctxt "ActivityInfo|"
 msgid ""
 "Click or tap on the coins or paper money at the bottom of the screen to pay. "
 "If you want to remove a coin or note, click or tap on it on the upper screen "
 "area."
 msgstr ""
-"Щёлкайте по монетам или бумажным банкнотам внизу экрана чтобы оплатить "
-"покупку. Если необходимо вернуть монету или банкноту, щёлкните по ней в "
-"верхней части экрана."
+"Щёлкай по монетам или бумажным банкнотам или касайся их внизу экрана чтобы "
+"оплатить покупку. Если необходимо вернуть монету или банкноту, щёлкни по ней "
+"или коснись её в верхней части экрана."
 
 #: activities/money/money.js:661
 msgctxt "money|"
@@ -6162,8 +6177,8 @@ msgid ""
 "Click on the coins or paper money at the bottom of the screen to pay. If you "
 "want to remove a coin or note, click on it on the upper screen area."
 msgstr ""
-"Щёлкайте по монетам или бумажным банкнотам внизу экрана чтобы оплатить "
-"покупку. Если необходимо вернуть монету или банкноту, щёлкните по ней в "
+"Щёлкай по монетам или бумажным банкнотам внизу экрана чтобы оплатить "
+"покупку. Если необходимо вернуть монету или банкноту, щёлкни по ней в "
 "верхней части экрана."
 
 #: activities/money/money.js:701
@@ -6173,20 +6188,19 @@ msgid ""
 "Tux just bought some items in your shop.\n"
 "He gives you %1, please give back his change."
 msgstr ""
+"Тукс только что купил несколько вещей в твоём магазине\n"
+"Он даёт тебе %1, пожалуйста дай ему его сдачу."
 
 #: activities/money_back/ActivityInfo.qml:26
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Give tux his change"
 msgctxt "ActivityInfo|"
 msgid "Give Tux his change"
-msgstr "Дайте Туксу его сдачу"
+msgstr "Дай Туксу его сдачу"
 
 #: activities/money_back/ActivityInfo.qml:27
 #: activities/money_back_cents/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Practice money usage by giving Tux his change"
-msgstr "Упражнение на денежные расчёты"
+msgstr "Упражнение на денежные расчёты - возвращение сдачи Туксу"
 
 #: activities/money_back/ActivityInfo.qml:29
 #: activities/money_back_cents/ActivityInfo.qml:29
@@ -6196,9 +6210,9 @@ msgid ""
 "back his change. At higher levels, several items are displayed, and you must "
 "first calculate the total price."
 msgstr ""
-"Тукс купил различные товары и показал вам свои деньги. Вы должны дать ему "
-"сдачу. На более сложных уровнях показываются несколько товаров, и вы должны "
-"сначала подсчитать общую сумму покупки."
+"Тукс купил различные товары и показал тебе свои деньги. Ты должен дать ему "
+"сдачу. На более сложных уровнях показываются несколько товаров, и ты "
+"долженсначала подсчитать общую сумму покупки."
 
 #: activities/money_back/ActivityInfo.qml:31
 #: activities/money_back_cents/ActivityInfo.qml:31
@@ -6208,13 +6222,11 @@ msgid ""
 "Click on the coins or paper money at the bottom of the screen to pay. If you "
 "want to remove a coin or note, click on it on the upper screen area."
 msgstr ""
-"Щёлкайте по монетам или бумажным банкнотам внизу экрана чтобы оплатить "
-"покупку. Если необходимо вернуть монету или банкноту, щёлкните по ней в "
+"Щёлкай по монетам или бумажным банкнотам внизу экрана чтобы оплатить "
+"покупку. Если необходимо вернуть монету или банкноту, щёлкни по ней в "
 "верхней части экрана."
 
 #: activities/money_back_cents/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Give tux his change, including cents"
 msgctxt "ActivityInfo|"
 msgid "Give Tux his change, including cents"
 msgstr "Отсчитай Туксу его сдачу, включая копейки"
@@ -6239,6 +6251,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "First select the item you want to put then click on a spot on the empty area"
 msgstr ""
+"Сначала выбери нужный предмет, затем кликни на нужное место в пустой области"
 
 #: activities/numbers-odd-even/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6249,6 +6262,7 @@ msgstr "Чётные и нечётные числа"
 msgctxt "ActivityInfo|"
 msgid "Move the helicopter to catch the clouds having even or odd numbers"
 msgstr ""
+"Перемещай вертолёт, чтобы поймать облака с чётными и нечётными числами."
 
 #: activities/numbers-odd-even/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -6258,6 +6272,10 @@ msgid ""
 "target location. To know which number you have to catch you can either "
 "remember it or check the bottom right corner."
 msgstr ""
+"Ловля чётных и нечётных чисел на облаках. На клавиатуре используй клавиши со "
+"стрелками, чтобы переместить вертолёт. На сенсорном устройстве просто "
+"коснись целевой позиции. Чтобы узнать, какое число ловить следующим, надо "
+"либо запоминать предыдущее, либо посмотреть в нижнем правом углу. "
 
 #: activities/penalty/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6265,42 +6283,30 @@ msgid "Penalty kick"
 msgstr "Штрафной удар"
 
 #: activities/penalty/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Double click the mouse on the ball to score a goal."
 msgctxt "ActivityInfo|"
 msgid "Double click or double tap on the ball to score a goal."
-msgstr "Дважды щёлкните мышью по мячу, чтобы забить гол."
+msgstr "Дважды щёлкни мышью по мячу или дважды коснись мяча, чтобы забить гол."
 
 #: activities/penalty/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Double click the mouse on the ball to kick it. You can double click the "
-#| "left right or middle mouse button. If you lose, Tux catches the ball. You "
-#| "must click on it to bring it back to its former position"
 msgctxt "ActivityInfo|"
 msgid ""
 "Double click or double tap on the ball to kick it. You can double click the "
 "left right or middle mouse button. If you lose, Tux catches the ball. You "
 "must click on it to bring it back to its former position"
 msgstr ""
-"Дважды щёлкните мышью по мячу, чтобы ударить по нему. Вы можете дважды "
-"щёлкнуть левой, правой или средней кнопкой мыши. Если вы ошиблись, Тукс "
-"ловит мяч. Дважды щёлкните по нему, чтобы вернуть его на прежнее место"
+"Дважды щёлкни мышью по мячу или дважды коснись мяча, чтобы ударить по нему. "
+"Ты можешь дважды щёлкнуть левой, правой или средней кнопкой мыши. Если ты "
+"ошибся, Тукс ловит мяч. Щёлкни по нему, чтобы вернуть его на прежнее место"
 
 #: activities/penalty/Penalty.qml:278
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Double click the mouse on the ball to score a goal."
 msgctxt "Penalty|"
 msgid "Double click or double tap on the ball to kick it."
-msgstr "Дважды щёлкните мышью по мячу, чтобы забить гол."
+msgstr "Дважды щёлкни мышью по мячу или дважды коснись мяча, чтобы забить гол."
 
 #: activities/penalty/Penalty.qml:318
 msgctxt "Penalty|"
 msgid "Click or tap the ball to bring it back to its former position"
-msgstr ""
+msgstr "Кликни или нажми мяч, чтобы вернуть его в предыдущую позицию"
 
 #: activities/planegame/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6310,7 +6316,9 @@ msgstr "Порядок чисел"
 #: activities/planegame/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Move the helicopter to catch the clouds in the correct order"
-msgstr "Перемещай вертолёт так, чтобы поймать облака в правильном порядке"
+msgstr ""
+"Перемещай вертолёт так, чтобы поймать облака\n"
+"в правильном порядке"
 
 #: activities/planegame/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -6320,28 +6328,35 @@ msgid ""
 "target location. To know which number you have to catch you can either "
 "remember it or check the bottom right corner."
 msgstr ""
+"Лови облака от маленького числа к большому. На клавиатуре используй клавиши "
+"со стрелками, чтобы двигать вертолёт. На сенсорном экране просто нажми на "
+"целевой позиции. Чтобы узнать, какое число ловить следующим, надо либо "
+"запоминать предыдущее, либо посмотреть в нижнем правом углу."
 
 #: activities/redraw/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Redraw the given image"
-msgstr "Перерисуй картинку"
+msgstr "Перерисуй показанную картинку."
 
 #: activities/redraw/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Draw perfectly the given image on the empty grid."
-msgstr ""
+msgstr "Нарисуй точно такое же изображение на пустой сетке."
 
 #: activities/redraw/ActivityInfo.qml:31
 #: activities/redraw_symmetrical/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "First, select the proper color from the toolbar. Then drag to paint."
 msgstr ""
+"Для начала выбери правильный цвет на панеле инструментов. Затем "
+"перетаскивай, чтобы рисовать."
 
 #: activities/redraw/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid ""
 "At the first level a hint is provided to show that no symmetry is requested."
 msgstr ""
+"На первом уровне показывается подсказка, что не надо рисовать симметрично."
 
 #: activities/redraw_symmetrical/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6358,6 +6373,7 @@ msgctxt "ActivityInfo|"
 msgid ""
 "At the first level a hint is provided to show that a symmetry is requested."
 msgstr ""
+"На первом уровне показывается подсказка, что надо рисовать симметрично."
 
 #: activities/reversecount/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6373,17 +6389,11 @@ msgstr ""
 "подсчитывая льдинки на пути к ним."
 
 #: activities/reversecount/ActivityInfo.qml:30
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Can move the mouse, can read numbers and subtract numbers up to 10 for "
-#| "the first level"
 msgctxt "ActivityInfo|"
 msgid ""
 "Can read numbers on a dice, and count intervals up to 10 for the first level"
 msgstr ""
-"Умение двигать мышь, читать числа и вычитать их в пределах до десяти для "
-"первого уровня"
+"Умение читать числа и вычитать их в пределах до десяти для первого уровня"
 
 #: activities/reversecount/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -6419,19 +6429,19 @@ msgid ""
 "To balance the scales, move the weights on the left or the right side. The "
 "weights can be arranged in any order."
 msgstr ""
-"Чтобы уравновесить весы, перемещайте гири на левую или правую стороны. Гири "
+"Чтобы уравновесить весы, перемещай гири на левую или правую стороны. Гири "
 "могут располагаться в любом порядке."
 
 #: activities/scalesboard/ScaleNumber.qml:44
 #: activities/scalesboard/ScaleNumber.qml:73
 msgctxt "ScaleNumber|"
 msgid "Take care, you can drop weights on both sides of the scale."
-msgstr "Вы можете перемещать гири на обе стороны весов."
+msgstr "Ты можешь перемещать гири на обе стороны весов."
 
 #: activities/scalesboard/ScaleNumber.qml:66
 msgctxt "ScaleNumber|"
 msgid "Now you have to guess the weight of the gift."
-msgstr ""
+msgstr "Теперь ты должен указать вес подарка"
 
 #: activities/scalesboard/ScaleNumber.qml:67
 #: activities/scalesboard/ScaleNumber.qml:74
@@ -6441,12 +6451,12 @@ msgstr ""
 #, qt-format
 msgctxt "ScaleNumber|"
 msgid "Enter the weight of the gift: %1"
-msgstr ""
+msgstr "Введи вес подарка: %1"
 
 #: activities/scalesboard_weight/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop masses to balance the scales and calculate the weight"
-msgstr "Размещайте гири для уравновешивания весов и подсчёта веса"
+msgstr "Размещай гири для уравновешивания весов и подсчёта веса"
 
 #: activities/scalesboard_weight/ActivityInfo.qml:29
 #: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:29
@@ -6455,12 +6465,6 @@ msgid "Mental calculation, arithmetic equality, unit conversion"
 msgstr "Счёт в уме, арифметическое равенство, преобразование единиц"
 
 #: activities/scalesboard_weight/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "To balance the scales, move the masses on the left or the right side. "
-#| "Take care of the weight and the unit of the masses, remember that a "
-#| "kilogram (kg) is 1000 grams (g). They can be arranged in any order."
 msgctxt "ActivityInfo|"
 msgid ""
 "To balance the scales, move the masses on the left or the right side. They "
@@ -6468,7 +6472,8 @@ msgid ""
 "masses, remember that a kilogram (kg) is 1000 grams (g)."
 msgstr ""
 "Чтобы уравновесить весы, перемещайте гири на левую или правую стороны. Гири "
-"могут располагаться в любом порядке."
+"могут располагаться в любом порядке. Обращай внимание на вес и единицу "
+"массы, запомни, что килограмм (кг) равен 1000 грамм (г)"
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:28
 #, qt-format
@@ -6485,7 +6490,7 @@ msgstr "%1 кг"
 #: activities/scalesboard_weight/ScalesboardWeight.qml:42
 msgctxt "ScalesboardWeight|"
 msgid "The \"kg\" symbol at the end of a number means kilogram."
-msgstr ""
+msgstr "Символ \"кг\" в конце числа означает килограмм."
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:43
 msgctxt "ScalesboardWeight|"
@@ -6493,6 +6498,8 @@ msgid ""
 "The kilogram is a unit of mass, a property which corresponds to the common "
 "perception of how \"heavy\" an object is."
 msgstr ""
+"Килограмм - это единица массы, Свойство которое соответствует общему "
+"представлению того, на сколько тяжел объект."
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:52
 msgctxt "ScalesboardWeight|"
@@ -6500,11 +6507,13 @@ msgid ""
 "The \"g\" symbol at the end of a number means gram. One kilogram equals 1000 "
 "grams"
 msgstr ""
+"Символ \"г\" в конце числа означает граммы. Один килограмм равен 1000 "
+"граммам."
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:60
 msgctxt "ScalesboardWeight|"
 msgid "Remember, one kilogram (\"kg\") equals 1000 grams (\"g\")."
-msgstr ""
+msgstr "Запомни, один килограмм (кг) равен 1000 граммам (г)."
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:66
 #: activities/scalesboard_weight/ScalesboardWeight.qml:100
@@ -6512,19 +6521,19 @@ msgstr ""
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:82
 msgctxt "ScalesboardWeight|"
 msgid "Take care, you can drop weights on both sides of the scale."
-msgstr "Вы можете перемещать гири на обе стороны весов."
+msgstr "Обрати внимание, что ты можешь перемещать гири на обе стороны весов."
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:85
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:74
 msgctxt "ScalesboardWeight|"
 msgid "Now you have to guess the weight of the gift."
-msgstr ""
+msgstr "Теперь ты должен угадать вес подарка."
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:86
 #, qt-format
 msgctxt "ScalesboardWeight|"
 msgid "Enter the weight of the gift in kilogram: %1"
-msgstr ""
+msgstr "Введи вес подарка в килограммах: %1"
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:94
 #: activities/scalesboard_weight/ScalesboardWeight.qml:101
@@ -6535,12 +6544,12 @@ msgstr ""
 #, qt-format
 msgctxt "ScalesboardWeight|"
 msgid "Enter the weight of the gift in gram: %1"
-msgstr ""
+msgstr "Введи вес подарка в граммах: %1"
 
 #: activities/scalesboard_weight/ScalesboardWeight.qml:109
 msgctxt "ScalesboardWeight|"
 msgid "Remember, one kilo ('kg') equals 1000 grams ('g')."
-msgstr ""
+msgstr "Запомни, один килограмм (кг) равен 1000 граммам (г)."
 
 #: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6548,39 +6557,38 @@ msgid ""
 "Drag and Drop masses to balance the scales and calculate the weight in the "
 "avoirdupois unit"
 msgstr ""
+"Перетаскивай и отпускай массы, чтобы уравновесить весы и подсчитать вес в "
+"единицах системы мер веса эвердьюпойс (принятая в Англии и США для всех "
+"товаров, кроме благородных металлов, драгоценных камней и лекарств); фунт (= "
+"454 г);"
 
 #: activities/scalesboard_weight_avoirdupois/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "To balance the scales, move the masses on the left or the right side. "
-#| "Take care of the weight and the unit of the masses, remember that a "
-#| "kilogram (kg) is 1000 grams (g). They can be arranged in any order."
 msgctxt "ActivityInfo|"
 msgid ""
 "To balance the scales, move the masses on the left or the right side. They "
 "can be arranged in any order. Take care of the weight and the unit of the "
 "masses, remember that a pound (lb) is 16 ounce (oz)."
 msgstr ""
-"Чтобы уравновесить весы, перемещайте гири на левую или правую стороны. Гири "
-"могут располагаться в любом порядке."
+"Чтобы уравновесить весы, перемещай гири на левую или правую стороны. Гири "
+"могут располагаться в любом порядке. Обращай внимание на вес и единицу "
+"массы. Запомни, что 1 фунт (lb) равен 16 унциям (oz)."
 
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:27
 #, qt-format
 msgctxt "ScalesboardWeight|"
 msgid "%1 oz"
-msgstr ""
+msgstr "%1 oz"
 
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:32
 #, qt-format
 msgctxt "ScalesboardWeight|"
 msgid "%1 lb"
-msgstr ""
+msgstr "%1 lb"
 
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:41
 msgctxt "ScalesboardWeight|"
 msgid "The \"lb\" symbol at the end of a number means pound."
-msgstr ""
+msgstr "Символ \"lb\" в конце числа означает фунт."
 
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:42
 msgctxt "ScalesboardWeight|"
@@ -6588,6 +6596,9 @@ msgid ""
 "The pound is a unit of mass, a property which corresponds to the common "
 "perception of how \"heavy\" an object is. This unit is used in the USA."
 msgstr ""
+"Фунт является единицей массы. Свойство которое соответствует общему "
+"представлению того, на сколько тяжел объект. Эта единица измерения "
+"используется в США. "
 
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:51
 msgctxt "ScalesboardWeight|"
@@ -6595,18 +6606,22 @@ msgid ""
 "The \"oz\" symbol at the end of a number means ounce. One pound equals "
 "sixteen ounces"
 msgstr ""
+"Символ \"oz\" в конце числа означает унцию. Один фунт эквивалентен 16 "
+"унциям. Один килограмм эквивалентен примерно 35 унциям."
 
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:59
 msgctxt "ScalesboardWeight|"
 msgid "Remember, one pound (\"lb\") equals sixteen ounces (\"oz\")."
 msgstr ""
+"Запомните, что один фунт (\"lb\") эквивалентен шестнадцати унциям (\"oz\"). "
+"(один фунт равен 454 граммам)"
 
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:75
 #: activities/scalesboard_weight_avoirdupois/ScalesboardWeight.qml:83
 #, qt-format
 msgctxt "ScalesboardWeight|"
 msgid "Enter the weight of the gift in ounce: %1"
-msgstr ""
+msgstr "Введите вес подарка одновременно"
 
 #: activities/simplepaint/ActivityInfo.qml:26
 #, fuzzy
@@ -6638,7 +6653,7 @@ msgstr ""
 #: activities/smallnumbers/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Numbers With Dice"
-msgstr "Числа на кубиках"
+msgstr "Числа на игральных кубиках"
 
 #: activities/smallnumbers/ActivityInfo.qml:27
 #: activities/smallnumbers2/ActivityInfo.qml:27
@@ -6670,15 +6685,12 @@ msgstr ""
 #: activities/smallnumbers2/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Numbers with pairs of dice"
-msgstr "Числа на парах кубиков"
+msgstr "Числа на парах игральных кубиков"
 
 #: activities/sudoku/ActivityInfo.qml:26
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Sudoku, place unique symbols in a square."
 msgctxt "ActivityInfo|"
 msgid "Sudoku, place unique symbols in a grid"
-msgstr "Судоку"
+msgstr "Судоку, помести уникальный символ в сетке."
 
 #: activities/sudoku/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6689,15 +6701,6 @@ msgstr ""
 "и (если определено) в каждой области."
 
 #: activities/sudoku/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
-#| "each cell of a grid, most frequently a 9x9 grid made up of 3x3 subgrids "
-#| "(called 'regions'), starting with various symbols or numerals given in "
-#| "some cells (the 'givens'). Each row, column and region must contain only "
-#| "one instance of each symbol or numeral (Source &lt;http://en.wikipedia."
-#| "org/wiki/Sudoku&gt;)."
 msgctxt "ActivityInfo|"
 msgid ""
 "The aim of the puzzle is to enter a symbol or numeral from 1 through 9 in "
@@ -6710,15 +6713,20 @@ msgid ""
 msgstr ""
 "Цель головоломки состоит в том, чтобы ввести символ или цифру от 1 до 9 в "
 "каждой ячейке сетки (наиболее часто используется сетка 9x9, составленная из "
-"областей 3x3). В начале игры в некоторых ячейках даны различные начальные "
-"символы или цифры («данные»). Каждая строка, столбец и область должны "
-"содержать только уникальные символы или цифры (источник: &lt;http://en."
-"wikipedia.org/wiki/Sudoku&gt;)."
+"областей 3x3). В GCompris мы начинаем с начального уровня с упрощённой "
+"версией использования символов и без регионов. Игровое поле представляет "
+"собой квадрат размером 9×9, разделённый на меньшие квадраты со стороной в 3 "
+"клетки. Таким образом, всё игровое поле состоит из 81 клетки. В них уже в "
+"начале игры стоят некоторые числа (от 1 до 9), называемые подсказками. От "
+"игрока требуется заполнить свободные клетки цифрами от 1 до 9 так, чтобы в "
+"каждой строке, в каждом столбце и в каждом малом квадрате 3×3 каждая цифра "
+"встречалась бы только один раз. (источник: &lt;https://ru.wikipedia.org/wiki/"
+"Судоку&gt;)."
 
 #: activities/sudoku/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Completing the puzzle requires patience and logical ability"
-msgstr "Для разгадывания загадки требуется терпение и логика"
+msgstr "Для разгадывания головоломки требуется терпение и логика"
 
 #: activities/sudoku/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -6726,6 +6734,8 @@ msgid ""
 "Select a number or a symbol on the left and click on its target position. "
 "GCompris will not let you enter invalid data."
 msgstr ""
+"Выбери число или символ слева и нажми на новую позицию. GCompris не позволит "
+"тебе вести неверные данные."
 
 #: activities/superbrain/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6736,9 +6746,17 @@ msgstr "Супермозг"
 #: activities/superbrain/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Tux has hidden several items. Find them again in the correct order"
-msgstr ""
+msgstr "Тукс спрятал несколько предметов. Найди их в правильном порядке."
 
 #: activities/superbrain/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Click on the items until you find what you think is the correct answer. "
+#| "Then, click on the OK button. In the lower levels, Tux gives you an "
+#| "indication if you found a hiding place by marking the item with a black "
+#| "box. You can use the right mouse button to flip the colors in the "
+#| "opposite order."
 msgctxt "ActivityInfo|"
 msgid ""
 "Click on the items until you find what you think is the correct answer. "
@@ -6749,58 +6767,54 @@ msgid ""
 "or on the touch screen to automatically choose the last color selected on a "
 "column."
 msgstr ""
+"Нажимай на предмет до тех пор, пока ты не найдёшь ответ, который считаешь "
+"верным. Затем нажми кнопку ОК. На простых уровнях Тукс даёт тебе знак, если "
+"ты нашёл скрытое место, маркируя предметы чёрным прямоугольником. Ты можешь "
+"использовать правую клавишу мыши, чтобы перевернуть цвета в обратном порядке."
 
 #: activities/superbrain/Superbrain.qml:148
 msgctxt "Superbrain|"
 msgid "This item is well placed"
-msgstr ""
+msgstr "Этот элемент помещён правильно"
 
 #: activities/superbrain/Superbrain.qml:150
 msgctxt "Superbrain|"
 msgid "This item is misplaced"
-msgstr ""
+msgstr "Этот элемент не на своём месте"
 
 #: activities/target/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Practice addition with a target game"
-msgstr "Подсчёт очков при игре в дартс"
+msgstr "Упражнение на сложение за игрой в дротики"
 
 #: activities/target/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Hit the target and count your points"
-msgstr "Кидайте стрелки в мишень и подсчитывайте выпавшие очки"
+msgstr "Кидай дротики в мишень и подсчитывай выпавшие очки"
 
 #: activities/target/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Throw darts at a target and count your score."
-msgstr "Бросайте стрелки в мишень и подсчитывайте выпавшие очки."
+msgstr "Бросай дротики в мишень и подсчитывай выпавшие очки."
 
 #: activities/target/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid ""
 "Can move the mouse, can read numbers and count up to 15 for the first level"
 msgstr ""
-"Навыки управления мышью, чтения чисел и \n"
-"сложение до 15 для первого уровня"
+"Навыки управления мышью, чтения чисел и сложение до 15 для первого уровня"
 
 #: activities/target/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Check the wind speed and direction, and then click on the target to "
-#| "launch a dart. When you all your darts are thrown, a window appears "
-#| "asking you to count your score. Enter the score with the keyboard then "
-#| "press the Enter key or the OK button."
 msgctxt "ActivityInfo|"
 msgid ""
 "Check the speed and direction of the target, and then click on it to launch "
 "a dart. When all your darts are thrown, you are asked to count your score. "
 "Enter the score with the keyboard."
 msgstr ""
-"Сперва проверьте скорость и силу ветра.\n"
-"Затем щелчком на мишени бросьте стрелку и запомните счёт.\n"
-"Когда все стрелки будут брошены, появится окно с вопросом. \n"
-"Введите свой счёт с клавиатуры и нажмите клавишу Enter или кнопку OK."
+"Сперва проверь скорость и силу ветра.\n"
+"Затем щелчком на мишени брось дротик и запомни счёт.\n"
+"Когда все дротики будут брошены, появится окно с вопросом. \n"
+"Введи свой счёт с клавиатуры и нажми клавишу Enter или кнопку OK."
 
 #: activities/tic_tac_toe/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -6811,7 +6825,7 @@ msgstr "Крестики-нолики против Тукса"
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Place three marks in a row"
-msgstr ""
+msgstr "Помести три метки в ряд."
 
 #: activities/tic_tac_toe/ActivityInfo.qml:32
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:32
@@ -6820,55 +6834,44 @@ msgid ""
 "Place three respective marks in any horizontal, vertical, or diagonal row to "
 "win the game"
 msgstr ""
+"Помести три последовательные метки на любой горизонтальный, вертикальный или "
+"диагональный ряд, чтобы выиграть игру."
 
 #: activities/tic_tac_toe/ActivityInfo.qml:34
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click the position in the line where you want to drop a piece. You can "
-#| "also use the arrow keys to move the piece left or right, and the down or "
-#| "space key to drop a piece."
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with the computer. Take turns to click on the square which you want to "
 "mark. First player to create a line of 3 marks wins"
 msgstr ""
-"Переместите шарик в нужную позицию и щёлкните левой кнопкой мыши для того, "
-"чтобы бросить его. Вы также можете использовать клавиши со стрелками на "
-"клавиатуре для перемещения шарика и клавишу со стрелкой вниз или пробел для "
-"бросания шарика."
+"Игра с компьютером. В свою очередь нажми на прямоугольник, который ты хочешь "
+"пометить.Первый игрок, создавший линию с тремя пометками выигрывает."
 
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Tic Tac Toe (2 players)"
 msgctxt "ActivityInfo|"
 msgid "Tic Tac Toe (with a friend)"
 msgstr "Крестики-нолики с другом"
 
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:34
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click the position in the line where you want to drop a piece. You can "
-#| "also use the arrow keys to move the piece left or right, and the down or "
-#| "space key to drop a piece."
 msgctxt "ActivityInfo|"
 msgid ""
 "Play with a friend. Take turns to click on the square which you want to "
 "mark. First player to create a line of 3 marks wins"
 msgstr ""
-"Переместите шарик в нужную позицию и щёлкните левой кнопкой мыши для того, "
-"чтобы бросить его. Вы также можете использовать клавиши со стрелками на "
-"клавиатуре для перемещения шарика и клавишу со стрелкой вниз или пробел для "
-"бросания шарика."
+"Игра с друзьями. В свою очередь нажми на прямоугольник, который ты хочешь "
+"пометить.Первый игрок, создавший линию с тремя пометками выигрывает."
 
 #: activities/traffic/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "A sliding-block puzzle game"
-msgstr "Головоломка с подвижными блоками"
+msgstr "Головоломка с передвижными блоками"
 
 #: activities/traffic/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Remove the red car from the parking lot through the gate on the right"
-msgstr "Освободите достаточно места, чтобы красный автомобиль уехал направо"
+msgstr "Освободи достаточно места, чтобы красный автомобиль уехал направо"
 
 #: activities/traffic/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -6876,12 +6879,10 @@ msgid ""
 "Each car can only move either horizontally or vertically. You must make some "
 "room in order to let the red car move through the gate on the right."
 msgstr ""
-"Каждый автомобиль может двигаться только горизонтально или вертикально. Вы "
-"должны освободить достаточно места, чтобы красный автомобиль уехал направо."
+"Каждый автомобиль может двигаться только горизонтально или вертикально. Ты "
+"должен освободить достаточно места, чтобы красный автомобиль уехал направо."
 
 #: activities/traffic/Traffic.qml:118
-#| msgctxt "ActivityInfo|"
-#| msgid "Colors"
 msgctxt "Traffic|"
 msgid "Colors"
 msgstr "Сплошной цвет"
@@ -6889,14 +6890,12 @@ msgstr "Сплошной цвет"
 #: activities/traffic/Traffic.qml:119
 msgctxt "Traffic|"
 msgid "Images"
-msgstr "Картинки"
-
-#: activities/traffic/Traffic.qml:131
+msgstr "msgstr "Картинки"
+vities/traffic/Traffic.qml:131
 msgctxt "Traffic|"
 msgid "Select your mode"
-msgstr "Выбери вид блоков"
-
-#: activities/wordsgame/ActivityInfo.qml:26
+msgstr "msgstr "Выбери вид блоков"
+vities/wordsgame/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Falling Words"
 msgstr "Падающие слова"
@@ -6904,7 +6903,7 @@ msgstr "Падающие слова"
 #: activities/wordsgame/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Type the falling words before they reach the ground"
-msgstr "Набирайте падающие слова до того, как они упадут на землю"
+msgstr "Набирай падающие слова до того, как они упадут на землю"
 
 #: activities/wordsgame/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -6924,17 +6923,17 @@ msgstr "Наберите слово полностью пока оно пада�
 #: core/BuyMeOverlay.qml:57
 msgctxt "BuyMeOverlay|"
 msgid "This activity is only available in the full version of GCompris."
-msgstr ""
+msgstr "Эта деятельность доступна только в полной версии GCompris."
 
 #: core/BuyMeOverlay.qml:68
 msgctxt "BuyMeOverlay|"
 msgid "Buy the full version"
-msgstr ""
+msgstr "Купить полную версию"
 
 #: core/core.js:182
 msgctxt "core|"
 msgid "Missing sound files!"
-msgstr ""
+msgstr "Отсутствуют звуковые файлы!"
 
 #: core/core.js:183
 msgctxt "core|"
@@ -6942,24 +6941,24 @@ msgid ""
 "This activity uses language sound files, that are not yet installed on your "
 "system."
 msgstr ""
+"Эта деятельность использует звуковые файлы, которые не были установлены на "
+"вашей системе."
 
 #: core/core.js:185
 msgctxt "core|"
 msgid "For downloading the needed sound files go to the preferences dialog."
-msgstr ""
+msgstr "Для загрузки звуковых фалов пройдите в диалог параметров"
 
 #: core/core.js:212
-#, fuzzy
-#| msgctxt "instruments|"
-#| msgid "Find the triangle"
 msgctxt "core|"
 msgid "Download in progress"
-msgstr "Найдите треугольник"
+msgstr "Выполняется загрузка"
 
 #: core/core.js:214
 msgctxt "core|"
 msgid "Download in progress.<br/>'Abort' it to quit immediately."
 msgstr ""
+"Выполняется загрузка. <br/> Нажмите 'Отмена', чтобы выйти незамедлительно."
 
 #: core/core.js:224
 msgctxt "core|"
@@ -7011,7 +7010,7 @@ msgstr "GCompris %1"
 #, qt-format
 msgctxt "DialogAbout|"
 msgid "Based on Qt %1"
-msgstr ""
+msgstr "Базируется на Qt %1"
 
 #: core/DialogAbout.qml:47
 msgctxt "DialogAbout|"
@@ -7022,6 +7021,8 @@ msgstr "Домашняя страница GCompris: http://gcompris.net"
 msgctxt "DialogAbout|"
 msgid "<b>GCompris</b> is a Free Software developed within the KDE community."
 msgstr ""
+"<b>GCompris</b> является свободным программным обеспечением разработанным "
+"сообществом KDE."
 
 #: core/DialogAbout.qml:58
 #, qt-format
@@ -7037,6 +7038,15 @@ msgid ""
 ">Visit <a href=\"%2\">%2</a> for more information about the KDE community "
 "and the software we produce."
 msgstr ""
+"<b>KDE</b> - это  всемирная сеть инженеров программного обеспечения, "
+"артистов, писателей, переводчиков и координаторов, которые вносят вклад в "
+"разработку <a href=\"%1\">Свободного ПО. Это сообщество создало сотни "
+"открытых приложений как часть фреймворка KDE. рабочего окружения и "
+"приложений.<br /><br /> KDE является корпоративным предприятием, в котором "
+"никто не контролирует достижения или продукты в ущерб другим. Все "
+"приглашаются присоединиться и вносить вклад в KDE, включая тебя. <br /><br /"
+"> Посети <a href=\"%2\">%2</a> для получения больше информации о сообществе "
+"KDE ПО, которое мы производим."
 
 #: core/DialogAbout.qml:75
 #, qt-format
@@ -7084,13 +7094,13 @@ msgstr ""
 #, qt-format
 msgctxt "DialogAbout|"
 msgid "<b>A big thanks to the development team:</b> %1"
-msgstr ""
+msgstr "<b>Огромное спасибо команде разработчиков:</b> %1"
 
 #: core/DialogAbout.qml:125
 #, qt-format
 msgctxt "DialogAbout|"
 msgid "<b>A big thanks to the translation team:</b> %1"
-msgstr ""
+msgstr "<b>Огромное спасибо команде переводчиков:</b> %1"
 
 #: core/DialogActivityConfig.qml:91
 #, qt-format
@@ -7157,17 +7167,17 @@ msgstr "Ошибка загрузки"
 #: core/DownloadDialog.qml:280
 msgctxt "DownloadDialog|"
 msgid "Your download finished successfully. The data files are now available."
-msgstr ""
+msgstr "Загрузка завершена успешно. Файлы данных теперь доступны."
 
 #: core/DownloadDialog.qml:282
 msgctxt "DownloadDialog|"
 msgid "Restart any currently active activity."
-msgstr ""
+msgstr "Перезапустить любое текущее упражнение"
 
 #: core/DownloadDialog.qml:284
 msgctxt "DownloadDialog|"
 msgid "Your local data files are up-to-date."
-msgstr ""
+msgstr "Ваши локальные файлы с данными актуальны."
 
 #: core/LanguageList.qml:43
 msgctxt "LanguageList|"
@@ -7177,14 +7187,13 @@ msgstr "Стандартный в системе"
 #: core/main.cpp:120
 msgctxt "QObject|"
 msgid "Run GCompris with the default system cursor."
-msgstr "Запустить GCompris со стандартным системным курсором мыши."
+msgstr "Запустить GCompris со стандартным системным указателем мыши."
 
 #: core/main.cpp:123
 msgctxt "QObject|"
 msgid "Run GCompris without cursor (touch screen mode)."
-msgstr "Запустить GCompris без указателя мыши (режим сенсорного экрана)"
-
-#: core/main.cpp:126
+msgstr msgstr "Запустить GCompris без указателя мыши (режим сенсорного экрана)"
+e/main.cpp:126
 msgctxt "QObject|"
 msgid "Run GCompris in fullscreen mode."
 msgstr "Запустить GCompris в полноэкранном режиме."
@@ -7197,7 +7206,7 @@ msgstr "Запустить GCompris в оконном режиме."
 #: core/main.cpp:132
 msgctxt "QObject|"
 msgid "Run GCompris with sound enabled."
-msgstr "Запустить GCompris со включённым звуком."
+msgstr "Активирован запуск GCompris со звуком."
 
 #: core/main.cpp:135
 msgctxt "QObject|"
@@ -7249,7 +7258,7 @@ msgstr "Ваш текущий язык %1 (%2)."
 #: core/main.qml:129
 msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
-msgstr "Загрузить соответствующие звуковые файлы сейчас?"
+msgstr "Вы хотите загрузить соответствующие звуковые файлы?"
 
 #: core/main.qml:130
 msgctxt "main|"
@@ -7266,12 +7275,13 @@ msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Я готов"
 
-#, fuzzy
-#~| msgctxt "ActivityInfo|"
-#~| msgid "Addition"
-#~ msgctxt "board4_1|"
-#~ msgid "Aviation"
-#~ msgstr "Сложение"
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Align four"
+#~ msgstr "Выстраивание четырёх"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Tic Tac Toe"
+#~ msgstr "Крестики нолики"
 
 #, fuzzy
 #~| msgid ""
