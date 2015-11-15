@@ -4007,7 +4007,7 @@ msgstr "Ханойская башня"
 #| msgid "Draw the picture by clicking on each numbers in the right order."
 msgctxt "ActivityInfo|"
 msgid "Reproduce the tower on the right side"
-msgstr "Нарисуйте рисунок, щёлкая по числам в правильном порядке."
+msgstr "Воспроизведи башню с правой стороны"
 
 #: activities/hanoi_real/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -7207,12 +7207,12 @@ msgstr "Запустить GCompris без звука."
 #: core/main.cpp:138
 msgctxt "QObject|"
 msgid "Disable the configuration button."
-msgstr ""
+msgstr "Дезактивировать конфигурационную кнопку"
 
 #: core/main.cpp:141
 msgctxt "QObject|"
 msgid "Enable the configuration button (default)."
-msgstr ""
+msgstr "Активировать конфигурационную кнопку (по умолчанию)"
 
 #: core/main.qml:119
 msgctxt "main|"
@@ -7222,7 +7222,7 @@ msgstr "Добро пожаловать в GCompris!"
 #: core/main.qml:120
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
-msgstr ""
+msgstr "Вы запустили GCompris в первый раз."
 
 #: core/main.qml:121
 msgctxt "main|"
@@ -7231,6 +7231,9 @@ msgid ""
 "set correctly, and that all language specific sound files are installed. You "
 "can do this in the Preferences Dialog."
 msgstr ""
+"Удостоверьтесь, что ваши настройки приложения, особенно языковые настройки, "
+"установлены правильно и, что все необходимые звуковые файлы установлены. Вы "
+"можете это осуществить в Диалоге настроек."
 
 #: core/main.qml:123
 msgctxt "main|"
