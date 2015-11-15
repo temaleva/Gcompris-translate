@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-11-15 18:44+0100\n"
+"PO-Revision-Date: 2015-11-15 20:16+0100\n"
 "Last-Translator: Alexandr Smirnov\n"
 "Language-Team: Russian <kde-i18n-de@kde.org>\n"
 "Language: ru\n"
@@ -913,12 +913,11 @@ msgid "The Lady and the Unicorn - XVe century"
 msgstr "Дама с единорогом - XV век"
 
 #: activities/babyshapes/resource/board/board7_3.qml:25
-#, fuzzy
 #| msgctxt "board5_0|"
 #| msgid "Vincent van Gogh, The Harvest - 1888"
 msgctxt "board7_3|"
 msgid "Vincent van Gogh, Bedroom in Arles - 1888"
-msgstr "Винсент Ван Гог, «Жатва», 1888"
+msgstr "Винсент Ван Гог, Спальня в Арле - 1888"
 
 #: activities/babyshapes/resource/board/board7_4.qml:25
 msgctxt "board7_4|"
@@ -981,30 +980,42 @@ msgid ""
 "clicking on the 'Save' button on the right side.\n"
 "To return to the configuration dialog click on the home-button on the bar or "
 "press Escape on your keyboard or the back button on your mobile device."
-msgstr "Проведи мяч к двери."
+msgstr ""
+"Проведи мяч к двери. Будь осторожен, не позволь ему провалиться "
+" в дыры. Чтобы отворить дверь, надо нажимать пронумерованные "
+"контактные кнопки в коробке в правильном порядке. Мяч можно передвигать "
+"наклоняя своё мобильное устройство. На персональном ПК используй "
+"клавиши со стрелками, чтобы сымитировать наклон.\n"
+"\n"
+"В <b>Конфигурационном диалоге<b> можно выбрать между 'Встроенным' "
+"стандартным набором уровней и тем, который определяет пользователь "
+"('Пользовательский'). Пользовательский набор уровней может быть создан, "
+"если выбрать 'Пользовательский' набор уровней и запустить редактор "
+"уровней, нажав на соответствующую клавишу.\n"
+"\n"
+"В редакторе уровней"
 
 #: activities/balancebox/Balancebox.qml:496
 msgctxt "Balancebox|"
 msgid "Built-in"
-msgstr ""
+msgstr "Встроенный"
 
 #: activities/balancebox/Balancebox.qml:497
 msgctxt "Balancebox|"
 msgid "User"
-msgstr ""
+msgstr "Пользовательский"
 
 #: activities/balancebox/Balancebox.qml:508
-#, fuzzy
 #| msgctxt "Gletters|"
 #| msgid "Select your locale"
 msgctxt "Balancebox|"
 msgid "Select your level set"
-msgstr "Выбери твой язык"
+msgstr "Выбери свой набор уровней"
 
 #: activities/balancebox/Balancebox.qml:515
 msgctxt "Balancebox|"
 msgid "Start Editor"
-msgstr ""
+msgstr "Запустить редактор"
 
 #: activities/balancebox/Balancebox.qml:547
 msgctxt "Balancebox|"
@@ -1013,32 +1024,37 @@ msgid ""
 "user levels!<br/> Either create your user levels by starting the level "
 "editor or choose the 'built-in' level set."
 msgstr ""
+"Ты выбрал пользовательский набор уровней, но не определил ещё "
+"ни одного пользовательского уровня!<br/> Либо создай свой пользовательский "
+"набор уровней, запустив редактор уровней, либо используй 'встроенный' набор "
+"уровней."
 
 #: activities/balancebox/Balancebox.qml:549
 msgctxt "Balancebox|"
 msgid "Ok"
-msgstr ""
+msgstr "Ок"
 
 #: activities/balancebox/editor/balanceboxeditor.js:158
 #, qt-format
 msgctxt "balanceboxeditor|"
 msgid "Error saving %1 levels to your levels file (%2)"
-msgstr ""
+msgstr "Ошибка сохранения уровней %1 в твой файл уровней (%2)"
 
 #: activities/balancebox/editor/balanceboxeditor.js:163
 #, qt-format
 msgctxt "balanceboxeditor|"
 msgid "Saved %1 levels to your levels file (%2)"
-msgstr ""
+msgstr "Сохранены %1 уровней в твой файл уровней (%2)"
 
 #: activities/balancebox/editor/balanceboxeditor.js:277
 msgctxt "balanceboxeditor|"
 msgid ""
 "You have unsaved changes!<br/> Really leave this level and lose changes?"
 msgstr ""
+"Имеются несохранённые изменения! <br> Действительно покинуть этот уровень и "
+"потерять изменения?"
 
 #: activities/balancebox/editor/balanceboxeditor.js:279
-#, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "Yes"
 msgctxt "balanceboxeditor|"
@@ -1046,7 +1062,6 @@ msgid "Yes"
 msgstr "Да"
 
 #: activities/balancebox/editor/balanceboxeditor.js:284
-#, fuzzy
 #| msgctxt "ConfigurationItem|"
 #| msgid "No"
 msgctxt "balanceboxeditor|"
@@ -1056,12 +1071,12 @@ msgstr "Нет"
 #: activities/balancebox/editor/BalanceboxEditor.qml:151
 msgctxt "BalanceboxEditor|"
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 #: activities/balancebox/editor/BalanceboxEditor.qml:159
 msgctxt "BalanceboxEditor|"
 msgid "Test"
-msgstr ""
+msgstr "Тест"
 
 #: activities/ballcatch/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
