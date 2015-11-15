@@ -17,9 +17,10 @@
 # Alexandr Smirnov <smirnoff.al@gmail.com>, 2015.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-06-23 06:39+0300\n"
-"Last-Translator: Alexander Potashev <aspotashev@gmail.com>\n"
-"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2015-11-15 18:44+0100\n"
+"Last-Translator: Alexandr Smirnov\n"
+"Language-Team: Russian <kde-i18n-de@kde.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +29,7 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: ru\n"
 "X-Qt-Contexts: true\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: activities/advanced_colors/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -36,9 +37,6 @@ msgid "Advanced colors"
 msgstr "Сложные цвета"
 
 #: activities/advanced_colors/ActivityInfo.qml:27
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Click on the correct color"
 msgctxt "ActivityInfo|"
 msgid "Select the butterfly of the correct color"
 msgstr "Выберите бабочку правильного цвета"
@@ -59,443 +57,517 @@ msgid ""
 "You will see dancing butterflies of different colors and a question. You "
 "have to find the correct butterfly and touch it."
 msgstr ""
-Вы увидите бабочек разных цветов и текст вопроса. Нужно будет найти "
+"Вы увидите бабочек разных цветов и текст вопроса. Нужно будет найти "
 "правильную бабочку и нажать на неё."
-#: activities/advanced_colors/advanced_colors.js:24
-#: activities/advanced_colors/advanced_colors.js:441
+
+#. Look at http://gcompris.net/wiki/Advanced_color_translation to see all the advanced colors Color #FF7F50
+#. ----------
+#. Color #FF7F50
+#: activities/advanced_colors/advanced_colors.js:26
+#: activities/advanced_colors/advanced_colors.js:541
 msgctxt "advanced_colors|"
 msgid "Find the coral butterfly"
 msgstr "Найдите бабочку кораллового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:28
-#: activities/advanced_colors/advanced_colors.js:58
-#: activities/advanced_colors/advanced_colors.js:495
-#: activities/advanced_colors/advanced_colors.js:535
-#: activities/advanced_colors/advanced_colors.js:593
-#: activities/advanced_colors/advanced_colors.js:607
-#: activities/advanced_colors/advanced_colors.js:699
+#. Color #7F1734
+#: activities/advanced_colors/advanced_colors.js:31
+#: activities/advanced_colors/advanced_colors.js:68
+#: activities/advanced_colors/advanced_colors.js:608
+#: activities/advanced_colors/advanced_colors.js:657
+#: activities/advanced_colors/advanced_colors.js:729
+#: activities/advanced_colors/advanced_colors.js:746
+#: activities/advanced_colors/advanced_colors.js:860
 msgctxt "advanced_colors|"
 msgid "Find the claret butterfly"
 msgstr "Найдите бабочку бордового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:32
-#: activities/advanced_colors/advanced_colors.js:274
-#: activities/advanced_colors/advanced_colors.js:467
+#. Color #000080
+#: activities/advanced_colors/advanced_colors.js:36
+#: activities/advanced_colors/advanced_colors.js:335
+#: activities/advanced_colors/advanced_colors.js:573
 msgctxt "advanced_colors|"
 msgid "Find the navy butterfly"
 msgstr "Найдите бабочку тёмно-синего цвета"
 
-#: activities/advanced_colors/advanced_colors.js:36
-#: activities/advanced_colors/advanced_colors.js:66
+#. Color #FBEC5D
+#: activities/advanced_colors/advanced_colors.js:41
+#: activities/advanced_colors/advanced_colors.js:78
 msgctxt "advanced_colors|"
 msgid "Find the corn butterfly"
 msgstr "Найдите бабочку кукурузного цвета"
-#: activities/advanced_colors/advanced_colors.js:40
-#: activities/advanced_colors/advanced_colors.js:70
+
+#. Color #0047AB
+#: activities/advanced_colors/advanced_colors.js:46
+#: activities/advanced_colors/advanced_colors.js:83
 msgctxt "advanced_colors|"
 msgid "Find the cobalt butterfly"
 msgstr "Найдите бабочку цвета кобальта синего"
 
-#: activities/advanced_colors/advanced_colors.js:44
-#: activities/advanced_colors/advanced_colors.js:74
-#: activities/advanced_colors/advanced_colors.js:403
+#. Color #00FFFF
+#: activities/advanced_colors/advanced_colors.js:51
+#: activities/advanced_colors/advanced_colors.js:88
+#: activities/advanced_colors/advanced_colors.js:494
 msgctxt "advanced_colors|"
 msgid "Find the cyan butterfly"
 msgstr "Найдите бабочку цианового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:48
-#: activities/advanced_colors/advanced_colors.js:78
-#: activities/advanced_colors/advanced_colors.js:437
-#: activities/advanced_colors/advanced_colors.js:491
-#: activities/advanced_colors/advanced_colors.js:501
-#: activities/advanced_colors/advanced_colors.js:569
+#. Color #954535
+#: activities/advanced_colors/advanced_colors.js:56
+#: activities/advanced_colors/advanced_colors.js:93
+#: activities/advanced_colors/advanced_colors.js:536
+#: activities/advanced_colors/advanced_colors.js:603
+#: activities/advanced_colors/advanced_colors.js:615
+#: activities/advanced_colors/advanced_colors.js:699
 msgctxt "advanced_colors|"
 msgid "Find the chestnut butterfly"
 msgstr "Найдите бабочку каштанового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:52
-#: activities/advanced_colors/advanced_colors.js:82
+#. Color #AB784E
+#: activities/advanced_colors/advanced_colors.js:61
+#: activities/advanced_colors/advanced_colors.js:98
 msgctxt "advanced_colors|"
 msgid "Find the almond butterfly"
 msgstr "Найдите бабочку миндального цвета"
 
-#: activities/advanced_colors/advanced_colors.js:62
-#: activities/advanced_colors/advanced_colors.js:695
+#. Color #0F52BA
+#: activities/advanced_colors/advanced_colors.js:73
+#: activities/advanced_colors/advanced_colors.js:855
 msgctxt "advanced_colors|"
 msgid "Find the sapphire butterfly"
 msgstr "Найдите бабочку сапфирового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:86
-#: activities/advanced_colors/advanced_colors.js:184
+#. Color #E0115F
+#: activities/advanced_colors/advanced_colors.js:103
+#: activities/advanced_colors/advanced_colors.js:224
 msgctxt "advanced_colors|"
 msgid "Find the ruby butterfly"
 msgstr "Найдите бабочку рубинового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:92
-#: activities/advanced_colors/advanced_colors.js:679
+#. Color #882D17
+#: activities/advanced_colors/advanced_colors.js:110
+#: activities/advanced_colors/advanced_colors.js:835
 msgctxt "advanced_colors|"
 msgid "Find the sienna butterfly"
 msgstr "Найдите бабочку цвета сиены"
 
-#: activities/advanced_colors/advanced_colors.js:96
+#. Color #BCB88A
+#: activities/advanced_colors/advanced_colors.js:115
 msgctxt "advanced_colors|"
 msgid "Find the sage butterfly"
 msgstr "Найдите бабочку шалфейного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:100
-#: activities/advanced_colors/advanced_colors.js:427
-#: activities/advanced_colors/advanced_colors.js:581
+#. Color #FF8C69
+#: activities/advanced_colors/advanced_colors.js:120
+#: activities/advanced_colors/advanced_colors.js:524
+#: activities/advanced_colors/advanced_colors.js:714
 msgctxt "advanced_colors|"
 msgid "Find the salmon butterfly"
 msgstr "Найдите бабочку лососёвого цвета"
 
-#: activities/advanced_colors/advanced_colors.js:104
-#: activities/advanced_colors/advanced_colors.js:389
-#: activities/advanced_colors/advanced_colors.js:649
+#. Color #704214
+#: activities/advanced_colors/advanced_colors.js:125
+#: activities/advanced_colors/advanced_colors.js:477
+#: activities/advanced_colors/advanced_colors.js:798
 msgctxt "advanced_colors|"
 msgid "Find the sepia butterfly"
 msgstr "Найдите бабочку цвета сепии"
 
-#: activities/advanced_colors/advanced_colors.js:108
+#. Color #E4BB25
+#: activities/advanced_colors/advanced_colors.js:130
 msgctxt "advanced_colors|"
 msgid "Find the sulfur butterfly"
 msgstr "Найдите бабочку серного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:112
-#: activities/advanced_colors/advanced_colors.js:671
+#. Color #DB6D7B
+#: activities/advanced_colors/advanced_colors.js:135
+#: activities/advanced_colors/advanced_colors.js:825
 msgctxt "advanced_colors|"
 msgid "Find the tea butterfly"
 msgstr "Найдите бабочку чайного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:116
+#. Color #BFFF00
+#: activities/advanced_colors/advanced_colors.js:140
 msgctxt "advanced_colors|"
 msgid "Find the lime butterfly"
 msgstr "Найдите бабочку цвета лайма "
 
-#: activities/advanced_colors/advanced_colors.js:120
+#. Color #40E0D0
+#: activities/advanced_colors/advanced_colors.js:145
 msgctxt "advanced_colors|"
 msgid "Find the turquoise butterfly"
 msgstr "Найдите бабочку бирюзового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:126
+#. Color #73B881
+#: activities/advanced_colors/advanced_colors.js:152
 msgctxt "advanced_colors|"
 msgid "Find the absinthe butterfly"
 msgstr "Найдите бабочку цвета абсента"
 
-#: activities/advanced_colors/advanced_colors.js:130
+#. Color #C04000
+#: activities/advanced_colors/advanced_colors.js:157
 msgctxt "advanced_colors|"
 msgid "Find the mahogany butterfly"
 msgstr "Найдите бабочку цвета красного дерева"
 
-#: activities/advanced_colors/advanced_colors.js:134
-#: activities/advanced_colors/advanced_colors.js:627
+#. Color #7FFFD4
+#: activities/advanced_colors/advanced_colors.js:162
+#: activities/advanced_colors/advanced_colors.js:771
 msgctxt "advanced_colors|"
 msgid "Find the aquamarine butterfly"
 msgstr "Найдите бабочку аквамаринового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:138
-#: activities/advanced_colors/advanced_colors.js:433
+#. Color #F2F0E6
+#: activities/advanced_colors/advanced_colors.js:167
+#: activities/advanced_colors/advanced_colors.js:531
 msgctxt "advanced_colors|"
 msgid "Find the alabaster butterfly"
 msgstr "Найдите бабочку алебастрового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:142
-#: activities/advanced_colors/advanced_colors.js:585
+#. Color #FFBF00
+#: activities/advanced_colors/advanced_colors.js:172
+#: activities/advanced_colors/advanced_colors.js:719
 msgctxt "advanced_colors|"
 msgid "Find the amber butterfly"
 msgstr "Найдите бабочку янтарного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:146
+#. Color #9966CC
+#: activities/advanced_colors/advanced_colors.js:177
 msgctxt "advanced_colors|"
 msgid "Find the amethyst butterfly"
 msgstr "Найдите бабочку аметистового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:150
-#: activities/advanced_colors/advanced_colors.js:529
-#: activities/advanced_colors/advanced_colors.js:637
+#. Color #F5EACC
+#: activities/advanced_colors/advanced_colors.js:182
+#: activities/advanced_colors/advanced_colors.js:650
+#: activities/advanced_colors/advanced_colors.js:783
 msgctxt "advanced_colors|"
 msgid "Find the anise butterfly"
 msgstr "Найдите бабочку анисового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:154
-#: activities/advanced_colors/advanced_colors.js:300
-#: activities/advanced_colors/advanced_colors.js:461
+#. Color #E34234
+#: activities/advanced_colors/advanced_colors.js:187
+#: activities/advanced_colors/advanced_colors.js:367
+#: activities/advanced_colors/advanced_colors.js:566
 msgctxt "advanced_colors|"
 msgid "Find the vermilion butterfly"
 msgstr "Найдите бабочку цвета киновари"
 
-#: activities/advanced_colors/advanced_colors.js:160
+#. Color #EEEBEB
+#: activities/advanced_colors/advanced_colors.js:194
 msgctxt "advanced_colors|"
 msgid "Find the ceruse butterfly"
 msgstr "Найдите бабочку цвета свинцовых белил"
 
-#: activities/advanced_colors/advanced_colors.js:164
-#: activities/advanced_colors/advanced_colors.js:407
-#: activities/advanced_colors/advanced_colors.js:521
-#: activities/advanced_colors/advanced_colors.js:539
+#. Color #E5AA70
+#: activities/advanced_colors/advanced_colors.js:199
+#: activities/advanced_colors/advanced_colors.js:499
+#: activities/advanced_colors/advanced_colors.js:640
+#: activities/advanced_colors/advanced_colors.js:662
 msgctxt "advanced_colors|"
 msgid "Find the fawn butterfly"
 msgstr "Найдите бабочку желтовато-коричневого цвета"
 
-#: activities/advanced_colors/advanced_colors.js:168
-#: activities/advanced_colors/advanced_colors.js:589
+#. Color #7FFF00
+#: activities/advanced_colors/advanced_colors.js:204
+#: activities/advanced_colors/advanced_colors.js:724
 msgctxt "advanced_colors|"
 msgid "Find the chartreuse butterfly"
 msgstr "Найдите бабочку салатового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:172
+#. Color #50C878
+#: activities/advanced_colors/advanced_colors.js:209
 msgctxt "advanced_colors|"
 msgid "Find the emerald butterfly"
 msgstr "Найдите бабочку изумрудного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:176
-#: activities/advanced_colors/advanced_colors.js:194
-#: activities/advanced_colors/advanced_colors.js:393
-#: activities/advanced_colors/advanced_colors.js:399
-#: activities/advanced_colors/advanced_colors.js:509
-#: activities/advanced_colors/advanced_colors.js:577
-#: activities/advanced_colors/advanced_colors.js:683
+#. Color #614051
+#: activities/advanced_colors/advanced_colors.js:214
+#: activities/advanced_colors/advanced_colors.js:236
+#: activities/advanced_colors/advanced_colors.js:482
+#: activities/advanced_colors/advanced_colors.js:489
+#: activities/advanced_colors/advanced_colors.js:625
+#: activities/advanced_colors/advanced_colors.js:709
+#: activities/advanced_colors/advanced_colors.js:840
 msgctxt "advanced_colors|"
 msgid "Find the aubergine butterfly"
 msgstr "Найдите бабочку баклажанового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:180
-#: activities/advanced_colors/advanced_colors.js:657
+#. Color #CC397B
+#: activities/advanced_colors/advanced_colors.js:219
+#: activities/advanced_colors/advanced_colors.js:808
 msgctxt "advanced_colors|"
 msgid "Find the fuchsia butterfly"
 msgstr "Найдите бабочку цвета фуксии"
 
-#: activities/advanced_colors/advanced_colors.js:188
+#. Color #6082B6
+#: activities/advanced_colors/advanced_colors.js:229
 msgctxt "advanced_colors|"
 msgid "Find the glaucous butterfly"
 msgstr "Найдите бабочку сизого цвета"
 
-#: activities/advanced_colors/advanced_colors.js:198
-#: activities/advanced_colors/advanced_colors.js:369
+#. Color #A52A2A
+#: activities/advanced_colors/advanced_colors.js:241
+#: activities/advanced_colors/advanced_colors.js:452
 msgctxt "advanced_colors|"
 msgid "Find the auburn butterfly"
 msgstr "Найдите бабочку красно-коричневого цвета"
 
-#: activities/advanced_colors/advanced_colors.js:202
-#: activities/advanced_colors/advanced_colors.js:381
+#. Color #458AC6
+#: activities/advanced_colors/advanced_colors.js:246
+#: activities/advanced_colors/advanced_colors.js:467
 msgctxt "advanced_colors|"
 msgid "Find the azure butterfly"
 msgstr "Найдите бабочку лазурного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:206
-#: activities/advanced_colors/advanced_colors.js:563
+#. Color #9F7F58
+#: activities/advanced_colors/advanced_colors.js:251
+#: activities/advanced_colors/advanced_colors.js:692
 msgctxt "advanced_colors|"
 msgid "Find the grayish brown butterfly"
 msgstr "Найдите бабочку бурого цвета"
 
-#: activities/advanced_colors/advanced_colors.js:210
+#. Color #3D2B1F
+#: activities/advanced_colors/advanced_colors.js:256
 msgctxt "advanced_colors|"
 msgid "Find the bistre butterfly"
 msgstr "Найдите бабочку цвета бистр"
 
-#: activities/advanced_colors/advanced_colors.js:214
-#: activities/advanced_colors/advanced_colors.js:555
+#. Color #DC143C
+#: activities/advanced_colors/advanced_colors.js:261
+#: activities/advanced_colors/advanced_colors.js:682
 msgctxt "advanced_colors|"
 msgid "Find the crimson butterfly"
 msgstr "Найдите бабочку малинового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:218
+#. Color #ACE1AF
+#: activities/advanced_colors/advanced_colors.js:266
 msgctxt "advanced_colors|"
 msgid "Find the celadon butterfly"
 msgstr "Найдите бабочку селадонового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:222
-#: activities/advanced_colors/advanced_colors.js:471
-#: activities/advanced_colors/advanced_colors.js:641
+#. Color #007BA7
+#: activities/advanced_colors/advanced_colors.js:271
+#: activities/advanced_colors/advanced_colors.js:578
+#: activities/advanced_colors/advanced_colors.js:788
 msgctxt "advanced_colors|"
 msgid "Find the cerulean butterfly"
 msgstr "Найдите бабочку бледно-лазурного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:228
-#: activities/advanced_colors/advanced_colors.js:551
+#. Color #8B8E8D
+#: activities/advanced_colors/advanced_colors.js:278
+#: activities/advanced_colors/advanced_colors.js:677
 msgctxt "advanced_colors|"
 msgid "Find the dove butterfly"
 msgstr "Найдите бабочку голубиного серого цвета"
 
-#: activities/advanced_colors/advanced_colors.js:232
+#. Color #943543
+#: activities/advanced_colors/advanced_colors.js:283
 msgctxt "advanced_colors|"
 msgid "Find the garnet butterfly"
 msgstr "Найдите бабочку гранатового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:236
-#: activities/advanced_colors/advanced_colors.js:547
+#. Color #4B0082
+#: activities/advanced_colors/advanced_colors.js:288
+#: activities/advanced_colors/advanced_colors.js:672
 msgctxt "advanced_colors|"
 msgid "Find the indigo butterfly"
 msgstr "Найдите бабочку цвета индиго"
 
-#: activities/advanced_colors/advanced_colors.js:240
-#: activities/advanced_colors/advanced_colors.js:445
-#: activities/advanced_colors/advanced_colors.js:645
+#. Color #FFFFF0
+#: activities/advanced_colors/advanced_colors.js:293
+#: activities/advanced_colors/advanced_colors.js:546
+#: activities/advanced_colors/advanced_colors.js:793
 msgctxt "advanced_colors|"
 msgid "Find the ivory butterfly"
 msgstr "Найдите бабочку цвета слоновой кости"
 
-#: activities/advanced_colors/advanced_colors.js:244
+#. Color #00A86B
+#: activities/advanced_colors/advanced_colors.js:298
 msgctxt "advanced_colors|"
 msgid "Find the jade butterfly"
 msgstr "Найдите бабочку нефритового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:248
+#. Color #B57EDC
+#: activities/advanced_colors/advanced_colors.js:303
 msgctxt "advanced_colors|"
 msgid "Find the lavender butterfly"
 msgstr "Найдите бабочку цвета лаванды"
 
-#: activities/advanced_colors/advanced_colors.js:252
+#. Color #9BC4AF
+#: activities/advanced_colors/advanced_colors.js:308
 msgctxt "advanced_colors|"
 msgid "Find the lichen butterfly"
 msgstr "Найдите бабочку цвета лишайника"
 
-#: activities/advanced_colors/advanced_colors.js:256
-#: activities/advanced_colors/advanced_colors.js:483
-#: activities/advanced_colors/advanced_colors.js:517
+#. Color #722F37
+#: activities/advanced_colors/advanced_colors.js:313
+#: activities/advanced_colors/advanced_colors.js:593
+#: activities/advanced_colors/advanced_colors.js:635
 msgctxt "advanced_colors|"
 msgid "Find the wine butterfly"
 msgstr "Найдите бабочку винного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:262
-#: activities/advanced_colors/advanced_colors.js:623
+#. Color #9955BB
+#: activities/advanced_colors/advanced_colors.js:320
+#: activities/advanced_colors/advanced_colors.js:766
 msgctxt "advanced_colors|"
 msgid "Find the lilac butterfly"
 msgstr "Найдите бабочку сиреневого цвета"
 
-#: activities/advanced_colors/advanced_colors.js:266
-#: activities/advanced_colors/advanced_colors.js:525
-#: activities/advanced_colors/advanced_colors.js:631
+#. Color #FF00FF
+#: activities/advanced_colors/advanced_colors.js:325
+#: activities/advanced_colors/advanced_colors.js:645
+#: activities/advanced_colors/advanced_colors.js:776
 msgctxt "advanced_colors|"
 msgid "Find the magenta butterfly"
 msgstr "Найдите бабочку пурпурного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:270
-#: activities/advanced_colors/advanced_colors.js:475
+#. Color #0BDA51
+#: activities/advanced_colors/advanced_colors.js:330
+#: activities/advanced_colors/advanced_colors.js:583
 msgctxt "advanced_colors|"
 msgid "Find the malachite butterfly"
 msgstr "Найдите бабочку малахитового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:278
+#. Color #D9C3AD
+#: activities/advanced_colors/advanced_colors.js:340
 msgctxt "advanced_colors|"
 msgid "Find the larch butterfly"
 msgstr "Найдите бабочку цвета дерева лиственницы"
 
-#: activities/advanced_colors/advanced_colors.js:282
-#: activities/advanced_colors/advanced_colors.js:411
+#. Color #EFC050
+#: activities/advanced_colors/advanced_colors.js:345
+#: activities/advanced_colors/advanced_colors.js:504
 msgctxt "advanced_colors|"
 msgid "Find the mimosa butterfly"
 msgstr "Найдите бабочку цвета мимозы"
 
-#: activities/advanced_colors/advanced_colors.js:286
-#: activities/advanced_colors/advanced_colors.js:415
+#. Color #CC7722
+#: activities/advanced_colors/advanced_colors.js:350
+#: activities/advanced_colors/advanced_colors.js:509
 msgctxt "advanced_colors|"
 msgid "Find the ochre butterfly"
 msgstr "Найдите бабочку цвета охры"
 
-#: activities/advanced_colors/advanced_colors.js:290
-#: activities/advanced_colors/advanced_colors.js:365
+#. Color #808000
+#: activities/advanced_colors/advanced_colors.js:355
+#: activities/advanced_colors/advanced_colors.js:447
 msgctxt "advanced_colors|"
 msgid "Find the olive butterfly"
 msgstr "Найдите бабочку оливкового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:296
-#: activities/advanced_colors/advanced_colors.js:479
-#: activities/advanced_colors/advanced_colors.js:513
+#. Color #F7F9F4
+#: activities/advanced_colors/advanced_colors.js:362
+#: activities/advanced_colors/advanced_colors.js:588
+#: activities/advanced_colors/advanced_colors.js:630
 msgctxt "advanced_colors|"
 msgid "Find the opaline butterfly"
 msgstr "Найдите бабочку опалового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:304
-#: activities/advanced_colors/advanced_colors.js:611
+#. Color #120A8F
+#: activities/advanced_colors/advanced_colors.js:372
+#: activities/advanced_colors/advanced_colors.js:751
 msgctxt "advanced_colors|"
 msgid "Find the ultramarine butterfly"
 msgstr "Найдите бабочку ультрамаринового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:308
+#. Color #E0B0FF
 #: activities/advanced_colors/advanced_colors.js:377
-#: activities/advanced_colors/advanced_colors.js:449
+#: activities/advanced_colors/advanced_colors.js:462
+#: activities/advanced_colors/advanced_colors.js:551
 msgctxt "advanced_colors|"
 msgid "Find the mauve butterfly"
 msgstr "Найдите бабочку розовато-лилового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:312
-#: activities/advanced_colors/advanced_colors.js:573
-#: activities/advanced_colors/advanced_colors.js:615
+#. Color #91A3B0
+#: activities/advanced_colors/advanced_colors.js:382
+#: activities/advanced_colors/advanced_colors.js:704
+#: activities/advanced_colors/advanced_colors.js:756
 msgctxt "advanced_colors|"
 msgid "Find the grayish blue butterfly"
 msgstr "Найдите бабочку голубовато-серого цвета"
 
-#: activities/advanced_colors/advanced_colors.js:316
-#: activities/advanced_colors/advanced_colors.js:487
-#: activities/advanced_colors/advanced_colors.js:691
+#. Color #93C572
+#: activities/advanced_colors/advanced_colors.js:387
+#: activities/advanced_colors/advanced_colors.js:598
+#: activities/advanced_colors/advanced_colors.js:850
 msgctxt "advanced_colors|"
 msgid "Find the pistachio butterfly"
 msgstr "Найдите бабочку фисташкового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:320
-#: activities/advanced_colors/advanced_colors.js:543
+#. Color #AEADA5
+#: activities/advanced_colors/advanced_colors.js:392
+#: activities/advanced_colors/advanced_colors.js:667
 msgctxt "advanced_colors|"
 msgid "Find the platinum butterfly"
 msgstr "Найдите бабочку платинового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:324
-#: activities/advanced_colors/advanced_colors.js:597
-#: activities/advanced_colors/advanced_colors.js:665
+#. Color #32004A
+#: activities/advanced_colors/advanced_colors.js:397
+#: activities/advanced_colors/advanced_colors.js:734
+#: activities/advanced_colors/advanced_colors.js:818
 msgctxt "advanced_colors|"
 msgid "Find the purple butterfly"
 msgstr "Найдите бабочку фиолетово-красного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:330
-#: activities/advanced_colors/advanced_colors.js:385
-#: activities/advanced_colors/advanced_colors.js:453
-#: activities/advanced_colors/advanced_colors.js:603
-#: activities/advanced_colors/advanced_colors.js:661
+#. Color #5C3960
+#: activities/advanced_colors/advanced_colors.js:404
+#: activities/advanced_colors/advanced_colors.js:472
+#: activities/advanced_colors/advanced_colors.js:556
+#: activities/advanced_colors/advanced_colors.js:741
+#: activities/advanced_colors/advanced_colors.js:813
 msgctxt "advanced_colors|"
 msgid "Find the plum butterfly"
 msgstr "Найдите бабочку сливового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:334
-#: activities/advanced_colors/advanced_colors.js:419
+#. Color #003153
+#: activities/advanced_colors/advanced_colors.js:409
+#: activities/advanced_colors/advanced_colors.js:514
 msgctxt "advanced_colors|"
 msgid "Find the prussian blue butterfly"
 msgstr "Найдите бабочку цвета берлинской лазури"
 
-#: activities/advanced_colors/advanced_colors.js:338
-#: activities/advanced_colors/advanced_colors.js:423
-#: activities/advanced_colors/advanced_colors.js:457
-#: activities/advanced_colors/advanced_colors.js:687
+#. Color #B7410E
+#: activities/advanced_colors/advanced_colors.js:414
+#: activities/advanced_colors/advanced_colors.js:519
+#: activities/advanced_colors/advanced_colors.js:561
+#: activities/advanced_colors/advanced_colors.js:845
 msgctxt "advanced_colors|"
 msgid "Find the rust butterfly"
 msgstr "Найдите бабочку цвета ржавчины"
 
-#: activities/advanced_colors/advanced_colors.js:342
+#. Color #F4C430
+#: activities/advanced_colors/advanced_colors.js:419
 msgctxt "advanced_colors|"
 msgid "Find the saffron butterfly"
 msgstr "Найдите бабочку шафранового цвета"
 
-#: activities/advanced_colors/advanced_colors.js:346
+#. Color #F3E5AB
+#: activities/advanced_colors/advanced_colors.js:424
 msgctxt "advanced_colors|"
 msgid "Find the vanilla butterfly"
 msgstr "Найдите бабочку ванильного цвета"
 
-#: activities/advanced_colors/advanced_colors.js:350
-#: activities/advanced_colors/advanced_colors.js:559
+#. Color #40826D
+#: activities/advanced_colors/advanced_colors.js:429
+#: activities/advanced_colors/advanced_colors.js:687
 msgctxt "advanced_colors|"
 msgid "Find the veronese butterfly"
 msgstr "Найдите бабочку цвета вер-гинье"
 
-#: activities/advanced_colors/advanced_colors.js:354
-#: activities/advanced_colors/advanced_colors.js:653
+#. Color #529371
+#: activities/advanced_colors/advanced_colors.js:434
+#: activities/advanced_colors/advanced_colors.js:803
 msgctxt "advanced_colors|"
 msgid "Find the verdigris butterfly"
 msgstr "Найдите бабочку цвета ярь-медянки"
 
-#: activities/advanced_colors/advanced_colors.js:358
-#: activities/advanced_colors/advanced_colors.js:373
-#: activities/advanced_colors/advanced_colors.js:505
-#: activities/advanced_colors/advanced_colors.js:619
-#: activities/advanced_colors/advanced_colors.js:675
+#. Color #32004A
+#: activities/advanced_colors/advanced_colors.js:439
+#: activities/advanced_colors/advanced_colors.js:457
+#: activities/advanced_colors/advanced_colors.js:620
+#: activities/advanced_colors/advanced_colors.js:761
+#: activities/advanced_colors/advanced_colors.js:830
 msgctxt "advanced_colors|"
 msgid "Find the dark purple butterfly"
 msgstr "Найдите бабочку тёмно-фиолетового цвета"
@@ -531,6 +603,7 @@ msgstr ""
 "На экране показаны два числа. Быстро перемножь их и введи результат, "
 "используя клавиатуру твоего компьютера или экранную клавиатуру. Нужно успеть "
 "ответить до того, как приземлится воздушный шар с пингвинами."
+
 #: activities/algebra_div/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Division of numbers"
@@ -690,8 +763,6 @@ msgstr ""
 "бросить шарик. Побеждает игрок, первый создавший линию из четырёх шариков."
 
 #: activities/align4/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Addition memory game against Tux"
 msgctxt "ActivityInfo|"
 msgid "Align four (against Tux)"
 msgstr "Четыре в ряд (против Тукса)"
@@ -755,17 +826,17 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to make them match"
 msgstr "Перетаскивай предметы, чтобы они совпали"
 
-#: activities/babymatch/ActivityInfo.qml:31
+#: activities/babymatch/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Motor coordination. Conceptual matching."
 msgstr "Координация движений. Сопоставление понятий."
 
-#: activities/babymatch/ActivityInfo.qml:32
+#: activities/babymatch/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid "Cultural references."
 msgstr "Знание предметов современной цивилизации."
 
-#: activities/babymatch/ActivityInfo.qml:33
+#: activities/babymatch/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
 "In the main board area, a set of objects is displayed. In the vertical box "
@@ -784,7 +855,6 @@ msgstr ""
 
 #: activities/babymatch/resource/board/board1_0.qml:25
 #: activities/babyshapes/resource/board/board1_0.qml:25
-
 msgctxt "board1_0|"
 msgid "Drag and Drop the items to make them match"
 msgstr "Перетаскивай предметы, чтобы они совпали"
@@ -792,7 +862,7 @@ msgstr "Перетаскивай предметы, чтобы они совпа�
 #: activities/babyshapes/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Complete the puzzle"
-msgstr "Реши головоломку"
+msgstr "Решение головоломки"
 
 #: activities/babyshapes/ActivityInfo.qml:31
 #: activities/details/ActivityInfo.qml:30
@@ -800,8 +870,8 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the shapes on their respective targets"
 msgstr "Перетаскивай предметы на соответствующие им места"
 
-#: activities/babyshapes/ActivityInfo.qml:34
-#: activities/details/ActivityInfo.qml:33
+#: activities/babyshapes/ActivityInfo.qml:35
+#: activities/details/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
 "Complete the puzzle by dragging each piece from the set of pieces on the "
@@ -810,51 +880,193 @@ msgstr ""
 "Реши головоломку, перетаскивая каждый элемент из набора элементов слева на "
 "соответствующее место в головоломке."
 
-#: activities/babyshapes/ActivityInfo.qml:35
+#: activities/babyshapes/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid "The dog is provided by Andre Connes and released under the GPL"
 msgstr ""
-"Изображение собаки предоставлено Andre Connes и выпущено под лицензией GPL"
+"Изображение собаки предоставлено Andre Connes и выпущено под общей публичной "
+"лицензией GPL"
 
 #: activities/babyshapes/resource/board/board5_0.qml:25
 msgctxt "board5_0|"
 msgid "Hello ! My name is Lock."
-msgstr ""
+msgstr "Привет! Меня зовут Лок"
 
 #: activities/babyshapes/resource/board/board6_0.qml:25
 msgctxt "board6_0|"
 msgid "Lock with colored shapes."
-msgstr ""
+msgstr "Лок с цветными фигурами"
 
 #: activities/babyshapes/resource/board/board7_0.qml:26
 msgctxt "board7_0|"
 msgid "Paul Gauguin, Arearea - 1892"
-msgstr ""
+msgstr "Поль Гоге́н, Ареареа (Озорная шутка) - 1892"
 
 #: activities/babyshapes/resource/board/board7_1.qml:25
 msgctxt "board7_1|"
 msgid "Pieter Bruegel the Elder, The peasants wedding - 1568"
-msgstr ""
+msgstr "Питер Брейгель Старший, Крестьянская свадьба - 1568"
 
 #: activities/babyshapes/resource/board/board7_2.qml:25
 msgctxt "board7_2|"
 msgid "The Lady and the Unicorn - XVe century"
-msgstr ""
+msgstr "Дама с единорогом - XV век"
 
 #: activities/babyshapes/resource/board/board7_3.qml:25
+#, fuzzy
+#| msgctxt "board5_0|"
+#| msgid "Vincent van Gogh, The Harvest - 1888"
 msgctxt "board7_3|"
-msgid "Paul Gauguin, Bedroom in Arles - 1888"
-msgstr ""
+msgid "Vincent van Gogh, Bedroom in Arles - 1888"
+msgstr "Винсент Ван Гог, «Жатва», 1888"
 
 #: activities/babyshapes/resource/board/board7_4.qml:25
 msgctxt "board7_4|"
 msgid "Ambrosius Bosschaert the Elder, Flower Still Life - 1614"
+msgstr "Амброзиус Босхарт Старший, Flower Still Life - 1614"
+
+#: activities/balancebox/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Balance Box"
+msgstr "Противовес"
+
+#: activities/balancebox/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Navigate the ball to the door by tilting the box."
+msgstr "Проведи мяч к двери наклоняя коробку."
+
+#: activities/balancebox/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Practice fine motor skills and basic counting."
+msgstr "Практика моторных навыков и базового счёта"
+
+#: activities/balancebox/ActivityInfo.qml:34
+msgctxt "ActivityInfo|"
+msgid ""
+"Navigate the ball to the door. Be careful to not make it fall into the "
+"holes. Numbered contact buttons in the box need to be touched in the correct "
+"order to unlock the door. You can move the ball by tilting your mobile "
+"device. On desktop platforms use the arrow keys to simulate tilting.\n"
+"\n"
+"In the <b>configuration dialog</b> you can choose between the default 'Built-"
+"in' level set and one that you can define yourself ('User'). A user-defined "
+"level set can be created by choosing the 'user' level set and start the "
+"level editor by clicking on the corresponding button.\n"
+"\n"
+"In the <b>level editor</b> you can create your own levels. Choose one of the "
+"editing tools on the left side to modify the map cells of the currently "
+"active level in the editor:\n"
+"    Cross: Clear a map cell completely\n"
+"    Horizontal Wall: Set/remove a horizontal wall on the lower edge of a "
+"cell\n"
+"    Vertical Wall: Set/remove a vertical wall on the right edge of a cell\n"
+"    Hole: Set/remove a hole on a cell\n"
+"    Ball: Set the starting position of the ball\n"
+"    Door: Set the door position\n"
+"    Contact: Set/remove a contact button. With the spin-box you can adjust "
+"the value of the contact button. It is not possible to set a value more than "
+"one time on a map.\n"
+"All tools (except the clear-tool) toggle their respective target on the "
+"clicked cell: An item can be placed by clicking on an empty cell, and by "
+"clicking again on the same cell with the same tool, you can remove it "
+"again.\n"
+"You can test a modified level by clicking on the 'Test' button on the right "
+"side of the editor view. You can return from testing mode by clicking on the "
+"home-button on the bar or by pressing escape on your keyboard or the back-"
+"button on your mobile device.\n"
+"In the editor you can change the level currently edited by using the arrow "
+"buttons on the bar. Back in the editor you can continue editing the current "
+"level and test it again if needed.\n"
+"When your level is finished you can save it to the user level file by "
+"clicking on the 'Save' button on the right side.\n"
+"To return to the configuration dialog click on the home-button on the bar or "
+"press Escape on your keyboard or the back button on your mobile device."
+msgstr "Проведи мяч к двери."
+
+#: activities/balancebox/Balancebox.qml:496
+msgctxt "Balancebox|"
+msgid "Built-in"
+msgstr ""
+
+#: activities/balancebox/Balancebox.qml:497
+msgctxt "Balancebox|"
+msgid "User"
+msgstr ""
+
+#: activities/balancebox/Balancebox.qml:508
+#, fuzzy
+#| msgctxt "Gletters|"
+#| msgid "Select your locale"
+msgctxt "Balancebox|"
+msgid "Select your level set"
+msgstr "Выбери твой язык"
+
+#: activities/balancebox/Balancebox.qml:515
+msgctxt "Balancebox|"
+msgid "Start Editor"
+msgstr ""
+
+#: activities/balancebox/Balancebox.qml:547
+msgctxt "Balancebox|"
+msgid ""
+"You selected the user-defined level set, but you have not yet defined any "
+"user levels!<br/> Either create your user levels by starting the level "
+"editor or choose the 'built-in' level set."
+msgstr ""
+
+#: activities/balancebox/Balancebox.qml:549
+msgctxt "Balancebox|"
+msgid "Ok"
+msgstr ""
+
+#: activities/balancebox/editor/balanceboxeditor.js:158
+#, qt-format
+msgctxt "balanceboxeditor|"
+msgid "Error saving %1 levels to your levels file (%2)"
+msgstr ""
+
+#: activities/balancebox/editor/balanceboxeditor.js:163
+#, qt-format
+msgctxt "balanceboxeditor|"
+msgid "Saved %1 levels to your levels file (%2)"
+msgstr ""
+
+#: activities/balancebox/editor/balanceboxeditor.js:277
+msgctxt "balanceboxeditor|"
+msgid ""
+"You have unsaved changes!<br/> Really leave this level and lose changes?"
+msgstr ""
+
+#: activities/balancebox/editor/balanceboxeditor.js:279
+#, fuzzy
+#| msgctxt "ConfigurationItem|"
+#| msgid "Yes"
+msgctxt "balanceboxeditor|"
+msgid "Yes"
+msgstr "Да"
+
+#: activities/balancebox/editor/balanceboxeditor.js:284
+#, fuzzy
+#| msgctxt "ConfigurationItem|"
+#| msgid "No"
+msgctxt "balanceboxeditor|"
+msgid "No"
+msgstr "Нет"
+
+#: activities/balancebox/editor/BalanceboxEditor.qml:151
+msgctxt "BalanceboxEditor|"
+msgid "Save"
+msgstr ""
+
+#: activities/balancebox/editor/BalanceboxEditor.qml:159
+msgctxt "BalanceboxEditor|"
+msgid "Test"
 msgstr ""
 
 #: activities/ballcatch/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Make the ball go to Tux"
-msgstr "Бросьте мяч пингвинёнку Туксу"
+msgstr "Бросание мяча пингвинёнку Туксу"
 
 #: activities/ballcatch/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -876,13 +1088,13 @@ msgstr ""
 "мяч по прямой линии. На сенсорном экране вместо этого нужно нажать двумя "
 "руками одновременно."
 
-#: activities/ballcatch/Ballcatch.qml:242
+#: activities/ballcatch/Ballcatch.qml:245
 msgctxt "Ballcatch|"
 msgid ""
 "Tap both hands at the same time, to make the ball go in a straight line."
 msgstr "Нажми обеими руками одновременно, чтобы мяч покатился по прямой линии."
 
-#: activities/ballcatch/Ballcatch.qml:244
+#: activities/ballcatch/Ballcatch.qml:247
 msgctxt "Ballcatch|"
 msgid ""
 "Press left and right arrow keys at the same time, to make the ball go in a "
@@ -904,7 +1116,7 @@ msgstr "Учить и запоминать систему Брайля"
 #: activities/braille_alphabets/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Let children discover the Braille system."
-msgstr "Обучить детей основам системы Брайля."
+msgstr "Ознакомиться с системой записи Брайля"
 
 #: activities/braille_alphabets/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -944,7 +1156,6 @@ msgid ""
 msgstr ""
 "И снова есть сходство с первой строкой, но заметьте, что буква «W» была "
 "добавлена позже."
-
 
 # BUGME: verify in the UI --aspotashev
 #: activities/braille_alphabets/braille_alphabets.js:83
@@ -1060,8 +1271,9 @@ msgid ""
 "Tux in his plane across the screen. Check the braille chart by clicking on "
 "the toggle button for help."
 msgstr ""
-"Введи код брайля в квадрат падающей буквы. Проверь диаграмму брайля, нажимая "
-"кнопку переключения для помощи."
+"Вводи код Брайля на плитке для каждой буквы вытягиваемой самолётом с Туксом "
+"поперёк экрана."
+"Сверяйся со схемой Брайля, нажав на плитку-переключатель внизу. "
 
 #: activities/canal_lock/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1087,9 +1299,124 @@ msgstr ""
 "правильном порядке, чтобы Тукс смог пройти через шлюз в обоих направлениях."
 
 #: activities/canal_lock/ActivityInfo.qml:32
+#: activities/watercycle/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Drawing by Stephane Cabaraux."
 msgstr "Рисунок Стефана Кабаро."
+
+#: activities/chess/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Tic Tac Toe (against Tux)"
+msgctxt "ActivityInfo|"
+msgid "Play chess against Tux"
+msgstr "Крестики-нолики против Тукса"
+
+#: activities/chess/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"In this activity you discover the chess game by playing against the "
+"computer. It displays the possible target position for any selected piece "
+"which helps the children understand how pieces moves. At first level the "
+"computer is fully random to give the most chances to the children. As level "
+"increases, better the computer plays."
+msgstr ""
+
+#: activities/chess/ActivityInfo.qml:32
+#: activities/chess_partyend/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid ""
+"The chess engine is p4wn &lt;https://github.com/douglasbagnall/p4wn&gt;."
+msgstr ""
+
+#: activities/chess/chess.js:128
+msgctxt "chess|"
+msgid "Black's turn"
+msgstr ""
+
+#: activities/chess/chess.js:128
+msgctxt "chess|"
+msgid "White's turn"
+msgstr ""
+
+#: activities/chess/chess.js:133
+msgctxt "chess|"
+msgid "Black mates"
+msgstr ""
+
+#: activities/chess/chess.js:133
+msgctxt "chess|"
+msgid "White mates"
+msgstr ""
+
+#: activities/chess/chess.js:143
+msgctxt "chess|"
+msgid "Drawn game"
+msgstr ""
+
+#: activities/chess/chess.js:147
+msgctxt "chess|"
+msgid "Black checks"
+msgstr ""
+
+#: activities/chess/chess.js:147
+msgctxt "chess|"
+msgid "White checks"
+msgstr ""
+
+#: activities/chess/chess.js:149
+msgctxt "chess|"
+msgid "Invalid, your king may be in check"
+msgstr ""
+
+#: activities/chess/Chess.qml:130
+msgctxt "Chess|"
+msgid "Undo"
+msgstr ""
+
+#: activities/chess/Chess.qml:146
+msgctxt "Chess|"
+msgid "Redo"
+msgstr ""
+
+#: activities/chess/Chess.qml:161
+msgctxt "Chess|"
+msgid "Swap"
+msgstr ""
+
+#: activities/chess_2players/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Play chess against your friend"
+msgstr ""
+
+#: activities/chess_2players/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"In this activity you discover the chess game by playing against a friend. It "
+"displays the possible target position for any selected piece which helps the "
+"children understand how pieces moves."
+msgstr ""
+
+#: activities/chess_partyend/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "End of chess game"
+msgstr ""
+
+#: activities/chess_partyend/ActivityInfo.qml:27
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Play the audio memory game against Tux"
+msgctxt "ActivityInfo|"
+msgid "Play the end of the chess game against Tux"
+msgstr "Играйте в «запоминание мелодий» против Тукса"
+
+#: activities/chess_partyend/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"In this activity you discover the chess game by playing only the end of a "
+"game. It displays the possible target position for any selected piece which "
+"helps the children understand how pieces moves."
+msgstr ""
 
 #: activities/chronos/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
@@ -1101,22 +1428,22 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to organize the story"
 msgstr "Перетащи картинки, чтобы составить историю"
 
-#: activities/chronos/ActivityInfo.qml:32
+#: activities/chronos/ActivityInfo.qml:33
 msgctxt "ActivityInfo|"
 msgid "Sort the pictures into the order that tells the story"
 msgstr "Отсортировать картинки в таком порядке, чтобы они поведали историю"
 
-#: activities/chronos/ActivityInfo.qml:33
+#: activities/chronos/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid "Tell a short story"
 msgstr "Способность рассказать короткую историю"
 
-#: activities/chronos/ActivityInfo.qml:34
+#: activities/chronos/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid "Pick from the pictures on the left and put them on the red dots"
 msgstr "Бери картинки слева и перетаскивай их на красные точки"
 
-#: activities/chronos/ActivityInfo.qml:35
+#: activities/chronos/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
 "Moon photo is copyright NASA. The space sounds come from Tuxpaint and "
@@ -1124,6 +1451,13 @@ msgid ""
 "images are copyright Franck Doucet. Dates of Transportation are based on "
 "those found in &lt;http://www.wikipedia.org&gt;."
 msgstr ""
+"Авторское право на фотографии луны принадлежит космическому агенству США "
+"NASA. "
+"Космические звуки взяты из Tuxpaint и Vegastrike, которые выпущены под общей "
+"публичной лицензией GPL. "
+"Авторское право на изображения Перевозок принадлежит Франку Дуце. Даты "
+"перевозок базируются на информации,"
+"найденой в Википедии &lt;http://www.wikipedia.org&gt;."
 
 #: activities/chronos/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
@@ -1168,6 +1502,8 @@ msgstr "Лето"
 #: activities/chronos/resource/board/board2_0.qml:70
 msgctxt "board2_0|"
 msgid "Autumn"
+msgstr "Осень"
+
 #: activities/chronos/resource/board/board2_0.qml:77
 msgctxt "board2_0|"
 msgid "Winter"
@@ -1403,7 +1739,6 @@ msgctxt "board6_3|"
 msgid "1955 Citroën DS 19"
 msgstr "1955 год: Автомобиль Citroën DS 19"
 
-
 #: activities/click_on_letter/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Click on a lowercase letter"
@@ -1413,13 +1748,13 @@ msgstr "Щёлкни по строчной букве"
 #: activities/click_on_letter_up/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Listen to a letter and click on the right one"
-msgstr "Прослушай и щёлкните по названной букве"
+msgstr "Прослушай и щёлкни по названной букве"
 
 #: activities/click_on_letter/ActivityInfo.qml:29
 #: activities/click_on_letter_up/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Letter-name recognition"
-msgstr "Узнай букву"
+msgstr "Распознать буквы"
 
 #: activities/click_on_letter/ActivityInfo.qml:30
 #: activities/click_on_letter_up/ActivityInfo.qml:30
@@ -1436,6 +1771,14 @@ msgid ""
 msgstr ""
 "Произносится буква. Щёлкни по соответствующей букве в основной части экрана. "
 "Можно ещё раз прослушать букву щелчком по значку со ртом."
+
+#: activities/click_on_letter/ClickOnLetter.qml:112
+#, fuzzy
+#| msgctxt "Gletters|"
+#| msgid "Select your locale"
+msgctxt "ClickOnLetter|"
+msgid "Select your locale"
+msgstr "Выбери твой язык"
 
 #: activities/click_on_letter_up/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -1454,7 +1797,7 @@ msgstr ""
 #: activities/clickanddraw/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Click and draw"
-msgstr "Щёлкай и рисуй"
+msgstr "Щёлкать и рисовать"
 
 #: activities/clickanddraw/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -1478,7 +1821,7 @@ msgstr ""
 #: activities/clickgame/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Click On Me"
-msgstr "Щёлкните по мне"
+msgstr "Нажми на меня"
 
 #: activities/clickgame/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -1500,7 +1843,9 @@ msgctxt "ActivityInfo|"
 msgid ""
 "Catch all the moving fish by simple clicking or touching them with your "
 "finger."
-msgstr "Поймай всех двигающихся рыбок, просто нажимая на них пальцами."
+msgstr ""
+"Поймай всех двигающихся рыбок, просто щёлкая на них или нажимая на них "
+"пальцами."
 
 #: activities/clickgame/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
@@ -1669,7 +2014,7 @@ msgstr "Смешивание цветов света"
 #: activities/color_mix_light/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Discover light color mixing."
-msgstr "Изучение смешивания цветов света."
+msgstr "Изучение смешивания цветов, составляющих свет."
 
 #: activities/color_mix_light/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -1702,7 +2047,7 @@ msgstr "Цвета"
 #: activities/colors/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Click on the right color"
-msgstr "Щёлкните на правильном цвете"
+msgstr "Щёлкни на правильном цвете"
 
 #: activities/colors/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
@@ -1775,12 +2120,17 @@ msgctxt "colors|"
 msgid "Find the purple duck"
 msgstr "Найди пурпурную утку"
 
+#: activities/colors/colors.js:128
+msgctxt "colors|"
+msgid "Find the pink duck"
+msgstr "Найди чёрную утку"
+
 #: activities/details/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Find the details"
 msgstr "Поиск деталей"
 
-#: activities/details/ActivityInfo.qml:34
+#: activities/details/ActivityInfo.qml:35
 msgctxt "ActivityInfo|"
 msgid "The images are from Wikimedia Commons."
 msgstr "Изображения взяты с Викисклада (Wikimedia Commons)."
@@ -1949,11 +2299,12 @@ msgid ""
 msgstr ""
 "Сначала правильно организуй элементы, чтобы их можно было посчитать. Затем "
 "выбери внизу справа ячейку для ответа. Введи ответ с клавиатуры."
+"щёлкни кнопку ОК или клавишу Enter."
 
 #: activities/erase/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Move the mouse or touch the screen"
-msgstr "Двигай мышкой или коснись экрана"
+msgstr "Движения мышкой или касание экрана"
 
 #: activities/erase/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -1961,7 +2312,7 @@ msgid ""
 "Move the mouse or touch the screen to erase the area and discover the "
 "background"
 msgstr ""
-"Двигайте мышкой или качайтесь экрана для того, чтобы очистить область и "
+"Двигай мышкой или касайся экрана для того, чтобы очистить область и "
 "увидеть фоновую картинку"
 
 #: activities/erase/ActivityInfo.qml:29
@@ -2000,8 +2351,6 @@ msgstr ""
 "двойного касания экрана"
 
 #: activities/erase_2clic/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid "Double click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
 msgid ""
 "Double tap or double click the mouse on rectangles until all the blocks "
@@ -2010,8 +2359,6 @@ msgstr ""
 "Убери все блоки с помощью двойного щелчка мыши или двойного касания экрана."
 
 #: activities/erase_clic/ActivityInfo.qml:26
-#| msgctxt "ActivityInfo|"
-#| msgid "Click and draw"
 msgctxt "ActivityInfo|"
 msgid "Click or tap"
 msgstr "Щёлкай или нажимай"
@@ -2026,8 +2373,6 @@ msgstr ""
 "картинки"
 
 #: activities/erase_clic/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid "Click the mouse on rectangles until all the blocks disappear."
 msgctxt "ActivityInfo|"
 msgid "Click or tap on the blocks all of them disappear."
 msgstr ""
@@ -2091,7 +2436,7 @@ msgstr "Попади мячом в ворота"
 #: activities/football/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Kick the ball behind the goal keeper on the right"
-msgstr "Попади мячом за голкипером справа"
+msgstr "Отправить мяч за голкипера справа"
 
 #: activities/football/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -2108,15 +2453,18 @@ msgctxt "ActivityInfo|"
 msgid "Drag and Drop the regions to redraw the whole country"
 msgstr "Перетаскивай регионы, чтобы перерисовать всю страну"
 
-#: activities/geo-country/ActivityInfo.qml:35
+#: activities/geo-country/ActivityInfo.qml:36
 msgctxt "ActivityInfo|"
 msgid ""
 "The map of Germany comes from Wikipedia and is released under the GNU Free "
 "Documentation License. Olaf Ronneberger and his children Lina and Julia "
 "Ronneberger created the German level."
 msgstr ""
+"Карта германии взята из Википедии и выпущена под лицензией GNU на свободную "
+"документацию."
+"Немецкий уровень был создан Олафом Ронненбергом и его детьми Линой и Юлией."
 
-#: activities/geo-country/resource/board/board10_0.qml:25
+#: activities/geo-country/resource/board/board10_0.qml:26
 msgctxt "board10_0|"
 msgid "United States of America"
 msgstr "Соединённые Штаты Америки"
@@ -2126,7 +2474,7 @@ msgctxt "board10_1|"
 msgid "United States of America"
 msgstr "Соединённые Штаты Америки"
 
-#: activities/geo-country/resource/board/board11_0.qml:25
+#: activities/geo-country/resource/board/board11_0.qml:26
 msgctxt "board11_0|"
 msgid "Districts of Italy"
 msgstr "Регионы Италии"
@@ -2148,7 +2496,7 @@ msgstr "Южные регионы Италии"
 
 #: activities/geo-country/resource/board/board12_0.qml:25
 msgctxt "board12_0|"
-msgid "Districts of India"
+msgid "States of India"
 msgstr "Штаты и территории Индии"
 
 #: activities/geo-country/resource/board/board13_0.qml:25
@@ -2161,7 +2509,7 @@ msgctxt "board14_0|"
 msgid "Districts of China"
 msgstr "Провинции и районы Китая"
 
-#: activities/geo-country/resource/board/board15_0.qml:25
+#: activities/geo-country/resource/board/board15_0.qml:26
 msgctxt "board15_0|"
 msgid "Northern Scotland"
 msgstr "Северная Шотландия"
@@ -2201,7 +2549,7 @@ msgctxt "board4_0|"
 msgid "Districts of Poland"
 msgstr "Воеводства Польши"
 
-#: activities/geo-country/resource/board/board5_0.qml:25
+#: activities/geo-country/resource/board/board5_0.qml:26
 msgctxt "board5_0|"
 msgid "Districts of Turkey"
 msgstr "Илы Турции"
@@ -2226,14 +2574,28 @@ msgctxt "board7_0|"
 msgid "Counties of Brazil"
 msgstr "Штаты Бразилии"
 
+#: activities/geo-country/resource/board/board8_0.qml:25
+#, fuzzy
+#| msgctxt "board14_0|"
+#| msgid "Districts of China"
+msgctxt "board8_0|"
+msgid "Districts of Canada"
+msgstr "Провинции и районы Канады"
+
+#: activities/geo-country/resource/board/board9_0.qml:25
+#, fuzzy
+#| msgctxt "board14_0|"
+#| msgid "Districts of China"
+msgctxt "board9_0|"
+msgid "Districts of Mexico"
+msgstr "Провинции и районы Мексики"
+
 #: activities/geography/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Locate the countries"
 msgstr "Поиск стран"
 
 #: activities/geography/ActivityInfo.qml:31
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop the items to redraw the whole map"
 msgstr "Перетаскивай части, чтобы перерисовать всю карту"
@@ -2244,8 +2606,6 @@ msgid "Asia"
 msgstr "Азия"
 
 #: activities/geography/resource/board/board10_0.qml:33
-#| msgctxt "DialogConfig|"
-#| msgid "Russian"
 msgctxt "board10_0|"
 msgid "Russia"
 msgstr "Россия"
@@ -2301,8 +2661,6 @@ msgid "Laos"
 msgstr "Лаос"
 
 #: activities/geography/resource/board/board10_0.qml:99
-#| msgctxt "DialogConfig|"
-#| msgid "Thai"
 msgctxt "board10_0|"
 msgid "Thailand"
 msgstr "Таиланд"
@@ -2392,47 +2750,48 @@ msgctxt "board10_0|"
 msgid "Azerbaijan"
 msgstr "Азербайджан"
 
-#: activities/geography/resource/board/board10_0.qml:207
+#. Translators: Strip Asia| and translate only Georgia
+#: activities/geography/resource/board/board10_0.qml:208
 msgctxt "board10_0|"
 msgid "Asia|Georgia"
 msgstr "Грузия"
 
-#: activities/geography/resource/board/board10_0.qml:213
+#: activities/geography/resource/board/board10_0.qml:214
 msgctxt "board10_0|"
 msgid "Turkey"
 msgstr "Турция"
 
-#: activities/geography/resource/board/board10_0.qml:219
+#: activities/geography/resource/board/board10_0.qml:220
 msgctxt "board10_0|"
 msgid "Syria"
 msgstr "Сирия"
 
-#: activities/geography/resource/board/board10_0.qml:225
+#: activities/geography/resource/board/board10_0.qml:226
 msgctxt "board10_0|"
 msgid "Iraq"
 msgstr "Ирак"
 
-#: activities/geography/resource/board/board10_0.qml:231
+#: activities/geography/resource/board/board10_0.qml:232
 msgctxt "board10_0|"
 msgid "Jordan"
 msgstr "Иордания"
 
-#: activities/geography/resource/board/board10_0.qml:237
+#: activities/geography/resource/board/board10_0.qml:238
 msgctxt "board10_0|"
 msgid "Saudi Arabia"
 msgstr "Саудовская Аравия"
 
-#: activities/geography/resource/board/board10_0.qml:243
+#: activities/geography/resource/board/board10_0.qml:244
 msgctxt "board10_0|"
 msgid "Yemen"
 msgstr "Йемен"
 
-#: activities/geography/resource/board/board10_0.qml:249
+#: activities/geography/resource/board/board10_0.qml:250
 msgctxt "board10_0|"
 msgid "United Arab Emirates"
 msgstr "Объединённые Арабские Эмираты"
 
-#: activities/geography/resource/board/board10_0.qml:255
+#: activities/geography/resource/board/board10_0.qml:256
 msgctxt "board10_0|"
 msgid "Oman"
 msgstr "Оман"
@@ -2483,8 +2842,6 @@ msgid "Micronesia"
 msgstr "Микронезия"
 
 #: activities/geography/resource/board/board11_0.qml:81
-#| msgctxt "DialogHelp|"
-#| msgid "Manual"
 msgctxt "board11_0|"
 msgid "Vanuatu"
 msgstr "Вануату"
@@ -2675,8 +3032,6 @@ msgid "El Salvador"
 msgstr "Сальвадор"
 
 #: activities/geography/resource/board/board3_0.qml:98
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board3_0|"
 msgid "Dominican Republic"
 msgstr "Доминиканская Республика"
@@ -2752,8 +3107,6 @@ msgid "El Salvador"
 msgstr "Сальвадор"
 
 #: activities/geography/resource/board/board3_1.qml:97
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board3_1|"
 msgid "Dominican Republic"
 msgstr "Доминиканская Республика"
@@ -2819,8 +3172,6 @@ msgid "Guyana"
 msgstr "Гайана"
 
 #: activities/geography/resource/board/board4_0.qml:83
-#| msgctxt "DialogConfig|"
-#| msgid "French"
 msgctxt "board4_0|"
 msgid "French Guiana"
 msgstr "Французская Гвиана"
@@ -2871,8 +3222,6 @@ msgid "Switzerland"
 msgstr "Швейцария"
 
 #: activities/geography/resource/board/board5_0.qml:48
-#| msgctxt "DialogConfig|"
-#| msgid "Swedish"
 msgctxt "board5_0|"
 msgid "Sweden"
 msgstr "Швеция"
@@ -2913,8 +3262,6 @@ msgid "Iceland"
 msgstr "Исландия"
 
 #: activities/geography/resource/board/board5_0.qml:111
-#| msgctxt "DialogConfig|"
-#| msgid "German"
 msgctxt "board5_0|"
 msgid "Germany"
 msgstr "Германия"
@@ -2950,8 +3297,6 @@ msgid "Eastern Europe"
 msgstr "Восточная Европа"
 
 #: activities/geography/resource/board/board6_0.qml:41
-#| msgctxt "DialogConfig|"
-#| msgid "Greek"
 msgctxt "board6_0|"
 msgid "Greece"
 msgstr "Греция"
@@ -2967,22 +3312,16 @@ msgid "Turkey"
 msgstr "Турция"
 
 #: activities/geography/resource/board/board6_0.qml:62
-#| msgctxt "DialogConfig|"
-#| msgid "Slovenian"
 msgctxt "board6_0|"
 msgid "Slovenia"
 msgstr "Словения"
 
 #: activities/geography/resource/board/board6_0.qml:69
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board6_0|"
 msgid "Slovak Republic"
 msgstr "Словакия"
 
 #: activities/geography/resource/board/board6_0.qml:76
-#| msgctxt "DialogConfig|"
-#| msgid "Montenegrin"
 msgctxt "board6_0|"
 msgid "Montenegro"
 msgstr "Черногория"
@@ -2993,8 +3332,6 @@ msgid "Serbia"
 msgstr "Сербия"
 
 #: activities/geography/resource/board/board6_0.qml:90
-#| msgctxt "DialogConfig|"
-#| msgid "Russian"
 msgctxt "board6_0|"
 msgid "Russia"
 msgstr "Россия"
@@ -3020,22 +3357,16 @@ msgid "Macedonia"
 msgstr "Македония"
 
 #: activities/geography/resource/board/board6_0.qml:125
-#| msgctxt "DialogConfig|"
-#| msgid "Lithuanian"
 msgctxt "board6_0|"
 msgid "Lithuania"
 msgstr "Литва"
 
 #: activities/geography/resource/board/board6_0.qml:132
-#| msgctxt "DialogConfig|"
-#| msgid "Latvian"
 msgctxt "board6_0|"
 msgid "Latvia"
 msgstr "Латвия"
 
 #: activities/geography/resource/board/board6_0.qml:139
-#| msgctxt "DialogConfig|"
-#| msgid "Hungarian"
 msgctxt "board6_0|"
 msgid "Hungary"
 msgstr "Венгрия"
@@ -3046,8 +3377,6 @@ msgid "Estonia"
 msgstr "Эстония"
 
 #: activities/geography/resource/board/board6_0.qml:153
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board6_0|"
 msgid "Czech Republic"
 msgstr "Чехия"
@@ -3058,8 +3387,6 @@ msgid "Croatia"
 msgstr "Хорватия"
 
 #: activities/geography/resource/board/board6_0.qml:167
-#| msgctxt "DialogConfig|"
-#| msgid "Bulgarian"
 msgctxt "board6_0|"
 msgid "Bulgaria"
 msgstr "Болгария"
@@ -3225,8 +3552,6 @@ msgid "Chad"
 msgstr "Чад"
 
 #: activities/geography/resource/board/board7_0.qml:230
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board7_0|"
 msgid "Central African Republic"
 msgstr "Центральноафриканская Республика"
@@ -3412,8 +3737,6 @@ msgid "Democratic Republic of Congo"
 msgstr "Демократическая Республика Конго"
 
 #: activities/geography/resource/board/board9_0.qml:104
-#| msgctxt "DialogConfig|"
-#| msgid "Czech Republic"
 msgctxt "board9_0|"
 msgid "Central African Republic"
 msgstr "Центральноафриканская Республика"
@@ -3570,12 +3893,11 @@ msgid "Type the falling letters before they reach the ground"
 msgstr "Нажимайте клавиши с буквами, пока они не упали на землю"
 
 #: activities/gletters/ActivityInfo.qml:29
-#: activities/imageid/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Letter association between the screen and the keyboard"
 msgstr "Узнавание букв на экране и клавиатуре"
 
-#: activities/gletters/Gletters.qml:146
+#: activities/gletters/Gletters.qml:147
 msgctxt "Gletters|"
 msgid "Select your locale"
 msgstr "Выбери твой язык"
@@ -3667,7 +3989,7 @@ msgstr "Тебя съел монстр Троггл."
 #: activities/gnumch-equality/Warning.qml:51
 msgctxt "Warning|"
 msgid "You ate a wrong number."
-msgstr "Ты съел не то число"
+msgstr "Ты съел не то число."
 
 #: activities/gnumch-equality/Warning.qml:62
 msgctxt "Warning|"
@@ -3902,6 +4224,95 @@ msgctxt "guessnumber|"
 msgid "Number found!"
 msgstr "Найдено число!"
 
+#: activities/hangman/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "The classic hangman game"
+msgstr ""
+
+#: activities/hangman/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid ""
+"Guess the letters of the given word. To help you, on every wrong try, a part "
+"of the image representing the word will be revealed."
+msgstr ""
+
+#: activities/hangman/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid "This is a good exercise to improve reading and spelling skills."
+msgstr ""
+
+#: activities/hangman/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid ""
+"You can enter the letters using the virtual keyboard on the screen or with "
+"the real keyboard."
+msgstr ""
+
+#: activities/hangman/Hangman.qml:256
+#, fuzzy
+#| msgctxt "Gletters|"
+#| msgid "Select your locale"
+msgctxt "Hangman|"
+msgid "Select your locale"
+msgstr "Выбери твой язык"
+
+#: activities/hangman/Hangman.qml:417
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid "We are sorry, we don't have yet a translation for your language."
+msgctxt "Hangman|"
+msgid "We are sorry, we don't have yet a translation for your language."
+msgstr "Приносим извинения, но у нас пока нет перевода на твой язык."
+
+#: activities/hangman/Hangman.qml:418
+#, fuzzy, qt-format
+#| msgctxt "Imageid|"
+#| msgid ""
+#| "GCompris is developed by the KDE community, you can translate GCompris by "
+#| "joining a translation team on <a href=\"%2\">%2</a>"
+msgctxt "Hangman|"
+msgid ""
+"GCompris is developed by the KDE community, you can translate GCompris by "
+"joining a translation team on <a href=\"%2\">%2</a>"
+msgstr ""
+"Программа GCompris разработана сообществом KDE. Вы можете присоединиться к "
+"команде переводчиков на <a href=\"%2\">%2</a>."
+
+#: activities/hangman/Hangman.qml:420
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid ""
+#| "We switched to English for this activity but you can select another "
+#| "language in the configuration dialog."
+msgctxt "Hangman|"
+msgid ""
+"We switched to English for this activity but you can select another language "
+"in the configuration dialog."
+msgstr ""
+"Мы переключились на английский для этого упражнения, но ты можешь выбрать "
+"другой язык в меню настройки."
+
+#: activities/hangman/Hangman.qml:433
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid "The images for this activity are not yet installed."
+msgctxt "Hangman|"
+msgid "The images for this activity are not yet installed."
+msgstr "Изображения для данного упражнения ещё не установлены."
+
+#: activities/hangman/Hangman.qml:434
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid "Download the images"
+msgctxt "Hangman|"
+msgid "Download the images"
+msgstr "Загрузить изображения"
+
+#: activities/hangman/Hangman.qml:434
+msgctxt "Hangman|"
+msgid "OK"
+msgstr ""
+
 #: activities/hanoi/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Simplified Tower of Hanoi"
@@ -3929,7 +4340,7 @@ msgstr ""
 #: activities/hanoi/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Concept taken from EPI games."
-msgstr "Концепт взять из игр EPI."
+msgstr "Концепт взят из игр EPI."
 
 #: activities/hanoi_real/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -3972,8 +4383,8 @@ msgid ""
 "puzzle. According to the legend, the world would end when the priests "
 "finished their work. The puzzle is therefore also known as the Tower of "
 "Brahma puzzle. It is not clear whether Lucas invented this legend or was "
-"inspired by it. (source Wikipedia <http://en.wikipedia.org/wiki/"
-"Tower_of_hanoi>)"
+"inspired by it. (source Wikipedia: http://en.wikipedia.org/wiki/"
+"Tower_of_hanoi)"
 msgstr ""
 "Головоломка была придумана французским математиком Эдуардом Люкасом в 1883 "
 "году. Существует легенда о Индуистском храме, жрецы которого постоянно "
@@ -4021,51 +4432,39 @@ msgstr ""
 "Попробуй найти клубничку под голубыми полями. Чем ближе к ней открываются "
 "поля, тем они краснее."
 
-#: activities/imageid/ActivityInfo.qml:26
+#: activities/imagename/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
-msgid "Reading practice"
-msgstr "Практика чтения"
+msgid "Image Name"
+msgstr "Назови картинки"
 
-#: activities/imageid/ActivityInfo.qml:27
+#: activities/imagename/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
-msgid "Practice reading by finding the word matching an image"
-msgstr "Практика чтения слов, соответствующих рисунку"
+msgid "Drag and Drop each item above its name"
+msgstr "Перетащи каждый предмет и помести его над названием"
 
-#: activities/imageid/ActivityInfo.qml:30
 #: activities/imagename/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Word reading"
+msgctxt "ActivityInfo|"
+msgid "Vocabulary and reading"
+msgstr "Чтение"
+
+#: activities/imagename/ActivityInfo.qml:33
+#: activities/lang/ActivityInfo.qml:35
 #: activities/memory-wordnumber/ActivityInfo.qml:30
+#: activities/readingh/ActivityInfo.qml:30
+#: activities/readingv/ActivityInfo.qml:30
 msgctxt "ActivityInfo|"
 msgid "Reading"
 msgstr "Чтение"
 
-#: activities/imageid/ActivityInfo.qml:31
+#: activities/imagename/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
-msgid "Click on the word corresponding to the printed image."
-msgstr "Щёлкни на слове, которое соответствует рисунку."
-
-#: activities/imageid/Imageid.qml:306
-msgctxt "Imageid|"
-msgid "We are sorry, we don't have yet a translation for your language."
-msgstr "Приносим извинения, но у нас пока нет перевода на твой язык."
-
-#: activities/imageid/Imageid.qml:307
-#, qt-format
-msgctxt "Imageid|"
 msgid ""
-"GCompris is developed by the KDE community, you can translate GCompris by "
-"joining a translation team on <a href=\"%2\">%2</a>"
+"Drag each image from the (vertical) box on the left to its (corresponding) "
+"name on the right. Click the OK button to check your answer."
 msgstr ""
-"Программа GCompris разработана сообществом KDE. Вы можете присоединиться к "
-"команде переводчиков на <a href=\"%2\">%2</a>."
-
-#: activities/imageid/Imageid.qml:309
-msgctxt "Imageid|"
-msgid ""
-"We switched to English for this activity but you can select another language "
-"in the configuration dialog."
-msgstr ""
-"Мы переключились на английский для этого упражнения, но ты можешь выбрать "
-"другой язык в меню настройки."
 
 #: activities/imageid/Imageid.qml:322
 msgctxt "Imageid|"
@@ -4073,8 +4472,6 @@ msgid "The images for this activity are not yet installed."
 msgstr "Изображения для данного упражнения ещё не установлены."
 
 #: activities/imageid/Imageid.qml:323
-#| msgctxt "instruments|"
-#| msgid "Find the triangle"
 msgctxt "Imageid|"
 msgid "Download the images"
 msgstr "Загрузить изображения"
@@ -4090,18 +4487,16 @@ msgid "Image Name"
 msgstr "Назови картинки"
 
 #: activities/imagename/ActivityInfo.qml:30
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop weights to balance the scales"
 msgctxt "ActivityInfo|"
 msgid "Drag and Drop each item above its name"
 msgstr "Перетащи каждый предмет и помести его над названием"
 
-#: activities/imagename/ActivityInfo.qml:31
+#: activities/imagename/ActivityInfo.qml:32
 msgctxt "ActivityInfo|"
 msgid "Vocabulary and reading"
-msgstr "Словарь и чтение"
+msgstr "Словарный запас и чтение"
 
-#: activities/imagename/ActivityInfo.qml:33
+#: activities/imagename/ActivityInfo.qml:34
 msgctxt "ActivityInfo|"
 msgid ""
 "Drag each image from the (vertical) box on the left to its (corresponding) "
@@ -4111,12 +4506,9 @@ msgstr ""
 "слева к его имени справа. Щёлкни кнопку ОК, чтобы проверить свой ответ."
 
 #: activities/imagename/resource/board/board1_0.qml:25
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Drag and Drop each item above its name"
 msgctxt "board1_0|"
 msgid "Drag and Drop each item onto its name"
-msgstr "Перетаскивайте предметы и складывайте на их название."
+msgstr "Перетаскивай предметы к их названиям"
 
 #: activities/imagename/resource/board/board1_0.qml:71
 msgctxt "board1_0|"
@@ -4199,8 +4591,6 @@ msgid "house"
 msgstr "дом"
 
 #: activities/imagename/resource/board/board3_0.qml:98
-#| msgctxt "ActivityInfo|"
-#| msgid "Click the mouse"
 msgctxt "board3_0|"
 msgid "light house"
 msgstr "маяк"
@@ -4357,9 +4747,15 @@ msgid "Find the clarinet"
 msgstr "Найди кларнет"
 
 #: activities/instruments/instruments.js:29
+#: activities/instruments/instruments.js:78
+#: activities/instruments/instruments.js:120
 msgctxt "instruments|"
 msgid "Find the transverse flute"
-msgstr "Найди поперечную флейта"
+msgstr "Найди поперечную флейту"
+
+msgctxt "instruments|"
+msgid "Find the flute traversiere"
+msgstr "Найди поперечная флейту"
 
 #: activities/instruments/instruments.js:34
 #: activities/instruments/instruments.js:83
@@ -4408,12 +4804,6 @@ msgstr "Найди трубу"
 msgctxt "instruments|"
 msgid "Find the violin"
 msgstr "Найди скрипку"
-
-#: activities/instruments/instruments.js:78
-#: activities/instruments/instruments.js:120
-msgctxt "instruments|"
-msgid "Find the flute traversiere"
-msgstr "Найдите поперечная флейта"
 
 #: activities/instruments/instruments.js:157
 #: activities/instruments/instruments.js:189
@@ -4511,6 +4901,11 @@ msgctxt "instruments|"
 msgid "Find the tuba"
 msgstr "Найди тубу"
 
+#: activities/intro_gravity/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Intro gravity"
+msgstr "Введение в гравитацию"
+
 #: activities/intro_gravity/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Introduction to the concept of gravity"
@@ -4579,7 +4974,7 @@ msgstr ""
 "врежешься в них. Стрелка показывает направление действия силы на твой "
 "корабль."
 
-#: activities/intro_gravity/Message.qml:54
+##: activities/intro_gravity/Message.qml:54
 msgctxt "Message|"
 msgid "Avoid the asteroid and join the space shuttle to win."
 msgstr "Избегай астероиды и присоедини челнок, чтобы выиграть."
@@ -4599,10 +4994,227 @@ msgctxt "Message|"
 msgid "Skip Instruction"
 msgstr "Пропустить инструкцию"
 
+#: activities/lang/ActivityInfo.qml:32
+msgctxt "ActivityInfo|"
+msgid "Enrich your vocabulary"
+msgstr ""
+
+#: activities/lang/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid "Complete language learning activities."
+msgstr ""
+
+#: activities/lang/ActivityInfo.qml:34
+msgctxt "ActivityInfo|"
+msgid "Enrich your vocabulary in your native language or in a foreign one."
+msgstr ""
+
+#: activities/lang/ActivityInfo.qml:36
+msgctxt "ActivityInfo|"
+msgid ""
+"Review a set of words. Each word is shown with a voice, a text and an image."
+"<br/>When done, you are suggested an exercise in which, given the voice, you "
+"must find the right word. In the configuration, you can select the language "
+"you want to learn."
+msgstr ""
+
+#: activities/lang/ActivityInfo.qml:39
+msgctxt "ActivityInfo|"
+msgid ""
+"The images and voices come from the Art4Apps project: http://www.art4apps."
+"org/.<br>You can also access this activity online on http://gcompris.net/"
+"activity/lang."
+msgstr ""
+
+#: activities/lang/Lang.qml:170
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid "We are sorry, we don't have yet a translation for your language."
+msgctxt "Lang|"
+msgid "We are sorry, we don't have yet a translation for your language."
+msgstr "Приносим извинения, но у нас пока нет перевода на твой язык."
+
+#: activities/lang/Lang.qml:171
+#, fuzzy, qt-format
+#| msgctxt "Imageid|"
+#| msgid ""
+#| "GCompris is developed by the KDE community, you can translate GCompris by "
+#| "joining a translation team on <a href=\"%2\">%2</a>"
+msgctxt "Lang|"
+msgid ""
+"GCompris is developed by the KDE community, you can translate GCompris by "
+"joining a translation team on <a href=\"%2\">%2</a>"
+msgstr ""
+"Программа GCompris разработана сообществом KDE. Вы можете присоединиться к "
+"команде переводчиков на <a href=\"%2\">%2</a>."
+
+#: activities/lang/Lang.qml:173
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid ""
+#| "We switched to English for this activity but you can select another "
+#| "language in the configuration dialog."
+msgctxt "Lang|"
+msgid ""
+"We switched to English for this activity but you can select another language "
+"in the configuration dialog."
+msgstr ""
+"Мы переключились на английский для этого упражнения, но ты можешь выбрать "
+"другой язык в меню настройки."
+
+#: activities/lang/Lang.qml:186
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid "The images for this activity are not yet installed."
+msgctxt "Lang|"
+msgid "The images for this activity are not yet installed."
+msgstr "Изображения для данного упражнения ещё не установлены."
+
+#: activities/lang/Lang.qml:187
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid "Download the images"
+msgctxt "Lang|"
+msgid "Download the images"
+msgstr "Загрузить изображения"
+
+#: activities/lang/Lang.qml:227
+#, fuzzy
+#| msgctxt "Gletters|"
+#| msgid "Select your locale"
+msgctxt "Lang|"
+msgid "Select your locale"
+msgstr "Выбери твой язык"
+
+#: activities/lang/Lang.qml:286
+msgctxt "Lang|"
+msgid "other"
+msgstr ""
+
+#: activities/lang/Lang.qml:287
+#, fuzzy
+#| msgctxt "board6_0|"
+#| msgid "Aviation"
+msgctxt "Lang|"
+msgid "action"
+msgstr "Авиация"
+
+#: activities/lang/Lang.qml:287
+msgctxt "Lang|"
+msgid "adjective"
+msgstr ""
+
+#: activities/lang/Lang.qml:288
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Colors"
+msgctxt "Lang|"
+msgid "color"
+msgstr "Цвета"
+
+#: activities/lang/Lang.qml:288
+msgctxt "Lang|"
+msgid "number"
+msgstr ""
+
+#: activities/lang/Lang.qml:289
+msgctxt "Lang|"
+msgid "people"
+msgstr ""
+
+#: activities/lang/Lang.qml:289
+msgctxt "Lang|"
+msgid "bodyparts"
+msgstr ""
+
+#: activities/lang/Lang.qml:290
+msgctxt "Lang|"
+msgid "clothes"
+msgstr ""
+
+#: activities/lang/Lang.qml:290
+#, fuzzy
+#| msgctxt "DialogHelp|"
+#| msgid "Section: "
+msgctxt "Lang|"
+msgid "emotion"
+msgstr "Раздел:"
+
+#: activities/lang/Lang.qml:291
+msgctxt "Lang|"
+msgid "job"
+msgstr ""
+
+#: activities/lang/Lang.qml:291
+msgctxt "Lang|"
+msgid "sport"
+msgstr ""
+
+#: activities/lang/Lang.qml:292
+msgctxt "Lang|"
+msgid "nature"
+msgstr ""
+
+#: activities/lang/Lang.qml:292
+msgctxt "Lang|"
+msgid "animal"
+msgstr ""
+
+#: activities/lang/Lang.qml:293
+msgctxt "Lang|"
+msgid "fruit"
+msgstr ""
+
+#: activities/lang/Lang.qml:293
+msgctxt "Lang|"
+msgid "plant"
+msgstr ""
+
+#: activities/lang/Lang.qml:294
+msgctxt "Lang|"
+msgid "vegetables"
+msgstr ""
+
+#: activities/lang/Lang.qml:294
+msgctxt "Lang|"
+msgid "object"
+msgstr ""
+
+#: activities/lang/Lang.qml:295
+#, fuzzy
+#| msgctxt "Message|"
+#| msgid "Skip Instruction"
+msgctxt "Lang|"
+msgid "construction"
+msgstr "Пропустить инструкцию"
+
+#: activities/lang/Lang.qml:296
+msgctxt "Lang|"
+msgid "furniture"
+msgstr ""
+
+#: activities/lang/Lang.qml:296
+#, fuzzy
+#| msgctxt "board3_0|"
+#| msgid "house"
+msgctxt "Lang|"
+msgid "houseware"
+msgstr "дом"
+
+#: activities/lang/Lang.qml:297
+msgctxt "Lang|"
+msgid "tool"
+msgstr ""
+
+#: activities/lang/Lang.qml:297
+msgctxt "Lang|"
+msgid "food"
+msgstr ""
+
 #: activities/leftright/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Find your left and right hands"
-msgstr "Найди свою левую и правую руки"
+msgstr "Поиск своей левой и правой руки"
 
 #: activities/leftright/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -4681,22 +5293,32 @@ msgid "Review the major dates of the inventor of the Braille System"
 msgstr "Вспомни основные даты из жизни изобретателя системы Брайля"
 
 #: activities/louis-braille/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Read the history of Louis Braille, his biography and discovery of the "
+#| "Braille system.\n"
+#| "Click on the previous and next buttons to move to the respective story "
+#| "page. At the end, arrange the sequence in the chronological order."
 msgctxt "ActivityInfo|"
 msgid ""
 "Read the history of Louis Braille, his biography and discovery of the "
-"Braille system.\n"
-"Click on the previous and next buttons to move to the respective story page. "
-"At the end, arrange the sequence in the chronological order."
+"Braille system. Click on the previous and next buttons to move to the "
+"respective story page. At the end, arrange the sequence in the chronological "
+"order."
 msgstr ""
 "Прочитай биографию Луи Брайля и историю создания его системы записи.\n"
-"Нажимай кнопки вправо в влево, чтобы перемещаться по истории. После прочтения "
-"расположи события в хронологическом порядке."
+"Нажимай кнопки вправо в влево, чтобы перемещаться по истории. После "
+"прочтения расположи события в хронологическом порядке."
 
-#: activities/louis-braille/ActivityInfo.qml:33
+#: activities/louis-braille/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "Louis Braille Video: <a href='http://www.youtube.com/watch?"
+#| "v=9bdfC2j_4x4'>http://www.youtube.com/watch?v=9bdfC2j_4x4</a>"
 msgctxt "ActivityInfo|"
-msgid ""
-"Louis Braille Video: <a href='http://www.youtube.com/watch?"
-"v=9bdfC2j_4x4'>http://www.youtube.com/watch?v=9bdfC2j_4x4</a>"
+msgid "Louis Braille Video: &lt;http://www.youtube.com/watch?v=9bdfC2j_4x4&gt;"
 msgstr ""
 "Видео о Луи Брайле: <a href='http://www.youtube.com/watch?"
 "v=9bdfC2j_4x4'>http://www.youtube.com/watch?v=9bdfC2j_4x4</a>"
@@ -4745,8 +5367,8 @@ msgid ""
 "battlefields."
 msgstr ""
 "Шарль Барбье, французский солдат, посетил его школу и поделился своим "
-"изобретением слепого письма — кодом из 12 рельефных точек для "
-"передачи информации на полях сражений."
+"изобретением слепого письма — кодом из 12 рельефных точек для передачи "
+"информации на полях сражений."
 
 #: activities/louis-braille/louis_braille_data.js:53
 msgctxt "louis_braille_data|"
@@ -4790,11 +5412,6 @@ msgstr ""
 "доказал, что если иметь желание, можно совершать невероятные вещи."
 
 #: activities/louis-braille/ReorderList.qml:167
-#, fuzzy
-#| msgctxt "ReorderList|"
-#| msgid ""
-#| "Arrange the events in the order in which they happened. Select the line "
-#| "to move then touch it's target position."
 msgctxt "ReorderList|"
 msgid ""
 "Arrange the events in the order in which they happened. Select the line to "
@@ -4834,18 +5451,26 @@ msgid ""
 "Click on the bottom area to answer."
 msgstr ""
 "Посмотри на фокусника, он говорит сколько звёздочек под его магической "
-"шляпой.Затем щёлкни на шляпе, чтобы поднять её. Несколько звёздочек убегут. "
+"шляпой. Затем щёлкни на шляпе, чтобы поднять её. Несколько звёздочек убегут. "
 "Щёлкни на шляпе ещё раз чтобы опустить её.  Ты должен сосчитать, сколько "
 "звёздочек осталось под шляпой. Щёлкай на звёздочках в нижнем ряду, чтобы "
 "указать нужное количество."
 
+#: activities/magic-hat-minus/MagicHat.qml:99
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Kick the ball into the goal"
+msgctxt "MagicHat|"
+msgid "Click on the hat to begin the game"
+msgstr "Попадите мячом в ворота"
+
 #. The math operation
-#: activities/magic-hat-minus/MagicHat.qml:84
+#: activities/magic-hat-minus/MagicHat.qml:104
 msgctxt "MagicHat|"
 msgid "-"
 msgstr "-"
 
-#: activities/magic-hat-minus/MagicHat.qml:84
+#: activities/magic-hat-minus/MagicHat.qml:104
 msgctxt "MagicHat|"
 msgid "+"
 msgstr "+"
@@ -4968,7 +5593,7 @@ msgstr "Невидимый лабиринт"
 #: activities/mazeinvisible/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Guide Tux out of the invisible maze"
-msgstr "Проведите Тукса до выхода из невидимого лабиринта"
+msgstr "Проведи Тукса до выхода из невидимого лабиринта"
 
 #: activities/mazeinvisible/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -5003,6 +5628,36 @@ msgstr ""
 "В этом лабиринте движения относительны, от первого лица. Стрелки влево и "
 "вправо используются для поворотов, стрелка вверх двигает персонажа вперёд."
 
+#: activities/melody/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Melody"
+msgstr ""
+
+#: activities/melody/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Reproduce a sound sequence"
+msgstr ""
+
+#: activities/melody/ActivityInfo.qml:29
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Logic-training activity"
+msgctxt "ActivityInfo|"
+msgid "Ear-training activity"
+msgstr "Упражнение на развитие логики"
+
+#: activities/melody/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Move and click the mouse"
+msgstr "Перемещение и нажатие кнопок мыши"
+
+#: activities/melody/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Listen to the sound sequence played, and repeat it by clicking on the "
+"xylophone's bars. You can listen again by clicking on the repeat button."
+msgstr ""
+
 #: activities/memory-enumerate/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Enumeration memory game"
@@ -5012,7 +5667,7 @@ msgstr "Игра в пары с перечислениями"
 msgctxt "ActivityInfo|"
 msgid "Turn the cards over to match the number with the drawn picture."
 msgstr ""
-"Переворачивай карточки чтобы найти парочку с числом и соответствующей этому "
+"Переворачивай карточки, чтобы найти парочку с числом и соответствующей этому "
 "числу картинкой."
 
 #: activities/memory-enumerate/ActivityInfo.qml:29
@@ -5046,7 +5701,7 @@ msgid ""
 "Turn the cards over to find a matching operation, until all the cards are "
 "gone."
 msgstr ""
-"Переворачивай карточки чтобы найти операцию и её результат до тех пор, пока "
+"Переворачивай карточки, чтобы найти операцию и её результат до тех пор, пока "
 "все карточки не исчезнут."
 
 #: activities/memory-math-add-minus-mult-div-tux/ActivityInfo.qml:29
@@ -5143,7 +5798,7 @@ msgid ""
 "Turn the cards over to find two numbers which subtract the same, until all "
 "the cards are gone."
 msgstr ""
-"Переворачивай карточки чтобы найти операцию на вычитание и её результат до "
+"Переворачивай карточки, чтобы найти операцию на вычитание и её результат до "
 "тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-add-minus-tux/ActivityInfo.qml:29
@@ -5271,7 +5926,7 @@ msgid ""
 "Turn the cards over to find two numbers which add up the same, until all the "
 "cards are gone."
 msgstr ""
-"Переворачивай карточки чтобы найти операцию на сложение и её результат до "
+"Переворачивай карточки, чтобы найти операцию на сложение и её результат до "
 "тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-add/ActivityInfo.qml:31
@@ -5385,7 +6040,7 @@ msgid ""
 "Turn the cards over to find two numbers which add or subtract the same, "
 "until all the cards are gone."
 msgstr ""
-"Переворачивай карточки чтобы найти операцию на сложение или вычитание и её "
+"Переворачивай карточки, чтобы найти операцию на сложение или вычитание и её "
 "результат до тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-minus-tux/ActivityInfo.qml:29
@@ -5474,7 +6129,7 @@ msgid ""
 "Turn the cards over to find two numbers which multiply the same, until all "
 "the cards are gone."
 msgstr ""
-"Переворачивай карточки чтобы найти операцию на умножение и её результат до "
+"Переворачивай карточки, чтобы найти операцию на умножение и её результат до "
 "тех пор, пока все карточки не исчезнут."
 
 #: activities/memory-math-mult-tux/ActivityInfo.qml:29
@@ -5566,7 +6221,7 @@ msgstr ""
 "скрытую картинку и постарайся найти пару. Ты можешь перевернуть только две "
 "карты одновременно, так что тебе надо запомнить где находится картинка, "
 "прежде чем искать пару. Когда ты переворачиваешь обе карты, образующие "
-"парой, они исчезают."
+"пару, они исчезают."
 
 #: activities/memory-wordnumber/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -5708,8 +6363,9 @@ msgstr "Игра «Память» с картинками"
 #: activities/memory/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Flip the cards to find the matching pairs"
-msgstrmsgstr "Переворачивай карточки и находи совпадающие пары"
-tivities/memory/ActivityInfo.qml:31
+msgstr "Переворачивай карточки и находи совпадающие пары"
+
+#: activities/memory/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
 "A set of blank cards is shown. Each card has a picture on the other side, "
@@ -5774,28 +6430,27 @@ msgstr "Некоторые из упражнений игровые, но тем
 #, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid ""
-#| "Select an icon to enter an activity or to display a list of activities in "
-#| "a category.\n"
-#| "At the bottom of the screen is the GCompris control bar. Notice that you "
-#| "can hide or show the bar by touching its anchor.\n"
+#| "A simple click on an icon brings you to an activity or a menu of "
+#| "activities.\n"
+#| "At the bottom of the screen is the GCompris control bar.\n"
 #| "The following icons are displayed from right to left.\n"
 #| "(note that each icon is displayed only if available in the current "
 #| "activity)\n"
-#| "    Home - Exit an activity, go back to menu (Ctrl+W and escape key)\n"
+#| "    Home - Exit an activity, go back to menu (ctrl-w and escape key)\n"
+#| "    Thumb - OK. Confirm your answer\n"
 #| "    Arrows - Display the current level. Click to select another level\n"
 #| "    Lips - Repeat the question\n"
 #| "    Question Mark - Help\n"
 #| "    Tool - The configuration menu\n"
 #| "    Tux Plane - About GCompris\n"
-#| "    Quit - Quit GCompris (Ctrl+Q)\n"
+#| "    Quit - Quit GCompris (ctrl-q)\n"
 #| "The stars show suitable age groups for each game:\n"
-#| "    1, 2 or 3 simple stars - from 2 to 6 years old\n"
+#| "    1, 2 or 3 simple stars  - from 2 to 6 years old\n"
 #| "    1, 2 or 3 complex stars - 7 years and up\n"
 #| "Shortcuts:\n"
-#| "    Ctrl+B Show or Hide the control bar\n"
-#| "    Ctrl+F Toggle full screen\n"
-#| "    Ctrl+M Toggle mute for the background music\n"
-#| "    Ctrl+S Toggle the activity section bar"
+#| "    ctrl-b Show or Hide the control bar\n"
+#| "    ctrl-f Toggle full screen\n"
+#| "    ctrl-m Toggle mute for the background music"
 msgctxt "ActivityInfo|"
 msgid ""
 "Select an icon to enter an activity or to display a list of activities in a "
@@ -5845,7 +6500,8 @@ msgstr ""
 "Комбинации клавиш:\n"
 "    ctrl-b показать или скрыть панель управления\n"
 "    ctrl-f полноэкранный режим\n"
-"    ctrl-m вкл/выкл фоновой музыки     ctrl-s вкл/выкл панели упражнений"
+"    ctrl-m вкл/выкл фоновой музыки\n"
+"    ctrl-s вкл/выкл панели упражнений"
 
 #: activities/menu/ConfigurationItem.qml:72
 msgctxt "ConfigurationItem|"
@@ -5892,60 +6548,62 @@ msgctxt "ConfigurationItem|"
 msgid "The activity section menu is visible"
 msgstr "Показывать меню разделов"
 
-#: activities/menu/ConfigurationItem.qml:175
+#: activities/menu/ConfigurationItem.qml:174
 msgctxt "ConfigurationItem|"
 msgid "Font selector"
 msgstr "Выбор шрифта"
 
-#: activities/menu/ConfigurationItem.qml:195
+#: activities/menu/ConfigurationItem.qml:194
 msgctxt "ConfigurationItem|"
 msgid "Font size"
 msgstr "Размер шрифта"
 
-#: activities/menu/ConfigurationItem.qml:201
+#: activities/menu/ConfigurationItem.qml:200
 msgctxt "ConfigurationItem|"
 msgid "Default"
 msgstr "Рекомендуемый"
 
-#: activities/menu/ConfigurationItem.qml:214
+#: activities/menu/ConfigurationItem.qml:212
 msgctxt "ConfigurationItem|"
 msgid "Font Capitalization"
 msgstr "Прописные буквы в тексте"
 
-#: activities/menu/ConfigurationItem.qml:226
+#: activities/menu/ConfigurationItem.qml:223
 msgctxt "ConfigurationItem|"
 msgid "Language selector"
 msgstr "Выбор языка"
 
-#: activities/menu/ConfigurationItem.qml:253
+#: activities/menu/ConfigurationItem.qml:250
 msgctxt "ConfigurationItem|"
 msgid "Localized voices"
 msgstr "Озвучивание на выбранном языке"
 
-#: activities/menu/ConfigurationItem.qml:267
+#: activities/menu/ConfigurationItem.qml:264
 msgctxt "ConfigurationItem|"
 msgid "Check for updates"
 msgstr "Проверить обновления"
 
-#: activities/menu/ConfigurationItem.qml:268
+#: activities/menu/ConfigurationItem.qml:265
 msgctxt "ConfigurationItem|"
 msgid "Download"
 msgstr "Скачать"
 
-#: activities/menu/ConfigurationItem.qml:286
+#: activities/menu/ConfigurationItem.qml:283
 msgctxt "ConfigurationItem|"
 msgid "Difficulty filter:"
 msgstr "Фильтр сложности:"
 
-#: activities/menu/ConfigurationItem.qml:483
-#, fuzzy
-#| msgctxt "ConfigurationItem|"
-#| msgid "You selected a new locale"
+#: activities/menu/ConfigurationItem.qml:480
 msgctxt "ConfigurationItem|"
-msgid "You selected a new locale."
-msgstr "Ты выбрал новую локаль."
+msgid ""
+"You selected a new locale. You need to restart GCompris to play in your new "
+"locale.<br/>Do you want to download the corresponding sound files now?"
+msgstr ""
+"Вы выбрали новые языковые настройки. Вам необходимо перезапустить GCompris, "
+"чтобы играть с использованием выбранных настроек. </br> "
+"Вы хотите загрузить соответствующие звуковые файлы?"
 
-#: activities/menu/ConfigurationItem.qml:484
+#: activities/menu/ConfigurationItem.qml:481
 msgctxt "ConfigurationItem|"
 msgid "Do you want to download the corresponding sound files now?"
 msgstr "Загрузить соответствующие звуковые файлы сейчас?"
@@ -5955,33 +6613,33 @@ msgctxt "ConfigurationItem|"
 msgid "Yes"
 msgstr "Да"
 
-#: activities/menu/ConfigurationItem.qml:491
+#: activities/menu/ConfigurationItem.qml:487
 msgctxt "ConfigurationItem|"
 msgid "No"
 msgstr "Нет"
 
-#: activities/menu/ConfigurationItem.qml:547
+#: activities/menu/ConfigurationItem.qml:543
 msgctxt "ConfigurationItem|"
 msgid "Mixed case (default)"
 msgstr "Как в обычном тексте"
 
-#: activities/menu/ConfigurationItem.qml:548
+#: activities/menu/ConfigurationItem.qml:544
 msgctxt "ConfigurationItem|"
 msgid "All uppercase"
 msgstr "Все прописные"
 
-#: activities/menu/ConfigurationItem.qml:549
+#: activities/menu/ConfigurationItem.qml:545
 msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr "Все строчные"
 
-#: activities/menu/Menu.qml:256
+#: activities/menu/Menu.qml:279
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by selecting the sun on each activity top "
 "right."
 msgstr ""
-"Помести твои любимые упражнения здесь, выбирая солнышко в правом верхнем "
+"Помести сюда твои любимые упражнения, нажимая на солнышко в правом верхнем "
 "углу упражнения."
 
 #: activities/mining/ActivityInfo.qml:26
@@ -6131,6 +6789,66 @@ msgstr ""
 "Над ним напечатано незавершённое слово. \n"
 "Укажи пропущенную букву для завершения слова."
 
+#: activities/missing-letter/MissingLetter.qml:292
+#, fuzzy
+#| msgctxt "Gletters|"
+#| msgid "Select your locale"
+msgctxt "MissingLetter|"
+msgid "Select your locale"
+msgstr "Выбери твой язык"
+
+#: activities/missing-letter/MissingLetter.qml:374
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid "The images for this activity are not yet installed."
+msgctxt "MissingLetter|"
+msgid "The images for this activity are not yet installed."
+msgstr "Изображения для данного упражнения ещё не установлены."
+
+#: activities/missing-letter/MissingLetter.qml:375
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid "Download the images"
+msgctxt "MissingLetter|"
+msgid "Download the images"
+msgstr "Загрузить изображения"
+
+#: activities/missing-letter/MissingLetter.qml:393
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid "We are sorry, we don't have yet a translation for your language."
+msgctxt "MissingLetter|"
+msgid "We are sorry, we don't have yet a translation for your language."
+msgstr "Приносим извинения, но у нас пока нет перевода на твой язык."
+
+#: activities/missing-letter/MissingLetter.qml:394
+#, fuzzy, qt-format
+#| msgctxt "Imageid|"
+#| msgid ""
+#| "GCompris is developed by the KDE community, you can translate GCompris by "
+#| "joining a translation team on <a href=\"%2\">%2</a>"
+msgctxt "MissingLetter|"
+msgid ""
+"GCompris is developed by the KDE community, you can translate GCompris by "
+"joining a translation team on <a href=\"%2\">%2</a>"
+msgstr ""
+"Программа GCompris разработана сообществом KDE. Вы можете присоединиться к "
+"команде переводчиков на <a href=\"%2\">%2</a>."
+
+#: activities/missing-letter/MissingLetter.qml:396
+#, fuzzy
+#| msgctxt "Imageid|"
+#| msgid ""
+#| "We switched to English for this activity but you can select another "
+#| "language in the configuration dialog."
+msgctxt "MissingLetter|"
+msgid ""
+"We switched to English for this activity but you can select another language "
+"in the configuration dialog."
+msgstr ""
+"Мы переключились на английский для этого упражнения, но ты можешь выбрать "
+"другой язык в меню настройки."
+
 #: activities/money/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Money"
@@ -6277,6 +6995,160 @@ msgstr ""
 "коснись целевой позиции. Чтобы узнать, какое число ловить следующим, надо "
 "либо запоминать предыдущее, либо посмотреть в нижнем правом углу. "
 
+#: activities/paintings/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Complete the puzzle"
+msgctxt "ActivityInfo|"
+msgid "Assemble the puzzle"
+msgstr "Реши головоломку"
+
+#: activities/paintings/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drag and Drop the items to redraw the whole map"
+msgctxt "ActivityInfo|"
+msgid "Drag and Drop the items to rebuild the original paintings"
+msgstr "Перетаскивай части, чтобы перерисовать всю карту"
+
+#: activities/paintings/ActivityInfo.qml:33
+msgctxt "ActivityInfo|"
+msgid "Spatial representation"
+msgstr ""
+
+#: activities/paintings/ActivityInfo.qml:34
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Mouse manipulation, Brain."
+msgctxt "ActivityInfo|"
+msgid "Mouse-manipulation: movement, drag and drop"
+msgstr "Управление мышью, задействование мозга."
+
+#: activities/paintings/ActivityInfo.qml:35
+msgctxt "ActivityInfo|"
+msgid ""
+"Drag the image parts from the box on the left to create a painting on the "
+"main board."
+msgstr ""
+
+#: activities/paintings/resource/board/board10_0.qml:25
+msgctxt "board10_0|"
+msgid ""
+"Katsushika Hokusai, Viewing Sunset over the Ryogoku Bridge from the Ommaya "
+"Embankment - 1830"
+msgstr ""
+
+#: activities/paintings/resource/board/board11_0.qml:25
+msgctxt "board11_0|"
+msgid "Katsushika Hokusa, Poppies - 1833-1834"
+msgstr ""
+
+#: activities/paintings/resource/board/board12_0.qml:25
+msgctxt "board12_0|"
+msgid "Katsushika Hokusai, Kazusa sea Route - 1830."
+msgstr ""
+
+#: activities/paintings/resource/board/board13_0.qml:26
+msgctxt "board13_0|"
+msgid "Michelangelo, Pieta - 1499"
+msgstr ""
+
+#: activities/paintings/resource/board/board14_0.qml:25
+msgctxt "board14_0|"
+msgid "Leonardo da Vinci, Mona Lisa - 1503-19"
+msgstr ""
+
+#: activities/paintings/resource/board/board15_0.qml:25
+msgctxt "board15_0|"
+msgid "Giovanni Bellini, La Pala di Pesaro - 1475-85"
+msgstr ""
+
+#: activities/paintings/resource/board/board16_0.qml:25
+msgctxt "board16_0|"
+msgid "Albrecht Dürer, Lion - 1494"
+msgstr ""
+
+#: activities/paintings/resource/board/board17_0.qml:25
+#, fuzzy
+#| msgctxt "board5_0|"
+#| msgid "Vincent van Gogh, The Harvest - 1888"
+msgctxt "board17_0|"
+msgid "Pieter Brugel, The Harvesters - 1565"
+msgstr "Винсент Ван Гог, «Жатва», 1888"
+
+#: activities/paintings/resource/board/board18_0.qml:26
+msgctxt "board18_0|"
+msgid "Pierre-Auguste Renoir, Girls At The Piano - 1892"
+msgstr ""
+
+#: activities/paintings/resource/board/board19_0.qml:25
+msgctxt "board19_0|"
+msgid "Wassily Kandinsky, Composition VIII - 1923"
+msgstr ""
+
+#: activities/paintings/resource/board/board1_0.qml:25
+msgctxt "board1_0|"
+msgid " Pierre-Auguste Renoir, Le Moulin de la Galette - 1876"
+msgstr ""
+
+#: activities/paintings/resource/board/board20_0.qml:25
+msgctxt "board20_0|"
+msgid "Bazille, The Ramparts at Aigues-Mortes - 1867"
+msgstr ""
+
+#: activities/paintings/resource/board/board21_0.qml:25
+msgctxt "board21_0|"
+msgid "Mary Cassatt, Summertime - 1894"
+msgstr ""
+
+#: activities/paintings/resource/board/board22_0.qml:25
+#, fuzzy
+#| msgctxt "board5_0|"
+#| msgid "Vincent van Gogh, The Harvest - 1888"
+msgctxt "board22_0|"
+msgid "Vincent Van Gogh, Village Street in Auvers - 1890"
+msgstr "Винсент Ван Гог, «Жатва», 1888"
+
+#: activities/paintings/resource/board/board2_0.qml:25
+msgctxt "board2_0|"
+msgid "Giuseppe Arcimboldo, Spring - 1573"
+msgstr ""
+
+#: activities/paintings/resource/board/board3_0.qml:25
+msgctxt "board3_0|"
+msgid "Giuseppe Arcimboldo, The Librarian - 1566"
+msgstr ""
+
+#: activities/paintings/resource/board/board4_0.qml:25
+msgctxt "board4_0|"
+msgid "Katsushika Hokusai, Oiran and Kamuro"
+msgstr ""
+
+#: activities/paintings/resource/board/board5_0.qml:25
+msgctxt "board5_0|"
+msgid "Katsushika Hokusai, Woman holding a fan"
+msgstr ""
+
+#: activities/paintings/resource/board/board6_0.qml:25
+msgctxt "board6_0|"
+msgid "Katsushika Hokusai, Ejiri in Suruga Province - 1830-1833"
+msgstr ""
+
+#: activities/paintings/resource/board/board7_0.qml:25
+msgctxt "board7_0|"
+msgid "Katsushika Hokusai, The Great Wave off Kanagawa - 1823-1829"
+msgstr ""
+
+#: activities/paintings/resource/board/board8_0.qml:25
+msgctxt "board8_0|"
+msgid "Utagawa Hiroshige, The Benzaiten Shrine at Inokashira in Snow - 1760-70"
+msgstr ""
+
+#: activities/paintings/resource/board/board9_0.qml:25
+msgctxt "board9_0|"
+msgid "Utagawa Hiroshige, Horse-mackerel and Prawn - 1840"
+msgstr ""
+
 #: activities/penalty/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Penalty kick"
@@ -6333,6 +7205,75 @@ msgstr ""
 "целевой позиции. Чтобы узнать, какое число ловить следующим, надо либо "
 "запоминать предыдущее, либо посмотреть в нижнем правом углу."
 
+#: activities/readingh/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Reading practice"
+msgctxt "ActivityInfo|"
+msgid "Horizontal reading practice"
+msgstr "Практика чтения"
+
+#: activities/readingh/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Read a list of words and work out if a given word is in it."
+msgstr ""
+
+#: activities/readingh/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Reading training in a limited time"
+msgstr ""
+
+#: activities/readingh/ActivityInfo.qml:31
+#: activities/readingv/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"A word is shown at the top right of the board. A list of words will appear "
+"and disappear on the left. Does the given word belong to the list?"
+msgstr ""
+
+#: activities/readingh/Readingh.qml:104
+#, fuzzy
+#| msgctxt "Gletters|"
+#| msgid "Select your locale"
+msgctxt "Readingh|"
+msgid "Select your locale"
+msgstr "Выбери твой язык"
+
+#: activities/readingh/Readingh.qml:233
+#, qt-format
+msgctxt "Readingh|"
+msgid ""
+"Check if the word<br/><b><font color=\"blue\">%1</font></b><br/>is displayed"
+msgstr ""
+
+#: activities/readingh/Readingh.qml:258
+msgctxt "Readingh|"
+msgid "Yes, I saw it!"
+msgstr ""
+
+#: activities/readingh/Readingh.qml:273
+msgctxt "Readingh|"
+msgid "No, it was not there!"
+msgstr ""
+
+#: activities/readingv/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Reading practice"
+msgctxt "ActivityInfo|"
+msgid "Vertical-reading practice"
+msgstr "Практика чтения"
+
+#: activities/readingv/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Read a vertical list of words and work out if a given word is in it."
+msgstr ""
+
+#: activities/readingv/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Read training in a limited time"
+msgstr ""
+
 #: activities/redraw/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Redraw the given image"
@@ -6375,6 +7316,80 @@ msgid ""
 msgstr ""
 "На первом уровне показывается подсказка, что надо рисовать симметрично."
 
+#: activities/renewable_energy/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Renewable Energy"
+msgstr ""
+
+#: activities/renewable_energy/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid ""
+"Tux has come back from a long fishing party on his boat. Bring the "
+"electrical system back up so he can have light in his home. "
+msgstr ""
+
+#: activities/renewable_energy/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Learn about an electrical system based on renewable energy"
+msgstr ""
+
+#: activities/renewable_energy/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid ""
+"Click on different active elements : sun, cloud, dam, solar array, wind farm "
+"and transformers, in order to reactivate the entire electrical system. When "
+"the system is back up and Tux is in his home, push the light button for him. "
+"To win you must switch on all the consumers while all the producers are up. "
+msgstr ""
+
+#: activities/renewable_energy/ActivityInfo.qml:32
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Drawing by Stephane Cabaraux."
+msgctxt "ActivityInfo|"
+msgid "Drawing by Stephane Cabaraux"
+msgstr "Рисунок Стефана Кабаро."
+
+#: activities/renewable_energy/RenewableEnergy.qml:157
+msgctxt "RenewableEnergy|"
+msgid ""
+"Tux has come back from a long fishing party on his boat. Bring the "
+"electrical system back up so he can have light in his home."
+msgstr ""
+
+#: activities/renewable_energy/RenewableEnergy.qml:159
+msgctxt "RenewableEnergy|"
+msgid ""
+"Click on different active elements : sun, cloud, dam, solar array, wind farm "
+"and transformers, in order to reactivate the entire electrical system."
+msgstr ""
+
+#: activities/renewable_energy/RenewableEnergy.qml:161
+msgctxt "RenewableEnergy|"
+msgid ""
+"When the system is back up and Tux is in his home, push the light button for "
+"him. To win you must switch on all the consumers while all the producers are "
+"up."
+msgstr ""
+
+#: activities/renewable_energy/RenewableEnergy.qml:163
+msgctxt "RenewableEnergy|"
+msgid "Learn about an electrical system based on renewable energy. Enjoy."
+msgstr ""
+
+#: activities/renewable_energy/RenewableEnergy.qml:186
+msgctxt "RenewableEnergy|"
+msgid ""
+"It is not possible to consume more electricity than what is produced. This "
+"is a key limitation in the distribution of electricity, with minor "
+"exceptions, electrical energy cannot be stored, and therefore it must be "
+"generated as it is needed. A sophisticated system of control is therefore "
+"required to ensure electric generation very closely matches the demand. If "
+"supply and demand are not in balance, generation plants and transmission "
+"equipment can shut down which, in the worst cases, can lead to a major "
+"regional blackout."
+msgstr ""
+
 #: activities/reversecount/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Practice subtraction with a fun game"
@@ -6402,9 +7417,9 @@ msgid ""
 "fish. Click the dice with the right mouse button to count backwards. When "
 "done, click on the OK button or hit the Enter key."
 msgstr ""
-"Щёлкайте по кубику, чтобы показать, сколько ледышек между Туксом и рыбкой.\n"
+"Щёлкай по кубику, чтобы показать, сколько ледышек между Туксом и рыбкой.\n"
 "Также можно пользоваться правой кнопкой для уменьшения чисел на кубике.\n"
-"Когда закончите, щёлкните по кнопке OK или нажмите клавишу Enter."
+"Когда закончишь, щёлкни по кнопке OK или нажми клавишу Enter."
 
 #: activities/scalesboard/ActivityInfo.qml:26
 #: activities/scalesboard_weight/ActivityInfo.qml:26
@@ -6624,31 +7639,26 @@ msgid "Enter the weight of the gift in ounce: %1"
 msgstr "Введите вес подарка одновременно"
 
 #: activities/simplepaint/ActivityInfo.qml:26
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Logic training activity"
 msgctxt "ActivityInfo|"
 msgid "A simple drawing activity"
-msgstr "Упражнение на развитие логики"
+msgstr "Создание простых рисунков"
 
 #: activities/simplepaint/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Create your own drawing"
-msgstr ""
+msgstr "Создай свой собственный рисунок"
 
 #: activities/simplepaint/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Training reading skills"
 msgctxt "ActivityInfo|"
 msgid "Enhance creative skills"
-msgstr "Базовые навыки чтения"
+msgstr "Улучшение творческих способностей"
 
 #: activities/simplepaint/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid ""
 "Select a color and paint the rectangles as you like to create a drawing."
 msgstr ""
+"Чтобы создать рисунок, выбери цвет и рисуй прямоугольники так как ты хочешь"
 
 #: activities/smallnumbers/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6656,7 +7666,6 @@ msgid "Numbers With Dice"
 msgstr "Числа на игральных кубиках"
 
 #: activities/smallnumbers/ActivityInfo.qml:27
-#: activities/smallnumbers2/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
 msgid "Count the number of dots on dice before they reach the ground"
 msgstr ""
@@ -6675,7 +7684,6 @@ msgid "Counting skills"
 msgstr "Навыки счета"
 
 #: activities/smallnumbers/ActivityInfo.qml:31
-#: activities/smallnumbers2/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
 msgid "With the keyboard, type the number of dots you see on the falling dice."
 msgstr ""
@@ -6683,14 +7691,41 @@ msgstr ""
 "кубиках."
 
 #: activities/smallnumbers2/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Numbers With Dice"
 msgctxt "ActivityInfo|"
+msgid "Numbers with dominoes"
+msgstr "Числа на кубиках"
+
+#: activities/smallnumbers2/ActivityInfo.qml:27
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Count the number of dots on dice before they reach the ground"
+msgctxt "ActivityInfo|"
+msgid "Count the number of dots on the dominoes before they reach the ground"
+msgstr ""
+"Сосчитайте количество точек на кубиках до того, как они упадут на землю"
+
+#: activities/smallnumbers2/ActivityInfo.qml:31
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid ""
+#| "With the keyboard, type the number of dots you see on the falling dice."
+msgctxt "ActivityInfo|"
+msgid ""
+"With the keyboard, type the number of dots you see on the falling dominoes."
+msgstr ""
+"Набирайте на клавиатуре числа, соответствующие количеству точек на падающих "
+"кубиках."
+
 msgid "Numbers with pairs of dice"
 msgstr "Числа на парах игральных кубиков"
 
 #: activities/sudoku/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Sudoku, place unique symbols in a grid"
-msgstr "Судоку, помести уникальный символ в сетке."
+msgstr "Судоку, размещение  уникальных символов в сетке."
 
 #: activities/sudoku/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -6749,38 +7784,62 @@ msgid "Tux has hidden several items. Find them again in the correct order"
 msgstr "Тукс спрятал несколько предметов. Найди их в правильном порядке."
 
 #: activities/superbrain/ActivityInfo.qml:31
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid ""
-#| "Click on the items until you find what you think is the correct answer. "
-#| "Then, click on the OK button. In the lower levels, Tux gives you an "
-#| "indication if you found a hiding place by marking the item with a black "
-#| "box. You can use the right mouse button to flip the colors in the "
-#| "opposite order."
 msgctxt "ActivityInfo|"
 msgid ""
 "Click on the items until you find what you think is the correct answer. "
 "Then, click on the OK button. In the lower levels, Tux gives you an "
 "indication if you found a hiding place by marking the item with a black box. "
-"You can use the right mouse button to flip the colors in the opposite order "
-"or the color chooser to directly pick a color. Press and hold a mouse button "
-"or on the touch screen to automatically choose the last color selected on a "
-"column."
+"In the levels 4 and 8 an item may be hidden several times.<br/>You can use "
+"the right mouse button to flip the items in the opposite order or the item "
+"chooser to directly pick an item. Press and hold a mouse button or on the "
+"touch screen to automatically choose the last item selected on a column. "
+"Double click or tap on a previously selected item in your guess history to "
+"mark it as 'correct'. Such marked items are automatically selected in your "
+"current and future guesses until you un-mark them, again by double clicking "
+"or tapping."
+"Then, click on the OK button. In the lower levels, Tux gives you an "
+"indication "
+"if you found a hiding place by marking the item with a black box. You can use "
+"the right mouse button to flip the colors in the opposite order or the color "
+"chooser to directly pick a color. Press and hold a mouse button or on the "
+"touch screen "
+"to automatically choose the last color selected on a column."
 msgstr ""
 "Нажимай на предмет до тех пор, пока ты не найдёшь ответ, который считаешь "
 "верным. Затем нажми кнопку ОК. На простых уровнях Тукс даёт тебе знак, если "
 "ты нашёл скрытое место, маркируя предметы чёрным прямоугольником. Ты можешь "
 "использовать правую клавишу мыши, чтобы перевернуть цвета в обратном порядке."
 
-#: activities/superbrain/Superbrain.qml:148
+#: activities/superbrain/Superbrain.qml:145
 msgctxt "Superbrain|"
 msgid "This item is well placed"
 msgstr "Этот элемент помещён правильно"
 
-#: activities/superbrain/Superbrain.qml:150
+#: activities/superbrain/Superbrain.qml:147
 msgctxt "Superbrain|"
 msgid "This item is misplaced"
 msgstr "Этот элемент не на своём месте"
+
+#: activities/superbrain/Superbrain.qml:631
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Colors"
+msgctxt "Superbrain|"
+msgid "Colors"
+msgstr "Цвета"
+
+#: activities/superbrain/Superbrain.qml:632
+msgctxt "Superbrain|"
+msgid "Shapes"
+msgstr ""
+
+#: activities/superbrain/Superbrain.qml:643
+#, fuzzy
+#| msgctxt "Traffic|"
+#| msgid "Select your mode"
+msgctxt "Superbrain|"
+msgid "Select your mode"
+msgstr "Выбери вид блоков"
 
 #: activities/target/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -6847,9 +7906,6 @@ msgstr ""
 "пометить.Первый игрок, создавший линию с тремя пометками выигрывает."
 
 #: activities/tic_tac_toe_2players/ActivityInfo.qml:29
-#, fuzzy
-#| msgctxt "ActivityInfo|"
-#| msgid "Tic Tac Toe (2 players)"
 msgctxt "ActivityInfo|"
 msgid "Tic Tac Toe (with a friend)"
 msgstr "Крестики-нолики с другом"
@@ -6882,20 +7938,125 @@ msgstr ""
 "Каждый автомобиль может двигаться только горизонтально или вертикально. Ты "
 "должен освободить достаточно места, чтобы красный автомобиль уехал направо."
 
-#: activities/traffic/Traffic.qml:118
+#: activities/traffic/Traffic.qml:117
 msgctxt "Traffic|"
 msgid "Colors"
 msgstr "Сплошной цвет"
 
-#: activities/traffic/Traffic.qml:119
+#: activities/traffic/Traffic.qml:118
 msgctxt "Traffic|"
 msgid "Images"
-msgstr "msgstr "Картинки"
-vities/traffic/Traffic.qml:131
+msgstr "Картинки"
+
+#: activities/traffic/Traffic.qml:129
 msgctxt "Traffic|"
 msgid "Select your mode"
-msgstr "msgstr "Выбери вид блоков"
-vities/wordsgame/ActivityInfo.qml:26
+msgstr "Выбери вид блоков"
+
+#: activities/watercycle/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Watercycle"
+msgstr ""
+
+#: activities/watercycle/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid ""
+"Tux has come back from a long fishing party on his boat. Bring the water "
+"system back up so he can take a shower."
+msgstr ""
+
+#: activities/watercycle/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Learn the water cycle"
+msgstr ""
+
+#: activities/watercycle/ActivityInfo.qml:31
+msgctxt "ActivityInfo|"
+msgid ""
+"Click on different active elements: sun, cloud, pumping station, and the "
+"sewage treatment plant, in order to reactivate the entire water system. When "
+"the system is back up and Tux is in the shower, push the shower button for "
+"him."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:58
+msgctxt "Watercycle|"
+msgid ""
+"Sun is the main component of water cycle. Click on the sun to start the "
+"water cycle."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:59
+msgctxt "Watercycle|"
+msgid "As the sun rises, the water of the sea starts heating and evaporates."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:60
+msgctxt "Watercycle|"
+msgid ""
+" Water vapor condenses to form cloud and when clouds become heavy, they "
+"rain. Click on the cloud."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:61
+msgctxt "Watercycle|"
+msgid ""
+"Rain causes rivers to swell up and this water is transported to us via motor "
+"pumps through water-tower. Click on the motor pump to supply water to "
+"residents."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:63
+msgctxt "Watercycle|"
+msgid ""
+"See the tower filled with water. Activate the sewage treatment station by "
+"clicking on it."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:64
+msgctxt "Watercycle|"
+msgid "Great, click on the shower, as Tux arrives home."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:65
+msgctxt "Watercycle|"
+msgid "Fantastic, you have completed water cycle. You can continue playing."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:89
+msgctxt "Watercycle|"
+msgid ""
+"The water cycle (also known as the hydrologic cycle) is the journey water "
+"takes as it circulates from the land to the sky and back again. The sun's "
+"heat provides energy to evaporate water from water bodies like oceans."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:92
+msgctxt "Watercycle|"
+msgid ""
+"Plants also lose water to the air through transpiration. The water vapor "
+"eventually, cools forming tiny droplets in clouds. When the clouds meet cool "
+"air over land, precipitation is triggered and fall down as rain."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:95
+msgctxt "Watercycle|"
+msgid ""
+"Some of the water is trapped between rock or clay layers, called "
+"groundwater. But most of the water flows as runoff, eventually returning to "
+"the seas via rivers."
+msgstr ""
+
+#: activities/watercycle/Watercycle.qml:97
+msgctxt "Watercycle|"
+msgid ""
+"Your goal is to complete water cycle before Tux reaches home. Click on the "
+"different components which make up the water cycle. First click on sun, then "
+"cloud, water pumping station near the river, sewage treatment, and at last "
+"regulate the switch to provide water to Tux's shower."
+msgstr ""
+
+#: activities/wordsgame/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Falling Words"
 msgstr "Падающие слова"
@@ -6923,59 +8084,63 @@ msgstr "Наберите слово полностью пока оно пада�
 #: core/BuyMeOverlay.qml:57
 msgctxt "BuyMeOverlay|"
 msgid "This activity is only available in the full version of GCompris."
-msgstr "Эта деятельность доступна только в полной версии GCompris."
+msgstr "Это упражнение доступно только в полной версии GCompris."
 
 #: core/BuyMeOverlay.qml:68
 msgctxt "BuyMeOverlay|"
 msgid "Buy the full version"
 msgstr "Купить полную версию"
 
-#: core/core.js:182
+#: core/core.js:190
 msgctxt "core|"
 msgid "Missing sound files!"
 msgstr "Отсутствуют звуковые файлы!"
 
-#: core/core.js:183
+#: core/core.js:191
 msgctxt "core|"
 msgid ""
 "This activity uses language sound files, that are not yet installed on your "
 "system."
 msgstr ""
-"Эта деятельность использует звуковые файлы, которые не были установлены на "
+"Это упражнение использует звуковые файлы, которые не были установлены в "
 "вашей системе."
 
-#: core/core.js:185
+#: core/core.js:193
 msgctxt "core|"
 msgid "For downloading the needed sound files go to the preferences dialog."
 msgstr "Для загрузки звуковых фалов пройдите в диалог параметров"
 
-#: core/core.js:212
+#: core/core.js:220
+#, fuzzy
+#| msgctxt "instruments|"
+#| msgid "Find the triangle"
+#: core/core.js:219
 msgctxt "core|"
 msgid "Download in progress"
 msgstr "Выполняется загрузка"
 
-#: core/core.js:214
+#: core/core.js:222
 msgctxt "core|"
 msgid "Download in progress.<br/>'Abort' it to quit immediately."
 msgstr ""
 "Выполняется загрузка. <br/> Нажмите 'Отмена', чтобы выйти незамедлительно."
 
-#: core/core.js:224
+#: core/core.js:232
 msgctxt "core|"
 msgid "Quit?"
 msgstr "Выйти?"
 
-#: core/core.js:226
+#: core/core.js:234
 msgctxt "core|"
 msgid "Do you really want to quit GCompris?"
 msgstr "Выйти из программы GCompris?"
 
-#: core/core.js:227
+#: core/core.js:235
 msgctxt "core|"
 msgid "Yes"
 msgstr "Да"
 
-#: core/core.js:228
+#: core/core.js:236
 msgctxt "core|"
 msgid "No"
 msgstr "Нет"
@@ -7102,13 +8267,13 @@ msgctxt "DialogAbout|"
 msgid "<b>A big thanks to the translation team:</b> %1"
 msgstr "<b>Огромное спасибо команде переводчиков:</b> %1"
 
-#: core/DialogActivityConfig.qml:91
+#: core/DialogActivityConfig.qml:94
 #, qt-format
 msgctxt "DialogActivityConfig|"
 msgid "%1 configuration"
 msgstr "%1: настройка"
 
-#: core/DialogActivityConfig.qml:93
+#: core/DialogActivityConfig.qml:96
 msgctxt "DialogActivityConfig|"
 msgid "Configuration"
 msgstr "Настройка GCompris"
@@ -7184,56 +8349,57 @@ msgctxt "LanguageList|"
 msgid "Your system default"
 msgstr "Стандартный в системе"
 
-#: core/main.cpp:120
+#: core/main.cpp:132
 msgctxt "QObject|"
 msgid "Run GCompris with the default system cursor."
-msgstr "Запустить GCompris со стандартным системным указателем мыши."
+msgstr "Запустить GCompris со стандартным системным курсором мыши."
 
-#: core/main.cpp:123
+#: core/main.cpp:135
 msgctxt "QObject|"
 msgid "Run GCompris without cursor (touch screen mode)."
-msgstr msgstr "Запустить GCompris без указателя мыши (режим сенсорного экрана)"
-e/main.cpp:126
+msgstr "Запустить GCompris без указателя мыши (режим сенсорного экрана)"
+
+#: core/main.cpp:138
 msgctxt "QObject|"
 msgid "Run GCompris in fullscreen mode."
 msgstr "Запустить GCompris в полноэкранном режиме."
 
-#: core/main.cpp:129
+#: core/main.cpp:141
 msgctxt "QObject|"
 msgid "Run GCompris in window mode."
 msgstr "Запустить GCompris в оконном режиме."
 
-#: core/main.cpp:132
+#: core/main.cpp:144
 msgctxt "QObject|"
 msgid "Run GCompris with sound enabled."
-msgstr "Активирован запуск GCompris со звуком."
+msgstr "Запустить GCompris с включённым звуком."
 
-#: core/main.cpp:135
+#: core/main.cpp:147
 msgctxt "QObject|"
 msgid "Run GCompris without sound."
 msgstr "Запустить GCompris без звука."
 
-#: core/main.cpp:138
+#: core/main.cpp:150
 msgctxt "QObject|"
 msgid "Disable the configuration button."
-msgstr "Дезактивировать конфигурационную кнопку"
+msgstr "Отключить кнопку настроек"
 
-#: core/main.cpp:141
+#: core/main.cpp:153
 msgctxt "QObject|"
 msgid "Enable the configuration button (default)."
-msgstr "Активировать конфигурационную кнопку (по умолчанию)"
+msgstr "Включить кнопку (по умолчанию)"
 
-#: core/main.qml:119
+#: core/main.qml:122
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr "Добро пожаловать в GCompris!"
 
-#: core/main.qml:120
+#: core/main.qml:123
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr "Вы запустили GCompris в первый раз."
 
-#: core/main.qml:121
+#: core/main.qml:124
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -7244,28 +8410,28 @@ msgstr ""
 "установлены правильно и, что все необходимые звуковые файлы установлены. Вы "
 "можете это осуществить в Диалоге настроек."
 
-#: core/main.qml:123
+#: core/main.qml:126
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr "Удачи!"
 
-#: core/main.qml:125
+#: core/main.qml:128
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr "Ваш текущий язык %1 (%2)."
 
-#: core/main.qml:129
+#: core/main.qml:132
 msgctxt "main|"
 msgid "Do you want to download the corresponding sound files now?"
-msgstr "Вы хотите загрузить соответствующие звуковые файлы?"
+msgstr "Загрузить соответствующие звуковые файлы сейчас?"
 
-#: core/main.qml:130
+#: core/main.qml:133
 msgctxt "main|"
 msgid "Yes"
 msgstr "Да"
 
-#: core/main.qml:136
+#: core/main.qml:139
 msgctxt "main|"
 msgid "No"
 msgstr "Нет"
@@ -7276,6 +8442,28 @@ msgid "I am Ready"
 msgstr "Я готов"
 
 #~ msgctxt "ActivityInfo|"
+#~ msgid "Numbers with pairs of dice"
+#~ msgstr "Числа на парах кубиков"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Reading practice"
+#~ msgstr "Практика чтения"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Practice reading by finding the word matching an image"
+#~ msgstr "Практика чтения слов, соответствующих рисунку"
+
+#~ msgctxt "ActivityInfo|"
+#~ msgid "Click on the word corresponding to the printed image."
+#~ msgstr "Щёлкните на слове, соответствующему рисунку."
+
+#~ msgctxt "ConfigurationItem|"
+#~ msgid "Do you want to download the corresponding sound files now?"
+#~ msgstr "Загрузить соответствующие звуковые файлы сейчас?"
+
+#~ msgctxt "instruments|"
+#~ msgid "Find the flute traversiere"
+#~ msgstr "Найдите поперечная флейта"
 #~ msgid "Align four"
 #~ msgstr "Выстраивание четырёх"
 
@@ -7443,10 +8631,6 @@ msgstr "Я готов"
 #~ msgstr "Найдите логическую последовательность расположения предметов"
 
 #~ msgctxt "ActivityInfo|"
-#~ msgid "Move and click the mouse"
-#~ msgstr "Перемещение и нажатие кнопок мыши"
-
-#~ msgctxt "ActivityInfo|"
 #~ msgid "Find the next symbol in a list."
 #~ msgstr "Найдите следующий предмет в списке."
 
@@ -7503,10 +8687,6 @@ msgstr "Я готов"
 #~ msgctxt "ActivityInfo|"
 #~ msgid "Can use the keyboard arrow to move an object."
 #~ msgstr "Можно использовать стрелки на клавиатуре для перемещения объекта."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Mouse manipulation, Brain."
-#~ msgstr "Управление мышью, задействование мозга."
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid ""
