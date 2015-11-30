@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2015-11-30 21:59+0100\n"
+"PO-Revision-Date: 2015-11-30 22:49+0100\n"
 "Last-Translator: Alexandr Smirnov\n"
 "Language-Team: Russian <kde-i18n-de@kde.org>\n"
 "Language: ru\n"
@@ -4537,9 +4537,8 @@ msgid ""
 "Drag each image from the (vertical) box on the left to its (corresponding) "
 "name on the right. Click the OK button to check your answer."
 msgstr ""
-"Перемещай каждое изображение из вертикальной колонки слева  к "
-"соответствующему "
-"ему имени справа. Нажми кнопку ОК, чтобы проверить твой ответ."
+"Перетаскивай каждое изображение из (вертикальной) прямоугольной области "
+"слева к его имени справа. Щёлкни кнопку ОК, чтобы проверить свой ответ."
 
 #: activities/imageid/Imageid.qml:322
 msgctxt "Imageid|"
@@ -4555,30 +4554,6 @@ msgstr "Загрузить изображения"
 msgctxt "Imageid|"
 msgid "OK"
 msgstr "ОК"
-
-#: activities/imagename/ActivityInfo.qml:29
-msgctxt "ActivityInfo|"
-msgid "Image Name"
-msgstr "Назови картинки"
-
-#: activities/imagename/ActivityInfo.qml:30
-msgctxt "ActivityInfo|"
-msgid "Drag and Drop each item above its name"
-msgstr "Перетащи каждый предмет и помести его над названием"
-
-#: activities/imagename/ActivityInfo.qml:32
-msgctxt "ActivityInfo|"
-msgid "Vocabulary and reading"
-msgstr "Словарный запас и чтение"
-
-#: activities/imagename/ActivityInfo.qml:34
-msgctxt "ActivityInfo|"
-msgid ""
-"Drag each image from the (vertical) box on the left to its (corresponding) "
-"name on the right. Click the OK button to check your answer."
-msgstr ""
-"Перетаскивай каждое изображение из (вертикальной) прямоугольной области "
-"слева к его имени справа. Щёлкни кнопку ОК, чтобы проверить свой ответ."
 
 #: activities/imagename/resource/board/board1_0.qml:25
 msgctxt "board1_0|"
@@ -7075,12 +7050,11 @@ msgstr ""
 "либо запоминать предыдущее, либо посмотреть в нижнем правом углу. "
 
 #: activities/paintings/ActivityInfo.qml:31
-#, fuzzy
 #| msgctxt "ActivityInfo|"
 #| msgid "Complete the puzzle"
 msgctxt "ActivityInfo|"
 msgid "Assemble the puzzle"
-msgstr "Реши головоломку"
+msgstr "Собери головоломку"
 
 #: activities/paintings/ActivityInfo.qml:32
 #, fuzzy
@@ -8066,7 +8040,7 @@ msgstr "Выбери вид блоков"
 #: activities/watercycle/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
 msgid "Watercycle"
-msgstr ""
+msgstr "Круговорот воды"
 
 #: activities/watercycle/ActivityInfo.qml:27
 msgctxt "ActivityInfo|"
@@ -8074,11 +8048,13 @@ msgid ""
 "Tux has come back from a long fishing party on his boat. Bring the water "
 "system back up so he can take a shower."
 msgstr ""
+"Тукс вернулся с долгой рыбной вечеринки на своей лодке. Поверни "
+"водяную систему вспять, чтобы тукс смог принять душ."
 
 #: activities/watercycle/ActivityInfo.qml:29
 msgctxt "ActivityInfo|"
 msgid "Learn the water cycle"
-msgstr ""
+msgstr "Изучение круговорота воды"
 
 #: activities/watercycle/ActivityInfo.qml:31
 msgctxt "ActivityInfo|"
@@ -8088,6 +8064,9 @@ msgid ""
 "the system is back up and Tux is in the shower, push the shower button for "
 "him."
 msgstr ""
+"Чтобы перезапустить всю водную систему, нажимай на различные элементы: "
+"солнце, облако, насосную станцию и очистные сооружения. Когда система "
+"повернётся спять и Тукс будет в душе, нажми кнопку душа для него."
 
 #: activities/watercycle/Watercycle.qml:58
 msgctxt "Watercycle|"
@@ -8095,11 +8074,15 @@ msgid ""
 "Sun is the main component of water cycle. Click on the sun to start the "
 "water cycle."
 msgstr ""
+"Солнце является главным компонентом водной системы. Нажми на "
+"солнце, чтобы запустить круговорот воды."
 
 #: activities/watercycle/Watercycle.qml:59
 msgctxt "Watercycle|"
 msgid "As the sun rises, the water of the sea starts heating and evaporates."
 msgstr ""
+"По мере того, как солнце всходит, вода в озере начинает нагреваться "
+"и испаряется. "
 
 #: activities/watercycle/Watercycle.qml:60
 msgctxt "Watercycle|"
@@ -8107,6 +8090,8 @@ msgid ""
 " Water vapor condenses to form cloud and when clouds become heavy, they "
 "rain. Click on the cloud."
 msgstr ""
+"Водяной пар конденсируется, формируя облака. Когда облака становятся "
+"тяжёлыми, они проливаются дождём. Нажми на облако."
 
 #: activities/watercycle/Watercycle.qml:61
 msgctxt "Watercycle|"
@@ -8115,6 +8100,9 @@ msgid ""
 "pumps through water-tower. Click on the motor pump to supply water to "
 "residents."
 msgstr ""
+"Дождь заставляет реки подниматься и эта вода подаётся к нам "
+"с помощью насосов и напорных башен. Нажми на насос, чтобы "
+"поставить воду жителям. "
 
 #: activities/watercycle/Watercycle.qml:63
 msgctxt "Watercycle|"
@@ -8122,6 +8110,8 @@ msgid ""
 "See the tower filled with water. Activate the sewage treatment station by "
 "clicking on it."
 msgstr ""
+"Наблюдай, как башня наполняется водой. Активируй станцию очистки воды, "
+"нажав на неё."
 
 #: activities/watercycle/Watercycle.qml:64
 msgctxt "Watercycle|"
@@ -8131,7 +8121,7 @@ msgstr ""
 #: activities/watercycle/Watercycle.qml:65
 msgctxt "Watercycle|"
 msgid "Fantastic, you have completed water cycle. You can continue playing."
-msgstr ""
+msgstr "Отлично, ты завершил водный цикл. Ты можешь продолжить играть."
 
 #: activities/watercycle/Watercycle.qml:89
 msgctxt "Watercycle|"
@@ -8140,6 +8130,10 @@ msgid ""
 "takes as it circulates from the land to the sky and back again. The sun's "
 "heat provides energy to evaporate water from water bodies like oceans."
 msgstr ""
+"Круговорот воды (также известный как гидрологический цикл) - это "
+"путешествие, которое предпринимает вода, циркулируя от земли к небу "
+"и обратно. Тепло солнца предоставляет энергию для испарения воды "
+"с водных поверхностей, таких как океаны."
 
 #: activities/watercycle/Watercycle.qml:92
 msgctxt "Watercycle|"
@@ -8148,6 +8142,10 @@ msgid ""
 "eventually, cools forming tiny droplets in clouds. When the clouds meet cool "
 "air over land, precipitation is triggered and fall down as rain."
 msgstr ""
+"Растения также выделяют воду в атмосферу через испарение. Водяной пар "
+"в конце концов охлаждается, формируя маленькие капли в облаке. Когда "
+"облака встречают холодный воздух с земли, формируются осадки и "
+"выпадают в виде дождя."
 
 #: activities/watercycle/Watercycle.qml:95
 msgctxt "Watercycle|"
@@ -8156,6 +8154,9 @@ msgid ""
 "groundwater. But most of the water flows as runoff, eventually returning to "
 "the seas via rivers."
 msgstr ""
+"Часть воды задержавшаяся между выемками скал или глинистыми пластами "
+"называется грунтовыми водами. Но большая часть её стекает, возвращаясь "
+"в результате в озёра и реки."
 
 #: activities/watercycle/Watercycle.qml:97
 msgctxt "Watercycle|"
@@ -8165,6 +8166,10 @@ msgid ""
 "cloud, water pumping station near the river, sewage treatment, and at last "
 "regulate the switch to provide water to Tux's shower."
 msgstr ""
+"Твоя цель - совершить полный круговорот воды до того как Тукс достигнет дома. "
+"Нажимай на различные компоненты, чтобы создать водяной цикл. Сначала "
+"нажми на солнце, затем на облако, водонасосную станцию, рядом с рекой, "
+"очистные сооружения, и наконец, отрегулируй кран, чтобы обеспечить Туксу душ."
 
 #: activities/wordsgame/ActivityInfo.qml:26
 msgctxt "ActivityInfo|"
@@ -8220,10 +8225,6 @@ msgctxt "core|"
 msgid "For downloading the needed sound files go to the preferences dialog."
 msgstr "Для загрузки звуковых фалов пройдите в диалог параметров"
 
-#: core/core.js:220
-#, fuzzy
-#| msgctxt "instruments|"
-#| msgid "Find the triangle"
 #: core/core.js:219
 msgctxt "core|"
 msgid "Download in progress"
@@ -8551,281 +8552,4 @@ msgctxt "ReadyButton|"
 msgid "I am Ready"
 msgstr "Я готов"
 
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Numbers with pairs of dice"
-#~ msgstr "Числа на парах кубиков"
 
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Reading practice"
-#~ msgstr "Практика чтения"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Practice reading by finding the word matching an image"
-#~ msgstr "Практика чтения слов, соответствующих рисунку"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Click on the word corresponding to the printed image."
-#~ msgstr "Щёлкните на слове, соответствующему рисунку."
-
-#~ msgctxt "ConfigurationItem|"
-#~ msgid "Do you want to download the corresponding sound files now?"
-#~ msgstr "Загрузить соответствующие звуковые файлы сейчас?"
-
-#~ msgctxt "instruments|"
-#~ msgid "Find the flute traversiere"
-#~ msgstr "Найдите поперечная флейта"
-#~ msgid "Align four"
-#~ msgstr "Выстраивание четырёх"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Tic Tac Toe"
-#~ msgstr "Крестики нолики"
-
-#, fuzzy
-#~| msgid ""
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ msgstr ""
-#~ "MIME-Version: 1.0\n"
-#~ "Content-Type: text/plain; charset=UTF-8\n"
-#~ "Content-Transfer-Encoding: 8bit\n"
-#~ "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-#~ "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-#~ "X-Language: ru\n"
-#~ "X-Qt-Contexts: true\n"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Train your audio memory and remove all the violinists Tux."
-#~ msgstr ""
-#~ "Займитесь тренировка своей слуховой памяти и удалите всех скрипачей "
-#~ "Туксов."
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "English (Great Britain)"
-#~ msgstr "Английский (Великобритания)"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "English (United States)"
-#~ msgstr "Английский (США)"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Breton"
-#~ msgstr "Бретонский"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Danish"
-#~ msgstr "Датский"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Spanish"
-#~ msgstr "Испанский"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Scottish Gaelic"
-#~ msgstr "Ирландский (галльский)"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Galician"
-#~ msgstr "Галисийский"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Dutch"
-#~ msgstr "Голландский"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Norwegian Nynorsk"
-#~ msgstr "Новонорвежский (нюнорск)"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Polish"
-#~ msgstr "Польский"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Portuguese (Brazil)"
-#~ msgstr "Португальский (Бразилия)"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Slovak"
-#~ msgstr "Словацкий"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Tamil"
-#~ msgstr "Тамильский"
-
-#~ msgctxt "DialogConfig|"
-#~ msgid "Chinese (Traditional)"
-#~ msgstr "Китайский (традиционный)"
-
-#~ msgctxt "Penalty|"
-#~ msgid "Click twice on the ball to shoot it."
-#~ msgstr "Дважды щёлкните по мячу, чтобы выстрелить в него."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Find your way out of the maze"
-#~ msgstr "Найдите выход из лабиринта."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Move the mouse"
-#~ msgstr "Перемещение мышки"
-
-#, fuzzy
-#~| msgctxt "ActivityInfo|"
-#~| msgid ""
-#~| "Remove the red car from the parking lot through the gate on the right"
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Copy the mirror image from the gid on the right into the grid on the left."
-#~ msgstr "Освободите достаточно места, чтобы красный автомобиль уехал направо"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Click on the correct colored butterfly."
-#~ msgstr "Нажмите на бабочку с нужным цветом."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Answer some algebra questions"
-#~ msgstr "Ответьте на несколько вопросов по математике"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "In a limited time, give the product of two numbers"
-#~ msgstr "За ограниченное время найдите произведение двух чисел"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "A multiplication of two numbers is displayed. At the right of the equals "
-#~ "sign, give the answer, the product. Use the left and right arrows to "
-#~ "modify your answer and press the Enter key to check if you've got it "
-#~ "right. If not, just try again."
-#~ msgstr ""
-#~ "Показано умножение двух чисел. Напишите ответ справа от знака равенства. "
-#~ "Пользуйтесь правой и левой стрелками чтобы указать число и клавишей Enter "
-#~ "чтобы подтвердить свой ответ."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "A subtraction problem with two numbers is displayed. At the right of the "
-#~ "equals sign, give the answer, the difference. Use the left and right "
-#~ "arrows to modify your answer and press the Enter key to check if you've "
-#~ "got it right. If not, just try again."
-#~ msgstr ""
-#~ "Неправильное вычитание двух чисел. Найдите отличие справа от знака "
-#~ "равенства. \n"
-#~ "Пользуйтесь правой и левой стрелками чтобы изменить число и клавишей "
-#~ "Enter чтобы подтвердить свой ответ."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "In a limited time, find the sum of of two numbers. Introduction to simple "
-#~ "in-line addition."
-#~ msgstr ""
-#~ "За ограниченное время найдите сумму двух чисел. Введение в простое "
-#~ "сложение."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "An addition problem with two numbers is displayed. At the right of the "
-#~ "equals sign, give the answer, the sum. Use the left and right arrows to "
-#~ "modify your answer and press the Enter key to check if you've got it "
-#~ "right. If not, just try again."
-#~ msgstr ""
-#~ "Неправильное вычитание двух чисел. Найдите отличие справа от знака "
-#~ "равенства. \n"
-#~ "Пользуйтесь правой и левой стрелками чтобы изменить число и клавишей "
-#~ "Enter чтобы подтвердить свой ответ."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "algorithm"
-#~ msgstr "Алгоритм"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Complete a list of symbols"
-#~ msgstr "Найдите логическую последовательность расположения предметов"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Find the next symbol in a list."
-#~ msgstr "Найдите следующий предмет в списке."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Use the left mouse button to click on the moving fish. A level 5 and "
-#~ "after, a double click is mandatory."
-#~ msgstr ""
-#~ "Щёлкните левой кнопкой мыши по движущейся рыбе. На уровне 5 и больше "
-#~ "обязателен двойной щелчок."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Understanding mixing of colors of light."
-#~ msgstr "Изучение смешивания цветов света."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Can move the mouse."
-#~ msgstr "Умение перемещать мышь."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Draw the picture by clicking on each numbers in the right order."
-#~ msgstr "Нарисуйте рисунок, щёлкая по числам в правильном порядке."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Move the mouse until all the blocks disappear. You can add you own images "
-#~ "under the directory '~/My GCompris/erase'."
-#~ msgstr ""
-#~ "Передвигайте мышь до тех пор, пока не исчезнут все блоки. Вы можете "
-#~ "добавить свои собственные изображения в каталог «~/My GCompris/erase»."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Double click the mouse"
-#~ msgstr "Двойной щелчок мышью"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Animal pictures come from the Animal Photography Page of Ralf Schmode "
-#~ "(http://schmode.net/). Ralf has kindly permitted GCompris to include his "
-#~ "pictures. Thanks a lot, Ralf."
-#~ msgstr ""
-#~ "Фотографии животных взяты со страницы Ральфа Шмода (http://schmode.net). "
-#~ "Ральф разрешил GCompris использовать свои фотографии. Большое спасибо ему "
-#~ "за это."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Move each item to make an increasing series: from the smallest to the "
-#~ "largest"
-#~ msgstr ""
-#~ "Двигайте каждый квадрат так, чтобы выстроить цифры\n"
-#~ "по возрастанию от 1 до 15"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Can use the keyboard arrow to move an object."
-#~ msgstr "Можно использовать стрелки на клавиатуре для перемещения объекта."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "The goal of GCompris is to provide a free alternative to popular "
-#~ "proprietary edutainment software"
-#~ msgstr ""
-#~ "Цель GCompris состоит в том, чтобы предоставить свободную альтернативу "
-#~ "популярному проприетарному образовательному программному обеспечению"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid "Rebuild the same mosaic on the right area"
-#~ msgstr "Восстановите мозаику"
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "Catch the numbers in increasing order, using the up, down, right and left "
-#~ "arrows on the keyboard to move the helicopter."
-#~ msgstr ""
-#~ "Поймайте числа в увеличивающемся порядке, используя стрелки вниз, вправо "
-#~ "и влево на клавиатуре, чтобы переместить вертолёт."
-
-#~ msgctxt "ActivityInfo|"
-#~ msgid ""
-#~ "For the first level with colored symbols, select a symbol on the left and "
-#~ "click on its target position. For the higher levels, click on an empty "
-#~ "square to give it the keyboard focus. Then enter a possible letter or "
-#~ "number. GCompris will not let you enter invalid data."
-#~ msgstr ""
-#~ "На начальных уровнях с цветными символами перемещайте символы влево на их "
-#~ "позиции. На сложных уровнях нажмите на пустой квадрат, чтобы получить "
-#~ "возможность осуществлять ввод с клавиатуры. Затем, введите вероятную "
-#~ "букву или число. GCompris не даст ввести неправильные данные."
